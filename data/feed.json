@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-03-05T22:38:02.807945+00:00",
-    "total_articles": 237,
+    "last_updated": "2026-03-05T23:41:26.197772+00:00",
+    "total_articles": 241,
     "feeds_fetched": 13,
     "feeds_failed": 0,
     "feed_details": {
@@ -60,6 +60,46 @@
     }
   },
   "articles": [
+    {
+      "id": "d8347bf88e896700",
+      "title": "EVENING SNAPSHOT - Americas Markets Summary",
+      "description": "CRUDE: Surged, with WTI outpacing its North Sea counterpart, both in search of a top. The disruption of global supplies by the Middle East conflict for an unknown period prevents selling. GASOLINE:...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/05/11186212/evening-snapshot-americas-markets-summary",
+      "published": "2026-03-05T23:30:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Oil - Refined Products, Oil - Crude"
+    },
+    {
+      "id": "9247db83c420ff96",
+      "title": "Canada Methanex expects slightly higher earnings in Q1 from Q4",
+      "description": "HOUSTON (ICIS)--Methanex expects its adjusted earnings before interest, tax, depreciation and amortization (EBITDA) in Q1 to be slightly higher than in Q4, the Canada-based methanol producer said on...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/05/11186214/canada-methanex-expects-slightly-higher-earnings-in-q1-from-q4",
+      "published": "2026-03-05T23:13:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
+    {
+      "id": "394954fd8037c54a",
+      "title": "TPC Group plans debottlenecking, enhancement at US BD facility",
+      "description": "HOUSTON (ICIS)--TPC Group is advancing a series of debottlenecking and optimization initiatives designed to expand its crude C4 processing and butadiene (BD) extraction capacity over the next four...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/05/11186213/tpc-group-plans-debottlenecking-enhancement-at-us-bd-facility",
+      "published": "2026-03-05T23:09:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals, Oil - Crude"
+    },
+    {
+      "id": "1ea1925914972d37",
+      "title": "Asia BD skyrockets with Mideast conflict-induced supply concerns",
+      "description": "SINGAPORE (ICIS) – Impending supply constraints, stemming from curtailed regional cracker operations in the wake of the latest Middle East conflict, are driving up spot prices of butadiene (BD) in...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/05/11186206/asia-bd-skyrockets-with-mideast-conflict-induced-supply-concerns",
+      "published": "2026-03-05T22:40:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
     {
       "id": "327532c1edc3ed59",
       "title": "NYMEX: US gas futures rise following increased storage withdrawal",
@@ -277,8 +317,8 @@
       "link": "https://www.spglobal.com/energy/en/news-research/latest-news/agriculture/030526-dutch-ere-biotickets-trigger-strong-biomethane-gains",
       "published": "2026-03-05T16:38:44+00:00",
       "source": "S&P Global",
-      "feed": "S&P Natural Gas",
-      "category": "Natural Gas, Agriculture, Energy Transition"
+      "feed": "S&P Agriculture",
+      "category": "Agriculture, Energy Transition"
     },
     {
       "id": "6982d15a27f92a20",
@@ -5610,8 +5650,8 @@
       "link": "https://www.spglobal.com/energy/en/news-research/latest-news/lng/030226-nwe-lng-swings-to-premium-over-ttf-as-markets-rally-on-middle-east-conflict",
       "published": "2026-03-02T19:22:48+00:00",
       "source": "S&P Global",
-      "feed": "S&P LNG",
-      "category": "LNG",
+      "feed": "S&P Natural Gas",
+      "category": "Natural Gas, LNG",
       "sentiment": {
         "label": "positive",
         "confidence": 0.6419748067855835,
