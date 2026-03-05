@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-03-05T20:24:24.239287+00:00",
-    "total_articles": 234,
+    "last_updated": "2026-03-05T21:02:52.542499+00:00",
+    "total_articles": 235,
     "feeds_fetched": 13,
     "feeds_failed": 0,
     "feed_details": {
@@ -60,6 +60,16 @@
     }
   },
   "articles": [
+    {
+      "id": "1ecc2f10057d6567",
+      "title": "CRUDE SUMMARY: Crude prices climb as Middle East conflict threatens supply chains",
+      "description": "Conflict threatens to spread following Azerbaijan attacks Middle East producers could halt crude production if Strait of Hormuz remains shut Asian refiners likely to reduce crude run rates, product...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/05/11185928/crude-summary-crude-prices-climb-as-middle-east-conflict-threatens-supply-chains",
+      "published": "2026-03-05T20:34:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Oil - Crude"
+    },
     {
       "id": "b18d7e5c4aacb2be",
       "title": "European jet crack reaches new highs, hitting the $100/b mark",
@@ -178,7 +188,7 @@
       "published": "2026-03-05T17:11:19+00:00",
       "source": "S&P Global",
       "feed": "S&P Oil - Refined Products",
-      "category": "Oil - Refined Products"
+      "category": "Oil - Refined Products, Chemicals"
     },
     {
       "id": "bceb3584df4ae1a3",
@@ -208,7 +218,7 @@
       "published": "2026-03-05T17:02:12+00:00",
       "source": "S&P Global",
       "feed": "S&P Oil - Refined Products",
-      "category": "Oil - Refined Products, Shipping"
+      "category": "Oil - Refined Products"
     },
     {
       "id": "e5761e26c655c236",
@@ -458,7 +468,7 @@
       "published": "2026-03-05T14:23:27+00:00",
       "source": "S&P Global",
       "feed": "S&P Oil - Refined Products",
-      "category": "Oil - Refined Products, Shipping"
+      "category": "Oil - Refined Products, Chemicals"
     },
     {
       "id": "4a01c68761c4522f",
@@ -1205,8 +1215,8 @@
       "link": "https://www.spglobal.com/energy/en/news-research/latest-news/agriculture/030526-australian-wheat-demand-stands-to-rise-in-southeast-asia-amid-middle-east-conflict",
       "published": "2026-03-05T07:28:20+00:00",
       "source": "S&P Global",
-      "feed": "S&P Shipping",
-      "category": "Shipping, Agriculture"
+      "feed": "S&P Agriculture",
+      "category": "Agriculture"
     },
     {
       "id": "d2b13594829a7bb7",
@@ -1569,7 +1579,7 @@
       "published": "2026-03-05T05:06:26+00:00",
       "source": "S&P Global",
       "feed": "S&P Oil - Crude",
-      "category": "Oil - Crude, Shipping",
+      "category": "Oil - Crude",
       "sentiment": {
         "label": "negative",
         "confidence": 0.7874425053596497,
@@ -2368,7 +2378,7 @@
       "published": "2026-03-04T20:30:24+00:00",
       "source": "S&P Global",
       "feed": "S&P Fertilizers",
-      "category": "Fertilizers"
+      "category": "Fertilizers, Chemicals"
     },
     {
       "id": "3d5bfefc96247837",
@@ -2514,7 +2524,7 @@
       "published": "2026-03-04T19:24:53+00:00",
       "source": "S&P Global",
       "feed": "S&P Fertilizers",
-      "category": "Fertilizers"
+      "category": "Fertilizers, Chemicals, Energy Transition"
     },
     {
       "id": "1dab0dc62163c249",
@@ -4768,7 +4778,7 @@
       "published": "2026-03-04T11:09:28+00:00",
       "source": "S&P Global",
       "feed": "S&P Fertilizers",
-      "category": "Fertilizers"
+      "category": "Fertilizers, Chemicals"
     },
     {
       "id": "28253abca29c5680",
@@ -5137,8 +5147,8 @@
       "link": "https://www.spglobal.com/energy/en/news-research/latest-news/chemicals/030326-factbox-some-global-polymer-trading-restarts-after-initial-war-shock",
       "published": "2026-03-03T16:33:27+00:00",
       "source": "S&P Global",
-      "feed": "S&P Chemicals",
-      "category": "Chemicals",
+      "feed": "S&P Shipping",
+      "category": "Shipping",
       "sentiment": {
         "label": "neutral",
         "confidence": 0.5731379985809326,
@@ -5503,7 +5513,7 @@
       "published": "2026-03-02T22:21:00+00:00",
       "source": "S&P Global",
       "feed": "S&P Electric Power",
-      "category": "Electric Power, Natural Gas, Coal, Metals, LNG, Energy Transition",
+      "category": "Electric Power, Natural Gas, Coal, Metals, LNG",
       "sentiment": {
         "label": "positive",
         "confidence": 0.6730107069015503,
