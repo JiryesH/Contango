@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-03-05T16:05:53.825483+00:00",
-    "total_articles": 204,
+    "last_updated": "2026-03-05T18:23:10.380329+00:00",
+    "total_articles": 227,
     "feeds_fetched": 13,
     "feeds_failed": 0,
     "feed_details": {
@@ -61,6 +61,226 @@
   },
   "articles": [
     {
+      "id": "00a1aaddb3f1332b",
+      "title": "NOON SNAPSHOT - Americas Markets Summary",
+      "description": "CRUDE: Making new highs on whipsawing action after a modest correction on Wednesday. The Strait of Hormuz remains practically closed to traffic and Iran continues to indiscriminately launch missiles....",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/05/11185923/noon-snapshot-americas-markets-summary",
+      "published": "2026-03-05T18:00:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Oil - Crude"
+    },
+    {
+      "id": "7c926ec89ed1a7a8",
+      "title": "US Feb auto sales rebound from Jan but down year on year as affordability issues persist",
+      "description": "HOUSTON (ICIS)--February sales of new light vehicles surged from January but were down by 1.4% year on year as affordability issues continue to create headwinds for the industry, one of the largest...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/05/11185922/us-feb-auto-sales-rebound-from-jan-but-down-year-on-year-as-affordability-issues-persist",
+      "published": "2026-03-05T17:45:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "General"
+    },
+    {
+      "id": "cb4e49239c152085",
+      "title": "German auto production, sales still far below pre-crisis, but EVs a bright spot",
+      "description": "LONDON (ICIS)--Germany’s domestic auto production and sales remained far below their pre-pandemic levels in the first two months of 2026, according to data from the automotive trade group VDA....",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/05/11185921/german-auto-production-sales-still-far-below-pre-crisis-but-evs-a-bright-spot",
+      "published": "2026-03-05T17:45:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "General"
+    },
+    {
+      "id": "a10b6006831f48b9",
+      "title": "EVENING SNAPSHOT - Europe Markets Summary",
+      "description": "CRUDE: Higher as conflict threatens to spread further across the Middle East NAPHTHA: Increases as crude rallies further in a cautious market BENZENE: Firms with crude; No fresh trade reported amid...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/05/11185920/evening-snapshot-europe-markets-summary",
+      "published": "2026-03-05T17:32:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals, Oil - Refined Products"
+    },
+    {
+      "id": "900e2b131df072ec",
+      "title": "HYDROGEN: Subsidised EU renewable hydrogen projects must use EU-made electrolyzers",
+      "description": "LONDON (ICIS)--On 4 March, the European Commission adopted a legislative proposal for the Industrial Accelerator Act (IAA), which would require that renewable hydrogen projects awarded subsidies by...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/05/11185919/hydrogen-subsidised-eu-renewable-hydrogen-projects-must-use-eu-made-electrolyzers",
+      "published": "2026-03-05T17:23:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Energy Transition"
+    },
+    {
+      "id": "3b1c25a6b0330dda",
+      "title": "European PET market splits on cost pressure and panic buying",
+      "description": "LONDON (ICIS)--European polyethylene terephthalate (PET) sources are split. Producers are individually pushing for steep price increases on soaring costs while buyers warn panic‑driven prices...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/05/11185918/european-pet-market-splits-on-cost-pressure-and-panic-buying",
+      "published": "2026-03-05T17:14:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
+    {
+      "id": "7ad0c7cb38a2f236",
+      "title": "Shintech's expansion plans could pressure US VCM producers, add length",
+      "description": "HOUSTON (ICIS)--Shintech’s recent announcement that it intends to expand capacities at its Plaquemine, Louisiana facility could put pressure on other producers, assuming the landscape in the...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/05/11185917/shintech-s-expansion-plans-could-pressure-us-vcm-producers-add-length",
+      "published": "2026-03-05T17:13:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
+    {
+      "id": "bceb3584df4ae1a3",
+      "title": "US natural gas futures gains capped by bearish demand amid Middle East conflict",
+      "description": "Henry Hub futures gained slightly on geopolitical energy risk concerns, bearish demand March forecasts indicate mild weather for most of US Storage data shows inventories decreased to 2.2% below...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/05/11185915/us-natural-gas-futures-gains-capped-by-bearish-demand-amid-middle-east-conflict",
+      "published": "2026-03-05T17:07:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Natural Gas"
+    },
+    {
+      "id": "a2cba6c498919891",
+      "title": "Putin muses on early end to Russian gas exports to Europe, will instruct government to work on idea",
+      "description": "Putin moots early end to European gas exports, HU/SK excluded Unclear if proposal would include LNG alongside pipeline volumes LNG redirection easier than pipeline supply due to infrastructure...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/05/11185914/putin-muses-on-early-end-to-russian-gas-exports-to-europe-will-instruct-government-to-work-on-idea",
+      "published": "2026-03-05T17:05:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "LNG"
+    },
+    {
+      "id": "e5761e26c655c236",
+      "title": "Europe base oils Group II/III players pull offers, braced for tightness from Middle East disruptions",
+      "description": "LONDON (ICIS)--The European base oils Group II and Group III markets have stalled as producers pull offers, with shortages and volatility after disruptions in the Middle East and the ensuing crude...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/05/11185913/europe-base-oils-group-ii-iii-players-pull-offers-braced-for-tightness-from-middle-east-disruptions",
+      "published": "2026-03-05T16:56:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Oil - Refined Products, Oil - Crude"
+    },
+    {
+      "id": "6e4887b23c2bf00c",
+      "title": "Freight surge and supply constraints fuel PET/PTA turmoil in Europe",
+      "description": "LONDON (ICIS)--Europe’s polyethylene terephthalate (PET) and upstream purified terephthalic acid (PTA) markets are facing extreme volatility as soaring freight rates, constrained supply and low...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/05/11185912/freight-surge-and-supply-constraints-fuel-pet-pta-turmoil-in-europe",
+      "published": "2026-03-05T16:51:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals, Shipping"
+    },
+    {
+      "id": "9419b28ada6cfa5c",
+      "title": "INSIGHT: Five key takeaways for global crude market amid Iran escalation",
+      "description": "LONDON (ICIS)-- Five key points summarize the Iran war’s impact on global crude markets: Oil prices have risen by between 15 to 20% since the outbreak of the war in the Middle East. While this is a...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/05/11185911/insight-five-key-takeaways-for-global-crude-market-amid-iran-escalation",
+      "published": "2026-03-05T16:49:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Oil - Crude"
+    },
+    {
+      "id": "c35b80650213bb4f",
+      "title": "Dutch ERE biotickets trigger strong biomethane gains",
+      "description": "The Netherlands transitioned from an energetic model under the HBE mechanism (renewable energy units) to a carbon emissions-based model, ERE (emission reduction units) for the 2026 compliance year on Jan. 1 under the new Renewable Energy Directive (RED III) legislation. Fuel suppliers that deliver more than 500,000 liters/year of fuel, including the bio component, will have an obligation under RED",
+      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/agriculture/030526-dutch-ere-biotickets-trigger-strong-biomethane-gains",
+      "published": "2026-03-05T16:38:44+00:00",
+      "source": "S&P Global",
+      "feed": "S&P Natural Gas",
+      "category": "Natural Gas, Agriculture"
+    },
+    {
+      "id": "6982d15a27f92a20",
+      "title": "INSIGHT: Europe AA, acrylate esters markets brace for hikes as Middle East conflict continues",
+      "description": "LONDON (ICIS)--The Europe acrylic acid (AA) and acrylate ester markets are bracing for price rises amid the global fallout from the conflict in the Middle East. Brent crude values and liquefied...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/05/11185910/insight-europe-aa-acrylate-esters-markets-brace-for-hikes-as-middle-east-conflict-continues",
+      "published": "2026-03-05T16:35:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals, Oil - Crude"
+    },
+    {
+      "id": "61f9b460357a62fe",
+      "title": "Poland to add 1.2GW gas-fired generation capacity by 2030",
+      "description": "Poland to build two new gas-fired power plants totalling 1.2GW The units will boost flexibility of power system and additional capacity during peak demand Commissioning of both units expected in 2030...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/05/11185909/poland-to-add-1-2gw-gas-fired-generation-capacity-by-2030",
+      "published": "2026-03-05T16:32:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Electric Power"
+    },
+    {
+      "id": "0df5e32198a8d791",
+      "title": "PPC-METLEN announce 1.5GW battery project in Romania, Bulgaria, Italy",
+      "description": "1.5GW lithium BESS project planned across Romanian, Bulgaria, Italy 1GW expected to go online in next 12 months Impact on wholesale baseload power prices to remain marginal – ICIS Analytics London...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/05/11185907/ppc-metlen-announce-1-5gw-battery-project-in-romania-bulgaria-italy",
+      "published": "2026-03-05T16:26:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Electric Power, Metals"
+    },
+    {
+      "id": "3b91ee522dd58c41",
+      "title": "Nuclear dominates UK’s T-1 capacity market auction",
+      "description": "T-1 capacity market auction for delivery in 2026-27 cleared at £5/kW/year, 75% lower than last year’s auction A total of 7.2GW was procured across 195 capacity market units, with nuclear...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/05/11185908/nuclear-dominates-uk-s-t-1-capacity-market-auction",
+      "published": "2026-03-05T16:26:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "General"
+    },
+    {
+      "id": "059331ed5f46c85b",
+      "title": "INSIGHT: Crude prices climb amid US-Iran conflict; styrene and derivatives pressure would come from upstream feedstocks",
+      "description": "HOUSTON (ICIS) – With crude prices rising in response to the US-Iran conflict and shipping restrictions from the Strait of Hormuz, increases in feedstock costs would put upward pressure on...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/05/11185906/insight-crude-prices-climb-amid-us-iran-conflict-styrene-and-derivatives-pressure-would-come-from-upstream-feedstocks",
+      "published": "2026-03-05T16:22:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Oil - Crude"
+    },
+    {
+      "id": "f8290632642c6671",
+      "title": "INSIGHT: European phenol/acetone and derivatives chain braces for higher costs",
+      "description": "LONDON (ICIS)--Escalating cost concerns as the conflict in the Middle East continues are amongst the latest challenges facing the European phenol and acetone chain. Targeted price increases...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/05/11185905/insight-european-phenol-acetone-and-derivatives-chain-braces-for-higher-costs",
+      "published": "2026-03-05T16:17:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
+    {
+      "id": "69795f9477a572b0",
+      "title": "Europe markets and chems stocks stabilise amid geopolitical instability, prospect of higher prices",
+      "description": "LONDON (ICIS)--European chemicals stocks have moderated as the conflict in the Middle East continues to escalate. Listed company share prices largely remained stable, with the most significant move...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/05/11185904/europe-markets-and-chems-stocks-stabilise-amid-geopolitical-instability-prospect-of-higher-prices",
+      "published": "2026-03-05T16:13:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "General"
+    },
+    {
+      "id": "6deb0733c1f1b597",
+      "title": "INSIGHT: Europe methanol market turns bullish on gas rally, supply threats",
+      "description": "LONDON (ICIS)--European methanol spot pricing is trending bullish for March/April loading due to supply risks and a spike in natural gas costs. Middle East conflict leads firmer energy markets for...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/05/11185903/insight-europe-methanol-market-turns-bullish-on-gas-rally-supply-threats",
+      "published": "2026-03-05T16:09:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Natural Gas, Chemicals"
+    },
+    {
+      "id": "4e43ce9f7c5eebd9",
+      "title": "Temporary ETS intervention could help reduce energy costs, industry source",
+      "description": "EU college of commissioners to discuss energy prices on 6 March Price interventions could exacerbate underlying shortage, traders Exceptional release of unallocated allowances from the Market...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/05/11185902/temporary-ets-intervention-could-help-reduce-energy-costs-industry-source",
+      "published": "2026-03-05T16:08:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "General"
+    },
+    {
       "id": "f77792106026c855",
       "title": "UBE delays start-up of US battery chemicals plant; AI data centers support demand",
       "description": "HOUSTON (ICIS)--Japan’s UBE Corp is delaying the start-up of its upcoming US dimethyl carbonate (DMC) and ethyl methyl carbonate (EMC) plant in Louisiana to 2027. Instead of November 2026, as...",
@@ -95,6 +315,16 @@
       "title": "ICIS US January PP contract prices finalize",
       "description": "HOUSTON (ICIS)--Contract prices for US polypropylene (PP) have been...",
       "link": "https://www.icis.com/explore/resources/news/2026/03/05/11185896/icis-us-january-pp-contract-prices-finalize",
+      "published": "2026-03-05T15:39:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
+    {
+      "id": "32a174060a00f480",
+      "title": "ICIS US February PP contract prices finalize",
+      "description": "Headline adjusted to reflect correct month HOUSTON (ICIS)--Contract prices for US polypropylene (PP) have been...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/05/11185896/icis-us-february-pp-contract-prices-finalize",
       "published": "2026-03-05T15:39:00+00:00",
       "source": "ICIS",
       "feed": "ICIS",
@@ -5280,8 +5510,8 @@
       "link": "https://www.spglobal.com/energy/en/news-research/latest-news/lng/030226-nwe-lng-swings-to-premium-over-ttf-as-markets-rally-on-middle-east-conflict",
       "published": "2026-03-02T19:22:48+00:00",
       "source": "S&P Global",
-      "feed": "S&P Natural Gas",
-      "category": "Natural Gas, LNG",
+      "feed": "S&P LNG",
+      "category": "LNG",
       "sentiment": {
         "label": "positive",
         "confidence": 0.6419748067855835,
