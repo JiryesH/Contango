@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-03-05T11:02:08.216689+00:00",
-    "total_articles": 165,
+    "last_updated": "2026-03-05T11:49:16.817372+00:00",
+    "total_articles": 168,
     "feeds_fetched": 13,
     "feeds_failed": 0,
     "feed_details": {
@@ -60,6 +60,36 @@
     }
   },
   "articles": [
+    {
+      "id": "8d05a8fffd648d17",
+      "title": "Plant status: Qatar’s Seef shuts LAB on upstream units’ closures",
+      "description": "SINGAPORE (ICIS)--Here is a plant status report: Name: Seef Limited Location: Mesaieed, Qatar Products: Linear alkylbenzene (LAB) Capacity (tonnes/year): 100,000 Event start: 5 March 2026 Event...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/05/11185852/plant-status-qatar-s-seef-shuts-lab-on-upstream-units-closures",
+      "published": "2026-03-05T11:36:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "General"
+    },
+    {
+      "id": "5aa568899458a531",
+      "title": "Asia EDC supply uncertain as feedstock disruptions put operating rates at risk",
+      "description": "SINGAPORE (ICIS)--Asia’s production of ethylene dichloride (EDC) may be affected by feedstock disruptions arising from the Iran conflict. Iran conflict disrupts naphtha, putting Asia’s EDC...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/05/11185849/asia-edc-supply-uncertain-as-feedstock-disruptions-put-operating-rates-at-risk",
+      "published": "2026-03-05T11:32:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals, Oil - Refined Products"
+    },
+    {
+      "id": "d5ea39ee91b9c8da",
+      "title": "LNG Weekly Market Report: Historic week rocks LNG, with Asia at big price premium",
+      "description": "OUTLOOK The ICIS East Asia Index (EAX) moved lower on 5 March as the market corrected from recent highs, as heightened concerns over Middle East supply disruptions began to stabilize, though price...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/05/11185833/lng-weekly-market-report-historic-week-rocks-lng-with-asia-at-big-price-premium",
+      "published": "2026-03-05T11:00:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "LNG"
+    },
     {
       "id": "871f2b493e9b6b65",
       "title": "Plant status: Thailand’s PTTGC shuts LDPE line for maintenance",
@@ -1318,8 +1348,8 @@
       "link": "https://www.spglobal.com/energy/en/news-research/latest-news/lng/030526-south-korea-sees-no-lng-shortages-despite-middle-east-supply-disruptions",
       "published": "2026-03-05T03:19:40+00:00",
       "source": "S&P Global",
-      "feed": "S&P LNG",
-      "category": "LNG"
+      "feed": "S&P Natural Gas",
+      "category": "Natural Gas, LNG"
     },
     {
       "id": "ef233c9ee0faa783",
@@ -1536,7 +1566,7 @@
       "published": "2026-03-04T22:44:58+00:00",
       "source": "S&P Global",
       "feed": "S&P Oil - Refined Products",
-      "category": "Oil - Refined Products, Agriculture",
+      "category": "Oil - Refined Products, Agriculture, Energy Transition",
       "sentiment": {
         "label": "negative",
         "confidence": 0.5980868935585022,
@@ -3475,7 +3505,7 @@
       "published": "2026-03-04T14:17:57+00:00",
       "source": "S&P Global",
       "feed": "S&P Agriculture",
-      "category": "Agriculture",
+      "category": "Agriculture, Energy Transition",
       "sentiment": {
         "label": "negative",
         "confidence": 0.9710545539855957,
@@ -5392,7 +5422,7 @@
       "published": "2026-02-27T17:03:03+00:00",
       "source": "S&P Global",
       "feed": "S&P Electric Power",
-      "category": "Electric Power, Energy Transition",
+      "category": "Electric Power",
       "sentiment": {
         "label": "positive",
         "confidence": 0.5461378693580627,
