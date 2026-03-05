@@ -1,0 +1,276 @@
+    Methodology and Specifications Guide
+    Global Hydrogen & Ammonia
+    Latest update: December 2025
+    Definitions of the trading locations for which Platts 
+    publishes daily indexes or assessments ..................... 2
+    Regulation Compliant Hydrogen Assessments ................. 3
+    Ammonia Assessments  .............................................. 4
+    Low-carbon Ammonia assessments ...........................5
+    Market-based assessments ......................................... 5
+    Model-based assessments .......................................... 6
+    Hydrogen Pump Prices ................................................ 8
+    Revision history ....................................................... 9
+    www.spglobal.com/energy
+        Specifications Guide         Global Hydrogen & Ammonia: December 2025
+        Definitions of the trading locations for which Platts publishes daily indexes or assessments
+        The following specifications guide contains the primary specifications for Platts hydrogen and ammonia assessments globally. All the assessments listed here employ Platts Assessments Methodology, 
+        as published at https://www.spglobal.com/platts/plattscontent/_assets/_files/en/our-methodology/methodology-specifications/platts-assessments-methodology-guide.pdf . 
+        These guides are designed to give Platts subscribers as much information as possible about a wide range of methodology and specification questions. This guide is current at the time of publication.  
+        Platts may issue further updates and enhancements to this guide and will announce these to subscribers through its usual publications of record. Such updates will be included in the next version of this 
+        guide. Platts editorial staff and managers are available to provide guidance when assessment issues require clarification.
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                      2
+         Specifications Guide           Global Hydrogen & Ammonia: December 2025
+         Daily Regulation Compliant Hydrogen Symbols
+         Description                                                             Symbol                Bates                  MDC                   Dec                   Freq                  Curr                  UOM
+         Spain Alkaline Renewable PPA Derived Hydrogen Eur/kg                    SARHE00               c                      HY                    4                     DW                    EUR                   KG
+         Spain Alkaline Renewable PPA Derived Hydrogen $/kg                      SARDH00               c                      HY                    4                     DW                    USD                   KG
+         Spain Alkaline Renewable PPA Derived Hydrogen $/MMBtu                   SARPD00               c                      HY                    4                     DW                    USD                   MMB
+         Spain Alkaline Renewable PPA Derived Hydrogen Eur/KWh                   SAPDH00               c                      HY                    4                     DW                    EUR                   KWH
+         Spain Alkaline Renewable PPA Derived Hydrogen Eur/kg MAvg               SARHE03               c                      HY                    4                     MA                    EUR                   KG
+         France Alkaline Renewable PPA Derived Hydrogen Eur/kg                   FARHE00               c                      HY                    4                     DW                    EUR                   KG
+         France Alkaline Renewable PPA Derived Hydrogen $/kg                     FARDH00               c                      HY                    4                     DW                    USD                   KG
+         France Alkaline Renewable PPA Derived Hydrogen $/MMBtu                  FARPD00               c                      HY                    4                     DW                    USD                   MMB
+         France Alkaline Renewable PPA Derived Hydrogen Eur/KWh                  FAPDH00               c                      HY                    4                     DW                    EUR                   KWH
+         France Alkaline Renewable PPA Derived Hydrogen Eur/kg MAvg              FARHE03               c                      HY                    4                     MA                    EUR                   KG
+         Germany Alkaline Renewable PPA Derived Hydrogen Eur/kg                  GARHE00               c                      HY                    4                     DW                    EUR                   KG
+         Germany Alkaline Renewable PPA Derived Hydrogen $/kg                    GARDH00               c                      HY                    4                     DW                    USD                   KG
+         Germany Alkaline Renewable PPA Derived Hydrogen $/MMBtu                 GARPD00               c                      HY                    4                     DW                    USD                   MMB
+         Germany Alkaline Renewable PPA Derived Hydrogen Eur/KWh                 GRPDH00               c                      HY                    4                     DW                    EUR                   KWH
+         Germany Alkaline Renewable PPA Derived Hydrogen Eur/kg MAvg             GARHE03               c                      HY                    4                     MA                    EUR                   KG
+         Netherlands Alkaline Renewable PPA Derived Hydrogen Eur/kg              NARHE00               c                      HY                    4                     DW                    EUR                   KG
+         Netherlands Alkaline Renewable PPA Derived Hydrogen $/kg                NARDH00               c                      HY                    4                     DW                    USD                   KG
+         Netherlands Alkaline Renewable PPA Derived Hydrogen $/MMBtu             NARPD00               c                      HY                    4                     DW                    USD                   MMB
+         Netherlands Alkaline Renewable PPA Derived Hydrogen Eur/KWh             NAPDH00               c                      HY                    4                     DW                    EUR                   KWH
+         Netherlands Alkaline Renewable PPA Derived Hydrogen Eur/kg MAvg         NARHE03               c                      HY                    4                     MA                    EUR                   KG
+         Regulation Compliant Hydrogen Assessments                                    electricity that is used for the production of RFNBOs and for                 hourly requirements from 2030 onwards. The model allows 
+                                                                                      determining the greenhouse gas emission intensity, see here.                  power exchange through the grid. The model includes specific 
+         European Regulation Compliant Hydrogen Assessments                                                                                                         provision for the cost of hydrogen storage. 
+                                                                                      In the absence of market-based information Platts uses a 
+         Platts European Regulation Compliant Hydrogen Assessments                    model-based cost of production plus a premium to reflect                      Platts assesses the European Regulation Compliant 
+         reflect the market value of hydrogen that aligns with the European           market value of firm hydrogen supply. When available, market                  Hydrogen prices for four countries in Eur/kg, Eur/kWh, 
+         Union’s Renewable Fuels of Non-Biological Origin (RFNBO)                     information such as bids, offers, trades and indications will take            USD/kg and USD/MMBtu:
+         definition and complies with EU Delegated Act C/2023/1087.                   precedence for assessments.
+                                                                                                                                                                      Spain Alkaline Renewable PPA Derived Hydrogen
+         The scope of RFNBO includes hydrogen produced via                            For the cost of production modelling, the renewable hydrogen 
+         electrolysis from renewable electricity, its derivatives as well as          producer is assumed to be buying renewable power as part                        France Alkaline Renewable PPA Derived Hydrogen
+         other energy carriers.                                                       of a “Pay-as-Produced” Power Purchase Agreement. The 
+                                                                                      size of the alkaline electrolyzer is 100 MW, operating above a                  Germany Alkaline Renewable PPA Derived Hydrogen
+         For a detailed discussion of the scope of the European Union’s               minimum load of 25%. The production mix is optimized for every 
+         RFNBO rules, including detailed rules for sourcing of renewable              country to satisfy monthly requirements before end-2029 and                     Netherlands Alkaline Renewable PPA Derived Hydrogen
+         © 2025 by S&P Global Inc. All rights reserved.
+                                                           3
+        Specifications Guide         Global Hydrogen & Ammonia: December 2025
+        Ammonia Symbols
+        Description                                                                          Symbol         Bates           MDC            MI MDC          Dec            Freq            Curr           UOM
+        Ammonia CFR Far East Asia $/MMBtu                                                    AMMOB00        c               AMO            ETR             2              DW              USD            MMB
+        Ammonia CFR Far East Asia $/MMBtu MAvg                                               AMMOB03        c               AMO            ETR             2              MA              USD            MMB
+        Ammonia CFR Far East Asia $/mt                                                       AMMOA00        c               AMO            ETR             2              DW              USD            MT
+        Ammonia CFR Far East Asia $/mt MAvg                                                  AMMOA03        c               AMO            ETR             2              MA              USD            MT
+        Ammonia CFR Northwest Europe $/MMBtu                                                 AMMOD00        c               AMO            ETR             2              DW              USD            MMB
+        Ammonia CFR Northwest Europe $/MMBtu MAvg                                            AMMOD03        c               AMO            ETR             2              MA              USD            MMB
+        Ammonia CFR Northwest Europe $/mt                                                    AMMOC00        c               AMO            ETR             2              DW              USD            MT
+        Ammonia CFR Northwest Europe $/mt MAvg                                               AMMOC03        c               AMO            ETR             2              MA              USD            MT
+        Ammonia CFR USGC $/MMBtu                                                             AMMOF00        c               AMO            ETR             2              DW              USD            MMB
+        Ammonia CFR USGC $/MMBtu MAvg                                                        AMMOF03        c               AMO            ETR             2              MA              USD            MMB
+        Ammonia CFR USGC $/mt                                                                AMMOE00        c               AMO            ETR             2              DW              USD            MT
+        Ammonia CFR USGC $/mt MAvg                                                           AMMOE03        c               AMO            ETR             2              MA              USD            MT
+        Ammonia FOB Black Sea $/MMBTu                                                        AMMOH00        c               AMO            ETR             2              DW              USD            MMB
+        Ammonia FOB Black Sea $/MMBTu MAvg                                                   AMMOH03        c               AMO            ETR             2              MA              USD            MMB
+        Ammonia FOB Black Sea $/mt                                                           AMMOG00        c               AMO            ETR             2              DW              USD            MT
+        Ammonia FOB Black Sea $/mt MAvg                                                      AMMOG03        c               AMO            ETR             2              MA              USD            MT
+        Ammonia FOB Middle East $/MMBtu                                                      AMMOJ00        c               AMO            ETR             2              DW              USD            MMB
+        Ammonia FOB Middle East $/MMBtu MAvg                                                 AMMOJ03        c               AMO            ETR             2              MA              USD            MMB
+        Ammonia FOB Middle East $/mt                                                         AMMOI00        c               AMO            ETR             2              DW              USD            MT
+        Ammonia FOB Middle East $/mt MAvg                                                    AMMOI03        c               AMO            ETR             2              MA              USD            MT
+        Ammonia Assessments 
+        Pricing Locations: Platts publishes ammonia assessments for 
+        CFR Far East Asia, FOB Middle East, CFR Northwest Europe, 
+        FOB Black Sea, and CFR US Gulf Coast. 
+        The underlying specifications for these assessments can be 
+        found in the Fertecon Specifications Guide. 
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                      4
+        Specifications Guide         Global Hydrogen & Ammonia: December 2025
+        Low-Carbon Ammonia Symbols
+        Description                                                                          Symbol         Bates           MDC            MI MDC          Dec            Freq            Curr           UOM
+        Market-based assessments
+        Japan/Korea Ammonia Price (JKAP) CFR spot $/mt                                       AJKCA00        c               AMO            ETR             2              DW              USD            MT
+        Japan/Korea Ammonia Price (JKAP) CFR spot $/MMBtu                                    AJKCB00        c               AMO            ETR             2              DW              USD            MMB
+        Japan Low Carbon Ammonia - Carbon Intensity Escalator USD/gCO2e/MJ                   ADEKB00        c               AMO            ETR             4              DW              USD            gCO2e/MJ
+        Korea Low Carbon Ammonia - Carbon Intensity Escalator USD/gCO2e/MJ                   ADEKA00        c               AMO            ETR             4              DW              USD            gCO2e/MJ
+        Low-carbon Ammonia assessments                                         Carbon Intensity escalator                                             For low-carbon ammonia cargoes bid/offered/traded into 
+                                                                                                                                                      Korea the escalator will use daily values as published by Platts 
+        Market-based assessments                                               The Carbon Intensity (CI) escalator represents the price per           for Korea Allowance Units (KAUs). Cargoes bid/offered/traded 
+                                                                               gram of carbon saved in importing 1 Megajoule of low-carbon            into Japan will use the Japanese Carbon tax as per the official 
+        Japan-Korea Low-carbon ammonia price assessment                        ammonia.                                                               Japanese regulation.
+        (JKAP)                                                                 The CI escalators can be used to normalize bids/offers/trades 
+        For details on the Japan-Korea low-carbon ammonia price,               of low carbon ammonia into Korea and Japan, with a carbon 
+        please refer to the Fertecon methodology guide: Specifications         intensity below the JKAP threshold of 40gCO2e/MJ. The Japan 
+        Guide Fertecon                                                         and Korea CI escalators are published in USD/gCO2e/MJ.
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                      5
+           Specifications Guide                 Global Hydrogen & Ammonia: December 2025
+           Model-based assessments                                                                      Platts assessments represent duty-free cargoes. Cargoes                                       Electricity (LCOE) to match the duration of the electrolyzer and 
+                                                                                                        incurring any duty may be normalized as part of the assessment                                ammonia plant, where the average cost of onshore wind and 
+           Renewable power derived Ammonia assessments                                                  process.                                                                                      solar photovoltaic underpins the cost of ammonia production 
+                                                                                                                                                                                                      calculation. 
+           Renewable power derived ammonia is often referred to as                                      Cargo Size: 
+           ‘green ammonia’.                                                                                                                                                                           How the Cost of Production is produced can be found below:
+                                                                                                          CFR Far East Asia: 20,000-40,000 mt                                                        Origination      Delivery      Cost of Production      Cost of Freight of  
+           Pricing Locations: Platts publishes renewable power-based                                                                                                                                                                 (Calculated using       transporting ammonia
+           ammonia prices. The prices represent delivery into:                                            CFR Northwest Europe: 20,000-25,000 mt.                                                                                   renewable electricity 
+                                                                                                                                                                                                                                     prices)
+             Far East Asia on CFR basis originating from the Middle East,                              Platts may use information with different cargo sizes after                                   Australia        Far East      Australia               From Western Australia to 
+              Australia and West Coast (WC) of Canada                                                   normalization.                                                                                                                                       Japan
+                                                                                                                                                                                                      Middle East      Far East      Saudi Arabia            From Saudi Arabia to Japan
+             Northwest Europe on CFR basis originating from the Middle                                 Units: Platts assesses renewable power derived ammonia in US                                                   Northwest                             Cost of freight transporting 
+              East, US Gulf Coast and East Coast (EC) of Canada.                                        dollars per metric ton and US dollars per MMBtu.                                              Middle East      Europe        Saudi Arabia            ammonia from Saudi Arabia 
+                                                                                                                                                                                                                                                             to the Netherlands
+           Assessment window: Weekly assessments basis CFR Far East                                     Credit terms: Assessments are cash prices, net of any credit.                                 West Coast                                             Cost of freight of transporting 
+                                                                                                                                                                                                      Canada           Far East      Canada                  ammonia from the West 
+           Asia and CFR Northwest Europe are based on latest information                                Platts may use information with longer credit terms after                                                                                            Coast of Canada to Japan
+           sourced from the market up to the close of the assessment                                    normalization.                                                                                                 Northwest                             Cost of freight of transporting 
+           window at 4:30 pm London time.                                                                                                                                                             US Gulf Coast    Europe        Texas                   ammonia from Texas to the 
+                                                                                                        Quality specifications: Minimum purity of 99.5% of anhydrous                                                                                         Netherlands
+           Timing: Weekly assessments for CFR Far East Asia and CFR                                     ammonia by weight, a maximum water content of 0.5% by                                         East Coast       Northwest                             Cost of freight of transporting 
+           Northwest Europe are for parcels to be delivered 15-45 days                                  weight, and a maximum oil content of 10 ppm by weight.                                        Canada           Europe        Canada                  ammonia from the East Coast 
+                                                                                                                                                                                                                                                             of Canada to the Netherlands
+           forward from the date of publication.
+                                                                                                        Further Assumptions: The Platts renewable power derived 
+           Basis and locations:                                                                         ammonia valuations are published to two decimal places. In the 
+                                                                                                        absence of spot market activity, ‘green’ ammonia prices would                                 The feedstock water cost is constant for all regions. The 
+             CFR Far East Asia: Major ports that can accommodate                                       consider the cost of production of ammonia using an alkaline                                  operational parameters for alkaline electrolysis across all hubs 
+              ammonia cargoes in China, Japan, South Korea, and Taiwan                                  electrolyzer and renewable electricity, adding freight cost to                                are identical and include electrolyzer efficiency of 60%. The 
+                                                                                                        calculate CFR price for Far East Asia and Northwest Europe.                                   ammonia plant capacity across locations is assumed to be 
+             CFR Northwest Europe: Major ports that can accommodate                                                                                                                                  500,000 mt per year at a high-capacity capacity factor of 90%. 
+              ammonia cargoes in Belgium, Germany, the Netherlands, and                                 Representative electricity costs for the relevant region are                                  The capital cost of alkaline electrolyzers for all origin regions is 
+              northern France                                                                           taken from S&P Global Commodity Insight’s Levelized Cost of                                   given in the tables below.
+           © 2025 by S&P Global Inc. All rights reserved.
+                                                                       6
+         Specifications Guide           Global Hydrogen & Ammonia: December 2025
+         Low-Carbon Ammonia Symbols
+         Description                                                                                    Symbol          Bates            MDC              MI MDC           Dec             Freq             Curr             UOM
+         Model-based assessments
+         Australia Renewable derived Ammonia dlvd into Far East Asia - High CF $/MMBtu Wkly             GADAA04         c                AMO              ETR              2               WA               USD              MMB
+         Australia Renewable derived Ammonia dlvd into Far East Asia - High CF $/MMBtu MAvg             GADAA03         c                AMO              ETR              2               MA               USD              MMB
+         Australia Renewable derived Ammonia dlvd into Far East Asia - High CF $/mt Wkly                GADAB04         c                AMO              ETR              2               WA               USD              MT
+         Australia Renewable derived Ammonia dlvd into Far East Asia - High CF $/mt MAvg                GADAB03         c                AMO              ETR              2               MA               USD              MT
+         WC Canada Renewable derived Ammonia dlvd into Far East Asia - High CF $/MMBtu Wkly             GADAC04         c                AMO              ETR              2               WA               USD              MMB
+         WC Canada Renewable derived Ammonia dlvd into Far East Asia - High CF $/MMBtu MAvg             GADAC03         c                AMO              ETR              2               MA               USD              MMB
+         WC Canada Renewable derived Ammonia dlvd into Far East Asia - High CF $/mt Wkly                GADAD04         c                AMO              ETR              2               WA               USD              MT
+         WC Canada Renewable derived Ammonia dlvd into Far East Asia - High CF $/mt Mavg                GADAD03         c                AMO              ETR              2               MA               USD              MT
+         Middle East Renewable derived Ammonia dlvd into Far East Asia - High CF $/MMBtu Wkly           GADAG04         c                AMO              ETR              2               WA               USD              MMB
+         Middle East Renewable derived Ammonia dlvd into Far East Asia - High CF $/MMBtu MAvg           GADAG03         c                AMO              ETR              2               MA               USD              MMB
+         Middle East Renewable derived Ammonia dlvd into Far East Asia - High CF $/mt Wkly              GADAH04         c                AMO              ETR              2               WA               USD              MT
+         Middle East Renewable derived Ammonia dlvd into Far East Asia - High CF $/mt MAvg              GADAH03         c                AMO              ETR              2               MA               USD              MT
+         Middle East Renewable derived Ammonia dlvd into Northwest Europe - High CF $/MMBtu Wkly        GADAE04         c                AMO              ETR              2               WA               USD              MMB
+         Middle East Renewable derived Ammonia dlvd into Northwest Europe - High CF $/MMBtu MAvg        GADAE03         c                AMO              ETR              2               MA               USD              MMB
+         Middle East Renewable derived Ammonia dlvd into Northwest Europe - High CF $/mt Wkly           GADAF04         c                AMO              ETR              2               WA               USD              MT
+         Middle East Renewable derived Ammonia dlvd into Northwest Europe - High CF $/mt MAvg           GADAF03         c                AMO              ETR              2               MA               USD              MT
+         US Gulf Coast Renewable derived Ammonia dlvd into Northwest Europe - High CF $/MMBtu Wkly      GADAI04         c                AMO              ETR              2               WA               USD              MMB
+         US Gulf Coast Renewable derived Ammonia dlvd into Northwest Europe - High CF $/MMBtu MAvg      GADAI03         c                AMO              ETR              2               MA               USD              MMB
+         US Gulf Coast Renewable derived Ammonia dlvd into Northwest Europe - High CF $/mt Wkly         GADAJ04         c                AMO              ETR              2               WA               USD              MT
+         US Gulf Coast Renewable derived Ammonia dlvd into Northwest Europe - High CF $/mt MAvg         GADAJ03         c                AMO              ETR              2               MA               USD              MT
+         EC Canada Renewable derived Ammonia dlvd into Northwest Europe - High CF $/MMBtu Wkly          GADAK04         c                AMO              ETR              2               WA               USD              MMB
+         EC Canada Renewable derived Ammonia dlvd into Northwest Europe - High CF $/MMBtu MAvg          GADAK03         c                AMO              ETR              2               MA               USD              MMB
+         EC Canada Renewable derived Ammonia dlvd into Northwest Europe - High CF $/mt Wkly             GADAL04         c                AMO              ETR              2               WA               USD              MT
+         EC Canada Renewable derived Ammonia dlvd into Northwest Europe - High CF $/mt MAvg             GADAL03         c                AMO              ETR              2               MA               USD              MT
+         © 2025 by S&P Global Inc. All rights reserved.
+                                                           7
+        Specifications Guide         Global Hydrogen & Ammonia: December 2025
+        Monthly Hydrogen Pump Price Symbols
+        Description                                                        Symbol              Bates               MDC                  Dec                 Freq                Curr                UOM
+        California H2 Pump Price                                           HYPUC00             c                   HY                   2                   MA                  USD                 KG
+        California H2 Pump Price                                           HYPUD00             c                   HY                   2                   MA                  Eur                 KG
+        Germany H2 Pump Price                                              HYPUE00             c                   HY                   2                   MA                  USD                 KG
+        Germany H2 Pump Price                                              HYPUF00             c                   HY                   2                   MA                  Eur                 KG
+        Hydrogen Pump Prices
+        On a monthly basis, Platts assesses the price of hydrogen at 
+        refueling stations in the California market based on source data 
+        from hydrogen fuel station operators, and republishes posted 
+        pump prices for Germany hydrogen fuel stations. 
+        Prices for German markets are sourced from H2 Mobility 
+        Deutschland, a consortium of hydrogen retail station operators. 
+        Prices for California and Germany are published in US dollars 
+        per kilogram and Euros per kilogram. Prices are published on 
+        the first working day of every month.
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                      8
+        Specifications Guide         Global Hydrogen & Ammonia: December 2025
+        Revision history                                                       October 2023: S&P Global Commodity Insights added new                  review of this guide, reviewing all content, correcting typos, and 
+                                                                               market-based Japan-Korea low-carbon ammonia price                      making edits to language throughout.
+        December 2025: Platts discontinued its Japan Metropolitan              assessment (JKAP) and Carbon Intensity escalator for Japan 
+        Hydrogen Pump Price, Carbon Neutral Hydrogen (CNH),                    and Korea delivery.                                                    January 2022: Added UK hydrogen PEM and Alkaline 
+        Implied Hydrogen Origin Certificate (h-OC), Blue Ammonia,                                                                                     Electrolysis product description and symbol codes to the 
+        Blue Ammonia Premium, and Hydrogen Production Cost                     June 2023: S&P Global Commodity Insights has made several              methodology guide. 
+        Valuation assessments. Platts also removed input costs from            updates to its capital expenditure figures and PEM efficiency 
+        the Hydrogen guide which fed into the discontinued Hydrogen            used in the calculations of cost of production for most of its         December 2021: Platts launched Carbon Neutral Hydrogen 
+        Production Cost Valuation assessments.                                 Platts global hydrogen assessments, as part of a yearly review         (CNH) assessments on an Ex-Works basis for Northwest Europe, 
+                                                                               of the Platts hydrogen methodology. In addition, the electricity       the Middle East, Far East Asia, Australia, California and the US 
+        October 2025: Platts discontinued its Daily Hydrogen Cost              inputs used in Australian, Middle Eastern and Japanese prices          Gulf Coast. Reorganized methodology guide, including removal 
+        Valuations for the PEM production pathway, its Ammonia                 have been added to the guide for better visibility.                    of S&P Global Platts description of methodologies Parts I-VI and 
+        Forward Curves for the US Gulf Coast and the Middle East,                                                                                     replacement with a link to the methodologies.
+        and its Japan Hydrogen Pump Prices for Chubu, Chugoku and              March 2023: S&P Global Commodity Insights aligns ammonia 
+        Kyushu, Kinki, and Tohoku. Platts also removed the Northwest           coverage globally with legacy Fertecon ammonia assessments.            November 2021: Platts launched Middle East hydrogen 
+        Ammonia Forward Curve assessments, which can now be found              Completed annual review guide.                                         assessments for Oman, Qatar, Saudi Arabia, and the United Arab 
+        in the Fertecon Specifications Guide. Platts also made minor                                                                                  Emirates, across the following production pathways: SMR with 
+        edits to language throughout for consistency and clarity.              December 2022: S&P Global Commodity Insights added new                 CCS, Alkaline Electrolysis and PEM Electrolysis.
+                                                                               Renewable power derived Ammonia assessments for delivery 
+        June 2025: Platts made several updates to its capital expenditure,     into Far East Asia and Northwest Europe.                               October 2021: Added new ammonia assessments for CFR Far 
+        WACC, and lifespan figures used in the calculation of cost of                                                                                 East Asia, CFR Northwest Europe, CFR US Gulf Coast, FOB 
+        production for most of its Platts global hydrogen assessments.         April 2022: S&P Global Commodity Insights added new                    Middle East, and FOB Black Sea.
+                                                                               Blue Ammonia Premiums for Far East Asia, the Middle East, 
+        February 2025: Platts completed the annual guide review. Platts        Northwest Europe, and US Gulf Coast, and added Blue Ammonia            September 2021: Added new Steam Methane Reforming and 
+        reviewed all content and made edits to wording and layout for          Price Assessments for Far East Asia, the Middle East, and              Autothermal Reforming price valuations for the UK and the 
+        clarity. In addition, removed a number of Hydrogen Production          Northwest Europe. Launched three months ammonia physical               Netherlands, respectively, both including CCS. 
+        Cost Valuations in North America, Europe, Japan, Australia             forward curves for Northwest Europe, the US Gulf Coast and 
+        and the Middle East following a discontinuation. Updated the           the Middle East. Added euro per kilogram and US Dollar per             September 2021: Platts launched monthly Hydrogen Pump 
+        variable input for Appalachia natural gas to Eastern Gas South         kilogram assessments for the h-OC price assessments in                 Prices for the California market based on source data from 
+        TDt Com. Updated the timestamp for the USGC Blue Ammonia               Europe and the US, respectively.                                       hydrogen fuel station operators, and began to republish posted 
+        Premium and Ammonia Forward Curve.                                                                                                            pump prices for Germany and Japan hydrogen fuel stations, 
+                                                                               April 2022: S&P Global Commodity Insights has made                     based on publicly available source data from each of those 
+        May 2024: S&P Global Commodity Insights has added new                  several updates to its capital expenditure figures used in the         respective markets.
+        Regulation compliant hydrogen assessments for Europe. In               calculations of cost of production for most of its Platts global 
+        addition, made several updates to capital expenditure figures,         hydrogen assessments, as part of a yearly review of the Platts         August 2021: Platts launched Australia hydrogen assessments 
+        weighted average cost of capital, blue ammonia plant efficiency        hydrogen methodology.                                                  for the following locations and pathways: New South Wales (Coal 
+        and electrolyzer efficiencies used in the calculations of cost of                                                                             Gasification w CCS, Alkaline Electrolysis and PEM Electrolysis), 
+        production for most of its Platts global hydrogen and ammonia          March 2022: Platts launched daily implied hydrogen origin              Queensland (Coal Gasification w CCS, Alkaline Electrolysis 
+        assessments, as part of a yearly review of the Platts hydrogen         certificate (h-OC) assessments for NW Europe, California, and          and PEM Electrolysis), South Australia (Alkaline Electrolysis 
+        methodology.                                                           the US Gulf Coast. February 2022: Platts completed an annual           and PEM Electrolysis), Tasmania (Alkaline Electrolysis and 
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                      9
+        Specifications Guide         Global Hydrogen & Ammonia: December 2025
+        PEM Electrolysis), Victoria (Lignite Gasification w CCS, Alkaline      and sequestration (ATR w CCS), alkaline electrolysis and PEM           Southern California, Upper Midwest, and Japan. Added 
+        Electrolysis and PEM Electrolysis), and Western Australia (SMR         electrolysis. Adjusted the cadence of its methodology review           daily Alkaline Electrolysis prices for Alberta, Appalachia, 
+        w CCS, Alkaline Electrolysis and PEM Electrolysis).                    from quarterly to annual.                                              Midcontinent, Northeast, Northern California, Northwest, 
+                                                                                                                                                      Rockies, Southeast, Southern California, Upper Midwest, and 
+        August 2021: Replaced existing European Commission’s carbon            January 2021: Replaced Dutch EEX month-ahead settlements               Japan. Added Netherlands month ahead SMR with CCS, SMR 
+        spot auction prices as a daily input for Dutch and UK hydrogen         with Platts Dutch first-month (peak) power assessments and             with CCS (includes Capex), SMR with CCS (includes Carbon), 
+        assessments with Platts assessed EU Emission Trading System            replaced EEX EU Emission Trading System input data with data           SMR with CCS (includes Capex and carbon), PEM Electrolysis, 
+        (EUAs) and UK Emission Trading Scheme (UKAs) daily prices.             from the European Commission’s Carbon Auction Platform.                PEM Electrolysis (includes Capex), Alkaline Electrolysis, and 
+                                                                               Reactivated Platts Dutch month-ahead Base and Peak power               Alkaline Electrolysis (includes Capex) prices. Added refurbish 
+        April 2021: Platts completed an annual review of this guide,           price assessments for use as the power component in the full           cost to PEM Electrolysis prices. Noted European hydrogen fixed 
+        reviewing all content, correcting typos, and making edits to           suite of Dutch hydrogen prices.                                        capital costs are converted to Euros from USD using Platts daily 
+        language throughout. In this update, Platts also made several                                                                                 forex assessments. 
+        methodology changes, including the adoption of a fixed charge          December 2020: Discontinued the duplicative hydrogen 
+        rate, defined as the product of a capital recovery factor and a        assessments for North America and Japan in the ES market               February 2020: Platts has added a table of constant input 
+        project finance factor, to more accurately incorporate inflation,      data category and moved the surviving North America and                symbols used for calculations for its Dutch hydrogen SMR 
+        depreciation, return on equity, debt service, insurance as well        Japan hydrogen assessments in the GD market data category              assessments
+        as income and property taxes. Increased the capital costs for          to a new HY market data category. The Netherlands hydrogen 
+        ($/KW) for proton exchange membrane (PEM) electrolysis from            assessments were also moved to the new HY market data                  January 2020: Platts has corrected typos for Capex cost for 
+        $900/KW to $1,382/KW and alkaline electrolysis from $702/              category from their original EG market data category.                  USGC SMR w/o CCS, California SMR w/o CCS, and California 
+        KW to $891/KW. Increased steam methane reforming (SMR)                                                                                        PEM Electrolysis.
+        plant efficiency from 70% to 76%, SMR with carbon capture              October 2020: Platts launched Netherlands PEM and Alkaline 
+        and sequestration (CCS) plant efficiency from 63% to 69%; and          Grid-Only price assessments and backfilled to January 2018.            December 2019: Platts launched Hydrogen Inc. Capex USGC 
+        alkaline electrolysis efficiency from 65% to 67%. Increased the                                                                               SMR w/o CCS, Hydrogen USGC SMR w/o CCS, Hydrogen Inc. 
+        cost of stack refurbishment as a percent of capital cost for PEM       April 2020: Added Capex costs to methodology guide.                    Capex California SMR w/o CCS, Hydrogen California SMR w/o 
+        electrolysis from 15% to 35% for PEM electrolysis, and from                                                                                   CCS, Hydrogen Inc. Capex California PEM Electrolysis, Hydrogen 
+        15% to 45% for alkaline electrolysis. Adjusted the percentage          April 2020: Changed California location names to Northern              California PEM Electrolysis, and Hydrogen Netherlands SMR w/o 
+        of Dutch peak and base electricity prices from 80% base and            California. Added daily SMR w/o CCS prices for Alberta,                CCS valuations. Platts also launched Hydrogen Inc. Netherlands 
+        20% peak to 50% base and 50% peak. Changed the method for              Appalachia, Midcontinent, Northeast, Northwest, Rockies,               SMR (H2 99.9%) w/o CCS MA, Netherlands SMR (H2 99.9%) w/o 
+        calculating carbon dioxide emissions by adopting the emission          Southeast, Southern California, Upper Midwest, and Japan.              CCS (inc. Capex) MA, Netherlands SMR (H2 99.9%) w/o CCS (inc. 
+        factor of 8.9 kg CO2/kg H2. Launched new UK hydrogen                   Added daily PEM Electrolysis prices for Alberta, Appalachia,           Carbon) MA, Netherlands SMR (H2 99.9%) w/o CCS (inc. Capex & 
+        assessments for autothermal reforming with carbon capture              Midcontinent, Northeast, Northwest, Rockies, Southeast,                Carbon) MA valuations.
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                      10

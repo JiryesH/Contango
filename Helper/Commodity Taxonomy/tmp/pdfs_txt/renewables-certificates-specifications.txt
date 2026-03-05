@@ -1,0 +1,407 @@
+    Specifications Guide
+    Global Renewables Certificates
+    Latest update: January 2026
+    Definitions of the trading locations for which Platts 
+    publishes indexes or assessments ............................. 2
+                          .................. 3
+    US Renewable Energy Certificate markets
+    Emissions Adjusted Renewable Energy Certificate markets .. 3
+    International Renewable Energy Certificates (I-RECs) 
+    price assessments ................................................... 7
+    Guarantees of Origin price assessments ....................12
+             ......................................................15
+    Revision history
+    www.spglobal.com/energy
+        Specifications Guide         Global Renewables Certificates: January 2026
+        Definitions of the trading locations for which Platts publishes indexes or assessments
+        The following specifications guide contains the primary specifications for Platts International Renewable Energy Certificates (I-RECs), Platts European Guarantees of Origin (EuGOs), Platts UK Renewable 
+        Energy Guarantees of Origin (REGO), and Platts US Renewable Energy Certificates assessments (RECs).
+        All the assessments listed here employ Platts Assessments Methodology, as published at https://www.spglobal.com/content/dam/spglobal/ci/en/documents/platts/en/our-methodology/
+        methodology-specifications/platts-assessments-methodology-guide.pdf
+        These guides are designed to give Platts subscribers as much information as possible about a wide range of methodology and specification questions.
+        This guide is current at the time of publication. Platts may issue further updates and enhancements to this guide and will announce these to subscribers through its usual publications of record. Such 
+        updates will be included in the next version of this guide. Platts editorial staff and managers are available to provide guidance when assessment issues require clarification.
+        © 2026 by S&P Global Inc. All rights reserved.
+                                                      2
+        Specifications Guide         Global Renewables Certificates: January 2026
+        US Renewable Energy Certificate markets                                during the current time period in question, while the forward          Price assessments are assessed on Thursday and published that 
+                                                                               market entails future delivery. The forward market refers to           same day in REC Daily and Megawatt Daily. When Thursday falls on 
+        US RECs are instruments used to comply with state                      longer term contracts obliging one party to sell the RECs it           a holiday, prices are assessed on the last business day preceding 
+        mandates regarding renewable energy, as well as to achieve             generates to another party.                                            Thursday and published in both publications on that day.  
+        voluntary environmental goals. These certificates are 
+        tradable, market-based instruments that represent the legal            Platts assesses the spot market value of RECs and emission             Emissions Adjusted Renewable Energy Certificate markets
+        property rights tied to the “renewability” of renewable energy.        certificates once a week. 
+                                                                                                                                                      Platts also publishes Emissions Adjusted Renewable Energy 
+        The REC market consists of two broad segments, one                     A REC sells separately from the actual electricity (megawatt-          Certificate (EA REC) price assessments, as well as emissions 
+        for complying with state renewable portfolio standards,                hour, or MWh). The REC owner retains exclusive rights to               data for REC locations.
+        and the other for purchasing RECs to voluntarily support               claim “using” or “being powered by” the renewable electricity 
+        renewable energy projects. Within each of these categories             associated with that REC. A REC is issued for every megawatt-          The assessments represent the value of a REC based on the 
+        lie a number of REC products conforming to specific                    hour (MWh) of electricity generated, and delivered to the electric     intensity of greenhouse gas emissions from power generation 
+        eligibility guidelines.                                                grid, from a renewable energy resource.                                displaced by renewables production.
+        The trading of RECs can be done on a spot or forward basis. The        Platts’ US REC assessments reflect a 1:30 CT timestamp and             Platts also publishes emissions data for each REC location 
+        spot market involves the buying and selling of RECs generated          follow the US holiday calendar.                                        covered, using data from REsurety.
+        © 2026 by S&P Global Inc. All rights reserved.
+                                                      3
+        Specifications Guide         Global Renewables Certificates: January 2026
+        NEPOOL Renewable Compliance Markets                                                                          PJM Renewable Compliance Markets
+        Location             Certificate                          Symbol    Roll date     Compliance Period          Location            Certificate                          Symbol     Roll date     Compliance Period
+        CT                   Class 1 Prior Year Vintage           AREAM00   June 16       January-December           MD                  Tier 1 Prior Year Vintage            AREAQ00    April 1       January-December
+                             Class 1 Current Year Vintage         RECCTC1                                                                Tier 1 Current Year Vintage          RECMDT1
+                             Class 1 Next Year Vintage            AREAN00                                                                Tier 1 Next Year Vintage             AREAR00
+        MA                   Class 1 Prior Year Vintage           AREAA00   June 16       January-December                               SREC Prior Year Vintage              ARHAX00
+                             Class 1 Current Year Vintage         RECMAC1                                                                SREC Current Year Vintage            RECMDS0
+                             Class 1 Next Year Vintage            AREAB00                                                                SREC Next Year Vintage               ARHAY00
+                             AEC Current Year Vintage             AREAE00                                            NJ                  Class 1 Prior Year Vintage           AREAU00    October 2     June-May
+                                                                                                                                         Class 1 Current Year Vintage         RECNJT1
+                             SREC 2 Current Year Vintage          ARHAW00
+                                                                                                                                         Class 1 Next Year Vintage            AREAV00
+        ME                   Class 1 Prior Year Vintage           ARFAP00   July 1        January-December
+                                                                                                                                         Class 2 Current Year Vintage         AREAW00
+                             Class 1 Current Year Vintage         ARFAQ00
+                                                                                                                                         SREC Prior Year Vintage              ARIAG00
+                             Class 1 Next Year Vintage            ARFAR00                                                                SREC Current Year Vintage            RECNJS0
+        NH                   Class 1 Prior Year Vintage           ARFAU00   July 1        January-December                               SREC Next Year Vintage               ARIAH00
+                             Class 1 Current Year Vintage         ARFAV00                                            PA                  Class 1 Prior Year Vintage           AREAX00    October 2     June-May
+                             Class 1 Next Year Vintage            ARFAW00                                                                Class 1 Current Year Vintage         RECPAT1
+        RI                   New Current Year Vintage             ARGAC00   July 15       January-December                               Class 1 Next Year Vintage            AREAY00
+        NEPOOL               Class 1 Current Year Vintage         ARHAA00   June 16       January-December                               Tier 2 Current Year Vintage          AREAZ00
+        Dual-Qualified                                                                                                                   SAEC Prior Year Vintage              ARHAZ00
+                             Class 1 Next Year Vintage            ARHAB00                                                                SAEC Current Year Vintage            RECPAS0
+                                                                                                                                         SAEC Next Year Vintage               ARIAA00
+                                                                                                                     OH                  non-Solar Prior Year Vintage         ARGAD00    April 15      January-December
+                                                                                                                                         non-Solar Current Year Vintage       RECOHI0
+                                                                                                                                         non-Solar Next Year Vintage          ARGAE00
+                                                                                                                                         SREC Prior Year Vintage              ARIAI00
+                                                                                                                                         SREC Current Year Vintage            RECOHSI
+                                                                                                                                         SREC Next Year Vintage               ARIAJ00
+                                                                                                                     DC                  Tier 1 Prior Year Vintage            ARGAN00    April 1       January-December
+                                                                                                                                         Tier 1 Current Year Vintage          ARGAO00
+                                                                                                                                         Tier 1 Next Year Vintage             ARGAP00
+                                                                                                                                         SREC Prior Year Vintage              ARIAK00
+                                                                                                                                         SREC Current Year Vintage            ARIAL00
+                                                                                                                                         SREC Next Year Vintage               ARIAM00
+                                                                                                                     VA                  non-Solar Prior Year Vintage         ARGAV00    April 30      January-December
+        © 2026 by S&P Global Inc. All rights reserved.
+                                                      4
+          Specifications Guide             Global Renewables Certificates: January 2026
+          PJM Renewable Compliance Markets                                                                                               California Renewable Compliance Markets
+          Location               Certificate                                Symbol       Roll date        Compliance Period              Location          Certificate                    Symbol         Roll date               Compliance Period
+                                 non-Solar Current Year Vintage             ARGAW00                                                      Bucket 3          Prior Year Vintage                            August 1                Multi-year beginning in 2017
+                                 non-Solar Next Year Vintage                ARGAX00                                                                        Current Year Vintage           RECCAB3
+          PJM Tri-Qualified      Tier 1 Prior Year Vintage                  ARHAC00      Depending on     Depending on                                     Next Year Vintage              AREAL00
+                                                                                         location         location
+                                 Tier 1 Current Year Vintage                ARHAD00                                                      Bucket 1          Bundled Prior Year Vintage                    December 31             Multi-year beginning in 2017
+                                 Tier 1 Next Year Vintage                   ARHAE00                                                                        Bundled Current Year Vintage   RECCAB1
+                                                                                                                                                           Bundled Next Year Vintage      AREAH00
+                                                                                                                                         Bucket 2          Bundled Prior Year Vintage                    December 31             Multi-year beginning in 2017
+                                                                                                                                                           Bundled Current Year Vintage   RECCAB2
+          Other REC markets                                                                                                                                Bundled Next Year Vintage      AREAJ00
+          Location               Certificate                                Symbol       Roll date        Compliance Period
+          TX                     Green-e Eligible Wind REC Current Year     ARFAJ00      April 1          January-December
+                                 Vintage FH
+                                 Green-e Eligible Wind REC Current Year     ARFAK00
+                                 Vintage BH
+                                 SREC Next Year Vintage                     ARIAS00
+                                 SREC from CRS Listed Facilities Current    ARIAU00
+                                 Year Vintage FH
+                                 SREC from CRS Listed Facilities Current    ARIAV00
+                                 Year Vintage BH
+          NY                     Tier 1 Prior Year Vintage                  ARGAJ00      June 30          January-December
+                                 Tier 1 Current Year Vintage                ARGAK00
+                                 Tier 1 Next Year Vintage                   ARGAL00
+                                 Wind REC Current Year Vintage              ARGAM00
+          M-RETS                 REC from CRS Listed Facilities Current     ARHAF00      Depending on     Depending on 
+                                 Year Vintage FH                                         location         location
+                                 REC from CRS Listed Facilities Current     ARHAG00
+                                 Year Vintage BH
+          NAR                    Any Green-e Eligible REC Current Vintage   ARHAL00      Depending on     Depending on 
+                                 FH                                                      location         location
+                                 Any Green-e Eligible REC Current Vintage   ARHAM00
+                                 BH
+                                 SREC CRS Listed Current Year Vintage FH    ARJAD00
+                                 SREC CRS Listed Current Year Vintage BH    ARJAE00
+          © 2026 by S&P Global Inc. All rights reserved.
+                                                               5
+         Specifications Guide           Global Renewables Certificates: January 2026
+         EA REC Assessments                                                                                                     EA REC Assessments
+                                                Abatement value        Emissions Adjusted REC  Emissions Adjusted REC                                                 Abatement value         Emissions Adjusted REC  Emissions Adjusted REC 
+                                                (kgCO2e/MWh) Symbol    price ($/mtCO2) Symbol   price monthly average                                                 (kgCO2e/MWh) Symbol     price ($/mtCO2) Symbol  price monthly average  
+                                                                                                ($/mtCO2) Symbol                                                                                                      ($/mtCO2) Symbol
+         ERCOT                                                                                                                  CAISO
+         SREC from CRS Listed Facilities Vintage                                                                                Bucket 1 Vintage
+         Current Year BH                        ADJCC00                ADJAN00                  ADJAN03                         California Bundled Current Year       AEMIA00                 AEMIG00                 AEMIG03
+         Current Year FH                        ADJCB00                ADJAM00                  ADJAM03                         Bucket 2 Vintage
+         E-Eligible Wind REC Vintage                                                                                            California Bundled Current Year       AEMIC00                 AEMII00                 AEMII03
+         Current Year BH                        ADJCG00                ADJAI00                  ADJAI03                         M-RETS
+         Current Year FH                        ADJCH00                ADJAH00                  ADJAH03                         REC from CRS Listed Facilities Vintage
+                                                                                                                                Current Year BH                       AEMIR00                 AEMIO00                 AEMIO03
+         PJM                                                                                                                    Current Year FH                       AEMIS00                 AEMIP00                 AEMIP03
+         SAEC Vintage                                                                                                           NAR
+         Pennsylvania Current Year              AEMLA00                AEMKD00                  AEMKD03                         Any Green-e Eligible REC
+         SREC Vintage                                                                                                           Current Year FH                       ANPMN00                 ANPLQ00                 ANPLQ03
+         Ohio Current Year                      AEMKU00                AEMJX00                  AEMJX03
+         New Jersey Current Year                AEMKR00                AEMJT00                  AEMJT03                         NEPOOL
+         Non-Solar Compliance REC Vintage                                                                                       REC
+         Ohio Current Year                      AEMKT00                AEMJV00                  AEMJV03                         Rhode Island New Current Year         ANPLY00                 ANPLB00                 ANPLB03
+         Virginia Current Year                  AEMLF00                AEMKI00                  AEMKI03                         Class 1 REC
+         Tier/Class 1 REC                                                                                                       Connecticut Current Year              ANPMI00                 ANPLL00                 ANPLL03
+         District of Columbia Current Year      AEMIW00                AEMJD00                  AEMJD03                         Connecticut Previous Year             ANPMB00                 ANPLE00                 ANPLE03
+         Maryland Current Year                  AEMKM00                AEMJM00                  AEMJM03                         Maine Current Year                    ANPMC00                 ANPLF00                 ANPLF03
+         New Jersey Current Year                AEMKP00                AEMJR00                  AEMJR03                         Maine Previous Year                   ABTAA00                 ABTAE00                 ABTAE03
+         Pennsylvania Current Year              AEMKW00                AEMJZ00                  AEMJZ03                         Massachusetts Current Year            ANPMJ00                 ANPLM00                 ANPLM03
+         Tri-Qualified Current Year             AEMLC00                AEMKF00                  AEMKF03                         Massachusetts Previous Year           ANPLZ00                 ANPLC00                 ANPLC03
+                                                                                                                                NEPOOL Dual Qualified Current Year    ANPMH00                 ANPLK00                 ANPLK03
+                                                                                                                                New Hampshire Current Year            ANPME00                 ANPLH00                 ANPLH03
+                                                                                                                                New Hampshire Previous Year           ABTAB00                 ABTAF00                 ABTAF03
+         © 2026 by S&P Global Inc. All rights reserved.
+                                                           6
+        Specifications Guide         Global Renewables Certificates: January 2026
+        International Renewable Energy Certificates                            Timing: 3:30 pm Mexico City close, following the Mexico                Timing: 4:30 pm standard Malaysian time, following the Penang 
+        (I-RECs) price assessments                                             publishing calendar.                                                   publishing calendar.
+        An I-REC is an electronic tracking certificate that represents         Vintage: Platts publishes Chile I-RECs assessments for both the        Vintage: Platts publishes Malaysia I-RECs assessments for both 
+        the environmental attributes of electricity generated from             previous year and current year.                                        the previous year and current year.
+        renewable energy sources once transmitted into the grid. 
+        Cancellation of an I-REC upon redemption by an end-user                Volume: Platts Chile I-RECs assessments consider trades, bids,         Volume: Platts Malaysia I-RECs assessments consider trades, 
+        removes the certificate from the market and associated                 offers, and indications of minimum 1 GWh in volume. There is no        bids, offers, and indications of minimum 1 GWh in volume. There 
+        accredited registry, as approved by the International Tracking         maximum volume limit.                                                  is no maximum volume limit.
+        Standard Foundation. Each I-REC represents 1 MWh of 
+        electricity generated from renewable energy sources.                   India                                                                  Mexico
+        Brazil                                                                 Assessments are published for I-RECs generated from small              Individual assessments are published for I-RECs generated by 
+                                                                               hydro, solar, and wind sources.                                        biomass, large hydro, solar, and wind sources.
+        Individual assessments are published for I-RECs generated by , 
+        large hydro, solar, and wind sources.                                  Units: Assessments are published in USD/MWh with                       Units: Assessments are published in USD/MWh with 
+                                                                               conversions for INR/MWh and Eur/MWh for hydro and with                 conversions for MXN/MWh and Eur/MWh.
+        Units: Assessments are published in BRL/MWh with conversions           conversions for INR/MWh for wind and solar.
+        for USD/MWh and Eur/MWh.                                                                                                                      Timing: 3:30 pm Mexico City close, following the Mexico 
+                                                                               Timing: 4:30 pm standard Malaysian time, following the Penang          publishing calendar.
+        Timing: 3:30 pm Mexico City close, following the Mexico                publishing calendar.
+        publishing calendar.                                                                                                                          Vintage: Platts publishes Mexico I-RECs assessments for both 
+                                                                               Vintage: Platts publishes India I-RECs assessments for both the        the previous year and current year.
+        Vintage: Platts publishes Brazil I-RECs assessments for both           previous year and current year.
+        the previous year and current year.                                                                                                           Volume: Platts Mexico I-RECs assessments consider trades, 
+                                                                               Volume: Platts India I-RECs assessments consider trades, bids,         bids, offers, and indications of minimum 5 GWh and a maximum 
+        Volume: Platts Brazil I-RECs assessments consider trades, bids,        offers, and indications of minimum 10 GWh and a maximum of             of 100 GWh in volume.
+        offers, and indications of minimum 30 GWh and a maximum of             100 GWh in volume.
+        100 GWh in volume.                                                                                                                            Saudi Arabia
+                                                                               Platts’ India I-REC price assessments for wind and solar reflect 
+        Platts’ Brazilian I-REC price assessments reflect I-RECs with          RE100 compliant certificates.                                          Individual assessments are published for I-RECs generated by 
+        redemption fees included.                                                                                                                     solar sources.
+                                                                               Malaysia                                                               Units: Assessments are published in USD/MWh.
+        Chile                                                                  Individual assessments are published for I-RECs generated by 
+        Individual assessments are published for I-RECs generated by ,         biomass, large hydro, and solar sources.                               Timing: 4:30 pm London close, following the UK publishing 
+        large hydro, solar, and wind sources.                                                                                                         calendar.
+                                                                               Units: Assessments are published in USD/MWh.
+        Units: Assessments are published in USD/MWh with                                                                                              Vintage: Platts publishes Saudi Arabia I-RECs assessments for 
+        conversions for CLP/MWh and Eur/MWh.                                                                                                          both the previous year and current year.
+        © 2026 by S&P Global Inc. All rights reserved.
+                                                      7
+        Specifications Guide         Global Renewables Certificates: January 2026
+        Volume: Platts Saudi Arabia I-RECs assessments consider                Units: Assessments are published in USD/MWh with                       Volume: Platts Turkey I-RECs assessments consider trades, bids, 
+        trades, bids, offers, and indications of minimum 1 GWh in volume.      conversions for THB/MWh.                                               offers, and indications of minimum 1 GWh in volume. There is no 
+        There is no maximum volume limit.                                                                                                             maximum volume limit.
+                                                                               Timing: 4:30 pm standard Malaysian time, following the Penang 
+        Singapore                                                              publishing calendar.                                                   Vietnam
+        Individual assessments are published for I-RECs generated by           Vintage: Platts publishes Thailand I-RECs assessments for both         Individual assessments are published for I-RECs generated by , 
+        solar sources.                                                         the previous year and current year.                                    large hydro, solar, and wind sources.
+        Units: Assessments are published in SGD/MWh with                       Volume: Platts Thailand I-RECs assessments consider trades,            Units: Assessments are published in USD/MWh.
+        conversions for USD/MWh.                                               bids, offers, and indications of minimum 1 GWh in volume. There 
+                                                                               is no maximum volume limit.                                            Timing: 4:30 pm standard Malaysian time, following the Penang 
+        Timing: 4:30 pm Singapore close, following the Singapore                                                                                      publishing calendar.
+        publishing calendar.                                                   Turkey
+                                                                                                                                                      Vintage: Platts publishes Vietnam I-RECs assessments for both 
+        Vintage: Platts publishes Singapore I-RECs assessments for             Individual assessments are published for I-RECs generated by           the previous year and current year.
+        previous year, current year, year +1 and year +2.                      biomass, small hydro, solar, and wind sources.
+                                                                                                                                                      Volume: Platts Vietnam I-RECs assessments consider trades, 
+        Volume: Platts Singapore I-RECs assessments consider trades,           Units: Assessments are published in Eur/MWh with a conversion          bids, offers, and indications of minimum 10 GWh and a maximum 
+        bids, offers, and indications of minimum 1 GWh in volume. There        for USD/MWh.                                                           of 100 GWh in volume.
+        is no maximum volume limit.
+                                                                               Timing: 4:30 pm London close, following the UK publishing              The years reflected by previous, current year, year +1 and year +2 
+        Thailand                                                               calendar.                                                              vintages will roll into on the first working day of each calendar 
+                                                                                                                                                      year. While I-RECs do not expire, the assessments cover the 
+        Individual assessments are published for I-RECs generated by           Vintage: Platts publishes Turkey I-RECs assessments for both           most liquid vintages of the previous and current year, year +1 
+        biomass, large hydro, and solar sources.                               the previous year and current year.                                    and year +2.
+        © 2026 by S&P Global Inc. All rights reserved.
+                                                      8
+        Specifications Guide         Global Renewables Certificates: January 2026
+        Brazil                                                                                                       Chile
+                                                                 BRL/MWh       USD/MWh        Eur/MWh                                                                        CLP/MWh        USD/MWh       Eur/MWh
+        I-REC Brazil Hydro Current Year $/MWh                                  ACERH00                               I-REC Chile Hydro Current Year CLP/MWh                  ACHLF00
+        I-REC Brazil Hydro Current Year BRL/MWh                  ACERF00                                             I-REC Chile Hydro Current Year Eur/MWh                                               ACHLN00
+        I-REC Brazil Hydro Current Year Eur/MWh                                               ACERJ00                I-REC Chile Hydro Current Year USD/MWh                                 ACHLV00
+        I-REC Brazil Hydro Previous Year $/MWh                                 ACERG00                               I-REC Chile Hydro Previous Year CLP/MWh                 ACHLE00
+        I-REC Brazil Hydro Previous Year Eur/MWh                                              ACERI00                I-REC Chile Hydro Previous Year Eur/MWh                                              ACHLM00
+        I-REC Brazil Hydro Previous Year BRL/MWh                 ACERE00                                             I-REC Chile Hydro Previous Year USD/MWh                                ACHLU00
+        I-REC Brazil Solar Current Year $/MWh                                  ABRAA00                               I-REC Chile Solar Current Year CLP/MWh                  ACHLD00
+        I-REC Brazil Solar Current Year BRL/MWh                  ABRAB00                                             I-REC Chile Solar Current Year Eur/MWh                                               ACHLL00
+        I-REC Brazil Solar Current Year Eur/MWh                                               ABRAC00                I-REC Chile Solar Current Year USD/MWh                                 ACHLT00
+        I-REC Brazil Solar Previous Year $/MWh                                 ABRAD00                               I-REC Chile Solar Previous Year CLP/MWh                 ACHLC00
+        I-REC Brazil Solar Previous Year Eur/MWh                                              ABRAF00                I-REC Chile Solar Previous Year Eur/MWh                                              ACHLK00
+        I-REC Brazil Solar Previous Year BRL/MWh                 ABRAE00                                             I-REC Chile Solar Previous Year USD/MWh                                ACHLS00
+        I-REC Brazil Wind Current Year $/MWh                                   ABRAG00                               I-REC Chile Wind Current Year CLP/MWh                   ACHLB00
+        I-REC Brazil Wind Current Year BRL/MWh                   ABRAH00                                             I-REC Chile Wind Current Year Eur/MWh                                                ACHLJ00
+        I-REC Brazil Wind Current Year Eur/MWh                                                ABRAI00                I-REC Chile Wind Current Year USD/MWh                                  ACHLR00
+        I-REC Brazil Wind Previous Year $/MWh                                  ABRAJ00                               I-REC Chile Wind Previous Year CLP/MWh                  ACHLA00
+        I-REC Brazil Wind Previous Year Eur/MWh                                               ABRAL00                I-REC Chile Wind Previous Year Eur/MWh                                               ACHLI00
+        I-REC Brazil Wind Previous Year BRL/MWh                  ABRAK00                                             I-REC Chile Wind Previous Year USD/MWh                                 ACHLQ00
+        © 2026 by S&P Global Inc. All rights reserved.
+                                                      9
+        Specifications Guide         Global Renewables Certificates: January 2026
+        India                                                                                                        Mexico
+                                                                 INR/MWh       USD/MWh        Eur/MWh                                                                         MXN/MWh       USD/MWh       Eur/MWh
+        I-REC India Hydro Current Year $/MWh                                   ACERN00                               I-REC Mexico Biomass Current Year Eur/MWh                                            AMEXP00           
+        I-REC India Hydro Current Year Eur/MWh                                                ACERP00                I-REC Mexico Biomass Current Year MXN/MWh                AMEXH00           
+        I-REC India Hydro Current Year INR/MWh                   ACERL00                                             I-REC Mexico Biomass Current Year USD/MWh                              AMEXX00           
+        I-REC India Hydro Previous Year $/MWh                                  ACERM00                               I-REC Mexico Biomass Previous Year Eur/MWh                                           AMEXO00                      
+        I-REC India Hydro Previous Year Eur/MWh                                               ACERO00                I-REC Mexico Biomass Previous Year MXN/MWh               AMEXG00           
+        I-REC India Hydro Previous Year INR/MWh                  ACERK00                                             I-REC Mexico Biomass Previous Year USD/MWh                             AMEXW00          
+        I-REC India Solar Current Year USD/MWh                                 ANPNC00                               I-REC Mexico Hydro Current Year Eur/MWh                                              AMEXN00           
+        I-REC India Solar Current Year INR/MWh                   ANPND00                                             I-REC Mexico Hydro Current Year MXN/MWh                  AMEXF00            
+        I-REC India Solar Previous Year USD/MWh                                ANPNA00                               I-REC Mexico Hydro Current Year USD/MWh                                AMEXV00           
+        I-REC India Solar Previous Year INR/MWh                  ANPNB00                                             I-REC Mexico Hydro Previous Year Eur/MWh                                             AMEXM00          
+        I-REC India Wind Current Year USD/MWh                                  ANPMY00                               I-REC Mexico Hydro Previous Year MXN/MWh                 AMEXE00                  
+        I-REC India Wind Current Year INR/MWh                    ANPMZ00                                             I-REC Mexico Hydro Previous Year USD/MWh                               AMEXU00
+        I-REC India Wind Previous Year USD/MWh                                 ANPMW00                               I-REC Mexico Solar Current Year Eur/MWh                                              AMEXL00            
+        I-REC India Wind Previous Year INR/MWh                   ANPMX00                                             I-REC Mexico Solar Current Year MXN/MWh                  AMEXD00                  
+                                                                                                                     I-REC Mexico Solar Current Year USD/MWh                                AMEXT00
+        Malaysia                                                                                                     I-REC Mexico Solar Previous Year Eur/MWh                                             AMEXK00           
+                                                                 USD/MWh                                             I-REC Mexico Solar Previous Year MXN/MWh                 AMEXC00           
+                                                                                                                     I-REC Mexico Solar Previous Year USD/MWh                               AMEXS00            
+        I-REC Malaysia Biomass Current Year $/MWh                AYSIA00                                             I-REC Mexico Wind Current Year Eur/MWh                                               AMEXJ00            
+        I-REC Malaysia Biomass Previous Year $/MWh               AYSIB00                                             I-REC Mexico Wind Current Year MXN/MWh                   AMEXB00           
+        I-REC Malaysia Hydro Current Year $/MWh                  AYSIC00                                             I-REC Mexico Wind Current Year USD/MWh                                 AMEXR00           
+        I-REC Malaysia Hydro Previous Year $/MWh                 AYSID00                                             I-REC Mexico Wind Previous Year Eur/MWh                                              AMEXI00            
+        I-REC Malaysia Solar Current Year $/MWh                  AYSIE00                                             I-REC Mexico Wind Previous Year MXN/MWh                  AMEXA00           
+        I-REC Malaysia Solar Previous Year $/MWh                 AYSIF00                                             I-REC Mexico Wind Previous Year USD/MWh                                AMEXQ00           
+                                                                                                                     Saudi Arabia
+                                                                                                                                                                              USD/MWh
+                                                                                                                     I-REC Saudi Arabia Solar Current Year USD/MWh            ASAUA00
+                                                                                                                     I-REC Saudi Arabia Solar Previous Year USD/MWh           ASAUB00
+        © 2026 by S&P Global Inc. All rights reserved.
+                                                      10
+        Specifications Guide         Global Renewables Certificates: January 2026
+        Singapore                                                                                                    Thailand
+                                                                 SGD/MWh              USD/MWh                                                                                 USD/MWh              THB/MWh
+        I-REC Singapore Solar Previous SGD/MWh                   IRSYA00                                             I-REC Thailand Solar Current Year USD/MWh                ANPNF00
+        I-REC Singapore Solar Previous USD/MWh                                        IRSYE00                        I-REC Thailand Solar Current Year THB/MWh                                     ANPNH00
+        I-REC Singapore Solar Current SGD/MWh                    IRSYB00                                             I-REC Thailand Solar Previous Year USD/MWh               ANPNE00
+        I-REC Singapore Solar Current USD/MWh                                         IRSYFOO                        I-REC Thailand Solar Previous Year THB/MWh                                    ANPNG00
+        I-REC Singapore Solar Year +1 SGD/MWh                    IRSYCOO                                             I-REC Thailand Biomass Current Year USD/MWh              ANPNJ00
+        I-REC Singapore Solar Year +1 USD/MWh                                         IRSYG00                        I-REC Thailand Biomass Current Year THB/MWh                                   ANPNL00
+        I-REC Singapore Solar Year +2 SGD/MWh                    IRSYD00                                             I-REC Thailand Biomass Previous Year USD/MWh             ANPNI00
+        I-REC Singapore Solar Year +2 USD/MWh                                         IRSYH00                        I-REC Thailand Biomass Previous Year THB/MWh                                  ANPNK00
+                                                                                                                     I-REC Thailand Hydro Current Year USD/MWh                ANPNN00
+                                                                                                                     I-REC Thailand Hydro Current Year THB/MWh                                     ANPNP00
+        Turkey                                                                                                       I-REC Thailand Hydro Previous Year USD/MWh               ANPNM00
+                                                                 Eur/MWh              USD/MWh                        I-REC Thailand Hydro Previous Year THB/MWh                                    ANPNO00
+        I-REC Turkey Biomass Current Year $/MWh                                       ATKYL00
+        I-REC Turkey Biomass Current Year Eur/MWh                ATKYM00
+        I-REC Turkey Biomass Previous Year $/MWh                                      ATKYN00                        Vietnam
+        I-REC Turkey Biomass Previous Year Eur/MWh               ATKYO00                                                                                                      USD/MWh
+        I-REC Turkey Hydro Current Year $/MWh                                         ACERD00                        I-REC Vietnam Hydro Current Year $/MWh                   AYSII00
+        I-REC Turkey Hydro Current Year Eur/MWh                  ACERB00                                             I-REC Vietnam Hydro Previous Year $/MWh                  AYSIJ00
+        I-REC Turkey Hydro Previous Year $/MWh                                        ACERC00                        I-REC Vietnam Solar Current Year $/MWh                   AYSIK00
+        I-REC Turkey Hydro Previous Year Eur/MWh                 ACERA00                                             I-REC Vietnam Solar Previous Year $/MWh                  AYSIL00
+        I-REC Turkey Solar Current Year $/MWh                                         ATKYA00                        I-REC Vietnam Wind Current Year $/MWh                    AYSIM00
+        I-REC Turkey Solar Current Year Eur/MWh                  ATKYB00                                             I-REC Vietnam Wind Previous Year $/MWh                   AYSIN00
+        I-REC Turkey Solar Previous Year $/MWh                                        ATKYC00
+        I-REC Turkey Solar Previous Year Eur/MWh                 ATKYD00
+        I-REC Turkey Wind Current Year $/MWh                                          ATKYE00
+        I-REC Turkey Wind Current Year Eur/MWh                   ATKYF00
+        I-REC Turkey Wind Previous Year $/MWh                                         ATKYJ00
+        I-REC Turkey Wind Previous Year Eur/MWh                  ATKYK00
+        © 2026 by S&P Global Inc. All rights reserved.
+                                                      11
+        Specifications Guide         Global Renewables Certificates: January 2026
+        Guarantees of Origin price assessments                                 Finland, Norway, Sweden. For other EuGO certificates the               UK Renewable Energy Guarantees of Origin
+                                                                               power is generated within AIB’s member states with EECS 
+        A Guarantee of Origin (GO) is an electronic tracking certificate       certification.                                                         Vintage: For REGO (UK assessments), Platts assesses non-bio 
+        that labels electricity attributes/technology behind generated                                                                                and bio (biomass) REGOs for Current Compliance Period (CP) up 
+        electricity One GO certificate corresponds to one MWh of               Vintage: Platts rolls its EuGOs assessments at the start of each       to CP +2. The Compliance Period for REGOs rolls over on July 2 
+        electricity produced using renewable sources.                          calendar year. Platts’ assessments reflects EuGOs produced             each year. In terms of the production period, Platts takes into 
+                                                                               with a calendar year.                                                  account REGOs produced from April 1 of the current year to 
+        A GO is physically used or consumed via the cancellation process                                                                              March 31 of the following year. 
+        which is the method of allocating specific electricity to a single     Technology: Platts assesses current year to current year +4 
+        end-user. Cancelling a GO from the relevant national registry is the   EuGO contracts for Nordic hydro and AIB Wind.                          Technology: Platts assesses non-bio and bio technologies. 
+        only way to remove a GO from the market and redeem its benefits.                                                                              Non-bio refers to non-biomass technologies, but will typically 
+                                                                               For AIB solar, and AIB biomass – Platts assesses current year to       correspond to wind, solar, and hydro REGOs. 
+        The trading of GOs can be done on a spot, forward or term basis.       current year + 2.
+        The spot market involves the buying and selling of GOs for the                                                                                Volume: The minimum volume of contracts assessed by Platts 
+        current time period, while the forward market entails future           Volume: The minimum volume (GWh) of EuGO contracts                     is 5 GWh. 
+        delivery. The term market refers to a multi-year contract obliging     assessed by Platts is 5 GWh. 
+        one party to sell the GOs it generates to another party.                                                                                      Units: Assessments are published in GBP/MWh, with a 
+                                                                               Units: Assessments are published in Eur/MWh.                           conversion to EUR/MWh also published by Platts.
+        European Guarantees of Origin                                          Timing: Platts publishes EuGOs assessments basis 4:30 pm               Timing: Platts publishes REGOs assessments basis 4:30 pm 
+        Origin: The physical location of the specified generation.             London time, following the UK holiday calendar.                        London time, following the UK holiday calendar.  
+        For Nordic Hydro GOs origin is specified as Denmark, 
+        © 2026 by S&P Global Inc. All rights reserved.
+                                                      12
+        Specifications Guide         Global Renewables Certificates: January 2026
+        European Guarantees of Origin
+        Assessment                      CODE       Mavg       Generation            Origin                                Vintage        Minimum Volume     Currency      UOM            Frequency     Timestamp
+        Large Nordic Hydro Current Yr   NHGY004    NHGY003    Unsupported Hydro     Denmark, Finland, Norway, Sweden      Current Year   5 GWh              Eur           MWh            Daily         16.30 London time
+        Large Nordic Hydro Yr 01        NHGY104    NHGY103    Unsupported Hydro     Denmark, Finland, Norway, Sweden      Year Ahead     5 GWh              Eur           MWh            Daily         16.30 London time
+        Large Nordic Hydro Yr 02        NHGY200    NHGY203    Unsupported Hydro     Denmark, Finland, Norway, Sweden      Year Ahead +1  5 GWh              Eur           MWh            Daily         16.30 London time
+        Large Nordic Hydro Yr 03        NHGY300    NHGY303    Unsupported Hydro     Denmark, Finland, Norway, Sweden      Year Ahead +2  5 GWh              Eur           MWh            Daily         16.30 London time
+        Large Nordic Hydro Yr 04        NHGY400    NHGY403    Unsupported Hydro     Denmark, Finland, Norway, Sweden      Year Ahead +3  5 GWh              Eur           MWh            Daily         16.30 London time
+        AIB Wind Current Yr             EWGY004    EWGY003    Supported or          AIB*                                  Current Year   5 GWh              Eur           MWh            Daily         16.30 London time
+                                                              unsupported Wind
+        AIB Wind Yr 01                  EWGY104    EWGY103    Supported or          AIB*                                  Year Ahead     5 GWh              Eur           MWh            Daily         16.30 London time
+                                                              unsupported Wind
+        AIB Wind Yr 02                  EWGY200    EWGY203    Supported or          AIB*                                  Year Ahead +1  5 GWh              Eur           MWh            Daily         16.30 London time
+                                                              unsupported Wind
+        AIB Wind Yr 03                  EWGY300    EWGY303    Supported or          AIB*                                  Year Ahead +2  5 GWh              Eur           MWh            Daily         16.30 London time
+                                                              unsupported Wind
+        AIB Wind Yr 04                  EWGY400    EWGY403    Supported or          AIB*                                  Year Ahead +3  5 GWh              Eur           MWh            Daily         16.30 London time
+                                                              unsupported Wind
+        AIB Solar Current Yr            ESGY200    ESGY203    Supported or          AIB*                                  Current Year   5 GWh              Eur           MWh            Daily         16.30 London time
+                                                              unsupported Solar
+        AIB Solar Yr 01                 ESGY300    ESGY303    Supported or          AIB*                                  Year Ahead     5 GWh              Eur           MWh            Daily         16.30 London time
+                                                              unsupported Solar
+        AIB Solar Yr 02                 ESGY400    ESGY403    Supported or          AIB*                                  Year Ahead +1  5 GWh              Eur           MWh            Daily         16.30 London time
+                                                              unsupported Solar
+        AIB Biomass Current Yr          EBGY200    EBGY203    Supported or          AIB*                                  Current Year   5 GWh              Eur           MWh            Daily         16.30 London time
+                                                              unsupported Biomass
+        AIB Biomass Yr 01               EBGY300    EBGY303    Supported or          AIB*                                  Year Ahead     5 GWh              Eur           MWh            Daily         16.30 London time
+                                                              unsupported Biomass
+        AIB Biomass Yr 02               EBGY400    EBGY403    Supported or          AIB*                                  Year Ahead +1  5 GWh              Eur           MWh            Daily         16.30 London time
+                                                              unsupported Biomass
+        *AIB member states with EECS certification
+        © 2026 by S&P Global Inc. All rights reserved.
+                                                      13
+        Specifications Guide         Global Renewables Certificates: January 2026
+        UK Renewable Energy Guarantees of Origin
+        Assessment                      CODE       Mavg       Generation            Origin                                Vintage        Minimum Volume     Currency      UOM            Frequency     Timestamp
+        Non-Bio Current CP              ERGY200    ERGY203    Hydro, Wind, Solar    --                                    Current CP     5 GWh              GBP           MWh            Daily         16.30 London time
+        Non-Bio Current CP              EEGY200    EEGY203    Hydro, Wind, Solar    --                                    Current CP     5 GWh              Eur           MWh            Daily         16.30 London time
+        Non-Bio CP 01                   ERGY300    ERGY303    Hydro, Wind, Solar    --                                    CP +1          5 GWh              GBP           MWh            Daily         16.30 London time
+        Non-Bio CP 01                   EEGY300    EEGY303    Hydro, Wind, Solar    --                                    CP +1          5 GWh              Eur           MWh            Daily         16.30 London time
+        Non-Bio CP 02                   ERGY400    ERGY403    Hydro, Wind, Solar    --                                    CP +2          5 GWh              GBP           MWh            Daily         16.30 London time
+        Non-Bio CP 02                   EEGY400    EEGY403    Hydro, Wind, Solar    --                                    CP +2          5 GWh              Eur           MWh            Daily         16.30 London time
+        Bio Current CP                  ECGY200    ECGY203    Biomass               --                                    Current CP     5 GWh              GBP           MWh            Daily         16.30 London time
+        Bio Current CP                  EDGY200    EDGY203    Biomass               --                                    Current CP     5 GWh              Eur           MWh            Daily         16.30 London time
+        Bio CP 01                       ECGY300    ECGY303    Biomass               --                                    CP +1          5 GWh              GBP           MWh            Daily         16.30 London time
+        Bio CP 01                       EDGY300    EDGY303    Biomass               --                                    CP +1          5 GWh              Eur           MWh            Daily         16.30 London time
+        Bio CP 02                       ECGY400    ECGY403    Biomass               --                                    CP +2          5 GWh              GBP           MWh            Daily         16.30 London time
+        Bio CP 02                       EDGY400    EDGY403    Biomass               --                                    CP +2          5 GWh              Eur           MWh            Daily         16.30 London time
+        © 2026 by S&P Global Inc. All rights reserved.
+                                                      14
+        Specifications Guide         Global Renewables Certificates: January 2026
+        Revision history                                                       and NEPOOL and their respective abatement values and                   period, and included the production period assessed for 
+                                                                               Emission Adjusted REC price assessments.                               REGOs as well as the compliance period assessed for EuGOs. 
+        January 2026: Platts discontinued I-REC Biomass for its                                                                                       Platts clarified its India I-REC assessments for wind and solar 
+        Brazilian, Chilean and Vietnamese I-REC assessments. Platts            April 2025: Platts added the Saudi Arabia and Singapore                technologies reflect RE100 compliant certificates. Platts 
+        changed the specification of their GO assessments, from EU             I-REC assessments following their launch. Platts updated               clarified the typical volume for its EuGO Wind assessments. 
+        GOs to AIB GOs. Platts also updated specs guide to reflect             the minimum and maximum volume thresholds description                  Platts also made grammatical changes and language 
+        correct volume specifications for EU GOs and REGOs.                    for Brazil, India, Mexico and Vietnam. Platts clarified that its       clarifications throughout. 
+                                                                               Brazilian I-REC price assessments include redemption fees. 
+        December 2025: Platts conducted an annual review of this guide         Platts renamed a number of US REC price assessments from               November 2024: Platts created the Global Renewables 
+        and made grammatical changes and edits to language throughout          NAR, Texas and M-RETS and their respective Abatement Values            Certificates Specification Guide as a result of the merging 
+        for greater clarity. Platts also discontinued Massachusetts Class      and Emission Adjusted RECs. Platts updated its methodology             of the International Renewable Energy Certificate (I-RECs) 
+        1 SRECs, and California Prior Year Bucket 1, Bucket 2 and Bucket       around California Bucket 3 RECs to take into account                   methodology guide, the US Renewable Energy Certificates 
+        3 REC assessments. Platts clarified the project type for hydro         unbundled RECs. Platts discontinued six US Renewable Energy            methodology guide, and Platts’ Guarantees of Origin 
+        I-RECs in Brazil, Chile, Malaysia, Mexico, Thailand, and Vietnam.      Certificates (RECs) price assessments from Massachusetts,              assessments – which was previously housed in the European 
+                                                                               New York and Delaware. Platts changed the roll date of UK              Power guide. Platts also updated the basis currency for the 
+        October 2025: Platts discontinued some US REC price                    REGO assessments to roll on July 2 each year instead of April          Mexico and Chile I-RECs to USD/MWh from their previous 
+        assessments from Vermont, Delaware, Pennsylvania, Michigan             1 to reflect the most traded certificates during the April-July        local currencies. 
+        © 2026 by S&P Global Inc. All rights reserved.
+                                                      15

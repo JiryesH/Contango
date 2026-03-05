@@ -1,0 +1,882 @@
+    Specifications Guide
+    Americas Chemicals
+    Latest update: February 2026
+    Definitions of the trading locations for which Platts 
+    publishes daily indexes or assessments ..................... 2
+    Olefins and Derivatives ................................................ 4
+    Aromatics and Derivatives ............................................ 6
+    Methanol and MTBE ................................................... 9
+    Polymers and Elastomers ........................................... 12
+    Waste Bales and Recycled Polymers ............................. 19
+    US recycled and virgin polymer spot price spreads ..........20
+    Intermediates ...........................................................22
+    Solvents ..................................................................25
+    Chlor-alkali ...............................................................26
+                   ......................................26
+    Chemical and polymer freight
+    Global Chemical indices .............................................27
+    Glossary ..................................................................28
+    Revision history ..................................................... 29
+    www.spglobal.com/energy
+         Specifications Guide            Americas Chemicals: February 2026
+         Definitions of the trading locations for which Platts publishes daily indexes or assessments
+         The following guide contains the primary specifications for S&P Global Energy Platts Chemical assessments in the Americas. All the assessments listed here employ Platts Assessments Methodology, as 
+         published in the Platts-Assessments-Methodology-Guide.pdf
+         These guides are designed to give Platts subscribers as much information as possible about a wide range of methodology and specifications.
+         This guide is current at the time of publication. Platts may issue further updates and enhancements to this methodology and will announce these to subscribers through its usual publications of record. 
+         Such updates will be included in the next version of this guide. Platts editorial staff and managers are available to provide guidance when assessment issues require clarification.
+         Assessments are published in accordance with the Holiday Publication Schedule | S&P Global. Daily assessments are published on weekdays and are normally suspended in line with public holidays in 
+         respective offices (the US, Mexico and Brazil). Weekly assessments are published on the specified days of the week, and are normally brought forward to the preceding working day, in case of a holiday. 
+         Olefins and derivatives
+         Assessment                        Incoterm Location                        Currency    UOM Code          Mavg        Wavg        Contract   Mode          Laycan               Min size       Max size        Frequency      Timestamp
+         Ethylene
+         Ethylene Mont Belvieu M1          FD         USGC (Mont Belvieu, Texas)    CTS (USD)   LB    AAOSR00     AAOSR03     AAOSR05     Spot       Pipeline      Current month         5 million lb   10 million lb  Daily          4pm CT
+         Ethylene Mont Belvieu M2          FD         USGC (Mont Belvieu, Texas)    CTS (USD)   LB    AAOSS00     AAOSS03     AAOSS05     Spot       Pipeline      Current month+1       5 million lb   10 million lb  Daily          4pm CT
+         Ethylene Choctaw M1               FD         USGC (Choctaw, Louisiana)     CTS (USD)   LB    ACHOA00     ACHOA03     ACHOA04     Spot       Pipeline      Current month         3 million lb   5 million lb   Daily          4pm CT
+         Ethylene Choctaw M2               FD         USGC (Choctaw, Louisiana)     CTS (USD)   LB    ACHOB00     ACHOB03     ACHOB04     Spot       Pipeline      Current month+1       3 million lb   5 million lb   Daily          4pm CT
+         Ethylene Net Transaction Price    FD         USGC                          CTS (USD)   LB    AAKWY00                             Term       Pipeline      Current month         5 million lb   10 million lb  Monthly        N/A
+         Ethylene                          FOB        USGC (Houston Ship Channel) CTS (USD)     LB    AEFOA00      AEFOA03    AEFOA04     Spot       Waterbourne Next calendar month 3,000 mt          12,000 mt       Daily          4pm CT
+         Propylene
+         Refinery Grade Propylene          FD         USGC                          CTS (USD)   LB    AAIKS00                             Spot       Pipeline      3-30 days forward     5 million lb   10 million lb  Daily          1.30pm CT
+         Polymer Grade Propylene           FD         USGC (Texas pipeline system) CTS (USD)    LB    PHAXJ04     PHBCD03     PHAYJ04     Spot       Pipeline      Current month         5 million lb   10 million lb  Daily          1.30pm CT
+         Polymer Grade Propylene           FD         USGC (Texas pipeline system) CTS (USD)    LB    PHAAA00     PHAAA03     PHAAA04     Spot       Pipeline      Current month+1       5 million lb   10 million lb  Daily          1.30pm CT
+         Polymer Grade Propylene CP        FD         USGC                          CTS (USD)   LB    PHAJT00                             Term       Pipeline      Current month         5 million lb   10 million lb  Monthly        N/A
+         Chemical Grade Propylene CP       FD         USGC                          CTS (USD)   LB    PHAKA00                             Term                     Current month         5 million lb   10 million lb  Monthly        N/A
+         Butadiene
+         Butadiene                         CIF        USGC                          CTS (USD)   LB    PHAKC00     PHBCS03                 Spot                     3-30 days forward     2,000 mt       4,000 mt       Friday         1.30pm CT
+         Butadiene CP                      CIF        USGC                          CTS (USD)   LB    PHAKM00                             Term                     Current month                                       Monthly        N/A
+         Linear Alpha Olefins
+         Butene-1                          FOB        USGC                          CTS (USD)   LB    AHOAA00     AHOAA03     AHOAA04     Spot                     3-30 days forward    3,000 mt       3,000 mt        Daily          4:00 pm CT
+         Hexene-1                          FOB        USGC                          CTS (USD)   LB    AHOAB00     AHOAB03     AHOAB04     Spot                     3-30 days forward    3,000 mt       3,000 mt        Daily          4:00 pm CT
+         Octene-1                          FOB        USGC                          CTS (USD)   LB    AHOAC00     AHOAC03     AHOAC04     Spot                     3-30 days forward    3,000 mt       3,000 mt        Daily          4:00 pm CT
+         © 2026 by S&P Global Inc. All rights reserved.      2
+          Specifications Guide             Americas Chemicals: February 2026
+          Olefins and derivatives
+          Assessment                         Incoterm Location                          Currency    UOM Code           Mavg         Wavg        Contract    Mode          Laycan                Min size         Max size        Frequency       Timestamp
+          Oxides
+          High Purity Ethylene Oxide Cost    DAP        USGC                            USD         MT     CEOXU01     CEOXU41      CEOXU61     Cost                      Current month         3,000 mt         --              Daily           1.30pm CT
+          (EO)
+          Propylene Oxide (PO) M1            FOB        USGC                            USD         MT     CPOXU01     CPOXK03                  Spot                      Current month         1,000 mt                         Friday          1.30pm CT
+          Propylene Oxide (PO) M2            FOB        USGC                            USD         MT     CPOXU02     CPOXU03                  Spot                      Current month+1       1,000 mt                         Friday          1.30pm CT
+          Glycols
+          Monoethylene Glycol (MEG)          FOB        USGC                            CTS (USD)   LB     PHAXF04     PHBDG03                  Spot                      3-30 days forward     5,000 mt         5,000 mt        Friday          1.30pm CT
+          Diethylene Glycol (DEG)            FOB        USGC                            CTS (USD)   LB     CDEGU01     CDEGU03                  Spot                      3-30 days forward     1,000 mt         2,000 mt        Friday          1.30pm CT
+          Triethylene Glycol (TEG)           FOB        USGC                            CTS (USD)   LB     CTEGU01     CTEGU03                  Spot                      3-30 days forward     1,000 mt         2,000 mt        Friday          1.30pm CT
+          Ethanolamines (EA)
+          Monoethanolamine (MEA)             FCA        USGC                            CTS (USD)   LB     CMEAU01     CMEAU61                  Spot                      3-30 days forward     20 mt            200 mt          Tuesday         1.30pm CT
+          Diethanolamine (DEA)               FCA        USGC                            CTS (USD)   LB     CDEAU01     CDEAU61                  Spot                      3-30 days forward     20 mt            200 mt          Tuesday         1.30pm CT
+          Triethanolamine (TEA)              FCA        USGC                            CTS (USD)   LB     CTEAU01     CTEAU61                  Spot                      3-30 days forward     20 mt            200 mt          Tuesday         1.30pm CT
+          Platts Petrochemical Cash Cracker Margin (PCM)
+          Ethane Cash Cracker Margin                    US                              USD         MT     ECMDM00                              Spot
+          Ethane Cash Cracker Margin                    US                              CTS (USD)   LB     ECMCP00                              Spot
+          Ethane/Propane Mix Cash Cracker               US                              USD         MT     EPMDM00                              Spot
+          Margin
+          Ethane/Propane Mix Cash Cracker               US                              CTS (USD)   LB     EPMCP00                              Spot
+          Margin
+          Propane Cash Cracker Margin                   US                              USD         MT     PCMDM00                              Spot
+          Propane Cash Cracker Margin                   US                              CTS (USD)   LB     PCMCP00                              Spot
+          N-Butane Cash Cracker Margin                  US                              USD         MT     NBMDM00                              Spot
+          N-Butane Cash Cracker Margin                  US                              CTS (USD)   LB     NBMCP00                              Spot
+          Light Naphtha Cash Cracker                    US                              USD         MT     LNMDM00                              Spot
+          Margin
+          Light Naphtha Cash Cracker                    US                              CTS (USD)   LB     LNMCP00                              Spot
+          Margin
+          © 2026 by S&P Global Inc. All rights reserved.        3
+          Specifications Guide             Americas Chemicals: February 2026
+          Olefins and Derivatives                                                              Butadiene                                                                             Ethanolamines
+          Roll: Delivery and loading months for pipeline ethylene and                          Specification: Minimum purity of 99.5%.                                               Specification: 
+          propylene, as well as propylene oxide, roll to the next month on 
+          the first working day of the month.                                                  Linear Alpha Olefins (LAO)                                                              Monoethanolamine (MEA): Minimum purity of 99%, colorless 
+                                                                                                                                                                                        appearance; 
+          Loading month for waterbourne ethylene rolls on the 16th of                          Specification: 
+          each month. For example, on January 1-15, the assessment                                                                                                                     Diethanolamine (DEA): Minimum purity of 99%, colorless 
+          reflects February loading; January 16-February 15, the                                 Butene-1: liquified gas, minimum purity of 99%;                                       appearance;
+          assessment will reflect March loading.
+                                                                                                 Hexene-1: liquid, minimum purity of 99%;                                             Triethanolamine (TEA): Minimum purity of 99%, colorless 
+          Ethylene                                                                                                                                                                      appearance.
+                                                                                                 Octene-1: liquid, minimum purity of 99%.
+          Specification: Minimum purity of 99.9%.                                                                                                                                    Contract prices for Olefins and Derivatives
+          In the absence of pricing data on FOB USG basis, Platts may                          Oxides                                                                                Ethylene, propylene and butadiene CPs: Reflect industry-
+          consider freight netback values from destination markets,                            Specification:                                                                        settled monthly US gross domestic prices for long-term 
+          including Northwest Europe and Northeast Asia. In this case,                                                                                                               contract deliveries, before discounts. The CPs are databased 
+          the assessment would reflect the most competitive netback                              Ethylene Oxide (EO): Minimum purity of 99.9%, maximum                              when the confirmation of a full settlement is received. In the 
+          value.                                                                                  water content of 100ppm, maximum aldehydes content of                              absence of a full settlement for a specific month, Platts may 
+                                                                                                  40ppm. Platts publishes values based on variable and fixed                         choose not to database the CP. 
+          Propylene                                                                               costs of production.
+          Specification:                                                                         Propylene Oxide (PO): Minimum purity of 99.9%, maximum                             Platts Petrochemical Cash Cracker Margins
+                                                                                                  water content by weight of 250ppm, maximum aldehydes                               Platts publishes petrochemical cash cracker margins, which aim 
+            Refinery-grade: minimum purity of 65% (contained propylene                           content of 100ppm, color, measured by Pt/Co scale, of                              to reflect basic margins of steam cracker operators in the US. 
+             only, not the propane stream);                                                       maximum 10.                                                                        These are published daily in cents/lb and the equivalent $/mt. 
+                                                                                                                                                                                     The values reflect estimated production margins of US ethylene 
+            Polymer-grade: minimum purity of 99.5%;                                           Glycols                                                                               when fed with the following basic steam cracker feedstocks: 
+                                                                                                                                                                                     ethane, propane, ethane/propane mix, butane and naphtha. They 
+            Chemical-grade: minimum purity of 94%.                                            Specification:                                                                        are calculated using Platts spot assessments of ethane, propane, 
+                                                                                                                                                                                     butane, E/P mix, LSR naphtha, ethylene, propylene, butadiene, 
+          Pricing information in other locations or for product delivered                        Monoethylene Glycol (MEG): Minimum purity of 99.1%.                                benzene, RBOB 83.7, HSFO, 1%S fuel oil and natural gas on the 
+          via railcar may be normalized to the stated basis.                                                                                                                         US Gulf Coast. For each feedstock, the yields of various products 
+                                                                                                 Diethylene Glycol (DEG): Minimum purity of 99%.                                    (ethylene, propylene, butadiene, benzene, residual fuel and 
+                                                                                                                                                                                     RBOB) are calculated and the total value of output is summed up. 
+                                                                                                 Triethylene Glycol (TEG): Minimum purity of 99%.                                   Operating and feedstock costs are then subtracted, resulting in a 
+                                                                                                                                                                                     cash margin for each respective feedstock. 
+          © 2026 by S&P Global Inc. All rights reserved.         4
+          Specifications Guide            Americas Chemicals: February 2026
+          Aromatics and derivatives
+          Assessment                         Incoterm Location                         Currency     UOM Code           Mavg        Wavg         Contract   Mode           Laycan                Min size        Max size        Frequency       Timestamp
+          Benzene
+          Benzene M1                         DDP        USGC (HTC)                     CTS (USD)    GAL AAWDA00        AAWDA03     AAWDA04      Spot                      Current month         10,000 bbl                      Daily           4pm CT
+          Benzene M2                         DDP        USGC (HTC)                     CTS (USD)    GAL AAWDB00        AAWDB03     AAWDB04      Spot                      Current month+1       10,000 bbl                      Daily           4pm CT
+          Benzene M1                         FOB        USGC (HTC)                     CTS (USD)    GAL PHAAE00                    PHAWU04      Spot                      Current month         10,000 bbl                      Daily           4pm CT
+          Benzene M2                         FOB        USGC (HTC)                     CTS (USD)    GAL AAKYD00        AAKYE00     AALDC00      Spot                      Current month+1       10,000 bbl                      Daily           4pm CT
+          Benzene M3                         FOB        USGC (HTC)                     CTS (USD)    GAL AAIUL00        AAIUM00                  Spot                      Current month+2       10,000 bbl                      Daily           4pm CT
+          Benzene Q1                         FOB        USGC (HTC)                     CTS (USD)    GAL AAIUN00        AAIUO00                  Spot                      Prompt quarter        10,000 bbl                      Daily           4pm CT
+          Benzene CP                         DDP        USGC                           CTS (USD)    GAL PHAAD00                                 Term                      Current month         10,000 bbl                      Monthly         N/A
+          Benzene                            FOB        Brazil                         USD          MT    PHATP00      PHATQ03                  Spot                       3-30 days forward     1,500 mt                       Friday          4pm CT
+          Toluene
+          Nitration grade M1                 FOB        USGC (HTC)                     CTS (USD)    GAL PHAAR00        PHAWX03     PHAWW04      Spot       Barge          Current month         10,000 bbl                      Daily           1.30pm CT
+          Nitration grade M2                 FOB        USGC (HTC)                     CTS (USD)    GAL AASMY00        AASMY03     AASMY04      Spot       Barge          Current month+1       10,000 bbl                      Daily           1.30pm CT
+          Commercial grade M1                FOB        USGC (HTC)                     CTS (USD)    GAL PHAAO00        PHAYD03                  Spot       Railcar        Current month         10,000 bbl                      Friday          1.30pm CT
+          Nitration grade                    FOB        Brazil                         USD          MT    AASAP04      AASAP03                  Spot                      3-30 days forward     3,000 mt                        Friday          1.30pm CT
+          Mixed xylenes (MX)
+          Isomer grade M1                    FOB        USGC (HTC)                     CTS (USD)    GAL PHBHN00        PHBHP03     PHBHO04      Spot                      Current month         10,000 bbl                      Daily           1.30pm CT
+          Isomer grade M2                    FOB        USGC (HTC)                     CTS (USD)    GAL AASMZ00        AASMZ03     AASMZ04      Spot                      Current month+1       10,000 bbl                      Daily           1.30pm CT
+          Isomer grade M1                    FOB        USGC (HTC)                     CTS (USD)    GAL PHBHQ04        PHBHR03                  Spot                      Current month         10,000 bbl                      Friday          1.30pm CT
+          Isomer grade                       FOB        Brazil                         USD          MT    AASAQ04      AASAQ03                  Spot                      3-30 days forward     3,000 mt                        Friday          1.30pm CT
+          Paraxylene (PX)
+          Paraxylene                         FOB        USGC                           USD          MT    AAUXG00      AAUXG03     AAUXG01      Spot                      3-30 days forward      5,000 mt                       Daily           1.30pm CT
+          Paraxylene CP                      FOB        USGC                           CTS (USD)     LB   PHABO00                               Term                      Current month                                         Monthly         N/A
+          Orthoxylene (OX)
+          Orthoxylene                        FOB        USGC                           CTS (USD)    LB    PHABG00      PHAXT03                  Spot                      3-30 days forward     1,000 mt        3,000 mt        Friday          1.30pm CT
+          Ethylbenzene (EB)
+          Ethylbenzene M1                    DDP        USGC                           CTS (USD)    GAL CEBXU01        CEBXH03     CEBXH04      Spot                      Current month         25,000 bbl                      Daily           1.30pm CT
+          Ethylbenzene M2                    DDP        USGC                           CTS (USD)    GAL CEBXU02        CEBXU03     CEBXU04      Spot                      Current month+1       25,000 bbl                      Daily           1.30pm CT
+          Styrene monomer (SM)
+          Styrene M1                         FOB        USGC                           CTS (USD)    LB    AAIKW00      AAIKX00     AAIUY00      Spot                      Current month         3,000 mt        5,000 mt        Daily           4pm CT
+          Styrene M1                         FOB        USGC                           USD          MT    ASFUA00      ASFUA03     ASFUA04      Spot                      Current month         3,000 mt        5,000 mt        Daily           4pm CT
+          Styrene M2                         FOB        USGC                           CTS (USD)    LB    AAJLW00      AAJLW03     AAJLW04      Spot                      Current month+1       3,000 mt        5,000 mt        Daily           4pm CT
+          © 2026 by S&P Global Inc. All rights reserved.        5
+         Specifications Guide           Americas Chemicals: February 2026
+         Aromatics and derivatives
+         Assessment                       Incoterm Location                       Currency   UOM Code          Mavg        Wavg       Contract   Mode          Laycan              Min size       Max size        Frequency     Timestamp
+         Styrene M2                       FOB       USGC                          USD        MT     ASFUB00    ASFUB03     ASFUB04    Spot                     Current month+1     3,000 mt       5,000 mt        Daily         4pm CT
+         Caprolactam (CPL)
+         Caprolactam                      DDP       US Southeast                  CTS (USD)  LB     CCPLU41    CCPLU61                Term                     Current month       40,000 lb                      Wednesday     1.30pm CT
+         Cyclohexane (CX)
+         Cyclohexane                      DDP       USGC                          CTS (USD)  GAL CCXXU41       CCXXU61                Term                     20-40 days forward  3,000 mt                       Wednesday     1.30pm CT
+         Adipic Acid
+         Adipic Acid                      FCA       USGC                          CTS (USD)  LB     CADIU41    CADIU61                Term                     3-30 days forward   80 mt          85 mt           Wednesday     1.30pm CT
+         Cumene
+         Cumene                           FOB       USGC                          CTS (USD)  LB     AAQJC00    AAQJC03                Spot                     Current month        10,000 bbl                    Daily         4pm CT
+         Aromatics and Derivatives                                                     Toluene                                                                        For FOB Brazil, in the absence of spot pricing information Platts 
+                                                                                                                                                                      may consider netback pricing from the US Gulf Coast.
+         Roll: Delivery and loading months roll to the next month five                 Specification: 
+         calendar days prior to the end of the month. Assessments for                                                                                                 Paraxylene (PX)
+         quarters roll five calendar days prior to the start of the new                  Nitration grade: ASTM D-841 
+         quarter. Eg. on March 26, 2025, Platts published assessments                                                                                                 Specification: Minimum purity of 99.7%. 
+         for March, April, May and Q2 2025; on March 27, 2025 the                        Commercial grade: product suitable for hydrodealkylation or 
+         assessments started to reflect April, May, June and Q3, 2025                     gasoline blending.                                                          Orthoxylene (OX)
+         respectively.
+                                                                                       For FOB Brazil, in the absence of spot pricing information Platts              Specification: Minimum purity of 98%, maximum 0.3% non-
+         Benzene                                                                       may consider netback pricing from the US Gulf Coast.                           aromatic content by weight. 
+         Specification: ASTM D-2359/90 standard.                                       Mixed Xylenes (MX)                                                             Ethylbenzene (EB)
+         For FOB Brazil, in the absence of spot pricing information Platts             Specification: ASTM-5211 (isomer grade, low bromine). Any                      Specification: ASTM D-3193. 
+         may consider netback pricing from the US Gulf Coast.                          bids, offers or trades that conform to ASTM D-843 may also be 
+                                                                                       considered and normalized. 
+         © 2026 by S&P Global Inc. All rights reserved.     6
+          Specifications Guide             Americas Chemicals: February 2026
+          Styrene Monomer (SM)                                                                 Adipic Acid                                                                           Contract Prices for Aromatics and Derivatives
+          Specification: ASTM D-2827 standard.                                                 Specification: White crystalline powder, minimum purity of                            Benzene, PX CPs: Reflect monthly industry-settled US prices for 
+                                                                                               99.7%, maximum iron content of 0.5ppm.                                                long-term contract deliveries. The CPs are databased when the 
+          Caprolactam                                                                                                                                                                confirmation of a full settlement is received. In the absence of 
+                                                                                               Cumene                                                                                a full settlement for a specific month, Platts may choose not to 
+          Specification: Product in a molten state, maximum iron content                                                                                                             database the CP.
+          of 0.5mg/kg, maximum water content of 0.01% m/m.                                     Specification: ASTM D7057 standard. 
+          Cyclohexane (CX)                                                                     The cumene assessment is calculated using the feedstock 
+                                                                                               cost of benzene and refinery-grade propylene and a production 
+          Specification: Colorless, clear liquid, minimum purity of 99%.                       adder based on market feedback.
+          © 2026 by S&P Global Inc. All rights reserved.         7
+         Specifications Guide          Americas Chemicals: February 2026
+         Methanol and MTBE
+         Assessment                      Incoterm Location                      Currency   UOM Code          Mavg       Wavg       Contract                Laycan              Min size       Max size       Frequency     Timestamp
+         Methanol
+         Methanol M1                     FOB       USGC (HTC)                   CTS (USD)  GAL AAIKU00       AAIKV00    AAIUX00    Spot                    Current month       10,000bbl                     Daily         1.30pm CT
+         Methanol M1                     FOB       USGC (HTC)                   USD        MT    PHACF00     AAGJU00    AAXNJ00    Spot                    Current month       10,000bbl                     Daily         1.30pm CT
+         Methanol M2                     FOB       USGC (HTC)                   CTS (USD)  GAL AAIKY00       PHMFA03    AAIKY04    Spot                    Current month +1    10,000bbl                     Daily         1.30pm CT
+         Methanol M2                     FOB       USGC (HTC)                   USD        MT    PHMFA00     PHMFA03    AAXNJ04    Spot                    Current month +1    10,000bbl                     Daily         1.30pm CT
+         Methanol M3                     FOB       USGC (HTC)                   CTS (USD)  GAL MAFAA00       MAFAA03    MAFAA04    Forward                 Current month +2    10,000 bbl                    Daily         1.30pm CT
+         Methanol M3                     FOB       USGC (HTC)                   USD        GAL MAFAB00       MAFAB03    MAFAB04    Spot                    Current month +2    10,000 bbl                    Daily         1.30pm CT
+         Methanol Net CP                 FOB       USGC                         CTS (USD)  GAL AAIGF00                             Term                    Current month       10,000bbl                     Monthly       N/A
+         Methanol List CP                FOB       USGC                         CTS (USD)  GAL PHACE00                             Term                    Current month       10,000bbl                     Monthly       N/A
+         Methanol Bunker                 Delivered Houston                      USD        MT    MLBHT00     MLBHT03    MLBHT04    Spot                    Current month                                     Daily         1.30pm CT
+         Methanol Bunker (Oil)           Delivered Houston                      USD        MT    MLBHO00     MLBHO03    MLBHO04    Spot                    Current month                                     Daily         1.30pm CT
+         Methanol Bunker (LNG)           Delivered Houston                      USD        MT    MLBHL00     MLBHL03    MLBHL04    Spot                    Current month                                     Daily         1.30pm CT
+         Low-Carbon Methanol Marine      Delivered  Houston ship channel        USD        MT    LCMAU00     LCMAU03    LCMAU04    Spot                    5-10 days forward   500mt                         Daily         1.30pm CT
+         Fuel (LC MMF)
+         eMethanol Production Cost       FOB       USGC                         USD        MT    FGGMD00     FGGMD03    FGGMD04    Cost                    5-30 days forward   500mt          750 mt         Daily         1.30pm CT
+         MTBE
+         MTBE                            FOB       USGC (HTC)                   CTS (USD)  GAL PHAKY00       PHAYA03    PHAVV04    Spot                    5-15 days forward    25,000bbl                    Daily         1.30pm CT
+         MTBE                            FOB       USGC (HTC)                   USD        MT    AAWLB00     PHAVQ03               Spot                    5-15 days forward    25,000bbl                    Daily         1.30pm CT
+         MTBE - NYMEX RBOB Differential  FOB       USGC (HTC)                   CTS (USD)  GAL MTNYA00       MTNYA03    MTNYA04    Spot                    5-15 days forward    25,000bbl                    Daily         1.30pm CT
+         MTBE - NYMEX RBOB Differential  FOB       USGC (HTC)                   USD        MT    MTNYB00     MTNYB04    MTNYB03    Spot                    5-15 days forward    25,000bbl                    Daily         1.30pm CT
+         © 2026 by S&P Global Inc. All rights reserved.   8
+          Specifications Guide             Americas Chemicals: February 2026
+          Methanol and MTBE                                                                    The comparisons and conversion factors can be found in Platts                         Timing: Bids and offers, published in the Platts Market-on-Close 
+                                                                                               Global Bunker Fuels specifications guide at  bunker-fuels-                            assessment process, reflect five-day laycans within the 5-15 
+          Methanol                                                                             specifications.pdf                                                                    days forward assessment period. Laycans consist of a front 
+                                                                                                                                                                                     end reflecting 5-9 days forward, a mid-window reflecting 8-12 
+          Specification: International Methanol Producers and                                  Platts also assesses low-carbon methanol marine fuel on a                             days forward and a back end reflecting 11-15 days forward. The 
+          Consumers Association (IMPCA) Reference Specification,                               delivered Houston ship channel basis.                                                 MTBE MOC assessment process is facilitated through eWindow 
+          maximum water content of 0.1% by weight.                                                                                                                                   technology. For further details, please consult the Chemicals 
+                                                                                               Platts separately publishes typical carbon intensities of                             Timing and Increment Guidelines at chemicals-timing.pdf. 
+          Sustainability: Low-carbon MMF reflects a maximum carbon                             methanol produced via various production routes. 
+          intensity of 32.9gCO2e/MJ, certified by ISCC EU or another                                                                                                                 Nomination: For transactions agreed as part of the Platts MOC, 
+          recognised industry body.                                                            eMethanol production cost                                                             the seller is expected to nominate the port and terminal in 
+                                                                                                                                                                                     the USG area and to inform the buyer within five days of the 
+          Roll: The loading months roll to the next month five calendar                        This  assessment factors in the cost of production,                                   first day of the five-day laycan. The buyer is then expected to 
+          days prior to the end of the month.                                                  transportation and storage for renewable methanol, produced                           nominate the vessel and the loading dates within the five-day 
+                                                                                               via electrolysis and direct air-captured carbon dioxide. The                          laycan, pending terminal acceptance.
+          Methanol bunker fuel                                                                 assessment is aligned with the assumptions of the Process 
+                                                                                               Economics Program (PEP). The variable and fixed inputs are                            The price is assessed as an outright value as well as a 
+          These assessments factor in the price of methanol on an FOB                          periodically reviewed to ensure they are representative of                            differential to front-month NYMEX RBOB futures. Platts may 
+          Houston basis for current month (PHACF00), logistics costs                           prevailing market dynamics.                                                           also consider the US MTBE factor, reflecting the ratio between 
+          from the terminal to the barge or truck, and charges for delivery                                                                                                          the daily MTBE FOB USG basis assessment and the front-month 
+          direct to the receiving vessel.                                                      MTBE                                                                                  NYMEX RBOB futures close, as well as the physical spot US Gulf 
+                                                                                                                                                                                     Coast gasoline market. 
+          Platts converts its conventional methanol bunker fuel price                          Specification: Minimum purity of 95%, water content of 
+          assessment to the equivalent energy content of LNG and fuel                          maximum 1,500 ppm, methanol content of maximum 5,000 ppm.                             Contract prices for Methanol
+          oil, enabling comparison with other marine fuels. Platts also 
+          publishes daily calculations for methanol bunker fuel, LNG,                          Location: Bids, offers and trades at Beaumont, Port Arthur, and                       Platts publishes an average of monthly producer-posted prices 
+          marine fuel oil and marine gasoil assessments, expressing price                      Port Neches areas may be normalized to reflect comparable                             and, separately, a net contract price assessment that reflects 
+          by calorific value.                                                                  values in the Houston-Texas City area.                                                discounts, based on market feedback.
+          © 2026 by S&P Global Inc. All rights reserved.         9
+         Specifications Guide           Americas Chemicals: February 2026
+         US Polymers and Elastomers
+         Assessment                            Incoterm Location               Currency   UOM Code         Mavg       Wavg       Contract Mode       MFI/MFR      Laycan                     Min size     Max size     Frequency     Timestamp
+         High Density Polyethylene (HDPE)
+         HDPE Blowmolding                      FAS      Houston                USD        MT PHAHG00       PHBBF03               Spot                Min 0.25     3-30 days forward          250 mt                    Wednesday     1.30pm CT
+         HDPE Blowmolding                      FAS      Houston                USD        MT AAWCZ00       AAWCZ03               Spot                Min 0.25     3-30 days forward          250 mt                    Daily         1.30pm CT
+         HDPE Blowmolding                      FAS      USEC                   USD        MT AFASC00       AFASC03    AFASC04    Spot                Min 0.25     3-30 days forward          250 mt                    Daily         1.30pm CT
+         HDPE HMW Film                         FAS      Houston                USD        MT AAHYA00       AAHYB00               Spot                0.07-0.18    3-30 days forward          250 mt                    Wednesday     1.30pm CT
+         HDPE Injection                        FAS      Houston                USD        MT PHAHJ00       PHBBA03               Spot                2.0-25       3-30 days forward          250 mt                    Wednesday     1.30pm CT
+         Low Density Polyethylene (LDPE)
+         LDPE General Purpose                  FAS      Houston                USD        MT PHAHP00       PHBAR03    AAQNT00    Spot                1.8-2.5      3-30 days forward          250 mt                    Daily         1.30pm CT
+         LDPE General Purpose                  FAS      USEC                   USD        MT AFASA00       AFASA03    AFASA04    Spot                1.8-2.5      3-30 days forward          250 mt                    Daily         1.30pm CT
+         Linear Low Density Polyethylene (LLDPE)
+         LLDPE Butene                          FAS      Houston                USD        MT PHAGX00       PHBAV03    AAQNU00    Spot                1.0          3-30 days forward          250 mt                    Daily         1.30pm CT
+         LLDPE Butene                          FAS      USEC                   USD        MT AFASB00       AFASB03    AFASB04    Spot                1.0          3-30 days forward          250 mt                    Daily         1.30pm CT
+         LLDPE Metallocene                     FAS      Houston                USD        MT AAXUN00       AAXUN03               Spot                0.3-4.5      3-30 days forward          100 mt                    Wednesday     1.30pm CT
+         LLDPE Hexene                          FAS      Houston                USD        MT AAXUL00       AAXUL03               Spot                0.85         3-30 days forward          100 mt                    Wednesday     1.30pm CT
+         PE US domestic monthly contract       DAP      US                     CTS (USD) LB     ADELA00                          Term      Railcar                Calendar month                                       Monthly       N/A
+         price delta
+         Ethylene Vinyl Acetate (EVA)
+         Medium-VA Ethylene Vinyl Acetate      FAS      Houston                USD        MT CEVAU01       CEVAU61    CEVAU41    Spot                             3-30 days forward          85 mt        250 mt       Daily         1.30pm CT
+         (M-EVA)
+         Polypropylene (PP)
+         PP Homopolymer Injection              FAS      Houston                USD        MT PHAIB00       PHBBU03    AAQNV00    Spot                2.5-10       3-30 days forward          250 mt                    Daily         1.30pm CT
+         PP Copolymer                          FAS      Houston                USD        MT PHAHV00       PHBCH03               Spot                             3-30 days forward          250 mt                    Wednesday     1.30pm CT
+         Polystyrene (PS)
+         General purpose polystyrene (GPPS)    FAS      Houston                USD        MT PHAIH00       PHBBK03               Spot                8-12         3-30 days forward          250 mt                    Wednesday     1.30pm CT
+         HIgh impact polystyrene (HIPS)        FAS      Houston                USD        MT PHAIN00       PHBBP03               Spot                3-8          3-30 days forward          250 mt                    Wednesday     1.30pm CT
+         Expandable Polystyrene General        CFR      US West Coast          USD        MT CEPSU41       CEPSU61               Spot                             10-30 days forward         100 mt       500 mt       Wednesday     1.30pm CT
+         Grade (EPS GP)
+         Expandable Polystyrene Fire-          CFR      US West Coast          USD        MT CEPSU42       CEPSU62               Spot                             10-30 days forward         100 mt       500 mt       Wednesday     1.30pm CT
+         Retardant grade (EPS FR) 
+         Acrylonitrile Butadiene Styrene (ABS)
+         ABS Injection                         DAP                             CTS (USD) LB     AARTU00    AARTU03               Term      Railcar   10-40        Monthly                     30 million  50 million   Wednesday     1.30pm CT
+                                                                                                                                                                                             lb/year      lb/year
+         ABS Injection                         DAP                             USD        MT    AASJM00    AASJM03               Term      Railcar   10-40        Monthly                    13,605 mt/   22,675 mt/   Wednesday     1.30pm CT
+                                                                                                                                                                                             year         year
+         © 2026 by S&P Global Inc. All rights reserved.      10
+          Specifications Guide             Americas Chemicals: February 2026
+          US Polymers and Elastomers
+          Assessment                              Incoterm Location                  Currency    UOM Code          Mavg        Wavg        Contract Mode         MFI/MFR      Laycan                       Min size      Max size      Frequency      Timestamp
+          Polyvinyl Chloride (PVC)
+          PVC Suspension                          FAS       Houston                  USD         MT PHAIT00        PHBAM03                 Spot                               3-30 days forward            250 mt                      Wednesday      1.30pm CT
+          PVC Suspension US domestic              DAP       US                       CTS (USD) LB      ADELB00                             Term       Railcar                 Calendar month               150 million                 Monthly        N/A
+          contract price delta                                                                                                                                                                             lb/year
+          Polyethylene Terephtalate (PET)
+          PET Bottle Grade                        DDP       US West Coast            USD         MT AASMM00        AASMM03                 Spot                               3-30 days forward            100 mt                      Wednesday      1.30pm CT
+          Nylon
+          Nylon-6 Resin                           Ex-works US Southeast              CTS (USD) LB      CPA6U01     CPA6U61                 Spot                               10-30 days forward           20 mt         24 mt         Wednesday      1.30pm CT
+          Nylon-6,6 Resin                         Ex-works US Southeast              CTS (USD) LB      CN66U01     CN66U61                 Spot                               10-30 days forward           20 mt         24 mt         Wednesday      1.30pm CT
+          Acrylic fibers
+          Acrylic Staple Fiber                    DDP       USEC                     USD         MT    ASFDU04     ASFDU03                 Spot                                3-30 days forward           20 mt         --            Thursday       1.30 pm CT
+          Methyl Methacrylate (MMA)
+          Methyl methacrylate                     DDP       USGC                     CTS (USD) LB      CMMAU01     CMMAU61     CMMAU41     Spot                               3-30 days forward            20 mt         25 mt         Daily          1.30pm CT
+          Polymethyl Methacrylate (PMMA)
+          Polymethyl methacrylate                 DDP       USGC                     CTS (USD) LB      PMAEC00     PMAEC03                 Spot                               3-30 days forward            FCL on TEU                  Wednesday      1.30pm CT
+          Polycarbonate (PC)
+          PC Extrusion Grade                      FOB       USGC                     CTS (USD) MT      CPCXU01     CPCXU61                 Spot                               3-30 days forward             20 mt                      Wednesday      1.30pm CT
+          PC Injection-Moulding Grade             FOB       USGC                     CTS (USD) MT      CPCXU02     CPCXU62                 Spot                               3-30 days forward             20 mt                      Wednesday      1.30pm CT
+          Polybutylene Terephthalate (PBT)
+          PBT Neat Resin                          DDP       US Midwest               CTS (USD) MT      PNRDD00     PNRDD03                 Spot                               3-30 days forward             20 mt                      Wednesday      1.30pm CT
+          PBT 30% Glass-Filled Resin              DDP       US Midwest               CTS (USD) MT      PNRDE00     PNRDE03                 Spot                               3-30 days forward             20 mt                      Wednesday      1.30pm CT
+          Polyoxymethylene (POM)
+          POM                                     FOB       USGC                     USD         MT POMEW00        POMEW03                 Spot                               3-30 days forward            FCL on TEU                  Wednesday      1.30pm CT
+          Epoxy Resin
+          Liquid Epoxy Resin                      DDP       USGC                     CTS (USD) LB      LEUGC00     LEUGC03                 Spot                               3-30 days forward             20 mt        --            Tuesday        1.30 pm CT
+          Rubber
+          High-Cis Polybutadiene (H-PBR)          FOB       USGC                     CTS (USD) LB      CPBRU01     CPBRU05                 Spot                               15-30 days forward           16 mt         20 mt         Friday         1.30pm CT
+          Emulsion SBR 1500 (ESBR)                CFR       USGC                     CTS (USD) LB      CSBRU01     CSBRU04                 Spot                               15-30 days forward           16 mt         20 mt         Friday         1.30pm CT
+          Emulsion SBR 1502 (ESBR)                CFR       USGC                     CTS (USD) LB      CSBRU02     CSBRU03                 Spot                               15-30 days forward           16 mt         20 mt         Friday         1.30pm CT
+          Natural rubber                          CFR       USEC                     USD         MT ARUBA04        ARUBA03                 Spot                               30-60 days forward           20 mt                       Friday         1.30pm CT
+          © 2026 by S&P Global Inc. All rights reserved.         11
+          Specifications Guide             Americas Chemicals: February 2026
+          Polymers and Elastomers                                                              Polyethylene (PE)                                                                     Polyethylene Terephthalate (PET)
+          Basis ports: All basis ports are considered as par ports with no                     Specification: Please consult the tables.                                             Specification: Bottle grade, intrinsic viscosity of 0.76-0.84.
+          price differential currently observed.
+                                                                                               For HDPE Injection in the US and Mexico the liquidity in the                          Polybutylene Terephthalate (PBT)
+          FAS USEC: Savannah, Georgia, and Charleston, South Carolina.                         stated MFI range is concentrated primarily in the crate-grade 
+          The FAS USEC prices are calculated as net forwards from the                          section with MFI 5-11.                                                                Specification: 
+          equivalent Houston prices, based on railcar/bagging costs;
+                                                                                               The US LLDPE 1-hexene and mLLDPE reflect both cast and                                  Neat: base resin, intrinsic viscosity equal to or less than 1.1 
+          CFR WCSA: main ports in Chile (Valparaiso, San Antonio),                             blown film.                                                                              dL/g;
+          Colombia (Buenaventura, Cartagena), Ecuador (Guayaquil) and 
+          Peru (Callao);                                                                       Ethylene Vinyl Acetate (EVA)                                                            Glass-filled resin: 30% glass-filled resin.
+          CFR Mercosur: main ports in Argentina (Buenos Aires) and                             Specification: Medium EVA (M-EVA), vinyl acetate monomer                              Nylon (PA, polyamide)
+          Uruguay (Montevideo).                                                                content of 7-20%
+                                                                                                                                                                                     Specification: 
+          Normalization: Information received on different bases – such                        Polypropylene (PP)
+          as incoterm or location port – may be considered, subject to                                                                                                                 Nylon-6 resin: viscosity of 2.65-2.7 g/ml, melt temperature of 
+          normalization.                                                                       Specification: Please consult the tables. The US homopolymer                             220 degrees Celsius,
+                                                                                               assessment reflects both raffia and injection grades. The US 
+          Payment terms:                                                                       copolymer assessment reflects grades between and including                              Nylon-6,6: engineering grade resin, viscosity of 2.33-2.67 g/ml, 
+                                                                                               block and random grades.                                                                 melting temperature of 262 degrees Celsius.
+            CFR WCSA: LC 90-150 days;
+            CFR Brazil: LC 90 days;                                                           Polystyrene (PS)                                                                      Acrylic fibers
+                                                                                               Specification: Please consult the tables.                                             Specification: Staple fiber with minimum 85% acrylonitrile 
+            Domestic Brazil: LC 28-35 days;
+                                                                                               Expandable polystyrene (EPS) reflects bead size between 0.5-                          Methyl Methacrylate (MMA)
+            Domestic Argentina: LC 60-90 days;                                                1.3mm, density of 10-20 grams per liter (g/l) for both general and 
+                                                                                               fire-retardant grades.                                                                Specification: Minimum purity of 99.8%, Color APHA of max 10 
+            Domestic Colombia: LC 60-90 days.                                                                                                                                       Hazen, water content max 0.05% and inhibitor of 10-20ppm.
+          Duties: CFR assessments exclude import duties, unless                                Acrylonitrile Butadiene Styrene (ABS) 
+          otherwise specified.                                                                 Specification: Please consult the tables.                                             Polymethyl methacrylate (PMMA)
+                                                                                                                                                                                     Specification: MFI of 1.5-4 grams/10 minutes tested at 230 
+          Packaging: FAS Houston and FAS USEC assessments reflect                              Polyvinyl Chloride (PVC)                                                              degrees C/3.8kg. Suitable for standard clear extrusion into 
+          material bagged for exports.                                                                                                                                               sheet.
+                                                                                               Specification: Suspension pipe-grade K-value of 65.
+          © 2026 by S&P Global Inc. All rights reserved.         12
+          Specifications Guide             Americas Chemicals: February 2026
+          Rubber                                                                               Polycarbonate (PC)                                                                    Liquid Epoxy Resins
+          Specification:                                                                       Specification:                                                                        Specification: base resin, transparent <1 Gardner color scale.
+            Emulsion styrene butadiene rubber (ESBR) 1500, 1502 grades                          Extrusion grade: Linear resins in clear pellet.                                    Contract prices for Polymers
+            High-cis polybutadiene rubber (H-PBR)                                               Injection-moulding grade: Linear resins in clear pellet.                           PE, PVC CP deltas: Reflect month-on-month change in freely 
+                                                                                                                                                                                     negotiated prices for long-term contract deliveries. Deltas are 
+            Natural Rubber: technically specified rubber 20 (TSR 20)                          Polyoxymethylene (POM)                                                                databased to the first working day of the month, which they 
+             that includes Standard Malaysia Rubber (SMR 20), Standard                                                                                                               relate to, once Platts receives confirmation of the contract price 
+             Indonesian Rubber (SIR 20), Standard Thai Rubber (STR                             Specification: Copolymer, MFI 9grams/10 minutes tested at 190                         month on month change from the market.
+             20) and Standard Vietnam Rubber (SVR 20). Maximum dirt                            degrees Celsius/2.16kg, natural (white) color.
+             content of 0.16-0.2% wt, maximum ash content of 0.8-1% wt                                                                                                               ABS CP: Reflects freely negotiated prices for deliveries under 
+             and maximum nitrogen content of 0.6% wt.                                                                                                                                long-term agreements. It is based on contract pricing for large 
+                                                                                                                                                                                     US buyers and reflect settlements and negotiations between 
+                                                                                                                                                                                     producers and buyers through the course of the delivery month. 
+          © 2026 by S&P Global Inc. All rights reserved.         13
+         Specifications Guide           Americas Chemicals: February 2026
+         Latin American Polymers
+         Assessment                           Incoterm Location               Currency    UOM Code         Mavg       Wavg Contract Mode             MFI/MFR     Laycan                     Min size     Max size     Frequency     Timestamp
+         High Density Polyethylene (HDPE)
+         HDPE blowmolding                     CFR       Brazil                USD         MT AAVRE04       AAVRE03          Spot                     2.0-16        20-40 days forward        250 mt                   Wednesday     1.30pm CT
+         HDPE blowmolding                     CFR       Mercosur              USD         MT HDCAC00       HDCAC03          Spot                     2.0-16        20-40 days forward        100 mt      500 mt       Wednesday     1.30pm CT
+         HDPE blowmolding                     CFR       WCSA                  USD         MT AASVL00       AASVL03          Spot                     2.0-16        20-40 days forward        100 mt      300 mt       Wednesday     1.30pm CT
+         HDPE blowmolding                     DAP       Mexico City           USD         MT AABMD04       AABMD03          Spot       Railcar       Min 0.25      3-30 days forward         100 mt      300 mt       Wednesday     1.30pm CT
+         HDPE blowmolding                     DAP       Mexico City           Peso        MT AABMP04       AABMP03          Spot       Railcar       Min 0.25      3-30 days forward         100 mt      300 mt       Wednesday     1.30pm CT
+                                                                              (MXN)
+         HDPE blowmolding                     DAP       Sao Paulo             Real        MT AABMH04       AABMH03          Spot       Truck         Min 0.25      3-30 days forward         100 mt      500 mt       Wednesday     1.30pm CT
+         HDPE blowmolding                     DAP       Sao Paulo             USD         MT AABMG04       AABMG03          Spot       Truck         Min 0.25      3-30 days forward         100 mt      500 mt       Wednesday     1.30pm CT
+         HDPE blowmolding                     DAP       Greater Buenos Aires  USD         MT AABAE04       AABAE03          Spot       Railcar/Truck Min 0.25      3-30 days forward         100 mt      300 mt       Wednesday     1.30pm CT
+         HDPE blowmolding                     DAP       Greater Buenos Aires  Peso (ARS) MT    AABAF04     AABAF03          Spot       Railcar/Truck Min 0.25      3-30 days forward         100 mt      300 mt       Wednesday     1.30pm CT
+         HDPE blowmolding                     DAP       Bogota                USD         MT AABAG04       AABAG03          Spot       Truck         Min 0.25      3-30 days forward         100 mt      300 mt       Wednesday     1.30pm CT
+         HDPE blowmolding                     DAP       Bogota                Peso (COP) MT    AABAH04     AABAH03          Spot       Truck         Min 0.25      3-30 days forward         100 mt      300 mt       Wednesday     1.30pm CT
+         HDPE HMW film                        CFR       Brazil                USD         MT AAVRF04       AAVRF03          Spot                     2.0-16       20-40 days forward         250 mt                   Wednesday     1.30pm CT
+         HDPE HMW film                        CFR       Mercosur              USD         MT HDCAB00   HDCAB03              Spot                     2.0-16        20-40 days forward        100 mt      500 mt       Wednesday     1.30pm CT
+         HDPE HMW film                        CFR       WCSA                  USD         MT AASVM00       AASVM03          Spot                     2.0-16        20-40 days forward        100 mt      300 mt       Wednesday     1.30pm CT
+         HDPE HMW film                        DAP       Mexico City           USD         MT AABAM04       AABAM03          Spot       Railcar       Min 0.06      3-30 days forward         100 mt      300 mt       Wednesday     1.30pm CT
+         HDPE HMW film                        DAP       Mexico City           Peso        MT AABAN04       AABAN03          Spot       Railcar       Min 0.06      3-30 days forward         100 mt      300 mt       Wednesday     1.30pm CT
+                                                                              (MXN)
+         HDPE film                            DAP       Sao Paulo             Real        MT AABMF04       AABMF03          Spot       Truck         Min 0.25      3-30 days forward         100 mt      500 mt       Wednesday     1.30pm CT
+         HDPE film                            DAP       Sao Paulo             USD         MT AABME04       AABME03          Spot       Truck         Min 0.25      3-30 days forward         100 mt      500 mt       Wednesday     1.30pm CT
+         HDPE HMW film                        DAP       Greater Buenos Aires  USD         MT AABAS04       AABAS03          Spot       Railcar/Truck Min 0.25      3-30 days forward         100 mt      300 mt       Wednesday     1.30pm CT
+         HDPE HMW film                        DAP       Greater Buenos Aires  Peso (ARS) MT    AABAJ04     AABAJ03          Spot       Railcar/Truck Min 0.25      3-30 days forward         100 mt      300 mt       Wednesday     1.30pm CT
+         HDPE HMW film                        DAP       Bogota                USD         MT AABAK04       AABAK03          Spot       Truck         Min 0.25      3-30 days forward         100 mt      300 mt       Wednesday     1.30pm CT
+         HDPE HMW film                        DAP       Bogota                Peso (COP) MT    AABAL04     AABAL03          Spot       Truck         Min 0.25      3-30 days forward         100 mt      300 mt       Wednesday     1.30pm CT
+         HDPE injection                       CFR       Brazil                USD         MT AAVRD04       AAVRD03          Spot                     2.0-25        20-40 days forward        250 mt                   Wednesday     1.30pm CT
+         HDPE injection                       CFR       Mercosur              USD         MT HDCAA00       HDCAA03          Spot                     2.0-25        20-40 days forward        100 mt      500 mt       Wednesday     1.30pm CT
+         HDPE injection                       CFR       WCSA                  USD         MT AASVK00       AASVK03          Spot                     2.0-25        20-40 days forward        100 mt      300 mt       Wednesday     1.30pm CT
+         HDPE injection                       DAP       Mexico City           USD         MT AAIJM04       AAIJM03          Spot       Railcar       2.0-25        3-30 days forward         100 mt      300 mt       Wednesday     1.30pm CT
+         HDPE injection                       DAP       Mexico City           Peso        MT AAIJD04       AAIJD03          Spot       Railcar       2.0-25        3-30 days forward         100 mt      300 mt       Wednesday     1.30pm CT
+                                                                              (MXN)
+         HDPE injection                       DAP       Sao Paulo             Real        MT AABMJ04       AABMJ03          Spot       Truck         2.0-25        3-30 days forward         100 mt      500 mt       Wednesday     1.30pm CT
+         HDPE injection                       DAP       Sao Paulo             USD         MT AABMI04       AABMI03          Spot       Truck         2.0-25        3-30 days forward         100 mt      500 mt       Wednesday     1.30pm CT
+         HDPE injection                       DAP       Greater Buenos Aires  USD         MT AABAU04       AABAU03          Spot       Railcar/Truck 2.0-25        3-30 days forward         100 mt      300 mt       Wednesday     1.30pm CT
+         HDPE injection                       DAP       Greater Buenos Aires  Peso (ARS) MT    AABAP04     AABAP03          Spot       Railcar/Truck 2.0-25        3-30 days forward         100 mt      300 mt       Wednesday     1.30pm CT
+         © 2026 by S&P Global Inc. All rights reserved.     14
+         Specifications Guide           Americas Chemicals: February 2026
+         Latin American Polymers
+         Assessment                           Incoterm Location               Currency    UOM Code         Mavg       Wavg Contract Mode             MFI/MFR     Laycan                     Min size     Max size     Frequency     Timestamp
+         HDPE injection                       DAP       Bogota                USD         MT AABAQ04       AABAQ03          Spot       Truck         2.0-25        3-30 days forward         100 mt      300 mt       Wednesday     1.30pm CT
+         HDPE injection                       DAP       Bogota                Peso (COP) MT    AABAR04     AABAR03          Spot       Truck         2.0-25        3-30 days forward         100 mt      300 mt       Wednesday     1.30pm CT
+         Low Density Polyethylene (LDPE)
+         LDPE Film                            CFR       Brazil                USD         MT AAVRB04       AAVRB03          Spot                     0.1-3.5       20-40 days forward        250 mt                   Wednesday     1.30pm CT
+         LDPE Film                            CFR       Mercosur              USD         MT LDCAA00   LDCAA03              Spot                     0.1-3.5       20-40 days forward        100 mt      500 mt       Wednesday     1.30pm CT
+         LDPE Film                            CFR       WCSA                  USD         MT AASVI00       AASVI03          Spot                     0.1-3.5       20-40 days forward        100 mt      300 mt       Wednesday     1.30pm CT
+         LDPE film                            DAP       Mexico City           USD         MT ALDPD04       ALDPD03          Spot       Railcar       1.8-2.5       3-30 days forward         100 mt      300 mt       Wednesday     1.30pm CT
+         LDPE film                            DAP       Mexico City           Peso        MT ALDED04       ALDED03          Spot       Railcar       1.8-2.5       3-30 days forward         100 mt      300 mt       Wednesday     1.30pm CT
+                                                                              (MXN)
+         LDPE film                            DAP       Sao Paulo             Real        MT AABML04       AABML03          Spot       Truck         1.8-2.5       3-30 days forward         100 mt      500 mt       Wednesday     1.30pm CT
+         LDPE film                            DAP       Sao Paulo             USD         MT AABMK04       AABMK03          Spot       Truck         1.8-2.5       3-30 days forward         100 mt      500 mt       Wednesday     1.30pm CT
+         LDPE film                            DAP       Greater Buenos Aires  USD         MT AABAV04       AABAV03          Spot       Railcar/Truck 1.8-2.5       3-30 days forward         100 mt      300 mt       Wednesday     1.30pm CT
+         LDPE film                            DAP       Greater Buenos Aires  Peso (ARS) MT    AABAW04     AABAW03          Spot       Railcar/Truck 1.8-2.5       3-30 days forward         100 mt      300 mt       Wednesday     1.30pm CT
+         LDPE film                            DAP       Bogota                USD         MT AABAX04       AABAX03          Spot       Truck         1.8-2.5       3-30 days forward         100 mt      300 mt       Wednesday     1.30pm CT
+         LDPE film                            DAP       Bogota                Peso (COP) MT    AABAY04     AABAY03          Spot       Truck         1.8-2.5       3-30 days forward         100 mt      300 mt       Wednesday     1.30pm CT
+         Linear Low Density Polyethylene (LLDPE)
+         LLDPE butene                         CFR       Brazil                USD         MT AAVRC04       AAVRC03          Spot                     1.0           20-40 days forward        250 mt                   Wednesday     1.30pm CT
+         LLDPE butene                         CFR       Mercosur              USD         MT LDCAB00       LDCAB03          Spot                     1.0           20-40 days forward        100 mt      500 mt       Wednesday     1.30pm CT
+         LLDPE butene                         CFR       WCSA                  USD         MT AASVJ00       AASVJ03          Spot                     1.0           20-40 days forward        100 mt      300 mt       Wednesday     1.30pm CT
+         LLDPE butene                         DAP       Mexico City           USD         MT ALDPE04       ALDPE03          Spot       Railcar       1.0           3-30 days forward         100 mt      300 mt       Wednesday     1.30pm CT
+         LLDPE butene                         DAP       Mexico City           Peso        MT ALDPF04       ALDPF03          Spot       Railcar       1.0           3-30 days forward         100 mt      300 mt       Wednesday     1.30pm CT
+                                                                              (MXN)
+         LLDPE butene                         DAP       Sao Paulo             Real        MT AABMN04       AABMN03          Spot       Truck         1.0           3-30 days forward         100 mt      500 mt       Wednesday     1.30pm CT
+         LLDPE butene                         DAP       Sao Paulo             USD         MT AABMM04       AABMM03          Spot       Truck         1.0           3-30 days forward         100 mt      500 mt       Wednesday     1.30pm CT
+         LLDPE butene                         DAP       Greater Buenos Aires  USD         MT AABAC04       AABAC03          Spot       Railcar/Truck 1.0           3-30 days forward         100 mt      300 mt       Wednesday     1.30pm CT
+         LLDPE butene                         DAP       Greater Buenos Aires  Peso (ARS) MT    AABAD04     AABAD03          Spot       Railcar/Truck 1.0           3-30 days forward         100 mt      300 mt       Wednesday     1.30pm CT
+         LLDPE butene                         DAP       Bogota                USD         MT AABAA04       AABAA03          Spot       Truck         1.0           3-30 days forward         100 mt      300 mt       Wednesday     1.30pm CT
+         LLDPE butene                         DAP       Bogota                Peso (COP) MT    AABAB04     AABAB03          Spot       Truck         1.0           3-30 days forward         100 mt      300 mt       Wednesday     1.30pm CT
+         Polypropylene (PP)
+         PP Homopolymer Injection             CFR       Brazil                USD         MT AAVRA04       AAVRA03          Spot                     0.8-35.0      20-40 days forward        250 mt                   Wednesday     1.30pm CT
+         PP Homopolymer Injection             CFR       Mercosur              USD         MT PPCSA00   PPCSA03              Spot                     0.8-35.0      20-40 days forward        100 mt      500 mt       Wednesday     1.30pm CT
+         PP Homopolymer Injection             CFR       WCSA                  USD         MT AASVO00       AASVO03          Spot                     0.8-35.0      20-40 days forward        100 mt      300 mt       Wednesday     1.30pm CT
+         PP Copolymer                         CFR       Brazil                USD         MT AAVRG04       AAVRG03          Spot                     1.5-25.0      20-40 days forward        250 mt                   Wednesday     1.30pm CT
+         © 2026 by S&P Global Inc. All rights reserved.     15
+          Specifications Guide             Americas Chemicals: February 2026
+          Latin American Polymers
+          Assessment                              Incoterm Location                  Currency    UOM Code          Mavg        Wavg Contract Mode                MFI/MFR      Laycan                       Min size      Max size      Frequency      Timestamp
+          PP Copolymer                            CFR       Mercosur                 USD         MT PPCSB00        PPCSB03            Spot                       1.5-25.0       20-40 days forward          100 mt       500 mt        Wednesday      1.30pm CT
+          PP Copolymer                            CFR       WCSA                     USD         MT AASVN00        AASVN03            Spot                       1.5-25.0       20-40 days forward          100 mt       300 mt        Wednesday      1.30pm CT
+          Polyvinyl Chloride (PVC)
+          PVC suspension                          CFR       Brazil                   USD         MT AAVPZ04        AAVPZ03            Spot                                      20-40 days forward          250 mt                     Wednesday      1.30pm CT
+          PVC suspension                          CFR       WCSA                     USD         MT AASVH00        AASVH03            Spot                                     20-40 days forward           100 mt       300 mt        Wednesday      1.30pm CT
+          Polyoxymethylene (POM)
+          POM                                     CFR       Brazil                   USD         MT POMEV00        POMEV03            Spot                                    20-40 days forward           FCL                         Wednesday      1.30pm CT
+          © 2026 by S&P Global Inc. All rights reserved.         16
+         Specifications Guide           Americas Chemicals: February 2026
+         Waste Bales and Recycled Polymers
+         Assessment                       Incoterm Location                       Currency    UOM Code          Mavg        Wavg       Contract                 Laycan               Min size       Max size       Frequency      Timestamp
+         Post-Consumer PET Bottle Bales
+         Standard Grade PET Bottle Bale   Ex-Works Greater Chicago                CTS (USD)   LB    APCCH00     APCCH03     APCCH04    Spot                     0-7 days forward     35,000 lb      40,000 lb      Daily          4pm CT
+         Standard Grade PET Bottle Bale   Ex-Works Greater Chicago                USD         MT    APNCH00     APNCH03     APNCH04    Spot                     0-7 days forward     16 mt          18 mt          Daily          4pm CT
+         Standard Grade PET Bottle Bale   Ex-Works Greater Los Angeles            CTS (USD)   LB    APCLB00     APCLB03     APCLB04    Spot                     0-7 days forward     35,000 lb      40,000 lb      Daily          4pm CT
+         Standard Grade PET Bottle Bale   Ex-Works Greater Los Angeles            USD         MT    APNLB00     APNLB03     APNLB04    Spot                     0-7 days forward     16 mt          18 mt          Daily          4pm CT
+         Standard Grade PET Bottle Bale   Ex-Works US Southeast                   CTS (USD)   LB    APOSA00     APOSA03     APOSA04    Spot                     0-30 days forward    35,000 lb      44,000 lb      Daily          4pm CT
+         Premium Grade PET Bottle Bale    Ex-Works Greater Los Angeles            CTS (USD)   LB    APCLA00     APCLA03     APCLA04    Spot                     0-7 days forward     35,000 lb      40,000 lb      Daily          4pm CT
+         Premium Grade PET Bottle Bale    Ex-Works Greater Los Angeles            USD         MT    APNLA00     APNLA03     APNLA04    Spot                     0-7 days forward     16 mt          18 mt          Daily          4pm CT
+         Premium Grade PET Bottle Bale    Ex-Works Central Mexico                 Peso (MXN) KG     ARPLE00     ARPLE03     ARPLE04    Spot                     0-30 days forward    14,515 kg      22,680 kg      Daily          4pm CT
+         Premium Grade PET Bottle Bale    Ex-Works Central Mexico                 USD         MT    ARPLF00     ARPLF03     ARPLF04    Spot                     0-30 days forward    14.5 mt        22.6 mt        Daily          4pm CT
+         Clear PET Bottle Bale            DAP        Brazil, basis Sao Paulo      Real        KG    ALFLB00     ALFLB03     ALFLB04    Spot                     0-5 days forward     15 mt          20 mt          Daily          4pm CT
+         Clear PET Bottle Bale            DAP        Brazil, basis Sao Paulo      USD         MT    ALFLF00     ALFLF03     ALFLF04    Spot                     0-5 days forward     15 mt          20 mt          Daily          4pm CT
+         Green PET Bottle Bale            DAP        Brazil, basis Sao Paulo      Real        KG    ALFLD00     ALFLD03     ALFLD04    Spot                     0-5 days forward     15 mt          20 mt          Daily          4pm CT
+         Green PET Bottle Bale            DAP        Brazil, basis Sao Paulo      USD         MT    ALFLH00     ALFLH03     ALFLH04    Spot                     0-5 days forward     15 mt          20 mt          Daily          4pm CT
+         Clear PET Bottle Bale            DAP        South of Brazil              Real        KG    RPCDB00     RPCDB03     RPCDB04    Spot                     0-5 days forward     15 mt          20 mt          Daily          4 pm CT
+                                                                                                      RPCDF00  RPCDF03      RPCDF04    Spot                     0-5 days forward     15 mt          20 mt          Daily          4 pm CT
+         Clear PET Bottle Bale            DAP        South of Brazil              USD         MT     
+         Green PET Bottle Bale            DAP        South of Brazil              Real        KG    RPCDD00     RPCDD03     RPCDD04    Spot                     0-5 days forward     15 mt          20 mt          Daily          4 pm CT
+         Green PET Bottle Bale            DAP        South of Brazil              USD         MT    RPCDH00     RPCDH03     RPCDH04    Spot                     0-5 days forward     15 mt          20 mt          Daily          4 pm CT
+         Recycled PET Flakes
+         R-PET Clear Flake                Ex-Works Greater Los Angeles            CTS (USD)   LB    ARPLA00     ARPLA03     ARPLA04    Spot                     1-30 days forward     40,000 lb      200,000 lb    Daily          4pm CT
+         R-PET Clear Flake                Ex-Works Greater Los Angeles            USD         MT    ARPLB00     ARPLB03     ARPLB04    Spot                     1-30 days forward    18 mt          89 mt          Daily          4pm CT
+         PET Clear Packaging Grade Flake  Ex-Works Greater Chicago                CTS (USD)   LB    ACPGA00     ACPGA03     ACPGA04    Spot                     1-30 days forward     40,000 lb      200,000 lb    Daily          4pm CT
+         PET Clear Packaging Grade Flake  Ex-Works Greater Chicago                USD         MT    ACPGB00     ACPGB03     ACPGB04    Spot                     1-30 days forward    18 mt          89 mt          Daily          4pm CT
+         R-PET Clear Flake                Ex Works US Southeast                   CTS (USD)   LB    APOSB00     APOSB03     APOSB04    Spot                     1-30 days forward    40,000 lb      45,000 lb      Daily          4pm CT
+         R-PET Clear Flake                Ex Works Central Mexico                 Peso (MXN) KG     ARPLC00     ARPLC03     ARPLC04    Spot                     1-14 days forward    19,051 kg      22,680 kg      Daily          4pm CT
+         R-PET Clear Flake                Ex Works Central Mexico                 USD         MT    ARPLD00     ARPLD03     ARPLD04    Spot                     1-14 days forward    19 mt          22 mt          Daily          4pm CT
+         R-PET Clear Flake                DDP        Brazil, basis Sao Paulo      Real        KG    ALFLA00     ALFLA03     ALFLA04    Spot                     1-7 days forward     15 mt          20 mt          Daily          4pm CT
+         R-PET Clear Flake                DDP        Brazil, basis Sao Paulo      USD         MT    ALFLE00     ALFLE03     ALFLE04    Spot                     1-7 days forward     15 mt          20 mt          Daily          4pm CT
+         R-PET Green Flake                DDP        Brazil, basis Sao Paulo      Real        KG    ALFLC00     ALFLC03     ALFLC04    Spot                     1-7 days forward     15 mt          20 mt          Daily          4pm CT
+         R-PET Green Flake                DDP        Brazil, basis Sao Paulo      USD         MT    ALFLG00     ALFLG03     ALFLG04    Spot                     1-7 days forward     15 mt          20 mt          Daily          4pm CT
+         R-PET Clear Flake                DAP        South of Brazil              Real        KG    RPCDA00     RPCDA03     RPCDA04    Spot                     1-7 days forward     15 mt          20 mt          Daily          4pm CT
+         R-PET Clear Flake                DAP        South of Brazil              USD         MT    RPCDE00     RPCDE03     RPCDE04    Spot                     1-7 days forward     15 mt          20 mt          Daily          4pm CT
+         R-PET Green Flake                DAP        South of Brazil              Real        KG    RPCDC00     RPCDC03     RPCDC04    Spot                     1-7 days forward     15 mt          20 mt          Daily          4pm CT
+         R-PET Green Flake                DAP        South of Brazil              USD         MT    RPCDG00     RPCDG03     RPCDG04    Spot                     1-7 days forward     15 mt          20 mt          Daily          4pm CT
+         © 2026 by S&P Global Inc. All rights reserved.     17
+          Specifications Guide             Americas Chemicals: February 2026
+          Waste Bales and Recycled Polymers
+          Assessment                          Incoterm Location                          Currency     UOM Code            Mavg        Wavg         Contract                  Laycan                 Min size         Max size        Frequency       Timestamp
+          Recycled PET Food-Grade Pellets
+          R-PET Food-Grade Pellet             Ex-Works Greater Los Angeles               CTS (USD)    LB     AFGPA00      AFGPA03     AFGPA04      Spot                      3-30 days forward       40,000 lb        200,000 lb     Daily           4pm CT
+          R-PET Food-Grade Pellet             Ex-Works Greater Los Angeles               USD          MT     AFGPB00      AFGPB03     AFGPB04      Spot                      3-30 days forward      18 mt            89 mt           Daily           4pm CT
+          Post-Consumer HDPE Bales
+          Mixed-Color HDPE Bale               Ex-Works Greater Chicago                   CTS (USD)    LB     ARNPC00      ARNPC03     ARNPC04      Spot                      1-30 days forward      35,000 lb        44,000 lb       Daily           4pm CT
+          Mixed-Color HDPE Bale               Ex-Works Greater Chicago                   USD          MT     ARNPD00      ARNPD03     ARNPD04      Spot                      1-30 days forward      16 mt            20 mt           Daily           4pm CT
+          Natural HDPE Bale                   Ex-Works Greater Chicago                   CTS (USD)    LB     ARNPE00      ARNPE03     ARNPE04      Spot                      1-30 days forward      35,000 lb        44,000 lb       Daily           4pm CT
+          Natural HDPE Bale                   Ex-Works Greater Chicago                   USD          MT     ARNPF00      ARNPF03     ARNPF04      Spot                      1-30 days forward      16 mt            20 mt           Daily           4pm CT
+          Recycled HDPE Pellets
+          R-HDPE Natural Pellet               Ex-Works Greater Chicago                   CTS (USD)    LB     ARNPA00      ARNPA03     ARNPA04      Spot                      1-30 days forward      35,000 lb        44,000 lb       Daily           4pm CT
+          R-HDPE Natural Pellet               Ex-Works Greater Chicago                   USD          MT     ARNPB00      ARNPB03     ARNPB04      Spot                      1-30 days forward      16 mt            20 mt           Daily           4pm CT
+          Post-use LDPE Bales
+          Grade A LDPE Bale                   Ex-Works Greater Chicago                   CTS (USD)    LB     ARNPG00      ARNPG03     ARNPG04      Spot                      1-30 days forward      35,000 lb        44,000 lb       Daily           4pm CT
+          Grade A LDPE Bale                   Ex-Works Greater Chicago                   USD          MT     ARNPJ00      ARNPJ03     ARNPJ04      Spot                      1-30 days forward      16 mt            20 mt           Daily           4pm CT
+          Grade B LDPE Bale                   Ex-Works Greater Chicago                   CTS (USD)    LB     ARNPH00      ARNPH03     ARNPH04      Spot                      1-30 days forward      35,000 lb        44,000 lb       Daily           4pm CT
+          Grade B LDPE Bale                   Ex-Works Greater Chicago                   USD          MT     ARNPK00      ARNPK03     ARNPK04      Spot                      1-30 days forward      16 mt            20 mt           Daily           4pm CT
+          Recycled LDPE Pellets
+          R-LDPE Light Gray Pellet            Ex-Works Greater Chicago                   CTS (USD)    LB     ARNPI00      ARNPI03     ARNPI04      Spot                      1-30 days forward      35,000 lb        44,000 lb       Daily           4pm CT
+          R-LDPE Light Gray Pellet            Ex-Works Greater Chicago                   USD          MT     ARNPL00      ARNPL03     ARNPL04      Spot                      1-30 days forward      16 mt            20 mt           Daily           4pm CT
+          Process-ready Mixed Plastic Waste Bales
+          Process-ready Mixed Plastic         DDP        Contiguous US                   CTS (USD)    LB     ATICB00      ATICB03     ATICB04      Spot                      N/A                    35,000 lb        44,000 lb       Daily           4pm CT
+          Waste Bale                                     (within a 200-mile radius)
+          Process-ready Mixed Plastic         DDP        Contiguous US                   USD          MT     ATICA00      ATICA03     ATICA04      Spot                      N/A                    16 mt            20 mt           Daily           4pm CT
+          Waste Bale                                     (within a 200-mile radius)
+          © 2026 by S&P Global Inc. All rights reserved.         18
+          Specifications Guide             Americas Chemicals: February 2026
+          Waste Bales and Recycled Polymers                                                    Recycled PET Clear Flakes                                                             of extrusion/blow molding grade and include natural, clear, 
+                                                                                                                                                                                     and transparent colored pellets for consumer packaging 
+          Location:                                                                            Specification: Clear flake assessments reflect material which                         applications. Odorless, MFI 0.35-0.80 g/10 minutes tested at 190 
+                                                                                               has been through a hot wash process and derived from 100%                             degrees Celsius/5kg.
+            US Southeast assessments include North Carolina, South                            post-consumer recycled content.
+             Carolina, Florida, Georgia and Alabama.                                                                                                                                 Post-use LDPE Bales
+                                                                                                 Los Angeles: IV 0.70-0.80 dl/g, maximum PVC content of 50ppm.
+            Central Mexico assessments include Mexico City, State of                                                                                                                Specification: LDPE film sourced from distribution centers, 
+             Mexico, Morelos, Puebla, Queretaro, Hidalgo, and Guanajuato.                        Chicago, US Southeast and Central Mexico: IV 0.72-0.78 dl/g,                       retailers, and manufacturing companies:
+                                                                                                  maximum PVC content of 50ppm.
+            South of Brazil assessments include Santa Catarina, Rio                                                                                                                   Grade A Bales:  Minimum of 95% clear LDPE, maximum of 5% 
+             Grande do Sul and Paraná.                                                           Brazil: maximum IV 0.70 dl/g, maximum PVC content of                                  non-clear film, label, non-LDPE contamination.
+                                                                                                  100ppm for clear flakes and 50ppm for green flakes. 
+          Duties: Brazil assessments for PET bottle bales and r-PET clear                                                                                                              Grade B Bales: Minimum of 80% clear LDPE, maximum of 20% 
+          flakes exclude domestic taxes, specifically ICMS, PIS, COFINS                        Recycled PET Food-Grade Pellets                                                          non-clear film, label, and non-LDPE contamination.
+          and IPI.
+                                                                                               Specification: IV 0.76-0.82 dl/g, maximum benzene content of                          Recycled LDPE Light Gray Pellets
+          Post-Consumer PET Bottle Bales                                                       200ppb. Acetaldehyde (AA) levels should not exceed 1ppm. 
+                                                                                                                                                                                     Specification: Light gray colored recycled LDPE pellets derived 
+          Specification:                                                                       In the absence of pricing information, a pricing formula may be                       from post-use waste, MFI of 0.5-1 g/10 min tested at 190 degrees 
+                                                                                               used which includes the R-PET flake price as the base level plus                      Celsius/2.16 kg. Pellets are non-odorless and non-food grade.
+            Los Angeles: (a) premium-grade material primarily sourced                         a premium to account for variable costs associated with food-
+             from redemption centers, minimum PET content of 70% and                           grade pellet production.                                                              Process-ready Mixed Plastic Waste Bale
+             (b) curbside material, minimum PET content of 60%. Bales 
+             sourced from the Los Angeles area should consist of at least                      Post-Consumer mixed-color HDPE Bales                                                  Specification: Bales suitable for advanced recycling via 
+             80% clear bottles.                                                                                                                                                      pyrolysis: polyolefin (86%); polystyrene (max. 6%); PET (max 1%); 
+                                                                                               Specification: Minimum of 80% mixed colored HDPE by weight.                           PVC (max 1%); metals (max 1%); organics and moisture (max 5%), 
+            Chicago and US Southeast: mixed-colored bales, excluding                          Typical impurities, such as LDPE and PP, should not amount to                         by weight.
+             black and solid colors, minimum PET content of 60% and                            more than 20% by weight. 
+             gathered from a curbside collection process. Bales should                                                                                                               The assessment incorporates a variety of inputs including firm 
+             consist of clear, transparent green, or transparent light blue                    Post-Consumer natural HDPE Bales                                                      bids and offers, trades, and indicative values as well as any 
+             bottles.                                                                                                                                                                other data deemed relevant to the assessment process such 
+                                                                                               Specification: Minimum of 95% natural HDPE by weight. Other                           as rebates, sorting, shredding and cleaning costs of unsorted 
+            Central Mexico: premium-grade clear bottle bales typically                        contaminants should not exceed 5%.                                                    mixed plastic waste.
+             gathered from a curbside collection process, minimum PET 
+             content of 95%.                                                                   Recycled HDPE natural pellets                                                         Location: Delivery at the advanced recycling facility within a 
+                                                                                                                                                                                     200-mile radius in the contiguous United States.
+            Brazil: clear and green bottle bales typically gathered from a                    Specification: Non-food-grade pellets derived from post-
+             curbside collection process, minimum PET content of 95%.                          consumer virgin HDPE polymers. R-HDPE natural pellets are 
+          © 2026 by S&P Global Inc. All rights reserved.         19
+         Specifications Guide           Americas Chemicals: February 2026
+         US Recycled and Virgin Polymer Spot Price Spreads
+         Symbol     Name of Spread                                          Currency    UOM First Assessment Name                         Code          Second Assessment Name                    Code 2         Region            Frequency
+         ARPTK00    R-PET Clear Flakes Spread to Virgin PET USWC            USD         MT      Recycled PET Clear Flakes EXW LA          ARPLB04       Virgin PET DDP USWC                       AASMM00        US West Coast     Wednesday
+         ARPTL00    R-PET Food-Grade Pellet Spread to Virgin PET USWC       USD         MT      Recycled PET Food-Grade Pellets EXW LA    AFGPB04       Virgin PET DDP USWC                       AASMM00        US West Coast     Wednesday
+         ARPTM00    R-PET Clear Flakes Spread to R-PET Food-Grade Pellets   CTS (USD)   LB      Recycled PET Clear Flakes EXW LA          ARPLA04       Recycled PET Food-Grade Pellets EXW LA    AFGPA04        US West Coast     Wednesday
+         ARPTN00    Premium-Grade Post-Consumer PET Bottle Bales Spread  CTS (USD)      LB      Prem.-Grade Post-Consumer Bottle Bales    APCLA04       Recycled PET Clear Flakes EXW LA          ARPLA04        US West Coast     Wednesday
+                    to R-PET Clear Flakes EXW LA                                                EXW LA
+         ARPTO00    Premium-Grade Post-Consumer PET Bottle Bales Spread  CTS (USD)      LB      Prem.-Grade Post-Consumer Bottle Bales    APCLA04       Recycled PET Food-Grade Pellets EXW LA    AFGPA04        US West Coast     Wednesday
+                    to R-PET Food-Grade Pellets EXW LA                                          EXW LA
+         US recycled and virgin polymer spot price spreads
+         Platts publishes weekly calculated spreads relating to its North 
+         American recycled plastic and virgin polymer price assessments. 
+         The calculated spreads are between virgin polymers and their 
+         respective recycled grade, as well as spreads within recycled 
+         plastic value chains. The automated calculations update each 
+         Wednesday upon market close and are based on Platts existing 
+         spot price assessments.
+         Platts also publishes similar spread calculations in Asia and 
+         Europe.
+         © 2026 by S&P Global Inc. All rights reserved.     20
+          Specifications Guide              Americas Chemicals: February 2026
+          Intermediates
+          Assessment                           Incoterm Location                          Currency      UOM Code            Mavg         Wavg         Contract    Mode           Laycan                 Min size        Max size         Frequency        Timestamp
+          Butanols
+          Normal butanol                       FOB        USGC                            USD           MT     PHAQS00      PHAQT03                   Spot                       3-30 days forward       500 mt                          Thursday         1.30pm CT
+          Iso-butanol                          FOB        USGC                            USD           MT     ISOBU00      ISOBU03                   Spot        Waterbourne 3-30 days forward          500 mt                          Thursday         1.30pm CT
+          2-Ethyl Hexanol (2-EH)
+          2-EH                                 FOB        USGC                            USD           MT     PHAQW00      PHAQX03                   Spot        Waterbourne 3-30 days forward          500 mt                          Thursday         1.30pm CT
+          Plasticisers
+          Diisononyl phthalate (DINP)          DAP        East of the Rockies             CTS (USD)     LB     PHADI04      PHADI03                   Spot        Truck/railcar  3-30 days forward      44,000 lb       45,000 lb        Thursday         1.30pm CT
+          Dioctyl terephthalate (DOTP)         DAP        East of the Rockies             CTS (USD)     LB     PHADO04      PHADO03                   Spot        Truck/railcar  3-30 days forward      44,000 lb       45,000 lb        Thursday         1.30pm CT
+          Acetic Acid (AA)
+          Acetic acid                          DAP        USGC                            CTS (USD)     LB     AAIHD00      AAIHE00                   Term        Truck/railcar  Quarterly              40 million lb                    Thursday         1.30pm CT
+          Acetic acid                          FOB        USGC                            USD           MT     PHARG00      PHARH03                   Spot        Waterbourne 3-30 days forward          1,000 mt                        Thursday         1.30pm CT
+          Vinyl Acetate Monomer (VAM)
+          VAM                                  DAP        USGC                            CTS (USD)     LB     AAIHF00      AAIHG00                   Term        Truck/railcar  Quarterly               100 million lb                  Thursday         1.30pm CT
+          VAM                                  FOB        USGC                            USD           MT     PHARK00      PHARL03                   Spot        Waterbourne 3-30 days forward          1,000 mt                        Thursday         1.30pm CT
+          Acrylonitrile (ACN)
+          ACN                                  FOB        USGC                            USD           MT     PHARO00      PHARP03                   Spot        Waterbourne 3-30 days forward          2,000 mt        3,000 mt        Tuesday          1.30pm CT
+          ACN                                  DAP        US                              CTS (USD)     LB     PHARQ00      PHARR03                   Term        Truck/railcar  Current month                                           Tuesday          1.30pm CT
+          Ethylene Dichloride (EDC)
+          EDC                                  FOB        USGC                            USD           MT     PHARS00      PHART03                   Spot                       3-30 days forward       2,000 mt        3,000 mt        Tuesday          1.30pm CT
+          Vinyl Chloride Monomer (VCM)
+          VCM                                  FOB        USGC                            USD           MT     PHARW00      PHARX03                   Spot        Waterbourne 3-30 days forward          1,000 mt        3,000 mt        Tuesday          1.30pm CT
+          Purified Terephthalic Acid (PTA)
+          Fiber grade PTA                      CFR        North America                   USD           MT     AAUNY04                                Term        Railcar        Current month          200,000 lb      220,000 lb       Monthly          N/A
+          PTA                                  CFR        North America                   CTS (USD)     LB     AAUNY00                                Term        Railcar        Current month          200,000 lb      220,000 lb       Monthly          N/A
+          Carbon Black
+          Carbon Black N330                    Ex-Works  USGC                             Cents (USD) LB       CABDC04      CABDC03                   Spot                       3-30 days forward      20 mt           --               Friday           1.30pm CT
+          Carbon Black N550                    Ex-Works  USGC                             Cents (USD) LB       CABDD04      CABDD04                   Spot                       3-30 days forward      20 mt           --               Friday           1.30pm CT
+          Acrylic Acid
+          Glacial Acrylic Acid (GAA)           DDP        USGC                            CTS (USD)     LB     CACRU01      CACRU61      CACRU41      Spot                       3-30 days forward      20 mt           25 mt            Daily            1.30pm CT
+          © 2026 by S&P Global Inc. All rights reserved.          21
+          Specifications Guide             Americas Chemicals: February 2026
+          Intermediates
+          Assessment                         Incoterm Location                        Currency      UOM Code           Mavg         Wavg        Contract    Mode          Laycan                Min size         Max size        Frequency       Timestamp
+          Acrylates
+          Butyl Acrylate (BA)                DDP        USEC                          CTS (USD)     LB     CBAXU01     CBAXU61      CBAXU41     Spot                      3-30 days forward     20 mt            25 mt           Daily           1.30pm CT
+          2-Ethylhexyl Acrylate (2-EHA)      DDP        USEC                          CTS (USD)     LB     C2EAU01     C2EAU61      C2EAU41     Spot                      3-30 days forward     20 mt            25 mt           Daily           1.30pm CT
+          Bisphenol-A (BPA)
+          Bisphenol-A                        CFR        USEC                          USD           MT     CBPAU01     CBPAU61                  Spot                      3-30 days forward     FCL in TEU       --              Tuesday         1:30pm CT
+          Polyols
+          Slabstock Polyether Polyol         DAP        US                            CTS (USD)     LB     ALSBA00     ALSBA03                  Spot                      3-30 days forward     44,000 lb        190,000 lb      Friday          1.30pm CT
+          Isocyanates
+          Toluene Diisocyanate (TDI)         DAP        US                            CTS (USD)     LB     ATOLA00     ATOLAO3                  Spot                      3-30 days forward     44,000 lb        190,000 lb      Friday          1.30pm CT
+          Intermediates                                                                         Dioctyl terephthalate (DOTP): Density between 0.98-0.99 g/                       Ethylene Dichloride (EDC)
+                                                                                                cm3, minimum purity of 99%, maximum water content of 0.1%.
+          Oxo-alcohols                                                                                                                                                            Specification: Minimum purity of 99.8%, maximum water 
+                                                                                              Acetic Acid (AA)                                                                    content of 100 ppm.
+          Specification: 
+                                                                                              Specification: Minimum purity of 99.8%, maximum water                               Vinyl Chloride Monomer (VCM)
+            Normal butanol (NBA): Minimum purity of 99%, maximum                             content of 100 ppm. 
+             water content of 0.05%.                                                                                                                                              Specification: Minimum purity of 99.9%.
+                                                                                              Platts assesses spot export prices in $/mt and US domestic 
+            Iso-butanol (IBA): Minimum purity of 99%.                                        contract prices in c/lb.                                                            Purified Terephthalic Acid (PTA)
+            2-Ethyl Hexanol (2-EH): Minimum purity of 99%. Maximum                           Vinyl Acetate Monomer (VAM)                                                         Specification: Fiber-grade, minimum purity of 99.6%.
+             water content of 0.05%.
+                                                                                              Specification: Minimum purity of 99.9%.                                             Carbon Black
+          Plasticizers                                                                        Platts assesses spot export prices in $/mt and US domestic                          Specification: 
+          Specification:                                                                      contract prices in c/lb. 
+                                                                                                                                                                                    N330: ASTM D-1765 standard, particle size between 25 and 
+            Diisononyl phthalate (DINP): Density between 0.97-0.98 g/                        Acrylonitrile (ACN)                                                                   35 nm. 
+             cm3, minimum purity of 99.6%, maximum water content of 
+             0.05%.                                                                           Specification: Minimum purity of 99%, maximum acetonitrile                            N550: ASTM D-1765 standard, particle size between 40 and 
+                                                                                              content of 500 ppm, maximum water content of 0.5%.                                    60 nm.
+          © 2026 by S&P Global Inc. All rights reserved.        22
+          Specifications Guide             Americas Chemicals: February 2026
+          Glacial Acrylic Acid (GAA)                                                           Bisphenol-A                                                                           Contract prices for Intermediates
+          Specification: Minimum purity of 99.5%, 180-220ppm MEHQ                              Specification: Minimum purity of 99.8%, maximum water                                 ACN CP: Reflects industry-accepted formula-based prices for 
+          inhibitor, maximum 2000ppm dimer.                                                    content of 0.01%, both measured by weight, maximum phenol                             long-term contractual deliveries. The formula incorporates the 
+                                                                                               content of 100ppm. Polycarbonate grade white prill material.                          industry-settled chemical-grade propylene CP and ammonia CP.
+          Acrylates                                                                                                                                                                  PTA, soda ash CPs: Industry-settled prices for long-term 
+          Specification:                                                                       Polyols                                                                               contractual deliveries. Prices typically settle retroactively for 
+                                                                                               Specification: Slabstock polyether polyols with a molecular                           PTA. For soda ash the price is  typically databased on the first of 
+            Butyl acrylate: Minimum purity of 99.5%, 10-20ppm MEHQ                            weight of 3,000-3,500 g/mol.                                                          the month.
+             inhibitor.
+            2-Ethylhexyl acrylate: Minimum purity of 99.5%, 10-20ppm                          Toluene Diisocyanate (TDI)
+             MEHQ inhibitor.                                                                   Specification: T80 grade, minimum purity of 99.5%, Isomer 
+                                                                                               content in 2,4 at 79%-81% and Isomer content in 2,6 at 19%-21%.
+          © 2026 by S&P Global Inc. All rights reserved.         23
+          Specifications Guide              Americas Chemicals: February 2026
+          Solvents
+          Assessment                           Incoterm Location                          Currency      UOM Code            Mavg         Wavg         Contract    Mode           Laycan                 Min size        Max size         Frequency        Timestamp
+          Hexane
+          Hexane                               FOB        USGC                            CTS (USD)     LB     AANTM00      AANTM03                   Spot                       3-30 days forward      55 mt           90 mt            Tuesday          1:30pm CT
+          Isopropyl Alcohol (IPA)
+          Isopropyl alcohol                    FOB        USGC                            USD           MT     PHADD00      PHAYG03                   Spot                       3-30 days forward      400 mt          600 mt           Tuesday          1:30pm CT
+          Isopropyl alcohol                    DAP        East of the Rockies             USD           MT     PHADG00      PHAYH03                   Term        Truck/railcar  Current month           44,000 lb      185,000 lb       Tuesday          1:30pm CT
+          Phenol
+          Phenol                               FOB        USGC                            USD           MT     PHAGE00      PHAYK03                   Spot                       3-30 days forward      500 mt          1,000 mt         Tuesday          1:30pm CT
+          Phenol                               Ex-Tank    East of the Rockies             USD           MT     PHAGH00      PHAYL03                   Term                       Current month           44,000 lb      45,000 lb        Tuesday          1:30pm CT
+          Acetone
+          Acetone T1                           FOB        USGC                            USD           MT     PHADJ00      PHAYN03                   Spot                       3-30 days forward      500 mt          1000 mt          Tuesday          1:30pm CT
+          Acetone T2                           DAP        East of the Rockies             USD           MT     AAHYC00      AAHYD00                   Term        Truck/railcar  Current month           44,000 lb      45,000 lb        Tuesday          1:30pm CT
+          Ethyl acetate (Etac)
+          Ethyl Acetate                        FOB        USGC                            USD           MT     PHAEC00      PHAYZ03                   Spot                       3-30 days forward      250 mt          500 mt           Tuesday          1:30pm CT
+          Ethyl Acetate                        DAP        East of the Rockies             USD           MT     PHAEF00      PHAZC03                   Term        Truck/railcar  Current month          44,000 lb       45,000 lb        Tuesday          1:30pm CT
+          N-butyl acetate (Butac)
+          Butyl Acetate                        FOB        USGC                            USD           MT     PHAEI00      PHAZF03                   Spot                       3-30 days forward      250 mt          500 mt           Tuesday          1:30pm CT
+          Butyl Acetate                        DAP        East of the Rockies             USD           MT     PHAEL00      PHAZG03                   Term        Truck/railcar  Current month          44,000 lb       45,000 lb        Tuesday          1:30pm CT
+          © 2026 by S&P Global Inc. All rights reserved.          24
+          Specifications Guide             Americas Chemicals: February 2026
+          Solvents                                                                             Phenol                                                                                N-Butyl Acetate
+          Hexane                                                                               Specification: Minimum purity of 99.9%; maximum water                                 Specification: Minimum purity of 99.5%, evaporation rate of 1.0, 
+                                                                                               content of 0.08%.                                                                     maximum alcohol content of 0.5%, maximum water content of 
+          Specification: Minimum 60% n-hexane, fewer than 10 ppm                                                                                                                     0.05%.
+          benzene.                                                                             Acetone
+                                                                                               Specification: Minimum acetone content of 99%; maximum                                Contract prices for Solvents
+          Isopropyl Alcohol                                                                    water content of 0.35%.                                                               IPA, Phenol, Acetone, Ethyl acetate and n-Butyl acetate 
+          Specification: Minimum purity of 50%, minimum alcohol content                                                                                                              CPs: Reflect monthly negotiated prices between producers 
+          is 99.5%, maximum 100 ppm aromatics content, maximum                                 Ethyl Acetate                                                                         and distributors for long-term contractual deliveries, before 
+          sulphur content of 1 ppm, maximum water content of 0.3%.                                                                                                                   discounts.
+                                                                                               Specification: Minimum purity of 99.5%, evaporation rate of 1.0, 
+                                                                                               maximum alcohol content of 0.5%, maximum water content of 
+                                                                                               0.05%.
+          © 2026 by S&P Global Inc. All rights reserved.         25
+          Specifications Guide             Americas Chemicals: February 2026
+          Chlor Alkali
+          Assessment                          Incoterm Location                         Currency      UOM Code            Mavg        Wavg         Contract    Mode          Laycan                 Min size         Max size        Frequency       Timestamp
+          Caustic Soda
+          Caustic Soda                        FOB        US                             USD           DST AANTJ00                                  Term                      Current month          800 dst          1,000 dst       Tuesday         1:30pm CT
+          Caustic Soda                        Ex-plant   USGC                           USD           DST AANTH00         AANTH03                  Spot        Railcar       3-30 days forward      34 dst           55 dst          Tuesday         1:30pm CT
+          Caustic Soda                        FOB        USGC                           USD           DMT AANTI00         AANTI03                  Spot        Barge         3-30 days forward      3,000 dmt        6,000 dmt       Tuesday         1:30pm CT
+          Chlorine
+          Chlorine                            FOB        US                             USD           DST AANTL00                                  Term        Railcar       Current month          85 dst           95 dst          Tuesday         1:30pm CT
+          Hydrochloric Acid
+          Hydrochloric Acid                   DAP        USGC                           USD           WST/ CHCLU01        CHCLU11                  Term        Truck/Railcar Current quarter        5,000 wst/year 15,000 wst/       Tuesday         1:30pm CT
+                                                                                                      year                                                                                                           year
+          Hydrochloric Acid                   DAP        USGC                           USD           WST/ CHCLU02        CHCLU12                  Term        Truck/Railcar Next quarter           5,000 wst/year 15,000 wst/       Tuesday         1:30pm CT
+                                                                                                      year                                                                                                           year
+          Soda Ash
+          Dense Soda Ash                      Ex-Plant   Wyoming (Green River)          USD           ST     CSADU40                               Term                      Current month          Medium-sized                     Monthly         1.30pm CT
+                                                                                                                                                                                                    buyer
+          Chlor-alkali                                                                         Hydrochloric Acid                                                                     Chemical and polymer freight
+          Caustic Soda                                                                         Specification: Technical grade muriatric hydrochloric acid                            Platts assesses freight rates for liquid and gas chemicals as 
+                                                                                               produced by burner or as a byproduct, conforming to 22 degrees                        well as for some polymer routes. Please refer to the Shipping 
+          Specification: 50% solution commercial grade (liquid): sodium                        Baume (HCL content:35.21%-36.95%); Iron content of less than                          Methodology & Specifications | S&P Global
+          hydroxide content of 49%-51%; sodium oxide content of 38%-                           5.0 ppm. 
+          40%; salt content of 1% (10,000 ppm). 
+          Smaller parcel sizes can be considered and normalized to the                         Soda Ash
+          standard.                                                                            Specification: Dense soda ash with a minimum purity level of 
+                                                                                               99.2%.
+          Chlorine
+          Specification: Commercial-grade, minimum purity of 97%,                              Contract prices for Chlor-Alkali chain
+          maximum water content of 50 ppm.                                                     Caustic soda, chlorine, hydrochloric acid CPs: Reflect assessed 
+                                                                                               freely negotiated prices between producers and distributors 
+                                                                                               for deliveries under long-term agreements. Can be settled 
+                                                                                               retroactively for caustic soda and chlorine.
+          © 2026 by S&P Global Inc. All rights reserved.         26
+          Specifications Guide             Americas Chemicals: February 2026
+          Global Petrochemical indices
+          Assessment                                             Currency        UOM            Code            Asia Input               Asia Factor              Europe Input            Europe Factor            Americas Input           Americas Factor
+          Global Ethylene Index                                  USD             MT             AAXVN00         CFR NE Asia              0.55                      FD NWE                 0.16                     FD USG                   0.29
+          Global Propylene Index                                 USD             MT             AAXVO00         FOB Korea                0.71                      FD NWE                 0.14                     FD USG                   0.15
+          Global Benzene Index                                   USD             MT             AAXVP00         FOB Korea                0.74                      CIF ARA                0.16                     FOB USG                  0.11
+          Global Toluene Index                                   USD             MT             AAXVQ00         FOB Korea                0.84                      FOB Rotterdam          0.06                     FOB USG                  0.10
+          Global PX Index                                        USD             MT             AAXVU00         FOB Korea                0.92                      FOB Rotterdam          0.04                     FOB USG                  0.04
+          Global LDPE Index                                      USD             MT             AAXVR00         CFR N Asia               0.51                      FD NWE                 0.28                     FAS Houston              0.21
+          Global PP Homopolymer Index                            USD             MT             AAXVS00         CFR N Asia               0.77                      FD NWE                 0.13                     FAS Houston              0.10
+          Global Petrochemical Index                             USD             MT             AAXVT00
+          Global Chemical indices
+          The weighting factors for the indices reflect the relative sizes of 
+          the regional markets based on production capacity, as of 2025.
+          Global Petrochemical Index (PGPI)  is calculated based on 
+          the individual global product indices with the following weight 
+          distribution: 0.27 ethylene, 0.23 propylene, 0.11 benzene, 0.09 
+          toluene, 0.11 paraxylene, 0.04 LDPE, and 0.15 PP.
+          The indices appear on Platts Chemical Alert (PCA) page 900.
+          © 2026 by S&P Global Inc. All rights reserved.         27
+          Specifications Guide             Americas Chemicals: February 2026
+          Glossary                                                                             LLDPE C4 – Butene grade LLDPE                                                         HTC – Houston Ship Channel
+          Incoterms                                                                            LLDPE C6 – 1-Hexene grade LLDPE                                                       WCSA – West Coast of South America
+          DDP – delivered duty paid                                                            GPPS – general purpose polystyrene                                                    Mercosur - Mercado Común del Sur (Southern Common Market)
+          DAP – delivered at place                                                             HIPS – high impact polystyrene                                                        ER – East of Rockies
+          CFR – cost and freight                                                               EPS – expandable polystyrene                                                          Quality
+          CIF – cost, insurance and freight                                                    ESBR – emulsion styrene butadiene rubber                                              IV – intrinsic viscosity, a measure of molecular weight, or the 
+                                                                                                                                                                                     degree of its polymerization
+          FOB – free on board                                                                  H-PBR - High-Cis polybutadiene rubber
+                                                                                                                                                                                     B* - a measure of the degree of yellowness of the PET resin
+          EXW – ex-works                                                                       L-PBR - Low-Cis polybutadiene rubber
+                                                                                                                                                                                     GP – general purpose
+          FCA – free carrier                                                                   Assessments
+                                                                                                                                                                                     CSF – cast stretch film
+          Chemical abbreviations                                                               MMF – methanol marine fuel
+          MTBE – methyl tertiary-butyl ether                                                   RBOB – gasoline blendstock in the US                                                  Other abbreviations
+                                                                                                                                                                                     CP – contract price
+          HDPE – high density polyethylene                                                     Locations
+                                                                                                                                                                                     M1 – current month
+          LDPE – low density polyethylene                                                      USGC – US Gulf Coast
+                                                                                                                                                                                     M2 – second month
+          LLDPE – linear low density polyethylene                                              USEC – US East Coast
+                                                                                                                                                                                     M3 – third month
+          © 2026 by S&P Global Inc. All rights reserved.         28
+          Specifications Guide             Americas Chemicals: February 2026
+          Revision history                                                                     March 2025: Platts launched daily process-ready mixed plastic                         August 2023: Platts completed an annual review of this guide, 
+                                                                                               waste DDP US assessment.                                                              reviewing all content, correcting typos and making edits to 
+          February 2026: Platts changed the frequency of its BPA,                                                                                                                    language throughout. Additionally, Platts introduced daily spot 
+          Ethanolamines, Nylons and Polycarbonate spot assessments                             February 2025: Platts launched weekly epoxy resin assessment                          assessment for US MTBE differential to front-month RBOB 
+          from daily to weekly (Wednesdays).                                                   for the US.                                                                           futures effective April 10, 2023. Platts updated its monoethylene 
+                                                                                                                                                                                     glycol assessment specifications effective 30 May, 2023. Platts 
+          In January 2026, Platts discontinued its carbon account                              January 2025: Platts harmonized US MX, toluene coverage;                              launched daily cost-based eMethanol assessment June 19, 
+          methanol marine fuel assessments.                                                    discontinued industrial ethanol assessment.                                           2023. Platts discontinued its phthalic anhydride assessments 
+                                                                                                                                                                                     effective July 14, 2023.
+          December 2025: Platts launched low-carbon methanol                                   December 2024: Platts discontinued US PVC, PS and PET 
+          marine fuel, discontinued orthoxylene, normal-butanol, 2-ethyl                       contract price assessments.                                                           April 2023: Platts updates mt-lb conversion for some Americas 
+          hexanol, vinyl chloride monomer and hexane contract prices.                                                                                                                chemical assessments.
+          Platts changed the specifications of its recycled PET clear                          November 2024: Platts completed its annual methodology 
+          flake assessments basis Los Angeles, US Southeast and                                and specifications guide review. Updates for clarity were                             January 2023: The specification guide has been renamed to 
+          Chicago. Platts changed the location basis for its CFR Mercosur                      made throughout. In addition, Platts launched assessments                             Americas Chemicals.
+          polyethylene and polypropylene assessments.                                          for M3 Methanol FOB US Gulf. Platts launched POM FOB US 
+                                                                                               Gulf and CFR Brazil assessments. Platts launched PE and                               December 2022: Platts updated weightings for global chemical 
+          September 2025: Platts launched daily recycled PET clear                             PVC monthly US domestic contract price delta settlements.                             indices.
+          and green flakes and post-consumer clear and greenbottle                             August 2024: Platts launched Slabstock Polyether Polyols, 
+          balesassessments South of Brazil. Platts changed the                                 Toluene Diisocyanate price assessments, polycarbonate,                                September 2022: Platts discontinued Free-on-Truck (FOT) Brazil 
+          incoterms for its US-based recycled plastics assessments from                        bisphenol-A assessments. Platts discontinued polyethylene and                         polyolefins assessments, effective July 1, 2022. Platts launched 
+          FOB to ex-works. Platts clarified its approach to normalization                      polypropylene contract price assessments.                                             three new recycled LDPE assessments on Aug. 1, 2022. Typos in 
+          in polymer markets. Platts discontinued its US styrene                                                                                                                     the Latin American polymers table were corrected.
+          monthly transaction price assessment. Platts updated the                             June 2024: Platts launched new assessments for H-PBR, 
+          global petrochemical indices weightings to reflect production                        Emulsion SBR 1500 and 1502, MMA and Recycled PET Central                              April 2022: Platts completed an annual review of this guide, 
+          capacities in 2025. July 2025: Platts clarified that its price                       Mexico. Platts launched carbon-accounted methanol price                               reviewing all content, correcting typos, and making edits to 
+          assessments for R-PET flakes and PET bottle flakes in Brazil                         assessments, including 100 MMF and 20 MMF.                                            language throughout.
+          reflect pricing excluding domestic taxes.
+                                                                                               May 2024: Platts launched new assessments for acrylates,                              April 2022: Platts launched new CFR Mercosur assessments 
+          June 2025: Platts discontinued MEG CP, amended eMethanol                             expandable polystyrene, ethanolamines, cyclohexane and adipic                         on April 6, which were included in the Latin American polymers 
+          calculations.                                                                        acid, nylons, ethylene in April. Platts also amended its month roll                   section. 
+                                                                                               logic for ethylene, propylene and propylene oxide.
+          May 2025: Platts completed its annual methodology and                                                                                                                      February 2022: Platts launched new assessment for US 
+          specifications guide review. Updates for clarity were made                           March 2024: Platts launched new assessments for US recycled                           recycled PET flakes, FOB Chicago basis in January 2022. 
+          throughout. In addition, Platts launched a US weekly acrylic                         PET and hydrochloric acid in February. Platts launched a new EVA                      The update also includes a separate section for US virgin 
+          fiber spot assessment. Platts changed the frequency of                               assessment in March. Edits were made to language throughout.                          and recycled polymer price spreads. Platts updated US 
+          propylene oxide, isocyanates and polyols assessments from                                                                                                                  monoethylene glycol contract price assessment methodology to 
+          daily to weekly. Platts clarified the specifications of its methanol                 December 2023: Platts launched new assessments for DEG,                               calculate the price based on an average of three Asia Contract 
+          assessments.                                                                         TEG, propylene oxide and ethylbenzene in the US.                                      Price (ACP) nominations, less US-Far East Asia liquid chemicals 
+          © 2026 by S&P Global Inc. All rights reserved.         29
+          Specifications Guide             Americas Chemicals: February 2026
+          freight of 5,000 mt, effective January 2022. Platts launched                         discrepancies between the text and the tables. Language was                           April 2017: [Annual Review] Added specifications for LLDPE 
+          three new assessments for US polyethylene, FAS US East Coast                         added to clarify the location and delivery basis for the phthalic                     C6 and metallocene export assessments. Updated cracker 
+          basis on February 1, 2022.                                                           anhydride price assessments.                                                          margins methodology to reflect name change of Fuel Oil 
+                                                                                                                                                                                     No. 6 3% USGC Waterborne to USGC HSFO. Updated MTBE 
+          September 2021: Platts expanded the maximum cargo size to                            April 2020: Platts added US ethylene FD Choctaw assessment                            methodology to address eWindow and clarify assessment 
+          be considered in export caustic soda assessments and changed                         section. Added new assessments for post-consumer PET bottle                           process. MEG fiber-grade monthly settlement added to reflect 
+          the location to USG from the mode of transportation for                              bales, basis FOB Los Angeles and FOB Chicago.                                         current practice. Clarified that MX methodology to state that 
+          domestic caustic soda assessments.                                                                                                                                         ASTM 843 bids, offers and deals are normalized to ASTM 5211 
+                                                                                               December 2019: Removed references to discontinued spot                                spec.
+          June 2021: Platts completed an annual review of the Americas                         chlorine assessment. Updated US Gulf Coast ethylene 
+          Petrochemicals specifications guide. Platts reviewed all content                     assessment to reflect Mont Belvieu basis.                                             November 2016: S&P Global Platts updated this guide to reflect 
+          and corrected typos, as well as discrepancies between the                                                                                                                  new assessments for domestic Brazil HDPE, LDPE and LLDPE 
+          text and the tables. Added details and specifications for post-                      July 2019: Platts completed an annual review of the Americas                          prices.
+          consumer HDPE bales and recycled HDPE pellets.                                       Petrochemicals methodology and specifications guide. 
+                                                                                               Platts reviewed all content and corrected typos, as well                              September 2016: [Annual Review] S&P Global Platts 
+          April 2021: Platts corrects the Recycled PET Food Grade Pellets                      as discrepancies between the text and the tables. Platts                              updated this guide to reflect the change to CFR West 
+          FOB Los Angeles symbols.                                                             completed an annual update to sections 1 to 6 of Platts                               Coast South America for some Latin American polymer 
+                                                                                               Methodology and Specifications Guides in April 2019, and moved                        assessments. Add new assessments for domestic Mexico 
+          January 2021: Platts updated this guide to reflect the new                           these sections into a standalone Methodology Guide. The                               HDPE, LDPE and LLDPE prices. Changes all company 
+          assessment for US post-consumer PET food-grade pellets, basis                        guide was updated to include additional details about MTBE                            references to S&P Global Platts. General edits for style and 
+          FOB Los Angeles. The update also added the new assessment                            laycans and nominations procedures as well as new US Styrene                          grammar throughout guide.
+          for US FOB ethylene export.                                                          assessments now published in $/MT. Extraneous language was 
+                                                                                               removed throughout, and language was simplified for clarity.                          August 2016: S&P Global Platts updated this guide to reflect 
+          October 2020: Platts started to reflect loadings and trades                                                                                                                changes to the Market on Close time to 4 p.m. US CT for 
+          from the Beaumont/Port Arthur hub in its US MTBE FOB                                 December 2018: Platts updated this guide to reflect the transfer                      benzene, styrene, cumene and ethylene markets and to 1:30 
+          USG assessment, effective Oct. 28, 2020. Platts changed its                          of chemical freight methodology from this guide to the global                         p.m. US CT for all other markets. S&P Global Platts updated 
+          publication schedule for the weekly industry settled paraxylene                      Freight methodology and specifications guide.                                         this guide to reflect the change in minimum spot cargo size for 
+          US domestic contract price to better reflect when settlements                                                                                                              styrene monomer to 3,000mt.
+          have not been reached.                                                               April 2018: [Annual Review] Added revised parts I-V1. General 
+                                                                                               typographical changes, deletions of repeated text. Removed                            March 2016: S&P Global Platts revised the individual regional 
+          Platts organized the polyethylene assessment table by name.                          language related to normalization already included in parts I-VI.                     weighting to each product based on their regional capacity, for 
+                                                                                                                                                                                     the Global Petrochemical Indices.
+          July 2020: Platts added assessment section for US post-                              April 2018: S&P Global Platts moved assessments of US EDC 
+          consumer PET clear flake, basis FOB Los Angeles. Clarified DINP                      and VCM markets to Tuesday.                                                           March 2016: S&P Global Platts updated this guide to reflect 
+          name from diisonomyl phthalate to diisononyl phthalate.                                                                                                                    the discontinuation of the posted ethylene contract price 
+                                                                                               November 2017: Add new assessments for domestic Argentina,                            assessment and weekly spot chemical-grade propylene 
+          July 2020: Platts completed an annual review of the Americas                         Colombia HDPE, LDPE and LLDPE prices and domestic Mexico                              assessment; a clarification to the MX methodology and updates 
+          Petrochemicals methodology and specifications guide.                                 HDPE film prices. Updated volumes sizes for domestic Brazil                           codes and timing for MX and styrene monomer.
+          Platts reviewed all content and corrected typos, as well as                          and Mexico polyethylene assessments.
+          © 2026 by S&P Global Inc. All rights reserved.         30
+          Specifications Guide             Americas Chemicals: February 2026
+          October 2015: S&P Global Platts updated this guide to reflect                        was also updated to improve uniformity in language and correct                        September 2014: S&P Global Platts updated this guide to 
+          new assessments for DOTP and DINP, a clarification to the OX                         typographical errors. The conversion factor for the cracker                           reflect a timing change for S&P Global Platts spot ethylene 
+          methodology, clarifications to the US HDPE blowmolding export                        margins was corrected to reflect the factor to two decimal places.                    assessments.
+          page codes and removing a reference in the MX methodology to 
+          a previously discontinued contract price.                                            July 2015: S&P Global Platts updated this guide to reflect timing                     August 2014: S&P Global Platts revamped all Petrochemical 
+                                                                                               basis changes for US methanol FOB USG and polymer-grade                               Methodology and Specifications Guides, including its 
+          September 2015: S&P Global Platts updated this guide to reflect                      propylene FD USG.                                                                     Americas Petrochemical guide, in August 2014. This revamp 
+          the discontinuation of dioctyl phthalate, methyl ethyl ketone                                                                                                              was completed to enhance the clarity and usefulness of 
+          and methyl isobutyl ketone. The guide was also updated with                          April 2015: S&P Global Platts updated this guide to reflect a                         all guides, and to introduce greater consistency of layout 
+          additional information on the paraxylene assessment. The guide                       specification change for the FOB USG MTBE assessment and                              and structure across all published methodology guides. 
+          was also updated to improve uniformity in language and correct                       to reflect the correct code for IPA DER US domestic weekly                            Methodologies for market coverage were not changed through 
+          typographical errors.                                                                assessments.                                                                          this revamp, unless specifically noted in the methodology 
+                                                                                                                                                                                     guide itself.
+          August 2015: S&P Global Platts updated this guide to reflect                         October 2014: S&P Global Platts updated this guide to reflect 
+          new assessments for LLDPE C6 and metallocene. The guide                              a clarification in the methodology for the FOB USG cumene 
+                                                                                               assessment.
+          © 2026 by S&P Global Inc. All rights reserved.         31

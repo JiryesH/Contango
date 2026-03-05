@@ -1,0 +1,254 @@
+    Methodology and Specifications Guide
+    Mexico Natural Gas
+    Latest update: September 2025
+    Introduction ............................................................ 2
+    Part I: Data quality and data submission ..................... 2
+    Part II: Security and confidentiality ............................ 2
+                                ... 2
+    Part III: Calculating indices and making assessments
+    Part IV: Platts editorial standards .............................. 3
+    Part V: Corrections ................................................... 3
+    Part VI: Requests for clarifications  
+    of data and complaints ............................................. 3
+    Part VII: Definitions of the trading locations ................4
+              ....................................................... 8
+    Revision History
+    www.spglobal.com/commodityinsights
+          Methodology and Specifications Guide               Mexico Natural Gas: September 2025
+          Introduction                                                                         specialists who operate separately from other teams. Platts                           analytics purposes, and Platts news reporters and analysts do 
+                                                                                               follows a clearly defined process for public consultation on                          not have access to individual entities’ transaction data. Data 
+          Platts, part of S&P Global Commodity Insights, methodologies                         material changes to its methodologies. This process is based on                       aggregated from all reporting sources, e.g., changes in prices 
+          are designed to produce price assessments and indices                                full transparency and communication with industry stakeholders                        and trading volumes over time, may be used as the basis for 
+          that are representative of market value, and of the particular                       aimed at gaining market acceptance for any proposed                                   news stories and analysis.
+          markets to which they relate. Methodology documents describe                         introduction or changes to methodology. For more information 
+          the specifications for various products reflected by Platts                          on the review and approval procedures, please visit: https://
+          assessments and indices, the processes and standards Platts                          www.spglobal.com/commodityinsights/en/our-methodology/                                Part III: Calculating indices  
+          adheres to in collecting data, and the methods by which Platts                       methodology-review-change.                                                            and making assessments
+          arrives at final values for publication.
+                                                                                               All Platts methodologies reflect Platts commitment to                                 As a publisher, Platts places independence and impartiality at 
+          Platts discloses publicly the days of publication for its price                      maintaining best practices in price reporting.                                        the heart of its pricing process. Platts has no financial interest 
+          assessments and indices, and the times during each trading                                                                                                                 in the price of products or commodities on which it reports. 
+          day in which Platts considers transactions in determining its                                                                                                              Platts overall objective is to reflect the transactable value of the 
+          assessments and index levels. This schedule of publication is                        Part I: Data quality and data submission                                              commodity assessed.
+          available on the Platts website, at the following link: https://
+          www.spglobal.com/commodityinsights/en/our-methodology/                               Platts objective is to ensure that the submission of transactional                    For the Mexican natural gas market, Platts publishes a daily 
+          holiday.                                                                             information and other data inputs that editors use as the basis                       fully loaded price and a daily variable price for 16 locations. 
+                                                                                               for their price assessments is of the highest quality. This is crucial                The daily fully loaded price is calculated by adding estimated 
+          The dates of publication and the assessment periods are                              to maintaining the integrity of Platts pricing processes.                             fixed and variable transportation costs to the Platts daily 
+          subject to change in the event of circumstances that affect                                                                                                                natural gas indices for certain US locations, while the daily 
+          Platts ability to adhere to its normal publication schedule. Such                    Transparency underpins Platts data publishing processes in                            variable price includes only the variable transportation cost. The 
+          circumstances include network outages, power failures, acts of                       commodity markets. For the Mexican natural gas market, Platts                         transportation costs are reviewed on a quarterly basis. 
+          terrorism and other situations that result in an interruption in                     publishes net forward daily natural gas prices derived by adding 
+          Platts operations at one or more of its worldwide offices. In the                    estimated transportation costs to existing daily natural gas                          At any time, should market data, such as bids, offers or 
+          event that any such circumstance occurs, Platts will endeavor,                       prices that Platts publishes for certain US locations. For details                    transactions, as well as other relevant means of determining 
+          whenever feasible, to communicate publicly any changes to its                        on the methodology for existing daily natural gas prices, please                      price, such as location spreads, be available and meet Platts 
+          publication schedule and assessment periods, with as much                            see the US and Canada Natural Gas methodology guide located                           editorial standards, they may be used as the primary data in the 
+          advance notice as possible.                                                          at: https://www.spglobal.com/commodityinsights/en/our-                                assessment process for a particular location. 
+                                                                                               methodology/methodology-specifications/natural-gas/us-and-
+          Platts methodologies have evolved to reflect changing market                         canada-natural-gas-methodology.                                                       Platts prices are available to any party who subscribes to the 
+          conditions over time, and will continue to evolve as markets                                                                                                               news or data services in which those prices are published. 
+          change. A revision history, a cumulative summary of changes                                                                                                                Platts prices are copyrighted and may not be distributed or 
+          to this and previous updates, is included at the end of the                          Part II: Security and confidentiality                                                 used for commercial gain by any third party without an explicit 
+          methodology and specification documents. Methodology is                                                                                                                    agreement with Platts.
+          reviewed regularly to ensure it reflects current market activity.                    Data is stored in a secure network, in accordance with Platts 
+                                                                                               policies and procedures. Transaction-level price data is used                         To ensure the published data is as robust as possible, Platts 
+          Such reviews are carried out by Platts reporters and their                           only for constructing indices and assessments. Platts does not                        editorial systems are backed by a strong corporate structure 
+          managers, supplemented and supported by price methodology                            use price data from an individual source for news reporting or                        that includes managerial and compliance oversight.
+          © 2025 by S&P Global Inc. All rights reserved.       2
+          Methodology and Specifications Guide               Mexico Natural Gas: September 2025
+          Part IV: Platts editorial standards                                                  Platts appoints an independent, external auditor with appropriate                     Part VI: Requests for clarifications  
+                                                                                               experience and capability to review and report on its adherence                       of data and complaints
+          All Platts employees must adhere to the S&P Global Code of                           to this stated methodology. The annual report is published online 
+          Business Ethics (COBE), which has to be signed annually. The                         at https://www.spglobal.com/commodityinsights/en/about-                               Platts strives to provide critical information of the highest 
+          COBE reflects S&P Global’s commitment to integrity, honesty                          commodityinsights/regulatory-engagement .                                             standards to facilitate greater transparency and efficiency in 
+          and acting in good faith in all its dealings.                                                                                                                              commodity markets.
+          In addition, Platts requires that all employees attest annually                      Part V: Corrections                                                                   Platts users raise questions about its methodologies and the 
+          that they do not have any personal relationships or personal                                                                                                               approach taken in pricing, proposed methodology changes and 
+          financial interests that may influence or be perceived to                            Platts is committed to promptly correcting any material                               other editorial decisions in relation to Platts price assessments. 
+          influence or interfere with their ability to perform their jobs in an                errors. When corrections are made, they are generally based                           Platts strongly values these interactions and encourages 
+          objective, impartial and effective manner.                                           on data and information that was available when the index or                          dialogue concerning any questions a market participant or 
+                                                                                               assessment was originally calculated. Data and information                            stakeholder may have.
+          Platts employees whose role involves price indices or                                received after indices have been published may also be 
+          assessments are required to ensure adherence to published                            considered for an index correction, if the original transaction                       However, Platts recognizes that occasionally a market 
+          methodologies as well as internal standards that require                             price, volume or location was incorrectly submitted, or the trade                     participant may not be satisfied with responses received 
+          accurate records are kept in order to document their work.                           has been canceled or confirmed as nonstandard.                                        or the services provided by Platts and wishes to escalate 
+                                                                                                                                                                                     matters. Full information about how to contact Platts to 
+          Platts has a compliance function that is independent of                              If Platts is notified of an error in a submission, after an index                     request clarification around an assessment, or make a 
+          the editorial group. The compliance team is responsible for                          or assessment is calculated and published, it will assess the                         complaint, is available on the Platts website, at: https://
+          ensuring the quality and adherence to Platts policies, standards,                    impact of that error. Platts will consider correcting an index or                     www.spglobal.com/commodityinsights/en/contact/
+          processes and procedures. The compliance team conducts                               assessment, as a result of the error, typically up to and including                   complaints .
+          regular assessments of editorial operations, including checks for                    10 business days following the original date of publication. Platts 
+          adherence to published methodologies.                                                publishes subscriber notes with price correction details on the 
+                                                                                               day they are made.
+          © 2025 by S&P Global Inc. All rights reserved.       3
+          Methodology and Specifications Guide                Mexico Natural Gas: September 2025
+          Part VII: Definitions of the trading locations                                        the cost of each segment. For locations with multiple supply                          prices are published (e.g., the Q1 2026 update published in 
+                                                                                                routes, the transportation cost is the average of all transport                       Feb. 2026, will be based on the Feb. 2026 bidweek prices 
+          Platts daily prices are published each day at around 5:00                             routes. Platts publishes a location price representing the full                       at the relevant source locations). The exchange rate used 
+          pm Central Time. All prices are published in US dollars per                           transportation cost and a location price representing just the                        for converting Mexican Pesos to US dollars is based on 
+          million British Thermal Units ($/MMBtu) to 3 decimal places                           variable transportation cost. Platts also publishes separate                          the exchange rate on the final business date of the month 
+          and reflect pipeline-quality dry gas. The prices reflect the                          values for the fixed, variable, and full (fixed plus variable)                        preceding the launch of the quarterly update (e.g., the Q1 2026 
+          source location daily index price plus the transportation cost                        transportation costs. The transportation routes and costs are                         rate update published in Feb. 2026 will be based on the USD/
+          to transport natural gas from the source location in the US                           reviewed on a quarterly basis.                                                        MXN spot exchange rate as of Jan. 30, 2026). 
+          to each location in Mexico. The transport routes show the 
+          pipeline segments required to deliver gas to each location.                           The source location prices are based on Platts Inside FERC                            The source location and supply routes for the Mexico 
+          The transportation cost of each route represents the sum of                           bidweek prices for the month in which the quarterly-revised                           locations are:
+          Mexico Location               Region                       Source Location             Segment # 1                 Segment # 2                  Segment # 3                 Segment # 4                  Segment # 5
+             Pipeline Pipeline Pipeline Pipeline Pipeline
+          Rosarito                      Baja                         SoCal Gas                   North Baja                  Gasoducto Rosarito                                        
+          Aguascalientes                Central                      Waha                        Roadrunner                  Tarahumara                   El Encino-La Laguna         La Laguna-Aguascalientes 
+          Tula                          Central                      Tennessee, zone 0           Tennessee Gas Pipeline      Valley Crossing              Sur de Texas - Tuxpan       Tuxpan-Tula 
+          Valtierrilla                  Central                      Tennessee, zone 0           Tennessee Gas               SNG Zone 3 - Zone 6                                                                    
+             Pipeline
+          Villa de Reyes                Central                      Tennessee, zone 0           Tennessee Gas               NET Mexico                   Los Ramones I               Los Ramones II                
+             Pipeline   North
+                                                                                                 Tennessee Gas               SNG Zone 3 - Zone 5                                                                    
+             Pipeline
+          El Encino                     North                        Waha                        Roadrunner                  Tarahumara                                                
+                                                                                                 Trans-Pecos                 Ojinaga - El Encino                                       
+                                                                                                 Tennessee Gas               SNG Zone 3 - Zone 1                                                                    
+             Pipeline
+          Juarez                        North                        Waha                        El Paso Natural             SNG Zone 1 - Zone 1                                                                    
+             Gas
+          Los Ramones - Monterrey       Northeast                    Tennessee, zone 0           Tennessee Gas               NET Mexico                   Los Ramones I               SNG Zone 3 - Zone 3           
+             Pipeline
+          Reynosa                       Northeast                    Tennessee, zone 0           Tennessee Gas Pipeline      SNG Zone 3 - Zone 3                                       
+          Sierrita                      Northwest                    Waha                        El Paso Natural Gas         Sierrita                                                  
+          Topolobambo                   Northwest                    Waha                        Trans-Pecos                 Ojinaga - El Encino          El Encino-                                                
+               Topolobampo
+          Merida                        Peninsula                    Tennessee, zone 0           Tennessee Gas               Valley Crossing              Sur de Texas -              SNG Zone 6 -                 Energia Mayakan 
+             Pipeline  Tuxpan Zone 8 Merida
+          Ciudad Pemex                  South                        Tennessee, zone 0           Tennessee Gas               Valley Crossing              Sur de Texas -              SNG Zone 6 -                  
+             Pipeline  Tuxpan Zone 8
+          Puente Moreno                 South                        Tennessee, zone 0           Tennessee Gas               SNG Zone 3 - Zone 7                                                                    
+             Pipeline
+          Tuxpan                        South                        Tennessee, zone 0           Tennessee Gas               Valley Crossing              Sur de Texas -                                            
+             Pipeline  Tuxpan
+          Guadalajara                   West                         Waha                        Roadrunner                  Tarahumara                   El Encino-La                La Laguna-                   Villa de Reyes- 
+               Laguna Aguascalientes Aguascalientes- 
+                 Guadalajara
+          © 2025 by S&P Global Inc. All rights reserved.       4
+          Methodology and Specifications Guide               Mexico Natural Gas: September 2025
+          Baja                                                                                 North                                                                                 Peninsula
+          Rosarito                                                                             El Encino                                                                             Merida
+          Deliveries off the Gasoducto Rosarito pipeline system to end-                        Deliveries near the city of El Encino, Chihuahua from the                             Deliveries from the Energia Mayakan Pipeline into the Merida 
+          users in the Rosarito, Baja California, area.                                        Tarahumara, Ojinaga – El Encino, and Sistrangas pipelines to                          region in the state of Yucatan; includes rates along Tennessee 
+                                                                                               end users of natural gas in the industrial, power and distribution                    Gas Pipeline, Valley Crossing, Sur de Texas-Tuxpan, Sistrangas 
+          Central                                                                              demand sectors and to the El Encino – Mazatlan (Topolobampo)                          Zone 6-Zone 8, and Energia Mayakan.
+          Aguascalientes                                                                       and El Encino – La Laguna (Wahalajara) pipeline systems.
+          Deliveries from the La Laguna-Aguascalientes pipeline; includes                      Juarez                                                                                South
+          transportation charges on the Roadrunner, Tarahumara, and El                         Deliveries from El Paso Natural Gas pipeline via Sistrangas from                      Ciudad Pemex 
+          Encino-La Laguna pipelines.                                                          Zone 1 to Zone 1.                                                                     Deliveries to the Ciudad Pemex area in Sistrangas Zone 8; this 
+          Tula                                                                                                                                                                       location includes transportation charges along Tennessee Gas 
+                                                                                               Northeast                                                                             Pipeline, Valley Crossing, the Sur de Texas-Tuxpan pipeline, and 
+          Deliveries from the Sistrangas pipeline system to Tula; includes                     Los Ramones – Monterrey                                                               Sistrangas Zone 6-Zone 8.
+          transportation rates on Tennessee Gas Pipeline and Sistrangas                                                                                                              Puente Moreno 
+          Zone 3-Zone 5.                                                                       Deliveries to the Monterrey area in the state of Nueva Leon; 
+          Valtierrilla                                                                         includes rates on Tennessee Gas Pipeline, NET Mexico, Los                             Deliveries from the Sistrangas pipeline network to end users in 
+                                                                                               Ramones I, and Sistrangas Zone 3-Zone 3.                                              the Puente Moreno area in the state of Veracruz; includes rates 
+          Deliveries from the Sistrangas pipeline network to end users                         Reynosa                                                                               along Tennessee Gas Pipeline and Sistrangas Zone 3-Zone 7.
+          in the Valtierrilla region in the state of Guanajuato; includes                                                                                                            Tuxpan 
+          transportation rates on Tennessee Gas Pipeline and Sistrangas                        Deliveries into the Sistrangas pipeline network near Reynosa 
+          Zone 3-Zone 6.                                                                       in the state of Tamaulipas; includes transportation rates on                          Deliveries from Sur de Texas-Tuxpan pipeline into the Sistrangas 
+          Villa de Reyes                                                                       Tennessee Gas Pipeline and Sistrangas Zone 3-Zone 3.                                  pipeline network in the Tuxpan region in the state of Veracruz. 
+                                                                                                                                                                                     This location includes transportation charges along Tennessee 
+          Deliveries to and from the Los Ramones Pipeline and Sistrangas                       Northwest                                                                             Gas Pipeline, Valley Crossing, and the Sur de Texas-Tuxpan 
+          pipeline network at the interconnect of Villa de Reyes in the                        Sierrita                                                                              pipeline.
+          state of San Luis Potosi; includes rates along Tennessee Gas 
+          Pipeline, NET Mexico, Los Ramones I, and Los Ramones II North,                       Deliveries from the Sierrita Gas Pipeline to the interconnect with                    West
+          or includes rates along Tennessee Gas Pipeline and Sistrangas                        Sasabe-Guaymas in the state of Sonora; includes transportation                        Guadalajara
+          Zone 3-Zone 5.                                                                       rates on El Paso Natural Gas and Sierrita Gas Pipeline.
+                                                                                               Topolobampo                                                                           Deliveries to end users in the Guadalajara area; this location 
+                                                                                                                                                                                     includes transportation charges along Roadrunner Gas 
+                                                                                               Deliveries into the Topolobampo region from the El Encino-                            Transmission and the Tarahumara, El Encino-La Laguna, La 
+                                                                                               Topolabampo pipeline in the state of Sinaloa; includes rates                          Laguna-Aguascalientes, and Villa de Reyes-Aguascalientes-
+                                                                                               along the Trans-Pecos, Ojinaga-El Encino, and El Encino-                              Guadalajara pipeline systems.
+                                                                                               Topolobampo pipelines.
+          © 2025 by S&P Global Inc. All rights reserved.       5
+           Methodology and Specifications Guide                  Mexico Natural Gas: September 2025
+           Mexico fully loaded price
+           Description of symbol   Full transport price    Full transport price    Source Location         Source Location Flow    Fixed cost               Fixed cost              Variable cost           Variable cost           Full transport cost     Full transport cost  
+                                   trade date symbol       flow date symbol                                Date Symbol             trade date symbol        flow date symbol        trade date symbol       flow date symbol        trade date symbol       flow date symbol
+           Bates Published         c                       c                                               u or c                  c                        c                       c                       c                       c                       c
+           Baja                                                                                                                                                                                              
+           Rosarito                AAZMC00                 AAZMC21                 Socal Gas               IGBDL21                 ABZMC00                  ABZMC21                 AAYMC00                 AAYMC21                 AAZNC00                 AAZNC21
+           Central                                                                                                                                                                                           
+           Aguascalientes          AAZMO00                 AAZMO21                 Waha                    IGBAD21                 AAZQC00                  AAZQC21                 ABWQC00                 AAWQC21                 AAZNO00                 AAZNO21
+           Tula                    AAZMN00                 AAZMN21                 Tennessee, zone 0       IGBBA21                 AAZWC00                  AAZWC21                 AAXWC00                 AAXWC21                 AAZNN00                 AAZNN21
+           Valtierrilla            AAZMH00                 AAZMH21                 Tennessee, zone 0       IGBBA21                 AAZRC00                  AAZRC21                 ABVRC00                 AAVRC21                 AAZNH00                 AAZNH21
+           Villa de Reyes          AAZMI00                 AAZMI21                 Tennessee, zone 0       IGBBA21                 AAZPC00                  AAZPC21                 ABPPC00                 AAPPC21                 AAZNI00                 AAZNI21
+           North                                                                                                                                                                                             
+           El Encino               AAZME00                 AAZME21                 Waha                    IGBAD21                 ABZBC00                  AAZBC21                 AAOBC00                 AAOBC21                 AAZNE00                 AAZNE21
+           Juarez                  AAZMA00                 AAZMA21                 Waha                    IGBAD21                 AAZTC00                  AAZTC21                 ABITC00                 ABITC21                 AAZNA00                 AAZNA21
+           Northeast                                                                                                                                                                                         
+           Los Ramones -           AAZMF00                 AAZMF21                 Tennessee, zone 0       IGBBA21                 AAQTC00                  AAQTC21                 AAETC00                 AAETC21                 AAZNF00                 AAZNF21
+           Monterrey
+           Reynosa                 AAZMB00                 AAZMB21                 Tennessee, zone 0       IGBBA21                 ABUTC00                  AAUTC21                 ABFTC00                 AAFTC21                 AAZNB00                 AAZNB21
+           Northwest                                                                                                                                                                                         
+           Sierrita                AAZMD00                 AAZMD21                 Waha                    IGBAD21                 ABRTC00                  AARTC21                 ABHTC00                 AAHTC21                 AAZND00                 AAZND21
+           Topolobampo             AAZMP00                 AAZMP21                 Waha                    IGBAD21                 ATIAC00                  ATIAC21                 AADTC00                 AADTC21                 AAZNP00                 AAZNP21
+           Peninsula                                                                                                                                                                                         
+           Merida                  AAZMK00                 AAZMK21                 Tennessee, zone 0       IGBBA21                 ABGTC00                  AAGTC21                 ABGTZ00                 AAGTZ21                 AAZNK00                 AAZNK21
+           South                                                                                                                                                                                             
+           Ciudad Pemex            AAZMJ00                 AAZMJ21                 Tennessee, zone 0       IGBBA21                 ABWTC00                  AAWTC21                 ABWZC00                 AAWZC21                 AAZNJ00                 AAZNJ21
+           Puente Moreno           AAZMG00                 AAZMG21                 Tennessee, zone 0       IGBBA21                 ABGUC00                  AAGUC21                 ABGUZ00                 AAGUZ21                 AAZNG00                 AAZNG21
+           Tuxpan                  AAZML00                 AAZML21                 Tennessee, zone 0       IGBBA21                 AAGKC00                  AAGKC21                 AAGKZ00                 AAGKZ21                 AAZNL00                 AAZNL21
+           West                                                                                                                                                                                              
+           Guadalajara             AAZMM00                 AAZMM21                 Waha                    IGBAD21                 ABGPC00                  AAGPC21                 ABGPZ00                 AAGPZ21                 AAZNM00                 AAZNM21
+           © 2025 by S&P Global Inc. All rights reserved.         6
+           Methodology and Specifications Guide                    Mexico Natural Gas: September 2025
+           Mexico variable price
+           Description of symbol                  Variable price trade date symbol        Variable price flow date symbol        Source Location                         Source Location Flow Date Symbol       Variable cost trade date symbol        Variable cost flow date symbol
+           Bates published                        c                                       c                                                                              u                                      c                                      c
+           Baja                                                                                                                                                                                                                                         
+           Rosarito                               AZZMC00                                 AZZMC21                                Socal Gas                               IGBDL21                                AAYMC00                                AAYMC21
+           Central                                                                                                                                                                                                                                      
+           Aguascalientes                         AYZMC00                                 AYZMC21                                Waha                                    IGBAD21                                ABWQC00                                AAWQC21
+           Tula                                   AUZMC00                                 AUZMC21                                Tennessee, zone 0                       IGBBA21                                AAXWC00                                AAXWC21
+           Valtierrilla                           AOZMC00                                 AOZMC21                                Tennessee, zone 0                       IGBBA21                                ABVRC00                                AAVRC21
+           Villa de Reyes                         AJZMC00                                 AJZMC21                                Tennessee, zone 0                       IGBBA21                                ABPPC00                                AAPPC21
+           North                                                                                                                                                                                                                                        
+           El Encino                              AJJMC00                                 AJJMC21                                Waha                                    IGBAD21                                AAOBC00                                AAOBC21
+           Juarez                                 AJRMC00                                 AJRMC21                                Waha                                    IGBAD21                                ABITC00                                ABITC21
+           Northeast                                                                                                                                                                                                                                    
+           Los Ramones - Monterrey                AJRRC00                                 AJRRC21                                Tennessee, zone 0                       IGBBA21                                AAETC00                                AAETC21
+           Reynosa                                AJRZC00                                 AJRZC21                                Tennessee, zone 0                       IGBBA21                                ABFTC00                                AAFTC21
+           Northwest                                                                                                                                                                                                                                    
+           Sierrita                               AJRYC00                                 AJRYC21                                Waha                                    IGBAD21                                ABHTC00                                AAHTC21
+           Topolobampo                            AJRTC00                                 AJRTC21                                Waha                                    IGBAD21                                AADTC00                                AADTC21
+           Peninsula                                                                                                                                                                                                                                    
+           Merida                                 AJRQC00                                 AJRQC21                                Tennessee, zone 0                       IGBBA21                                ABGTZ00                                AAGTZ21
+           South                                                                                                                                                                                                                                        
+           Ciudad Pemex                           AJQQC00                                 AJQQC21                                Tennessee, zone 0                       IGBBA21                                ABWZC00                                AAWZC21
+           Puente Moreno                          AJFQC00                                 AJFQC21                                Tennessee, zone 0                       IGBBA21                                ABGUZ00                                AAGUZ21
+           Tuxpan                                 AEFQC00                                 AEFQC21                                Tennessee, zone 0                       IGBBA21                                AAGKZ00                                AAGKZ21
+           West                                                                                                                                                                                                                                         
+           Guadalajara                            AVFQC00                                 AVFQC21                                Waha                                    IGBAD21                                ABGPZ00                                AAGPZ21
+           © 2025 by S&P Global Inc. All rights reserved.            7
+          Methodology and Specifications Guide               Mexico Natural Gas: September 2025
+          Revision History                                                                     reviewing all content, and making minor edits to language                             August 2019: Platts completed an annual review of the 
+                                                                                               throughout for consistency and clarity.                                               Mexico Natural Gas methodology and specifications 
+          September 2025: Platts completed an annual review of this                                                                                                                  guide. Platts reviewed all content and made minor edits 
+          guide, reviewing all content, and making minor edits to language                     August 2022: Platts completed an annual review of this guide,                         to language. A table was also added, detailing the price 
+          throughout for consistency and clarity.                                              reviewing all content, and making minor edits to language                             database codes for the various Mexico natural gas 
+                                                                                               throughout for consistency and clarity.                                               assessments.
+          August 2024: Platts completed an annual review of this guide, 
+          reviewing all content, and making minor edits to language                            August 2021: Platts completed an annual review of the Mexico                          September 2018: Changed Los Ramones – Monterey proxy hub 
+          throughout for consistency and clarity. Platts changed the                           Natural Gas methodology and specifications guide. Platts                              from Texas Eastern, STX to Tennessee, zone 0.
+          source location for Aguascalientes.                                                  reviewed all content, corrected typos and made minor edits to 
+                                                                                               language                                                                              July 2018: Added Aguascalientes, Ciudad Pemex, Guadalajara, 
+          February 2024: Completed quarterly update of transportation                                                                                                                Merida, Topolobampo, Tula, Tuxpan, and Villa de Reyes 
+          rates. Changed methodology of Tula location.                                         January 2021: Platts added language in part VII of the                                locations. Discontinued Alamo, TX, Hidalgo, TX, Rio Bravo, TX, 
+                                                                                               methodology to represent the addition of a variable price that                        Alcalde Mayor, Matamoros, Miguel Aleman, and Tierra Blanca 
+          January 2024: Platts published the transport routes for each                         excludes fixed cost in addition to the full transport price that                      locations. Modified transport costs to reflect fully loaded 
+          location and modified the methodology for all locations except                       was previously published. Platts also began to publish the                            transportation costs rather than just reservation fees.
+          El Encino.                                                                           separate fixed and variable costs for each location.
+                                                                                                                                                                                     July 2018: Platts completed an annual review of its Mexico 
+          October 2023: Platts added language regarding the                                    July 2020: Platts completed an annual review of the Mexico                            Natural Gas methodology & specifications guide. Minor edits 
+          transportation costs.                                                                Natural Gas methodology and specifications guide. Platts                              were made throughout the guide. 
+                                                                                               reviewed all content, corrected typos and made minor edits to 
+          September 2023: Platts corrected selected Fixed Cost trade                           language. The table was also reordered to align with the text.                        May 2017: Platts launched daily Mexico natural gas 
+          and flow date symbols in Mexico fully loaded price table.                                                                                                                  assessments.
+                                                                                               June 2020: Platts has added detailed methodology descriptions 
+          July 2023: Platts completed an annual review of this guide,                          to all pricing points listed.
+          © 2025 by S&P Global Inc. All rights reserved.       8

@@ -1,0 +1,151 @@
+    Methodology and Specifications Guide
+    Metals Timing and Increment Guidelines
+    Latest update: February 2026
+    Introduction ............................................................ 2
+                  ........................................... 3
+    Metals timing guidelines
+    Metals Increment guidelines .....................................4
+             ....................................................... 5
+    Revision history
+    www.spglobal.com/energy
+          Methodology and specifications guide                      Metals Timing and Increment Guidelines: February 2026
+          Introduction                                                                             rebid. An intention to rebid or reoffer must be received by Platts                      Bids for seaborne iron ore cargoes should reflect typical loading 
+                                                                                                   within a reasonable time frame after the trade depending on the                         laycans and cargo sizes for the specific brands:
+          Platts, part of S&P Global Energy, assesses the value of                                 specific market.
+          commodities globally using its Market on Close (MOC)                                                                                                                             Brand                     Volume (mt)    Bid Loading Laycan  Offer Loading Laycan
+          assessment process, and Platts assessments are designed                                  In some markets if there is a change in price to a standing bid                         MAC Fines              80,000-90,000       minimum 15 days               standard 
+          to reflect repeatable market value at the close of the                                   or offer; or a rebid or reoffer following a trade, near to the close                                                                                         10-day laycan
+          assessment process.                                                                      of the MOC process, this triggers an extension state. This is to                        Newman Fines           80,000-90,000       minimum 15 days               standard 
+                                                                                                                                                                                                                                                                10-day laycan
+                                                                                                   adequately test the repeatability of that bid or offer.                                 Jimblebar Fines        80,000-90,000       minimum 15 days               standard 
+          In order to ensure that all firm bids and offers that still                                                                                                                                                                                           10-day laycan
+          stand at the close of the MOC process have been fully                                                                                                                            PB Fines              170,000-190,000      minimum 15 days               standard 
+          tested in the market at large, Platts has established clearly                            Metals Increment Guidelines                                                                                                                                  10-day laycan 
+                                                                                                                                                                                           BRBF Fines                    170,000     minimum 30 days                standard 
+          defined timing guidelines and standards of incrementability                              In order to ensure that all published MOC data is fully tested                                                                                               10-day laycan
+          that apply when publishing firm bids and offers in the MOC                               in the market, Platts has also established incrementability                             IOCJ Fines                    170,000     minimum 20 days                standard 
+          process.                                                                                 guidelines, which detail how quickly bids and offers may be                                                                                                  10-day laycan
+                                                                                                                                                                                           Newman Lump            80,000-90,000       minimum 15 days               standard 
+                                                                                                   improved when they have been published, and by what amount.                                                                                                  10-day laycan 
+          All timings and increments have been established by Platts                                                                                                                       PB Lump                80,000-90,000       minimum 15 days               standard 
+          after an analysis of typical market movements and behavior,                              Platts may notify the market of any adjustment to the standard                                                                                               10-day laycan
+          and as such differ among commodities and locations. Platts                               increments in the event of market volatility or a disruptive event.                     Pellets              minimum 35,000       minimum 30 days                standard 
+                                                                                                                                                                                                                                                                10-day laycan
+          periodically reviews these published standards to ensure they                            A market participant can withdraw a bid or offer from the Platts                        Pellets Feed                  170,000     minimum 20 days                standard 
+          remain relevant and appropriate and seeks to notify market                               MOC process at any time, so long as no other potential trading                                                                                               10-day laycan
+          participants ahead of any change to them.                                                counterparty has indicated that it has interest to buy or sell into                      
+                                                                                                   the bid/offer.                                                                          General Principles 
+          Metals Timing Guidelines                                                                 The incrementability guidelines do not apply to bids and offers                         Platts synchronizes its computer clocks daily in order to ensure 
+          Timing cut-offs for the submission and subsequent publication                            that are moving away from market value, though Platts analyzes                          that the cut-off points for new bids and offers, price changes 
+          of bids and offers are applied so that price information is                              bids and offers that are moved lower, and higher, respectively, to                      and the market’s close are accurate. The timing guidelines are 
+          available to the market in a clear and orderly manner, and to                            ensure reasonability.                                                                   subject to change due to holiday schedules, which can be found 
+          ensure that every bid and offer published by Platts is logistically                                                                                                              at https://www.spglobal.com/energy/en/pricing-benchmarks/
+          executable.                                                                              Iron Ore Volume and Laycan Guidelines                                                   our-methodology/holiday
+          Following the timing cut-off for new bids and offers, only the                           PPlatts has additionally established volume and laycan                                  The timing cut-offs and standards of incrementability vary 
+          price can be changed. In markets where price information and                             guidelines to specify the minimum or standard volume and                                across the regions and markets assessed, and details can be 
+          logistics may be more complex, Platts will not publish price                             loading laycan required for bids and offers published in the iron                       found in the following tables. The various product categories 
+          changes to standing bids and offers close to the end of the                              ore MOC assessment process.                                                             in the tables broadly cover details of individual markets. For 
+          MOC process. This is to ensure that those bids and offers fully                                                                                                                  full details on specifications, including volume and loading/
+          test market value.                                                                       Offers for seaborne iron ore cargoes are required to have a                             delivery timings, as well as further details on Platts MOC data 
+                                                                                                   standard 10-day loading laycan with a minimum volume of                                 publishing principles, please refer to the methodology guides at 
+          Following any trade, the original on-screen seller/buyer must                            50,000 mt for fines, and lumps and pellet feeds, and 35,000 mt                          https://www.spglobal.com/energy/en/pricing-benchmarks/our-
+          revert immediately as to whether they are prepared to reoffer or                         for pellets.                                                                            methodology/methodology-specifications/metals
+          © 2026 by S&P Global Inc. All rights reserved.         2
+          Methodology and specifications guide                     Metals Timing and Increment Guidelines: February 2026
+          Metals timing guidelines
+                                                                                                                                                                                                          Repeat/Change of an order     Period of testing the 
+                                                                                                                                    No more new      Reaction time to    No more price                    which triggers extension of the  repeatability of an 
+                                                                                                                                    bids/offers      repeat order        changes                          window                        order repeated/changed 
+                                                                                                                                                                                                                                        near the close 
+          Region              Time               Product Category                 Outright or         Market          MOC           (Pricing State)  (Repeatability)     (Final State)    Market Close (Extension trigger period)       (Extension state)
+                                                                                  Spread              type            Environment
+          Iron Ore
+          Asia                Singapore time     IODEX Fines                      Outright/Spread     Seaborne        Window        17.00.00         Within 60 secs      17.25.00         17.30.00        17.28.00 to 17.30.00          17.30.01 to 17.32.00
+                                                                                                      Cargoes
+          Asia                Singapore time     58% Fe Fines                     Outright/Spread     Seaborne        Window        17.00.00         Within 60 secs      17.25.00         17.30.00        17.28.00 to 17.30.00          17.30.01 to 17.32.00
+                                                                                                      Cargoes
+          Asia                Singapore time     65% Fe Fines                     Outright/Spread     Seaborne        Window        17.00.00         Within 60 secs      17.25.00         17.30.00        17.28.00 to 17.30.00          17.30.01 to 17.32.00
+                                                                                                      Cargoes
+          Asia                Singapore time     IOPEX Fines                      Outright            Port stocks     Window        17.00.00         Within 30 secs      17.28.00         17.30.00        17.28.00 to 17.30.00          17.30.01 to 17.32.00
+          Asia                Singapore time     Lump                             Spread              Seaborne        Window        17.00.00         Within 60 secs      17.25.00         17.30.00        17.28.00 to 17.30.00          17.30.01 to 17.32.00
+                                                                                                      Cargoes
+          Asia                Singapore time     Pellet                           Spread              Seaborne        Window        17.00.00         Within 60 secs      17.25.00         17.30.00        17.28.00 to 17.30.00          17.30.01 to 17.32.00
+                                                                                                      Cargoes
+          Asia                Singapore time     Pellet Feed                      Outright            Seaborne        Window        17.00.00         Within 60 secs      17.25.00         17.30.00        17:28:00 to 17:30:00          17.30.01 to 17.32.00
+                                                                                                      Cargoes
+          Asia                Singapore time     Medium Grade Fines               Outright            Port stocks     Window        17.00.00         Within 30 secs      17.28.00         17.30.00        17.28.00 to 17.30.00          17.30.01 to 17.32.00
+                                                 (E.C. IOPEX)
+          Asia                Singapore time     Medium Grade Fines               Outright            Port stocks     Window        17.00.00         Within 30 secs      17.28.00         17.30.00        17.28.00 to 17.30.00          17.30.01 to 17.32.00
+                                                 (N.C. IOPEX)
+          Asia                Singapore time     IODEX Derivatives                Outright            Derivatives     Window        17.00.00          Within 60 secs     17.28.00         17.30.00        17.28.00 to 17.30.00          17.30.01 to 17.32.00
+          Alumina
+          Asia                Singapore time     Alumina                          Outright            Seaborne        Window         16.00.00         Within 5 mins      17.25.00         17.30.00        N/A                           N/A
+                                                                                                      Cargoes
+          Aluminum
+          US                  Eastern time       P1020 Aluminum                   Outright/Spread     Truck/Rail      Window        15.00.00         Within 5 mins       15.55.00         16.00.00        15.59.00 to 16.00.00          16.00.01 to 16.02.00
+          Metallurgical coal
+          Asia                Singapore time     Premium Low Vol Hard Coking  Outright                Seaborne        Window        16.45.00         Within 60 secs      17.25.00         17.30.00        17.28.00 to 17.30.00          17.30.01 to 17.32.00
+                                                 Coal (PLV HCC) FOB Australia                         Cargoes
+          © 2026 by S&P Global Inc. All rights reserved.       3
+          Methodology and specifications guide                       Metals Timing and Increment Guidelines: February 2026
+          Metals Increment guidelines
+                                                                                                                                                                       —————— Volume ——————               — Price Movement Increment —
+          Region               Product Category                      Outright or Spread   Market Type     MOC Environment        Delivery/loading period               Min              Max               Min              Max               Unit             Frequency
+          Iron Ore
+          Asia                 IODEX Fines                           Outright             Seaborne        Window                 Delivery 14-56 days forward           50,000 mt        N/A               0.05             0.25              $/dmt            per 5 minutes
+                                                                                          Cargoes
+          Asia                 58% Fe Fines                          Outright             Seaborne        Window                 Delivery 14-56 days forward           50,000 mt        N/A               0.05             0.25              $/dmt            per 5 minutes
+                                                                                          Cargoes
+          Asia                 65% Fe Fines                          Outright             Seaborne        Window                 Delivery 14-56 days forward           50,000 mt        N/A               0.05             0.25              $/dmt            per 5 minutes
+                                                                                          Cargoes
+          Asia                 IOPEX Fines                           Outright             Port stocks     Window                 Prompt delivery at ports              5,000 mt         50,000 mt         0.50             2.50              Yuan/wmt         per 2 minutes
+          Asia                 IODEX Fines                           Spread               Seaborne        Window                 Delivery 14-56 days forward           50,000 mt        N/A               0.05             0.10              $/dmt            per 5 minutes
+                                                                                          Cargoes
+          Asia                 58% Fe Fines                          Spread               Seaborne        Window                 Delivery 14-56 days forward           50,000 mt        N/A               0.05             0.10              $/dmt            per 5 minutes
+                                                                                          Cargoes
+          Asia                 65% Fe Fines                          Spread               Seaborne        Window                 Delivery 14-56 days forward           50,000 mt        N/A               0.05             0.10              $/dmt            per 5 minutes
+                                                                                          Cargoes
+          Asia                 Lump                                  Spread               Seaborne        Window                 Delivery 14-56 days forward           50,000 mt        N/A               0.001            0.005             $/dmtu           per 5 minutes
+                                                                                          Cargoes
+          Asia                 Pellet                                Spread               Seaborne        Window                 Delivery 14-56 days forward           35,000 mt        N/A               0.05             0.25              $/dmt            per 5 minutes
+                                                                                          Cargoes
+          Asia                 Pellet Feed                           Outright             Seaborne        Window                 Delivery 14-56 days forward           50,000 mt        N/A               0.05             0.25              $/dmt            per 5 minutes
+                                                                                          Cargoes
+          Asia                 Medium Grade Fines (E.C. IOPEX)       Outright             Port stocks     Window                 Prompt delivery at ports              5,000 mt         50,000 mt         0.50             2.50              Yuan/wmt         per 2 minutes
+          Asia                 Medium Grade Fines (N.C. IOPEX)       Outright             Port stocks     Window                 Prompt delivery at ports              5,000 mt         50,000 mt         0.50             2.50              Yuan/wmt         per 2 minutes
+          Asia                 IODEX Derivatives                     Outright             Derivatives     Window                 N/A                                   5,000 mt         N/A               0.05             0.25              $/dmt            per 2 minutes
+          Please refer to the Iron Ore Volume and Laycan Guidelines section of this guide for additional details on loading and volume for bids and offers
+          Alumina 
+          Asia                 Alumina                               Outright             Seaborne        Window                 Loading 14-60 days forward            30,000 mt        35,000 mt         0.50             1.00              $/mt             per 5 minutes
+                                                                                          Cargoes
+          Aluminum
+          US                   P1020 Aluminum                        Outright/Spread      Truck/Rail      Window                 Delivery 7-30 days forward            100 mt           1,000 mt          0.05             0.25              cents/lb         per 5 minutes
+          Metallurgical coal
+          Asia                 Premium Low Vol Hard Coking Coal  Outright                 Seaborne        Window                 Loading 15-60 days forward            30,000 mt        N/A               1.00             2.00              $/mt             per 5 minutes
+                               (PLV HCC) FOB Australia                                    Cargoes
+          *Alumina volume size is either 30,000 mt or 35,000 mt
+          *Platts has established volume increment guidelines to specify that bids, offer and trades reported in the US aluminum MOC process will be published in multiples of 25 mt above the 100 mt minimum volume specification
+          © 2026 by S&P Global Inc. All rights reserved.         4
+          Methodology and specifications guide                    Metals Timing and Increment Guidelines: February 2026
+          Revision history                                                                     minimum volume for US P1020 Aluminum in this guide is                                 November 2020: Platts added timing and increment guidelines 
+                                                                                               100mt.                                                                                for the US aluminum market. Platts conducted an annual review 
+          January 2026: Platts updated entries under the Product                                                                                                                     and clarified guidelines for fines derivatives, as well as updating 
+          Category columns of the timing and increment guidelines tables                       September 2023: Platts completed an annual review of the                              the minimum price movement increment for Iron ore port 
+          to IODEX Fines, IOPEX Fines and IODEX Derivatives.                                   Metals Timing and Increment Guidelines, adds extension trigger                        stocks.
+                                                                                               and state to Asia iron ore MOC.
+          November 2025: Platts established volume increment                                                                                                                         December 2019: Completed annual guide review. Added the 
+          guidelines for the US aluminum MOC process.                                          July 2023: Platts introduced timing and increment guidelines                          introduction to the guidelines and general principles. Added 
+                                                                                               to the Asian metallurgical coal PLV FOB Australia assessment                          guidelines for Alumina in Asia.
+          April 2025: Platts completed an annual review of the guide and                       process in June.
+          made minor edits throughout. In January, Platts added timing                                                                                                               September 2018: Completed annual methodology review 
+          and increment guidelines for iron ore pellet feed. In February,                      November 2022: Platts completed an annual review of the 
+          Platts lengthened the final pricing state in the US Aluminum                         Metals Timing and Increment Guidelines. Platts reviewed all                           January 2018: Updated to reflect methodology changes to 
+          MOC to five minutes.                                                                 content and made minor edits to language for clarity.                                 IODEX price series.
+          October 2024: Platts completed an annual review of the                               March 2022: Updated the introduction to reflect S&P Global                            November 2017: Updated to indicate full-reflection of index-
+          Metals Timing and Increment Guidelines. Renamed the                                  Commodity Insights and changed the timing guidelines for the                          linked indications in the MOC process.
+          Iron Fines grades under product category to sort it by Fe                            US aluminum market.
+          content and made other minor edits throughout the guide                                                                                                                    July 2017: Platts published its Iron Ore MOC Timing & 
+          for simplification and improved clarity as part of the review.                       December 2021: Platts completed an annual review of the                               Increment Guidelines to provide market participants 
+          Added additional details about Iron Ore Volume and Laycan                            Metals Timing and Increment Guidelines. Platts reviewed all                           with the clear operating parameters of the assessment 
+          into the guide for more clarity. Platts clarified that the                           content and made minor edits to language.                                             process.
+          © 2026 by S&P Global Inc. All rights reserved.       5

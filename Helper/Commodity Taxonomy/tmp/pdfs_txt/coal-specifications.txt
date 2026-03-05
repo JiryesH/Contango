@@ -1,0 +1,864 @@
+    Specifications Guide
+    Global Coal
+    Latest update: January 2026
+    Definitions of the trading locations for which Platts 
+    publishes assessments ............................................. 2
+    Asia-Pacific Thermal Coal Assessments .......................... 2
+                      ............................... 5
+    Atlantic Thermal Coal Assessments
+                             ............. 6
+    Asia-Pacific And Atlantic Thermal Coal Locations
+    APAC Dark Spread Assessments .................................. 10
+    US Thermal Coal Assessments ......................................11
+                      .............................. 13
+    US Physical Thermal Coal Netbacks
+    Forward Curve Assessments ....................................... 15
+    Petroleum Coke Assessments ...................................... 16
+    Petcoke Location ...................................................... 16
+    Spot Dry Bulk Freight Assessments published  
+    in Coal Trader International ......................................... 19
+    Metallurgical Coal and Met Coke assessments published  
+    in Coal Trader International .........................................20
+    Revision History ..................................................... 24
+    www.spglobal.com/energy
+            Specifications Guide                 Global Coal: January 2026
+            Definitions of the trading locations for which Platts publishes assessments
+            All the assessments listed here employ S&P Global Commodity Insights’ Platts Assessments Methodology, as published at https://www.spglobal.com/platts/plattscontent/_assets/_files/en/our-
+            methodology/methodology-specifications/platts-assessments-methodology-guide.pdf.
+            These guides are designed to give Platts subscribers as much information as possible about a wide range of methodology and specification questions.
+            This guide is current at the time of publication. Platts may issue further updates and enhancements to this guide and will announce these to subscribers through its usual publications of record.  
+            Such updates will be included in the next version of this guide. Platts editorial staff and managers are available to provide guidance when assessment issues require clarification.
+            Asia-Pacific Thermal Coal Assessments
+                                                                                                                                                                              ―――― Specifications (Typical) ――――            ――――――― Specifications (Range) ―――――――
+            Assessment           Code       Mavg       Qavg        Wavg       CV            Delivery      Volume      Currency UOM               Frequency     Timestamp Sulfur           Ash    Moisture     Volatiles   CV            Sulfur      Ash        Moisture Volatiles     Minimum       Other 
+                                                                                            period                                                                                                                                                                                    Loadrate      Information
+            CFR Bangladesh TCBAN00 TCBAN03             TCBAN05 TCBAN04 5,000 GAR 30-60                    55,000      USD         Metric Ton Daily             17.30         0.8          8      26                       4,800-        Max 2       12         30                                   Geared 
+                                                                                            days                                                               Singapore                                                  5,500 GAR                                                                 Supramax
+            Sulfur               TCSDA00 TCSDA03       TCSDA05                                                        USD         Metric Ton Daily             17.30         0.1
+            Differential                                                                                                                                       Singapore
+            Platts SEAT          CSEAA00 CSEAA03       CSEAA05 CSEAA04 4,200 GAR 15-60 days 55,000                    USD         Metric Ton Daily             17.30         0.6          7      35                                     Max 1       Max 10     Max 40                               Geared 
+                                                                                                                                                               Singapore                                                                                                                            Supramax
+            Platts NEAT          JKTCA00 JKTCA03       JKTCA05 JKTCA04 5,750 NAR 15-60 days 75,000                    USD         Metric Ton Daily             17.30         0.6          15     10           29          5,500-        Max 1       Max 20     Max 16      Max 38                   Standard 
+                                                                                                                                                               Singapore                                                  6,100 NAR                                                                 Panamax
+            FOB Newcastle AAVVB00 AAVVB03 AAVB05                   AAVVB04 5,500 NAR 7-45 days            75,000      USD         Metric Ton Daily             17.30         0.65         23     10                       5,300-        Max 0.75 17-23         Max 15
+                                                                                                                                                               Singapore                                                  5,700 NAR
+            FOB Newcastle  AAVVA00                                            5,500 NAR 7-45 days                     USD         Metric Ton Daily             17.30         0.65         20     10                       5,300-        Max 0.75 17-23         Max 15
+            Ash Differential                                                                                                                                   Singapore                                                  5,700 NAR
+            FOB Kalimantan THCOK00 THCOK03                                    3400 GAR 7-45 days          50000       USD         Metric Ton Daily             17:30         0.2          4      46                       3200-3600  Max 0.4 4                 50                                   Geared 
+                                                                                                                                                               Singapore                                                  GAR                                                                       Supramax
+            FOB Kalimantan CSCKJ00 CSCKJ03             CSCKJ04 CWCKJ04 3,800 GAR 7-45 days                50,000      USD         Metric Ton Daily             17.30         0.3          6      38                       3,600-        Max 0.6 Max 9          Max 41                 8,000 mt/ Geared 
+                                                                                                                                                               Singapore                                                  4,000 GAR                                                   day           Supramax
+            FOB Kalimantan CTCAD00                                            3,400 NAR 7-45 days         50,000      USD         Metric Ton Daily             17.30         0.3          6      38                       3,600-        Max 0.6 Max 9          Max 41                 8,000 mt/ Geared 
+                                                                                                                                                               Singapore                                                  4,000 GAR                                                   day           Supramax
+            FOB Kalimantan AVTCG00 AVTCG03             AVTCG05 ACTCG04 5,800 GAR 15-60 days 75,000                    USD         Metric Ton Daily             17.30         0.8          8      15                       5,600-        Max 1       Max 10     Max 18                               Gearless 
+                                                                                                                                                               Singapore                                                  5,800 GAR                                                                 Panamax
+            FOB Kalimantan CSBKI00 CSBKI03             CSBKI04 CWBKI04 4,200 GAR 7-45 days                50,000      USD         Metric Ton Daily             17.30         0.5          6      35                       4,000-        Max 0.8 Max 8          Max 40                 8,000 mt/ Geared 
+                                                                                                                                                               Singapore                                                  4,400 GAR                                                   day           Supramax
+            FOB Kalimantan CTCAA00                                            3,800 NAR 7-45 days         50,000      USD         Metric Ton Daily             17.30         0.5          6      35                       4,000-        Max 0.8 Max 8          Max 40                 8,000 mt/ Geared 
+                                                                                                                                                               Singapore                                                  4,400 GAR                                                   day           Supramax
+            FOB Kalimantan CSAKH00 CSAKH03             CSAKH04 CWAKH04 5,900 GAR 15-60 days 75,000                    USD         Metric Ton Daily             17.30         0.8          8      15                       5,700-6,100  Max 1        Max 10     Max 20                               Gearless 
+                                                                                                                                                               Singapore                                                  GAR                                                                       Panamax
+            © 2026 by S&P Global Inc. All rights reserved.                   2
+            Specifications Guide                 Global Coal: January 2026
+            Asia-Pacific Thermal Coal Assessments
+                                                                                                                                                                              ―――― Specifications (Typical) ――――            ――――――― Specifications (Range) ―――――――
+            Assessment           Code       Mavg       Qavg        Wavg       CV            Delivery      Volume      Currency UOM               Frequency     Timestamp Sulfur           Ash    Moisture     Volatiles   CV            Sulfur      Ash        Moisture Volatiles     Minimum       Other 
+                                                                                            period                                                                                                                                                                                    Loadrate      Information
+            FOB Kalimantan CTCAC00                                            5,600 NAR 15-60 days 75,000             USD         Metric Ton Daily             17.30         0.8          8      15                       5,700-6,100  Max 1        Max 10     Max 20                               Gearless 
+                                                                                                                                                               Singapore                                                  GAR                                                                       Panamax
+            FOB Kalimantan CSAKI00 CSAKI03             CSAKI04 CWAKI04 5,000 GAR 15-60 days 75,000                    USD         Metric Ton Daily             17.30         0.8          8      26                       4,800-        Max 1       Max 10     Max 30                               Gearless 
+                                                                                                                                                               Singapore                                                  5,200 GAR                                                                 Panamax
+            FOB Kalimantan CTCAB00                                            4,700 NAR 15-60 days 75,000             USD         Metric Ton Daily             17.30         0.8          8      26                       4,800-        Max 1       Max 10     Max 30                               Gearless 
+                                                                                                                                                               Singapore                                                  5,200 GAR                                                                 Panamax
+            Kalimantan           AKFCA00 AKFCA03       AKFCA05                                                        USD         Metric Ton Daily             17.30 
+            Floating Crane                                                                                                                                     Singapore
+            FOB Kalimantan                                                                                                                                     17:30 
+            Ash Differential  AVTCI00 AVTCI03  AVTCI05 AVTCI04                                                        USD         Metric Ton Daily             Singapore
+            1%
+            FOB Kalimantan                                                                                                                                     17:30 
+            Sulfur               AVTCH00 AVTCH03  AVTCH05 AVTCH04                                                     USD         Metric Ton Daily             Singapore
+            Differential 0.1%
+            PCC 6                PCCPQ00 PCCPQ03       PCCPQ05 PCCPQ04 3,800 NAR 30-60 days Min                       USD         Metric Ton Daily             17.30         0.5          6      35           25          3,600-        Max 0.8 Max 8          Max 40
+                                                                                                          40,000                                               Singapore                                                  4,000 NAR
+            PCC 6                PCCPR00 PCCPR03       PCCPR05                3,800 NAR 30-60 days Min                Yuan        Metric Ton Daily             17.30         0.5          6      35           25          3,600-        Max 0.8 Max 8          Max 40
+                                                                                                          40,000                                               Singapore                                                  4,000 NAR
+            PCC 6 (VAT           PCCPS00 PCCPS03       PCCPS05                3,800 NAR 30-60 days Min                Yuan        Metric Ton Daily             17.30         0.5          6      35           25          3,600-        Max 0.8 Max 8          Max 40
+            Included)                                                                                     40,000                                               Singapore                                                  4,000 NAR
+            PCC 7                PCCPO00 PCCPO03       PCCPO05                4,700 NAR 30-60 days Min                Yuan        Metric Ton Daily             17.30         0.8          8      26                       4,500-        Max 1       Max 10     Max 30
+                                                                                                          40,000                                               Singapore                                                  4,900 NAR
+            PCC 7                PCCPP00 PCCPP03       PCCPP05 PCCPP04 4,700 NAR 30-60 days Min                       USD         Metric Ton Daily             17.30         0.8          8      26                       4,500-        Max 1       Max 10     Max 30
+                                                                                                          40,000                                               Singapore                                                  4,900 NAR
+            PCC 7 (VAT           PCCFB00 PCCFB03       PCCFB05                4,700 NAR 30-60 days Min                Yuan        Metric Ton Daily             17.30         0.8          8      26                       4,500-        Max 1       Max 10     Max 30
+            Included)                                                                                     40,000                                               Singapore                                                  4,900 NAR
+            PCC 8                PCCSC00 PCCSC03       PCCSC05 PCCSC04 5,500 NAR 15-60 days Min                       USD         Metric Ton Daily             17.30         0.7          20     12           25          5,300-        Max 1       Max 23     Max 18      Max 40
+                                                                                                          25,000                                               Singapore                                                  5,700 NAR
+            PCC 8                PCCSD00 PCCSD03       PCCSD05                5,500 NAR 15-60 days Min                Yuan        Metric Ton Daily             17.30         0.7          20     12           25          5,300-        Max 1       Max 23     Max 18      Max 40
+                                                                                                          25,000                                               Singapore                                                  5,700 NAR
+            PCC 8 (Duty &        PCCFA00 PCCFA03       PCCFA05                5,500 NAR 15-60 days Min                Yuan        Metric Ton Daily             17.30         0.7          20     12           25          5,300-        Max 1       Max 23     Max 18      Max 40
+            VAT Included)                                                                                 25,000                                               Singapore                                                  5,700 NAR
+                                 TCAKV00 TCAKV03       TCAKV02 TCAKV04                                    Min                                                  17.30                                                      3200-3600 
+            CFR China                                                         3,400 GAR 30-60 days 70,000             Yuan        Metric Ton Daily             Singapore 0.2              4      46                       GAR           Max 0.4 4              50
+            CFR China            TCAKE00 TCAKE03       TCAKE02 TCAKE04 3,400 GAR 30-60 days Min                       USD         Metric Ton Daily             17.30         0.2          4      46                       3200-3600  Max 0.4 4                 50
+                                                                                                          70,000                                               Singapore                                                  GAR
+            CFR India East       TCAKD00 TCAKD03  TCAKD02 TCAKD04 3,400 GAR 30-60 days Min                            USD         Metric Ton Daily             17.30         0.2          4      46                       3200-3600  Max 0.4 4                 50                                   Gearless 
+                                                                                                          70,000                                               Singapore                                                  GAR                                                                       Panamax
+            © 2026 by S&P Global Inc. All rights reserved.                   3
+            Specifications Guide                 Global Coal: January 2026
+            Asia-Pacific Thermal Coal Assessments
+                                                                                                                                                                              ―――― Specifications (Typical) ――――            ――――――― Specifications (Range) ―――――――
+            Assessment           Code       Mavg       Qavg        Wavg       CV            Delivery      Volume      Currency UOM               Frequency     Timestamp Sulfur           Ash    Moisture     Volatiles   CV            Sulfur      Ash        Moisture Volatiles     Minimum       Other 
+                                                                                            period                                                                                                                                                                                    Loadrate      Information
+            CFR India West       TCAKC00 TCAKC03       TCAKC02 TCAKC04 3,400 GAR 30-60 days Min                       USD         Metric Ton Daily             17.30         0.2          4      46                       3200-3600  Max 0.4 4                 50                                   Gearless 
+                                                                                                          70,000                                               Singapore                                                  GAR                                                                       Panamax
+            CFR India East       TCAKU00 TCAKU03       TCAKU02 TCAKU04 4,200 GAR 30-60 days Min                       USD         Metric Ton Daily             17.30         0.5          6      35                       4,000-        Max 0.8 Max 8          Max 40                 8,000 mt/ Gearless 
+                                                                                                          70,000                                               Singapore                                                  4,400 GAR                                                   day           Panamax
+            CFR India East       TCBKU00                                      3,800 NAR 30-60 days Min                USD         Metric Ton Daily             17.30         0.5          6      35                       4,000-        Max 0.8 Max 8          Max 40                 8,000 mt/ Gearless 
+                                                                                                          70,000                                               Singapore                                                  4,400 GAR                                                   day           Panamax
+            CFR India West       TCAKT00 TCAKT03       TCAKT02 TCAKT04 4,200 GAR 30-60 days Min                       USD         Metric Ton Daily             17.30         0.5          6      35                       4,000-        Max 0.8 Max 8          Max 40                 8,000 mt/ Gearless 
+                                                                                                          70,000                                               Singapore                                                  4,400 GAR                                                   day           Panamax
+            CFR India West       TCBKT00                                      3,800 NAR 30-60 days Min                USD         Metric Ton Daily             17.30         0.5          6      35                       4,000-        Max 0.8 Max 8          Max 40                 8,000 mt/ Gearless 
+                                                                                                          70,000                                               Singapore                                                  4,400 GAR                                                   day           Panamax
+            CFR India East       TCAKJ00 TCAKJ03       TCAKJ05 TCAKJ04 5,000 GAR 30-60 days Min                       USD         Metric Ton Daily             17.30         0.8          8      26                       4,800-        Max 1       Max 10     Max 30                 8,000 mt/ Gearless 
+                                                                                                          70,000                                               Singapore                                                  5,200 GAR                                                   day           Panamax
+            CFR India East       TCBKJ00                                      4,700 NAR 30-60 days Min                USD         Metric Ton Daily             17.30         0.8          8      26                       4,800-        Max 1       Max 10     Max 30                 8,000 mt/ Gearless 
+                                                                                                          70,000                                               Singapore                                                  5,200 GAR                                                   day           Panamax
+            CFR India West       TCAKP00 TCAKP03       TCAKP05 TCAKP04 5,000 GAR 30-60 days Min                       USD         Metric Ton Daily             17.30         0.8          8      26                       4,800-        Max 1       Max 10     Max 30                 8,000 mt/ Gearless 
+                                                                                                          70,000                                               Singapore                                                  5,200 GAR                                                   day           Panamax
+            CFR India West       TCBKP00                                      4,700 NAR 30-60 days Min                USD         Metric Ton Daily             17.30         0.8          8      26                       4,800-        Max 1       Max 10     Max 30                 8,000 mt/ Gearless 
+                                                                                                          70,000                                               Singapore                                                  5,200 GAR                                                   day           Panamax
+            CFR India East       CIECI00 CIECI03       CIECI05 CIECI04 5,500 NAR 30-60 days 75,000                    USD         Metric Ton Daily             17.30         0.8          20     8.5                      5,300-        Max 1       Max 23     Max 20                 8,000 mt/
+                                                                                                                                                               Singapore                                                  5,700 NAR                                                   day
+            CFR India West       CIWCI00 CIWCI03       CIWCI05 CIWCI04 5,500 NAR 30-60 days 75,000                    USD         Metric Ton Daily             17.30         0.8          20     8.5                      5,300-        Max 1       Max 23     Max 20                 8,000 mt/
+                                                                                                                                                               Singapore                                                  5,700 NAR                                                   day
+            FOB Russia           CSAKG00 CSAKG03       CSAKG04                6,300 GAR 90 days           75,000      USD         Metric Ton Weekly            17.30         0.3          8      10           25          6,200-        Max 0.4 Max 15         Max 14      Max 30
+            Pacific                                                                                                                                            Singapore                                                  6,400 GAR
+            © 2026 by S&P Global Inc. All rights reserved.                   4
+          Specifications Guide           Global Coal: January 2026
+          Atlantic Thermal Coal Assessments
+                                                                                                                                                                           ――― Specifications (Typical) ―――   ――――――― Specifications (Range) ―――――――
+          Assessment             Code       Mavg       Qavg       Wavg       CV           Delivery     Volume (mt)  Currency   UOM          Frequency    Timestamp        Sulfur %   Ash %     Moisture %    CV            Sulfur %   Ash %      Moisture %
+                                                                                          period
+          CFR Pakistan           TPKCA00    TPKCA03    TPKCA05    TPKCA04    5,750 NAR    30-60 days 55,000         USD        Metric Ton   Daily        17.00 London     1          17        12            5,700-6,000  Max 1       17-23      Max 13
+                                                                                                                                                                                                             NAR
+          CIF ARA                CSARM01    CSARN03    CSARN05               6,000 NAR    15-60 days   50,000       USD        Metric Ton   Daily        17.00 London     0.7        11        11            5,800-6,100   Max 1      Max 16     Max 14
+                                                                                                                                                                                                             NAR
+          CIF ARA                CSEUR00                                     6,000 NAR    15-60 days   50,000       EUR        Metric Ton   Daily        17.00 London     0.7        11        11            5,800-6,100   Max 1      Max 16     Max 14
+                                                                                                                                                                                                             NAR
+          European Blended       TEBPA00    TEBPA03    TEBPA05               6,000 NAR    15-60 days   75,000       USD        Metric Ton   Daily        17.00 London     2.35       11        11            5,800-6,100   Max 3      Max 16     Max 14
+          Price (EBP)                                                                                                                                                                                        NAR
+          European Blended       TEBPC00                                     6,000 NAR    15-60 days   75,000       EUR        Metric Ton   Daily        17.00 London     2.35       11        11            5,800-6,100   Max 3      Max 16     Max 14
+          Price (EBP)                                                                                                                                                                                        NAR
+          EBP/CIF ARA            TEBPB00    TEBPB03    TEBPB05               6,000 NAR    15-60 days   75,000       USD        Metric Ton   Daily        17.00 London                                        5,800-6,100 
+          Differential                                                                                                                                                                                       NAR
+          EBP/CIF ARA            TEBPD00                                     6,000 NAR    15-60 days   75,000       EUR        Metric Ton   Daily        17.00 London                                        5,800-6,100 
+          Differential                                                                                                                                                                                       NAR
+          CIF ARA 0.4% sulfur    CSARB00                                     5,850 NAR    15-60 days   75,000       USD        Metric Ton   Daily        17.00 London     0.4        11        9             5,700-6,100   Max 0.5    Max 15     Max 12
+          Blend Stock                                                                                                                                                                                        NAR
+          FOB New Orleans plus  CUAFR00                                      6,000 NAR    15-60 days   75,000       USD        Metric Ton   Daily        17.00 London     2.9                                6,000 NAR
+          ARA freight
+          FOB Richards Bay       AAXEX00    AAXEX03    AAXEX02               5,500 NAR    7-45 days    75,000       USD        Metric Ton   Daily        17.00 London     0.8        20        8.5           5,300-5,700  Max 1       17-23      Max 13
+                                                                                                                                                                                                             NAR
+          FOB Richards Bay       AAXEY00                                     5,500 NAR    7-45 days    75,000       EUR        Metric Ton   Daily        17.00 London     0.8        20        8.5           5,300-5,700  Max 1       17-23      Max 13
+                                                                                                                                                                                                             NAR
+          CIF Med 75kt           CTCMT04    CTCMT03    CTCMT05               6,000 NAR    90 days      75,000       USD        Metric Ton   Weekly       16.30 London     0.8        11        13            5,850-6,300  0.5-3       6-15       10-15
+                                                                                                                                                                                                             NAR
+          CIF Med 75kt           CTCME04                                     6,000 NAR    90 days      75,000       EUR        Metric Ton   Weekly       16.30 London     0.8        11        13            5,850-6,300  0.5-3       6-15       10-15
+                                                                                                                                                                                                             NAR
+          CIF Med 45kt           CTCMA04    CTCMA03    CTCMA05               6,000 NAR    90 days      45,000       USD        Metric Ton   Weekly       16.30 London     0.8        11        13            5,850-6,300  0.5-3       6-15       10-15
+                                                                                                                                                                                                             NAR
+          CIF Med 45kt           CTCMB04                                     6,000 NAR    90 days      45,000       EUR        Metric Ton   Weekly       16.30 London     0.8        11        13            5,850-6,300  0.5-3       6-15       10-15
+                                                                                                                                                                                                             NAR
+          FOB Colombia           CSABZ00    CSABZ03    CSABZ04               6,000 NAR    90 days      75,000       USD        Metric Ton   Weekly       16.30 London     0.75       10        12            5,750-6,100   Max 0.9    Max 12     Max 15
+                                                                                                                                                                                                             NAR
+          FOB Colombia           CSEUC00                                     6,000 NAR    90 days      75,000       EUR        Metric Ton   Weekly       16.30 London     0.75       10        12            5,750-6,100   Max 0.9    Max 12     Max 15
+                                                                                                                                                                                                             NAR
+          FOB Russia Baltic      CSAKC00    CSAKC03    CSAKC04               6,000 NAR    90 days      75,000       USD        Metric Ton   Weekly       16.30 London     0.5        8         10            5,800-6,100   Max 1      Max 16     Max 14
+                                                                                                                                                                                                             NAR
+          FOB Russia Baltic      CSEUL00                                     6,000 NAR    90 days      75,000       EUR        Metric Ton   Weekly       16.30 London     0.5        8         10            5,800-6,100   Max 1      Max 16     Max 14
+                                                                                                                                                                                                             NAR
+          FOB Black Sea          CBSEA00    CBSEA03    CBSEA04               6,000 NAR    30-60 days 50,000         USD        Metric Ton   Weekly       16.30 London     0.5        10        10            5,800-6,100   Max 1      Max 16     Max 14
+                                                                                                                                                                                                             NAR
+          © 2026 by S&P Global Inc. All rights reserved.       5
+           Specifications Guide             Global Coal: January 2026
+           Asia-Pacific And Atlantic Thermal Coal Locations
+           Assessment                                                   Basis Port                    All Ports                                                                                                                                    Normalized Volume (mt)
+           Atlantic
+           CFR Pakistan                                                 Qasim                         Qasim                                                                                                                                        55,000
+           CIF ARA                                                      Rotterdam                     Amsterdam, Rotterdam, Antwerp                                                                                                                50,000
+           European Blended Price                                       Rotterdam                     Amsterdam, Rotterdam, Antwerp                                                                                                                75,000
+           CIF ARA 0.4% sulfur Blend Stock                              Rotterdam                     Amsterdam, Rotterdam, Antwerp                                                                                                                75,000
+           FOB New Orleans plus ARA freight                             Rotterdam                     Amsterdam, Rotterdam, Antwerp                                                                                                                75,000
+           FOB Richards Bay 5,500 NAR                                   RBCT (South Africa)           RBCT, Durban, Matola Coal Terminal (Maputo)                                                                                                  75,000
+           CIF Med 75kt                                                 Iskenderun (Turkey)           All Mediterranean and adjacent ports, including Iskenderun, Jorf Lasfar, Alexandria, Tarragona, Spain, Taranto, Italy, ICDAS                 75,000
+                                                                                                      (Marmara), Gibraltar
+           CIF Med 45kt                                                 Iskenderun (Turkey)           All Mediterranean and adjacent ports, including Iskenderun, Jorf Lasfar, Alexandria, Tarragona, Spain, Taranto, Italy, ICDAS                 45,000
+                                                                                                      (Marmara), Gibraltar
+           FOB Colombia                                                 Puerto Bolivar                Puerto Bolivar, Puerto Drummond, Puerto Nuevo, Rio Cordoba, Carbosan                                                                         75,000
+           FOB Russia Baltic                                            Ventspils                     St. Petersburg, Vyborg, Vysotsk, Ust-Luga, Kaliningrad (Russia), Tallinn (Estonia), Ventspils, Riga, Liepaja (Latvia), Klaipeda (Lithuania)  75,000
+           FOB Baltimore                                                Baltimore                     Baltimore
+           FOB New Orleans                                              NOLA                          NOLA, Mobile
+           Asia
+           CFR Bangladesh                                               Chittagong                    Mongla                                                                                                                                       55,000
+           Platts SEAT                                                  Ko Sichang                    Including but not limited to Rayong, Songkla, Ho Chi Minh City, Cam Pha, Vung Tau, Port of Manila, Semirara and Lumut                        55,000
+           Platts NEAT                                                  Kinuura (Japan)               Yokkaichi, Nagoya, Yokohama, Onahama, Fukuyama, Haramach, Boryeong, Dangjin, Hadong, Taean, Youngheung, Samcheonpo,                          75,000
+                                                                                                      Mailiao, Taichung, Hsinta, Kaohsiung
+           FOB Newcastle                                                Newcastle                     Newcastle (New South Wales, Australia)                                                                                                       75,000
+           FOB Kalimantan                                               Banjarmasin                   Samarinda, Balikpapan, Banjarmasin, Taboneo, Tanjung Pemancingan, Muara Satui, Indonesia Bulk Terminal                                       50,000
+           CFR S China (PCC 6 & 7)                                      Guangzhou                     Including but not exclusive to Fangcheng, Shenzhen, Xiamen, Zhanjiang, Zhuhai, Guangzhou                                                     40,000
+           CFR S China (PCC 8)                                          Guangzhou                     Including but not exclusive to Fangcheng, Shenzhen, Xiamen, Zhanjiang, Zhuhai, Guangzhou                                                     25,000
+           CFR India East 4,200 GAR                                     Krishnapatnam                 Tuticorin, Kakinada, Paradip, Gangavaram, Visakhapatnam, Krishnapatnam, Haldia                                                               60,000
+           CFR India West 4,200 GAR                                     Mundra                        Mundra, New Mangalore, Kandla, Muldwarka, Bhavnagar, Pipavav, Goa, Magdalla, Hazira, Dahej, Bedi, Navlakhi                                   60,000
+           CFR India East 5,000 GAR                                     Krishnapatnam                 Tuticorin, Kakinada, Paradip, Gangavaram, Visakhapatnam, Krishnapatnam, Haldia                                                               70,000
+           CFR India West 5,000 GAR                                     Mundra                        Mundra, New Mangalore, Kandla, Muldwarka, Bhavnagar, Pipavav, Goa, Magdalla, Hazira, Dahej, Bedi, Navlakhi                                   70,000
+           CFR India East 5,500 NAR                                     Krishnapatnam                 Tuticorin, Kakinada, Paradip, Gangavaram, Visakhapatnam, Krishnapatnam, Haldia                                                               75,000
+           CFR India West 5,500 NAR                                     Mundra                        Mundra, New Mangalore, Kandla, Muldwarka, Bhavnagar, Pipavav, Goa, Magdalla, Hazira, Dahej, Bedi, Navlakhi                                   75,000
+           FOB Russia Pacific                                           Vostochny                     Nakhodka, Posyet, Vanino, Vladivostok, Vostochny                                                                                             75,000
+           © 2026 by S&P Global Inc. All rights reserved.           6
+          Specifications Guide            Global Coal: January 2026
+          Asia-Pacific And Atlantic Thermal Coal Locations
+          Assessment                                                 Origin                      Loading Specifications
+          US
+          CAPP rail (CSX) OTC                                        Central Appalachia          Any rail loadout located on the CSX railroad within the Kanawha Rate District or the Big Sandy Rate District capable of loading 100    -
+                                                                                                 car/10,000 ton unit trains in four hours or less
+          PRB 8,800 OTC                                              Powder River Basin          Any rail loadout located on the joint rail line in the southern Powder River Basin within Converse or Campbell counties, Wyoming,      -
+                                                                                                 capable of loading 12,000 to 15,000 ton unit trains
+          PRB 8,400 OTC                                              Powder River Basin          Any rail loadout located on the joint rail line in the southern Powder River Basin within Converse or Campbell counties, Wyoming,      -
+                                                                                                 capable of loading 12,000 to 15,000 ton unit trains
+          IB 11,500 OTC                                              Illinois Basin              Any dock located on the Ohio River between MM 776.1 to MM 918.5                                                                        -
+          Pittsburgh Seam 13,000 Btu/lb, 4 lbs SO2 Rail              Northern Appalachia         Any rail loadout in Ohio, western Pennsylvania, northern West Virginia and Maryland                                                    -
+          Upper Ohio River 12,500 Btu/lb Barge                       Northern Appalachia         Any barge loadout on the Upper Ohio River in Ohio, western Pennsylvania and northern West Virginia                                     -
+          CAPP barge physical, 12,000 Btu/lb                         Central Appalachia          Any barge loadout on the Kanawha or Big Sandy rivers                                                                                   -
+          CAPP rail (CSX) physical, 12,500 Btu/lb                    Central Appalachia          Any rail loadout located on the CSX railroad within the Kanawha Rate District or the Big Sandy Rate District capable of loading 100    -
+                                                                                                 car/10,000 ton unit trains in four hours or less
+          Thacker/Kenova 12,500 Btu/lb Rail                          Central Appalachia          Any rail loadout located on the Norfolk Southern railroad within the Thacker or Kenova rate districts                                  -
+          Illinois Basin 11,800 Btu/lb Rail                          Illinois Basin              Any rail loadout in Illinois, Indiana or western Kentucky                                                                              -
+          Illinois Basin 11,800 Btu/lb Barge                         Illinois Basin              Any barge loadout in Illinois, Indiana or western Kentucky                                                                             -
+          Illinois Basin 11,500 Btu/lb Barge                         Illinois Basin              Any barge loadout in Illinois, Indiana or western Kentucky                                                                             -
+          Illinois Basin 11,000 Btu/lb Barge                         Illinois Basin              Any barge loadout in Illinois, Indiana or western Kentucky                                                                             -
+          Powder River Basin 9,400 Btu/lb                            Powder River Basin          Any rail loadout in the northern Powder River Basin of Montana                                                                         -
+          Powder River Basin 8,800 Btu/lb                            Powder River Basin          Any rail loadout in the southern Powder River Basin of Wyoming                                                                         -
+          Powder River Basin 8,400 Btu/lb                            Powder River Basin          Any rail loadout in the southern Powder River Basin of Wyoming                                                                         -
+          Colorado 11,300 Btu/lb                                     Colorado                    Any rail loadout in Colorado                                                                                                           -
+          Utah 11,500 Btu/lb                                         Utah                        Any rail loadout in Utah                                                                                                               -
+          Platts Asia and Atlantic thermal coal assessments                                    Platts considers as relevant to the assessment process coals                          basis location in the standard as stated for each location. Platts 
+          Platts publishes Asia and Atlantic thermal coal price                                of a merchantable quality in a defined range of specifications                        defines base locations in its price assessments which act as a 
+          assessments on a forward delivery/loading basis and on either a                      including but not limited to calorific value, sulfur content, ash                     pricing basis point and differentials may be assessed off these 
+          daily or weekly frequency.                                                           content and moisture content and normalizes to the standard                           when deals or bids/offers are reported on a different location 
+                                                                                               specifications.                                                                       basis.
+          Assessments reflect the transactable value in US dollars per 
+          metric ton prevailing at a specific timestamp on a market on                         Volume: The assessments reflect cargoes of a typical volume                           Timing: The assessments reflect the value of coal loading/
+          close basis (unless otherwise stated (e.g. Yuan): see Asia specs                     in metric tons (mt). All shipment volumes, including standard or                      discharging at the basis location at the mid-point of a defined 
+          table for details). Trading activity, including bids/offers and                      typical split and part-sized cargoes, are normalized to a typical                     time period forward from the date of publication. Cargoes 
+          transactions, is covered during the typical operating day with                       vessel for seaborne delivery.                                                         traded with more prompt or further forward laycans or notice of 
+          data cut off for inclusion in the assessment precisely at the                                                                                                              readiness - NOR - are normalized to the middle of the period for 
+          market-on-close timestamp.                                                           Basis and Location: Platts normalizes deliveries to or from the                       assessment purposes.
+          © 2026 by S&P Global Inc. All rights reserved.         7
+         Specifications Guide        Global Coal: January 2026
+         Daily 15-60 day CIF delivery window: The assessments reflect                European Blended Price                                                     Assessment period: Platts will assess cargoes for delivery 
+         the price of coal for delivery 15-60 days forward from the date of                                                                                     30-60 days forward from the date of publication. For example, 
+         publication (expected NOR will be taken as the date of arrival).            Platts publishes a European Blended Price (EBP) on a forward               on June 1, the assessment will reflect cargoes for delivery 
+         For example, on January 2, Platts assesses cargoes for delivery             delivery basis on a daily frequency, which comprises both                  between July 1 and July 31.
+         between January 17 and March 2.                                             assessed and calculated values representing the most common 
+                                                                                     blend feedstocks used by Northwest European utilities on                   Volume: The CFR Bangladesh assessment will reflect 55,000 mt 
+         Daily 30-60 day CIF delivery window: The assessments reflect                a 6,000 kcal/kg Net as Received (NAR) basis. The inputs are                cargoes for delivery on a standard Supramax vessel.
+         the price of coal for delivery 30-60 days forward from the                  reviewed and adjusted periodically to ensure they reflect most 
+         date of publication (expected NOR will be taken as the date of              representative blending practices. Volume, Basis, Location and             CFR Pakistan
+         arrival). For example, on January 2, Platts assesses cargoes for            Timing are in line with Platts’ other thermal coal methodologies. 
+         delivery between February 2 and March 2.                                    (see Atlantic Thermal coal specs table for details)                        Platts publishes CFR Pakistan on a forward delivery basis 
+                                                                                                                                                                on a daily frequency. The CFR Pakistan assessment, 
+         Daily 7-45 day FOB loading window: Assessments reflect the                  EBP/CIF ARA Differential: Where stated, Platts publishes a                 denominated in $/mt and assessed daily, reflects the 
+         price of coal for loading 7-45 days forward from the date of                differential between the EBP assessment, and the daily physical            tradable value of spot cargo at 5:00 pm London time, based 
+         publication. For example, on January 2, Platts assesses cargoes             CIF ARA existing assessment, and expressed as a $/mt value.                on firm bids, offers and trades. In the absence of firm bids, 
+         for loading between January 9 and February 15.                                                                                                         offers or expressions of interest to trade, Platts may also 
+                                                                                     CFR Bangladesh                                                             consider data that may be relevant to the assessment, 
+         Weekly 90-day delivery window: Assessments reflect the value                                                                                           which may include but not limited to, reported transactional 
+         of coal loading at the basis location in the next 90-day period             Platts publishes CFR Bangladesh on a forward delivery basis                activity heard across the market and freight information 
+         forward from the date of publication. The 90-day assessment                 on a daily frequency. The assessment reflects the transactable             from relevant locations. (See EMEA Thermal coal specs table 
+         window rolls forward every week. For example, for the price                 value in US dollars per metric ton of spot cargo at 5:30 pm                for details).
+         assessed on July 1, Platts assesses cargoes for loading from July 1         Singapore time (0930 GMT) based on firm bids, offers and 
+         to September 30 but as of July 8 it will be from July 8 to October 7.       trades. In the absence of firm bids, offers or expressions of              Specification: The assessment reflects thermal coal cargoes 
+                                                                                     interest to trade, Platts may also consider data that may be               with a calorific value of 5,750 kcal/kg NAR. Other grades may be 
+         Monthly and Quarterly Averages: As an indicator of coal market              relevant to the assessment, which may include, but is not                  normalized to this basis.
+         trends, Platts calculates the mathematical average of its                   limited to reported transactional activity heard across the 
+         Asia and Atlantic forward coal price assessments during two                 market and freight information from relevant locations. (See               Location: The assessment reflects deliveries to Pakistan ports 
+         previous months and three previous quarters. Averages include               Asia Thermal coal specs table for details).                                on a CFR basis, with Port Qasim as the basis port. Deliveries 
+         all assessments made within the calendar period; the period of                                                                                         to other ports in Pakistan may be normalized to this basis for 
+         assessment is noted in the column heading of the Monthly and                Specification: The assessment reflects the delivered price of              assessment purposes.
+         Quarterly Averages for Platts Forward Benchmark Coal Price                  thermal coal with a calorific value of 5,000 kcal/kg Gross as 
+         Assessments table published every Friday or in the case of a                Received (GAR) with a typical sulfur content of 0.8%. Platts also          Assessment period: Platts assesses cargoes delivering 30-60 
+         public holiday, the nearest preceding business day.                         considers other calorific values with varied sulfur content of up          days forward from the date of publication. For example, on June 
+                                                                                     to 2% for assessment purposes but will be normalized to this               1, the assessment would reflect cargoes delivered between July 
+         GAR-NAR equivalent prices: Platts publishes NAR equivalent                  basis using Platts methodology and the daily sulfur differential           1 and July 31.
+         values of eight existing thermal coal prices in GAR. Out of eight,          assessment.
+         four are basis FOB Kalimantan prices [CTCAD00, CTCAA00,                                                                                                Volume: The assessment reflects 55,000 mt cargoes delivered 
+         CTCAB00, CTCAC00], while two each are basis CFR India West                  Location: CFR Bangladesh will take into consideration thermal              on a standard Supramax vessel.
+         [TCBKT00, TCBKP00], and CFR India East [TCBKU00, TCBKJ00].                  coal cargoes delivered to Chittagong and Mongla, with deliveries 
+         (See Asia Thermal coal specs table for details)                             into Mongla normalized to Chittagong basis.
+         © 2026 by S&P Global Inc. All rights reserved.   8
+         Specifications Guide        Global Coal: January 2026
+         Platts SEAT                                                                 Platts NEAT                                                                Other information
+                                                                                                                                                                Sulfur Differentials: Platts publishes sulfur differentials on 
+         Platts publishes Platts SEAT, or Southeast Asia Thermal coal                Platts publishes a Platts NEAT, or Northeast Asia Thermal Coal             a daily frequency. The differential reflects the value of sulfur 
+         marker on a forward delivery basis on a daily frequency. The                Index on a forward delivery basis on a daily frequency. The index          as a penalty or premium per 0.1% across various grades of 
+         assessment reflects the transactable value in $/mt of spot                  reflects the transactable value in $/mt of spot cargo at 5:30              coal expressed in $/mt at the close of Asian trade, 5:30 pm 
+         cargo at 5:30 pm Singapore time  based on firm bids, offers                 pm Singapore time based on the Thermal Coal FOB Newcastle                  Singapore time and follows the Singapore publishing schedule 
+         and trades. In the absence of firm bids, offers or expressions              High Ash 5,500 kcal/kg NAR price which is used as the basis                and at the end of US trade, 11:30 am Eastern time, which 
+         of interest to trade, Platts may also consider data that may be             price to adjust the price for 5,750 kcal/kg NAR calorific value,           follows the US publishing schedule. The values will be used to 
+         relevant to the assessment, which may include, but not limited              to which is added the premium of 15% ash product, using the                normalize various grades of physical coal with varying sulfur 
+         to reported transactional activity heard across the market and              FOB Newcastle Ash Differential as the basis. Panamax freight               content also published by Platts. (See thermal coal specs table 
+         freight information from relevant locations. (See Asia Thermal              rate from Australia’s Newcastle port to Japan’s Kinuura Port is            for details).
+         coal specs table for details).                                              then added to calculate the Platts NEAT. [See Asia Thermal coal 
+                                                                                     specs table for details).                                                  Ash Differential: Platts publishes a differential, expressed 
+         Specification: The assessment reflects thermal coal cargoes with                                                                                       in both a percentage and a $/mt value, for each 1 
+         a calorific value of 4,200 kcal/kg GAR with 0.6% sulfur, 7% ash and         Specification: The assessment reflects thermal coal cargoes                percentage point of ash within a standard range. This 
+         35% total moisture. Other grades may be normalized to this basis.           with a calorific value of 5,750 kcal/kg NAR with 0.6% sulfur, 15%          differential is assessed daily and adjusted as needed as 
+                                                                                     ash and 10% moisture.                                                      part of the standard daily assessment process to maintain 
+         Location: The assessment reflects deliveries to SE Asia ports                                                                                          its reflection of market values. This can be used in the 
+         on a CFR basis, with Ko Sichang in Thailand as the basis port.              Location: The assessment reflects deliveries to NE Asia ports              normalization process for cargo assessments with varied 
+         Deliveries to other regions in SE Asia may be normalized to this            on a CFR basis, with Kinuura in Japan as the basis port.                   ash specifications. 
+         basis for assessment purposes.
+                                                                                     Assessment period: Platts reflects cargoes delivering 15-60                Kalimantan Floating Crane cost: The spot floating crane cost is 
+         Assessment period: Platts assesses cargoes delivering 15-60                 days forward from the date of publication. For example, on                 a crucial component in relating the free-on-board [FOB] South 
+         days forward from the date of publication. For example, on                  October 1, the assessment would reflect cargoes delivered from             Kalimantan price of Indonesian thermal coal loading on gearless 
+         October 1, the assessment would reflect cargoes delivered from              October 16 to November 30.                                                 ships that do not have loading/discharging equipment fitted 
+         October 16 to November 30.                                                                                                                             on-board, to geared ships that have the equipment on board. As 
+                                                                                     Volume: The assessment reflects 75,000 mt cargoes delivered                part of the normalization process applicable to gearless dry bulk 
+         Volume: The assessment reflects 55,000 mt cargoes delivered                 on a standard Panamax vessel.                                              ships, Platts publishes this assessment daily in $/mt.
+         on a standard Supramax vessel.
+         © 2026 by S&P Global Inc. All rights reserved.   9
+         Specifications Guide        Global Coal: January 2026
+         APAC Dark Spread Assessments
+         Assessment                                                    Symbol              Contract type         Location         Currency                     UOM 
+         Tokyo Baseload Dark Spread Forward Month $/MMBtu              PNTBA00             Differential          Tokyo            USD                          MMBtu
+         Tokyo Baseload Dark Spread Forward Month Yen/KWh              PNTBB00             Differential          Tokyo            JPY                          KWh
+         Tokyo Baseload Dark Spread Forward Month $/MWh                PNTBC00             Differential          Tokyo            USD                          MWh
+         Platts Tokyo baseload dark spread assessments 
+         Platts publishes baseload dark spread assessments for Japan. 
+         The dark spread is published in $/MMBtu, Yen/kWh and $/MWh. 
+         Platts calculated the Japan dark spread as the difference of 
+         the Platts Northeast Asian Thermal coal, or NEAT, spot price 
+         assessment versus the month ahead Japanese power futures 
+         (Tokyo, Baseload) settlement price on that day published by the 
+         European Energy Exchange (EEX), taking into account various 
+         costs and efficiency factors in the final value. 
+         The assessment periods are for one-month forward. 
+         Assumptions: MMBtu/kWh as per the Platts conversion 
+         guide: https://www.spglobal.com/commodityinsights/
+         PlattsContent/_assets/_files/en/conversiontables/
+         conversion_factors.pdf . 1 metric tonne of coal is 22.80 MMBtu. 
+         Tokyo baseload dark spread assessment is published for coal-
+         fired plants with efficiencies of 35%. The coal price includes 
+         petroleum and coal tax and regasification cost.
+         © 2026 by S&P Global Inc. All rights reserved.   10
+           Specifications Guide               Global Coal: January 2026
+           US Thermal Coal Assessments
+                                                                                                                                                                                                                   ― Specifications (Typical) ―  ――――― Specifications (Range) ―――――
+           Type                      Assessment            Code       Mavg      Qavg       CV (Btu/ Delivery period      Volume  Currency UOM               Frequency Timestamp           SO2 lbs Mode            Sulfur % Ash  Moisture  CV (Btu/ Sulfur  Ash  Moisture  Chlorine 
+                                                                                           lb GAR)                       (st)                                                                                                %     %           lb GAR)    %       %      %           %
+           Daily OTC                 CAPP rail (CSX) OTCCAKM001       CTJBM01               12,500    Prompt Month 11,000          USD         Short Ton Daily            4:30 pm         1.6       Rail          1          12    7            Min       Max 1 Max  -               -
+                                                                                                                                                                          Eastern                                                              12,200             13.5
+           Daily OTC                 CAPP rail (CSX) OTCCAKQ001                 CTJBQ01     12,500    Prompt Quarter 11,000        USD         Short Ton Daily            4:30 pm         1.6       Rail          1          12    7            Min       Max 1 Max  -               -
+                                                                                                                                                                          Eastern                                                              12,200             13.5
+           Daily OTC                 PRB 8,800 OTC         CTAM001    CTKBM01               8,800     Prompt Month 15,000 USD                  Short Ton Daily            4:30 pm         0.8       Rail          0.35       5.5   27           Min       Max     -      -           -
+                                                                                                                                                                          Eastern                                                              8,600      0.53
+           Daily OTC                 PRB 8,800 OTC         CTAQ001              CTKBQ01     8,800     Prompt Quarter 15,000        USD         Short Ton Daily            4:30 pm         0.8       Rail          0.35       5.5   27           Min       Max     -      -           -
+                                                                                                                                                                          Eastern                                                              8,600      0.53
+           Daily OTC                 PRB 8,400 OTC         CTBM001    CTLBM01               8,400     Prompt Month 15,000 USD                  Short Ton Daily            4:30 pm         0.8       Rail          0.34       5.5   30           Min       Max     -      -           -
+                                                                                                                                                                          Eastern                                                              8,200      0.50
+           Daily OTC                 PRB 8,400 OTC         CTBQ001              CTLBQ01     8,400     Prompt Quarter 15,000        USD         Short Ton Daily            4:30 pm         0.8       Rail          0.34       5.5   30           Min       Max     -      -           -
+                                                                                                                                                                          Eastern                                                              8,200      0.50
+           Daily OTC                 IB 11,500 OTC         CISM001                          11,500    Prompt Month 8,750           USD         Short Ton Daily            4:30 pm         5         Barge         2.95       -     -            11,500-   Max     -      -           Max 0.35
+                                                                                                                                                                          Eastern                                                              12,000     3.54
+           Daily OTC                 IB 11,500 OTC         CISQ001                          11,500    Prompt Quarter 8,750         USD         Short Ton Daily            4:30 pm         5         Barge         2.95       -     -            11,500-   Max     -      -           Max 0.35
+                                                                                                                                                                          Eastern                                                              12,000     3.54
+           Platts Daily Physical                                                                      Prompt                                                              4:30 pm                                                               Min               Max 
+           Coal Assessments          CAPP rail (CSX) OTCCTJM001                             12,500    Month Daily        11,000    USD         Short Ton Daily            Eastern         1.6       Rail          1          12    7           12,200     Max 1 13.5 -               -
+                                                                                                      Assessment
+           Platts Daily Physical     CAPP rail (CSX) OTCCTNAO03                             12,500    Prompt Month  11,000         USD         Short Ton Daily            4:30 pm         1.6       Rail          1          12    7            Min       Max 1 Max  -               -
+           Coal Assessments                                                                           Daily Average                                                       Eastern                                                              12,200             13.5
+           Platts Daily Physical                                                                      Prompt                                                              4:30 pm                                                               Min               Max 
+           Coal Assessments          CAPP rail (CSX) OTCCTJQ001                             12,500    Quarter Daily      11,000    USD         Short Ton Daily            Eastern         1.6       Rail          1          12    7           12,200     Max 1 13.5 -               -
+                                                                                                      Assessment
+           Platts Daily Physical     CAPP rail (CSX) OTCCTNAO05                             12,500    Prompt Quarter  11,000       USD         Short Ton Daily            4:30 pm         1.6       Rail          1          12    7            Min       Max 1 Max  -               -
+           Coal Assessments                                                                           Daily Average                                                       Eastern                                                              12,200             13.5
+           Platts Daily Physical                                                                      Prompt                                                              4:30 pm                                                               Min       Max 
+           Coal Assessments          PRB 8,800 OTC         CTKM001                          8,800     Month Daily        15,000    USD         Short Ton Daily            Eastern         0.8       Rail          0.35       5.5   27          8,600      0.53    -      -           -
+                                                                                                      Assessment
+           Platts Daily Physical     PRB 8,800 OTC         CTNAP03                          8,800     Prompt Month  15,000 USD                 Short Ton Daily            4:30 pm         0.8       Rail          0.35       5.5   27           Min       Max     -      -           -
+           Coal Assessments                                                                           Daily Average                                                       Eastern                                                              8,600      0.53
+           Platts Daily Physical                                                                      Prompt                                                              4:30 pm                                                               Min       Max 
+           Coal Assessments          PRB 8,800 OTC         CTKQ001                          8,800     Quarter Daily      15,000    USD         Short Ton Daily            Eastern         0.8       Rail          0.35       5.5   27          8,600      0.53    -      -           -
+                                                                                                      Assessment
+           Platts Daily Physical     PRB 8,800 OTC         CTNAP05                          8,800     Prompt Quarter  15,000       USD         Short Ton Daily            4:30 pm         0.8       Rail          0.35       5.5   27           Min       Max     -      -           -
+           Coal Assessments                                                                           Daily Average                                                       Eastern                                                              8,600      0.53
+           Platts Daily Physical                                                                      Prompt                                                              4:30 pm                                                               Min       Max 
+           Coal Assessments          PRB 8,400 OTC         CTLM001                          8,400     Month Daily        15,000    USD         Short Ton Daily            Eastern         0.8       Rail          0.34       5.5   30          8,200      0.50    -      -           -
+                                                                                                      Assessment
+           Platts Daily Physical     PRB 8,400 OTC         CTNAR03                          8,400     Prompt Month  15,000 USD                 Short Ton Daily            4:30 pm         0.8       Rail          0.34       5.5   30           Min       Max     -      -           -
+           Coal Assessments                                                                           Daily Average                                                       Eastern                                                              8,200      0.50
+           © 2026 by S&P Global Inc. All rights reserved.               11
+           Specifications Guide               Global Coal: January 2026
+           US Thermal Coal Assessments
+                                                                                                                                                                                                                   ― Specifications (Typical) ―  ――――― Specifications (Range) ―――――
+           Type                      Assessment            Code       Mavg      Qavg       CV (Btu/ Delivery period      Volume  Currency UOM               Frequency Timestamp           SO2 lbs Mode            Sulfur % Ash  Moisture  CV (Btu/ Sulfur  Ash  Moisture  Chlorine 
+                                                                                           lb GAR)                       (st)                                                                                                %     %           lb GAR)    %       %      %           %
+           Platts Daily Physical                                                                      Prompt                                                              4:30 pm                                                               Min       Max 
+           Coal Assessments          PRB 8,400 OTC         CTLQ001                          8,400     Quarter Daily      15,000    USD         Short Ton Daily            Eastern         0.8       Rail          0.34       5.5   30          8,200      0.50    -      -           -
+                                                                                                      Assessment
+           Platts Daily Physical     PRB 8,400 OTC         CTNAR05                          8,400     Prompt Quarter  15,000       USD         Short Ton Daily            4:30 pm         0.8       Rail          0.34       5.5   30           Min       Max     -      -           -
+           Coal Assessments                                                                           Daily Average                                                       Eastern                                                              8,200      0.50
+           Weekly Price Survey       Pittsburgh Seam       CNDQ001                          13,000    Prompt Quarter -             USD         Short Ton Weekly           11:30 am        4         Rail          2.6        -     -           -          -       -      -           -
+                                                                                                                                                                          Eastern
+           Weekly Price Survey       Upper Ohio River      CNEQ001                          12,500    Prompt Quarter -             USD         Short Ton Weekly           11:30 am        6+        Barge         >3.75      -     -           -          -       -      -           -
+                                                                                                                                                                          Eastern
+           Weekly Price Survey       CAPP barge            CNNQ001                          12,000    Prompt Quarter -             USD         Short Ton Weekly           11:30 am        1.67      Barge         1          -     -           -          -       -      -           -
+                                     physical                                                                                                                             Eastern
+           Weekly Price Survey       CAPP rail (CSX)       CAEQ001                          12,500    Prompt Quarter -             USD         Short Ton Weekly           11:30 am        1.6       CSX           1          -     -           -          -       -      -           -
+                                     physical                                                                                                                             Eastern
+           Weekly Price Survey       Thacker/Kenova        CAGQ001                          12,500    Prompt Quarter -             USD         Short Ton Weekly           11:30 am        1.6       NS            0.94       -     -           -          -       -      -           -
+                                                                                                                                                                          Eastern
+           Weekly Price Survey       Illinois Basin        CIAQ001                          11,800    Prompt Quarter -             USD         Short Ton Weekly           11:30 am        5         Rail          2.95       -     -           -          -       -      -           Max 0.2
+                                                                                                                                                                          Eastern
+           Weekly Price Survey       Illinois Basin        CTPQ001                          11,800    Prompt Quarter -             USD         Short Ton Weekly           11:30 am        5         Barge         2.95       -     -           -          -       -      -           Max 0.2
+                                                                                                                                                                          Eastern
+           Weekly Price Survey       Illinois Basin        CIEQ001                          11,500    Prompt Quarter -             USD         Short Ton Weekly           11:30 am        5         Barge         2.88       -     -           -          -       -      -           Max 0.2
+                                                                                                                                                                          Eastern
+           Weekly Price Survey       Illinois Basin        CICQ001                          11,000    Prompt Quarter -             USD         Short Ton Weekly           11:30 am        5         Barge         2.75       -     -           -          -       -      -           Max 0.2
+                                                                                                                                                                          Eastern
+           Weekly Price Survey       Powder River BasinCRPQ001                              9,400     Prompt Quarter -             USD         Short Ton Weekly           11:30 am        0.8       Rail          0.35       -     -           -          -       -      -           -
+                                                                                                                                                                          Eastern
+           Weekly Price Survey       Powder River BasinCRAQ001                              8,800     Prompt Quarter -             USD         Short Ton Weekly           11:30 am        0.8       Rail          0.35       -     -           -          -       -      -           -
+                                                                                                                                                                          Eastern
+           Weekly Price Survey       Powder River BasinCRBQ001                              8,400     Prompt Quarter -             USD         Short Ton Weekly           11:30 am        0.8       Rail          0.34       -     -           -          -       -      -           -
+                                                                                                                                                                          Eastern
+           Weekly Price Survey       Colorado              CURQ001                          11,300    Prompt Quarter -             USD         Short Ton Weekly           11:30 am        0.8       Rail          0.45       -     -           -          -       -      -           -
+                                                                                                                                                                          Eastern
+           Weekly Price Survey       Utah                  CUDQ001                          11,500    Prompt Quarter -             USD         Short Ton Weekly           11:30 am        0.8       Rail          0.46       -     -           -          -       -      -           -
+                                                                                                                                                                          Eastern
+                                                                                           6900                                                                           11:30 am 
+           US FOB Assessments FOB Baltimore                CUATB04    CUATB03 CUATB05      kcal/kg  15-60 days           -         USD         Metric Ton Daily           Eastern         4         FOB Vessel 3
+                                                                                           NAR
+                                                                                           6000                                                                           11:30 am 
+           US FOB Assessments FOB Baltimore                CUADA04    CUADA03 CUADA05      kcal/kg  15-60 days           -         USD         Metric Ton Daily           Eastern         4         FOB Vessel 3
+                                                                                           NAR
+                                                                                           6000                                                                           11:30 am 
+           US FOB Assessments FOB New Orleans CUAFA04 CUAFA03 CUAFA05                      kcal/kg  15-60 days           -         USD         Metric Ton Daily           Eastern         5         FOB Vessel 2.9
+                                                                                           NAR
+           © 2026 by S&P Global Inc. All rights reserved.               12
+         Specifications Guide        Global Coal: January 2026
+         US Physical Thermal Coal Netbacks
+                                                                Symbol          CV               Basis      Sulfur
+         Netbacks ($/mt)
+         FOB West Coast North America                           CTVCB00         5,750 kcal/kg    NAR        max 1%
+         Netbacks ($/st)
+         FOB US East Coast                                      COUSC00         12,500 Btu/lb    GAR        1.0%
+         FOB US Gulf Coast                                      COUGU00         11,500 Btu/lb    GAR        2.9%
+         Penalties & Premia ($/mt)
+         Per 0.1% Sulfur (USGC)                                 COPAP00
+         Total S discount (USGC)                                COPBP00
+         Platts US thermal coal assessments                                          Daily assessments are priced in $/short ton based on FOB                   From 2:00 to 4:30 pm Eastern, Platts will continue to gather and 
+                                                                                     quotes at the rail or barge origin point.                                  publish market data, but may not consider any data gathered 
+         Platts assesses a variety of US coal on a daily, weekly and                                                                                            after 4:30 pm Eastern as relevant for the OTC assessments. 
+         netback basis. Heat and sulfur content are considered                       The assessments are based on bids, offers and trades,                      Platts will base its assessments on published market data that 
+         the primary determinants of physical thermal coal price.                    indications of market value, expressions of interest to trade              has been sufficiently tested in the market and determined to be 
+         Assessments should be considered a composite of physical                    and movements in related markets that are confirmed to have                the best indicator of price as of 4:30 pm Eastern.
+         characteristics of available coals in the region and are not                occurred no later than 4:30 pm Eastern.
+         intended to represent a particular grade or brand of a given                                                                                           Firm bids and offers that are generally available to the market 
+         producer. See the US Thermal Coal Specifications Table for                  Platts will consider all trades for inclusion in its OTC                   as of 4:30 pm Eastern take precedence over trades that 
+         further details.                                                            assessments, including bilateral, non-brokered deals that are              have been concluded earlier in the assessment process, 
+                                                                                     confirmed by at least one counterparty, are verified to conform            particularly if bids are available at the close above previously 
+         Daily assessments                                                           to the relevant quality specifications, are free of adjustments            traded levels or offers are available to the market below 
+                                                                                     based on credit or other special requirements and are                      previously traded levels.
+         Platts assesses prices on a daily basis for four standardized               confirmed to have taken place no later than 4:30 pm Eastern.
+         US coal specifications that reflect the physical, over-the-                                                                                            When no confirmed bid, offer or transaction data is heard after 
+         counter price for front-month and front-quarter delivery.                   Platts gathers and publishes heards, including bids, offers and            2:00 pm Eastern, Platts may base its assessments on the initial 
+         The four specifications are CAPP rail (CSX) OTC, PRB 8,800                  trades, from a variety of market participants throughout the day.          market values which have been made available and tested in 
+         OTC, PRB 8,400 OTC and Illinois Basin 11,500 OTC. Details                                                                                              the market from 2:00 pm Eastern.
+         for each specification are listed in the US Thermal Coal                    At 2:00 pm Eastern, Platts will publish an initial market value 
+         Specifications Table.                                                       for the front-month for the following three assessments:                   For the front-month assessment for PRB 8,400 OTC, as well 
+                                                                                     CAPP Rail (CSX) OTC, PRB 8,800 OTC and ILB 11,500 OTC. The                 as the front-quarter assessments for PRB 8,400 OTC, PRB 
+         Platts also publishes a running average of the daily prompt                 initial market value will be based on published data heard                 8,800 OTC, CAPP rail (CSX) OTC and Illinois Basin 11,500 OTC, 
+         month and prompt quarter OTC physical assessments as well                   through 2:00 pm Eastern, and will be based on bids, offers,                Platts will use market data, which may include, but are not 
+         as the final average for the previous prompt month and prompt               trades, indications of market value, expressions of interest and           limited to, broker marks, to determine price as of 4:30 pm 
+         quarter.                                                                    movements in related markets.                                              Eastern.
+         © 2026 by S&P Global Inc. All rights reserved.   13
+         Specifications Guide        Global Coal: January 2026
+         The daily assessments roll on the 26th of each month. For                   The weekly physical assessments roll at the end of each                    FOB West Coast North America (basis 5,750 kcal/kg 
+         example, for assessments for trade date February 25, the                    calendar quarter.                                                          NAR, max 1% sulfur) reflects the price of North American 
+         prompt month is March. On February 26, April becomes the                                                                                               thermal coal compared to Platts North East Asian thermal 
+         prompt month. When the 25th falls on a weekend or a holiday,                US Thermal Coal Netbacks                                                   coal price assessment - NEAT - minus the Panamax freight 
+         the last business day preceding the 25th becomes the final day                                                                                         rate from Roberts Bank, British Columbia, to Japan, in USD 
+         for that prompt month. When the 26th falls on a weekend or a                Platts US thermal coal netbacks reflect the daily value for US             per metric ton, based on loading 15 to 60 days forward 
+         holiday, the new prompt month begins on the first business day              thermal coal on an FOB basis at three locations.                           from the date of publication. The netback normalizes 
+         following the 26th.                                                                                                                                    calorific values from 5,400 kcal/kg NAR to 6,200 kcal/kg 
+                                                                                     FOB US East Coast (basis 12,500 Btu/lb (GAR, 1% sulfur) reflects           NAR and cargo volumes at 75,000 mt +/- 10%. The netback 
+         Monthly averages for the four daily physical OTC coal                       the price of US thermal coal compared to CIF ARA coal (basis               follows the US daily publishing schedule, reflecting the 
+         assessments comprise all assessments made between the 26th                  6,000 kcal/kg (NAR, 1% sulfur), minus the Panamax freight rate             market as of 11:30 am ET.
+         of the preceding month and the 25th of the current month.                   from the US East Coast to Rotterdam. The netback is adjusted 
+                                                                                     for heat at the originating port (CIF ARA minus freight divided            US FOB Assessments
+         Weekly Methodology                                                          by 6,000 kcal/kg NAR then multiplied by 6,667 kcal/kg NAR, the 
+                                                                                     calorific heat content of 12,500 Btu/lb GAR coal). The resulting           Platts US FOB assessments reflect the daily value for US 
+         Platts assesses prices on a weekly basis for 14 US coal                     value is then converted from $/mt into $/st.                               thermal coal on an FOB basis at the export terminal at 
+         specifications from all major US producing regions that reflect                                                                                        two locations: FOB Baltimore (basis 6,900 kcal/kg NAR, 
+         physical spot coal for front-quarter delivery. The prices reflect           FOB US Gulf Coast (basis 11,500 Btu/lb GAR, 2.9% sulfur)                   3% sulfur) and FOB New Orleans (basis 6,000 kcal/kg NAR, 
+         bids, offers, deals, and other market data collected throughout             reflects the price of US thermal coal compared to CIF ARA                  2.9% sulfur).
+         the week.                                                                   coal (basis 6,000 kcal/kg NAR, 1% sulfur) minus the Panamax 
+                                                                                     freight rate from Mobile, Alabama to Rotterdam. The netback is             The FOB Baltimore assessment is also normalized to 6,000 
+         Weekly assessments are priced in $/short ton based on FOB                   adjusted for heat at the originating port (CIF ARA minus freight           kcal/kg, 3% sulfur.
+         quotes at the rail or barge origin point.                                   divided by 6,000 kcal/kg NAR then multiplied by 6,111 kcal/
+                                                                                     kg NAR, the calorific heat content of 11,500 Btu/lb GAR coal).             The FOB assessments are listed in $/mt and are based on a 
+         The weekly assessments reflect value as of 11:30 am Eastern on              The netback is then adjusted based on sulfur content, and the              15-60 day loading period. The assessments reflect the market 
+         the final business day of the week.                                         resulting value is then converted from $/mt to $/st.                       as of 11:30 am Eastern.
+         © 2026 by S&P Global Inc. All rights reserved.   14
+         Specifications Guide        Global Coal: January 2026
+         Forward Curve Assessments
+         Assessment                              Code                      CV                        Delivery period           Currency                  UOM                       Frequency                 Timestamp
+         CIF ARA                                 CSAM001                   6,000 NAR                 Prompt Month              USD                       Metric Ton                Daily                     17.00 London
+         CIF ARA                                 CSAM002                   6,000 NAR                 Prompt Month + 1          USD                       Metric Ton                Daily                     17.00 London
+         CIF ARA                                 CSAQ001                   6,000 NAR                 Prompt Quarter            USD                       Metric Ton                Daily                     17.00 London
+         CIF ARA                                 CSAQ002                   6,000 NAR                 Prompt Quarter +1         USD                       Metric Ton                Daily                     17.00 London
+         CIF ARA                                 CSAQ003                   6,000 NAR                 Prompt Quarter + 2        USD                       Metric Ton                Daily                     17.00 London
+         CIF ARA                                 CSAQ004                   6,000 NAR                 Prompt Quarter +3         USD                       Metric Ton                Daily                     17.00 London
+         CIF ARA                                 CSAY001                   6,000 NAR                 Prompt Calendar           USD                       Metric Ton                Daily                     17.00 London
+         CIF ARA                                 CSAY002                   6,000 NAR                 Prompt Calendar +1        USD                       Metric Ton                Daily                     17.00 London
+         CIF ARA                                 CSAY003                   6,000 NAR                 Prompt Calendar +2        USD                       Metric Ton                Daily                     17.00 London
+         Financial thermal coal assessments                                          the first day of the calendar quarter or the nearest business day 
+                                                                                     thereafter, and the forward years on January 1 or the nearest 
+         Platts Forward Curve-Coal assesses the prevailing forward prices            business day thereafter.
+         for the standardized coal derivative contract in Europe. The 
+         contract is: CIF ARA (Rotterdam) based on 6,000 kcal/kg NAR.                For example, on January 2, Platts assesses the two forward 
+                                                                                     months February and March, the four forward quarters 
+         Prices (expressed as $/mt) are assessed for the forward two                 Q2, Q3 and Q4 of the current year and Q1 of the next year 
+         months, four quarters and three years and represent a market-               and the three forward years will be the next three calendar 
+         on-close value, and include transactions, where discoverable,               years.
+         and bids/offers each day.
+                                                                                     Prices reflect daily transactable value at the close of the 
+         Timing: The months roll forward on the 1st day of each month or             market, 5:00 pm London time. Transactions done after closing 
+         the nearest business day thereafter; the quarters roll forward on           time are disregarded.
+         © 2026 by S&P Global Inc. All rights reserved.   15
+           Specifications Guide             Global Coal: January 2026
+           Petroleum Coke Assessments
+                                                                                                                                                                                         ――――― Specifications (Typical) ―――――          ――――― Specifications (Range) ―――――
+           Assessment                         Code           Mavg            Qavg           Delivery       Volume (mt) Currency          UOM             Frequency      Timestamp      CV             Sulfur %        HGI            CV             Sulfur %       HGI
+                                                                                            period
+           FOB US Gulf Coast High Sulfur      CPAAA00        CPAAA03         CPAAA05        15-45 days     10,000         USD            Metric Ton      Weekly         11.00 US       -              6.5             -              -              6 to 7         -
+                                                                                                                                                                        Eastern
+           FOB US Gulf Coast Mid-High         PCFUG04        PCFUG03         PCFUG05         15-45 days    10,000         USD            Metric Ton      Weekly         11.00 US                      5.5                                           5.1-5.9
+           Sulfur                                                                                                                                                       Eastern
+           FOB US Gulf Coast Mid Sulfur       CPAAF00        CPAAF03         CPAAF05        15-45 days     10,000         USD            Metric Ton      Weekly         11.00 US       -              4.5             -              -              4.0-5          -
+                                                                                                                                                                        Eastern
+           FOB US West Coast Mid Sulfur       CPAAC00        CPAAC03         CPAAC05        15-45 days     10,000         USD            Metric Ton      Weekly         11.00 US       -              4.5             -              -              3.0-5.0        -
+                                                                                                                                                                        Eastern
+           FOB US West Coast Low Sulfur       CPAGG00        CPAGG03         CPAGG05        15-45 days     10,000         USD            Metric Ton      Weekly         11.00 US       -              2               -              -              1-2.9          -
+                                                                                                                                                                        Eastern
+           CIF Turkey 5.5% Sulfur             CPAGH00        CPAGH03         CPAGH05        30-60 days     50,000         USD            Metric Ton      Weekly         16.30 London 7,500 NAR        5.5             50             7,000-8,000  5-6.5            30-80
+                                                                                                                                                                                                                                     NAR
+           CFR India East 6.5% Sulfur         CPAGK00        CPAGK03         CPAGK05        30-60 days     50,000         USD            Metric Ton      Weekly         17.30          7,500 NAR      6.5             40             7,000-8,000  6-8              38-55
+                                                                                                                                                                        Singapore                                                    NAR
+           Petcoke Location
+           Assessment                                                           Basis Port                        All Ports
+           US
+           US Gulf Coast                                                        Gulf Coast                        Lower Mississippi River, Port Arthur, Houston, Upper Mississippi/Chicago
+           US West Coast                                                        West Coast                        Southern California, US West Coast ports
+           Turkey
+           CIF Turkey                                                           Iskenderun                        Iskenderun, Izmir, Marmara, Samsun
+           India
+           CFR India East                                                       Krishnapatnam                     All east coast India ports
+           © 2026 by S&P Global Inc. All rights reserved.            16
+         Specifications Guide        Global Coal: January 2026
+         Platts petcoke assessments                                                  Platts considers as relevant to the assessment process petcoke             Timing: The assessments reflect the value of petcoke 
+                                                                                     of a merchantable quality in a defined range of specifications             loading/discharging at the basis location at the mid-point of 
+         Platts publishes petroleum coke price assessments on a                      including but not limited to sulfur content and Hardgrove                  a defined time period forward from the date of publication. 
+         forward delivery/loading basis on a weekly frequency every                  Grindability Index (HGI) and normalizes to the standard                    Cargoes traded with more prompt or further forward laycans 
+         Wednesday (or in the case of a public holiday, the nearest                  specifications. Sulfur content is considered the primary                   or NOR are normalized to the middle of the period for 
+         preceding business day).                                                    determinant of petcoke prices. The HGI, a measure for the                  assessment purposes.
+                                                                                     grindability of coal and petcoke, is a secondary determinant and 
+         Assessments reflect the transactable value prevailing at a                  may be included in the price commentary each week if deals are             Weekly 15-45 day FOB loading window: The assessments 
+         specific timestamp. Trading activity, including bids/offers and             heard that specify HGI.                                                    reflect the price of petcoke for loading 15-45 days forward 
+         transactions, is covered during the typical operating day with                                                                                         from the date of publication. For example, on January 2, 
+         data cut off for inclusion in the assessment precisely at the               Volume: The assessments reflect cargoes of a typical volume                Platts assesses cargoes for delivery between January 17 and 
+         market-on-close timestamp.                                                  in metric tons (mt). All shipment volumes of 10,000 mt or over,            February 16.
+                                                                                     including standard or typical split and part-sized cargoes, are 
+         Negotiations on current contracts may be taken into account for             normalized to a typical vessel size (e.g. 50,000 mt Supramax).             Weekly 30-60 day CIF/CFR delivery window: The 
+         trend purposes. Deals and bids/offers must be deemed to be                                                                                             assessments reflect the price of petcoke for delivery 
+         repeatable between typical counterparties. Platts assessments               Basis and Location: Platts normalizes deliveries to or from the            30-60 days forward from the date of publication (expected 
+         may also take into account market surveys as well as other                  basis location of Krishnapatnam on east coast of India. Platts             NOR will be taken as the date of arrival). For example, on 
+         relevant market data such as supply/demand constraints and                  defines a base location in its price assessments acting as a pricing       June 1, Platts assesses cargoes for delivery between July 1 
+         prices in related markets (i.e. thermal coal, natural gas and               basis point, and differentials may be assessed off these when              and July 31.
+         residual fuel prices).                                                      deals or bids/offers are reported on a different location basis.
+         © 2026 by S&P Global Inc. All rights reserved.   17
+         Specifications Guide        Global Coal: January 2026
+         Other pricing data
+         Clean Dark Spreads
+         Please see our European Electricity Specifications Guide at 
+         https://www.spglobal.com/platts/PlattsContent/_assets/_
+         files/en/our-methodology/methodology-specifications/
+         european_power_methodology.pdf.
+         © 2026 by S&P Global Inc. All rights reserved.   18
+         Specifications Guide        Global Coal: January 2026
+         Spot Dry Bulk Freight Assessments published in Coal Trader International
+                                                                                                                                              Code                          Currency                     UOM
+         Capesize
+         Australia-China                                                                                                                      CDANC00                       USD                          Metric Ton
+         Queensland-Japan                                                                                                                     CIGAJ00                       USD                          Metric Ton
+         New South Wales-Korea                                                                                                                CINAK00                       USD                          Metric Ton
+         Bolivar-Rotterdam                                                                                                                    CIBCR00                       USD                          Metric Ton
+         Roberts Bank-Japan                                                                                                                   CDRKJ00                       USD                          Metric Ton
+         Richards Bay-Rotterdam                                                                                                               CIRBN00                       USD                          Metric Ton
+         Panamax
+         Richards Bay-India West                                                                                                              CSAKL00                       USD                          Metric Ton
+         Kalimantan-India West                                                                                                                CSAKP00                       USD                          Metric Ton
+         Richards Bay-India East                                                                                                              CSAKN00                       USD                          Metric Ton
+         Kalimantan-India East                                                                                                                CSAKR00                       USD                          Metric Ton
+         Ventspils-Rotterdam                                                                                                                  CILTN00                       USD                          Metric Ton
+         USEC-India                                                                                                                           CDBUI00                       USD                          Metric Ton
+         USEC-Rotterdam                                                                                                                       CDBUR00                       USD                          Metric Ton
+         Mobile-Rotterdam                                                                                                                     CDMAR00                       USD                          Metric Ton
+         Roberts Bank-Japan                                                                                                                   CDRBK00                       USD                          Metric Ton
+         Australia-China                                                                                                                      CDBFA00                       USD                          Metric Ton
+         Australia-India                                                                                                                      CDBFAI0                       USD                          Metric Ton
+         Panamax
+         Richards Bay-Port Qasim                                                                                                              CRBPB00                       USD                          Metric Ton
+         South Kalimantan-Krishnapatnam                                                                                                       CISKK00                       USD                          Metric Ton
+         Spot dry bulk freight assessments
+         Please see our Freight/Shipping Methodology and 
+         Specifications Guide at http://www.platts.com/methodology-
+         specifications/shipping.
+         © 2026 by S&P Global Inc. All rights reserved.   19
+         Specifications Guide        Global Coal: January 2026
+         Metallurgical Coal and Met Coke assessments published in Coal Trader International
+         Asia-Pacific coking coal
+                                                                   Currency                    UOM                        FOB Australia              CFR China                  CFR India
+         HCC Peak Downs Region                                     USD                         Metric ton                 HCCGA00                    HCCGC00                    HCCGI00
+         Premium Low Vol                                           USD                         Metric ton                 PLVHA00                    PLVHC00                    PLVHI00
+         HCC 64 Mid Vol                                            USD                         Metric ton                 HCCAU00                    HCCCH00                    HCCIN00
+         Low Vol PCI                                               USD                         Metric ton                 MCLVA00                    MCLVC00                    MCLVI00
+         Mid Tier PCI                                              USD                         Metric ton                 MCLAA00                    MCLAC00                    MCVAI00
+         Semi Soft                                                 USD                         Metric ton                 MCSSA00                    MCSSC00                    MCSSI00
+         Atlantic coking coal
+                                                                   Currency                    UOM                        FOB US East Coast
+         Low Vol HCC                                               USD                         Metric ton                 AAWWR00                    -                          -
+         High Vol A                                                USD                         Metric ton                 AAWWS00                    -                          -
+         High Vol B                                                USD                         Metric ton                 AAWWT00                    -                          -
+                                                                                                                          CFR NW Europe
+         PLV NetForward                                            USD                         Metric ton                 PLVHE00                    -                          -
+         Atlantic coking coal
+                                                                   Currency                    UOM                        Ex-washplant               Free-on-Rail               DDP Tangshan
+         PCC Met Shanxi Premium Low Vol                            Yuan                        Metric ton                 PCCMA04                    PCCMB04                    PCCMC04
+         PCC Met Shanxi High Sulfur Premium Low Vol                Yuan                        Metric ton                 PCCMD04                    PCCME04                    PCCMF04
+         PCC Met North China Fat Coal                              Yuan                        Metric ton                 -                          -                          PCCMG04
+         PCC Met Shanxi PCI                                        Yuan                        Metric ton                 PCCMH04                    PCCMI04                    PCCMJ04
+         PCC Met Shandong Semi Soft                                Yuan                        Metric ton                 PCCMK04                    PCCML04                    -
+         PCC Met Rail Freight Shanxi – Tangshan                    Yuan                        Metric ton                 PCCMM04                    -                          -
+         PCC Met Truck Freight Shanxi – Tangshan                   Yuan                        Metric ton                 PCCMO04                    -                          -
+         PCC Met Shanxi Premium Low Vol (CFR China equivalent)     USD                         Metric ton                 PLVHJ04
+         North China prompt port stock prices
+                                                                   Currency                    UOM                        EX-stock Jingtang incl VAT
+         Premium Low Vol                                           Yuan                        Metric ton                 AAWZN00                    -                          -
+         HCC 64 Mid Vol                                            Yuan                        Metric ton                 AAWZP00                    -                          -
+                                                                                                                          CFR Jingtang equivalent
+         Premium Low Vol                                           USD                         Metric ton                 AAWZO00                    -                          -
+         HCC 64 Mid Vol                                            USD                         Metric ton                 AAWZQ00                    -                          -
+         © 2026 by S&P Global Inc. All rights reserved.   20
+         Specifications Guide        Global Coal: January 2026
+         Metallurgical Coal and Met Coke assessments published in Coal Trader International
+         China PLV, Met Coke Price Differentials
+                                                                   Currency                    UOM
+         Import-Shanxi Premium Low Vol CFR China                   USD                         Metric ton                 PLVHK04                    -                          -                           -
+         Import-port stock Premium Low Vol CFR China               USD                         Metric ton                 PLVHL04                    -                          -                           -
+         62% CSR coke export-domestic FOB North China              USD                         Metric ton                 PLVHN04                    -                          -                           -
+         Penalties & Premia: Differentials
+                                                                   Currency                    UOM                        Within Min-Max                                        % of Premium Low Vol FOB 
+                                                                                                                                                                                Australia assessment price
+         Per 1% CSR 60-71%  0.50% 0.88                             USD                         Metric ton                 60-71%                     CPCSA00                    0.50%                       CPCSP00
+         Per 1% VM (air dried) 18-27%  0.50%  0.88                 USD                         Metric ton                 18-27%                     CPVPA00                    0.50%                       CPVMP00
+         Per 1% TM (as received) 8-11%  1.00%  1.77                USD                         Metric ton                 8-11%                      CPTPA00                    1.00%                       CPTMP00
+         Per 1% Ash (air dried) 7-10.5%  1.50%  2.65               USD                         Metric ton                 7-10.5%                    CPAPA00                    1.50%                       CPPAP00
+         Per 0.1%S (air dried) 0.3-1% 1.00%  1.77                  USD                         Metric ton                 0.3-1%                      CPSPA00                   1.00%                       CPSPV00
+         Penalties & Premia: Differentials
+                                                                   Currency                    UOM                        Within Min-Max                                        % of US low-vol HCC FOB 
+                                                                                                                                                                                USEC assessment price
+         Per 1% CSR                                                USD                         Metric ton                 50-64%                     CPPBA00                    0.25%                       CPPBB00
+                                                                   USD                         Metric ton                 40-49%                     CPPBC00                    0.05%                       CPPBD00
+         Per 0.1% S                                                USD                         Metric ton                 0.70-1.05%                 CPPBE00                    0.75%                       CPPBF00
+                                                                   USD                         Metric ton                 1.06-1.25%                 CPPBG00                    0.75%                       CPPBH00
+         Per 1% TM (as received)                                   USD                         Metric ton                 6-11%                      CPPBK00                    1.00%                       CPPBL00
+         Per 1% Ash                                                USD                         Metric ton                  5-10%                     CPPBI00                    1.75%                       CPPBJ00
+         Coking Coal Swaps: Platts Premium Low Vol FOB Australia
+                                                                   Currency                    UOM
+         Prompt Month                                              USD                         Metric ton                 MCPLM01                    -                          -                           -
+         Prompt Month + 1                                          USD                         Metric ton                 MCPLM02                    -                          -                           -
+         Prompt Month + 2                                          USD                         Metric ton                 MCPLM03                    -                          -                           -
+         Prompt Quarter +1                                         USD                         Metric ton                 MCPLQ01                    -                          -                           -
+         Prompt Quarter + 2                                        USD                         Metric ton                 MCPLQ02                    -                          -                           -
+         Prompt Quarter +3                                         USD                         Metric ton                 MCPLQ03                    -                          -                           -
+         Prompt Calendar                                           USD                         Metric ton                 MCPLY01                    -                          -                           -
+         © 2026 by S&P Global Inc. All rights reserved.   21
+         Specifications Guide        Global Coal: January 2026
+         Metallurgical Coal and Met Coke assessments published in Coal Trader International
+         Metallurgical Coke
+                                                                   Currency                    UOM
+         FOB North China 66/65% CSR                                USD                         Metric ton                 MCCNC00                    -                          -                           -
+         FOB North China 62% CSR                                   USD                         Metric ton                 AAWVL00                    -                          -                           -
+         CFR India 62% CSR                                         USD                         Metric ton                 MCCEI00                    -                          -                           -
+         DDP North China (weekly)                                  Yuan                        Metric ton                 AAWVJ00                    -                          -                           -
+         Daily metallurgical coal, coking coal swaps and met 
+         coke assessments
+         Detailed information is available in the Metallurgical Coal 
+         Methodology at: http://www.platts.com/methodology-
+         specifications/coal.
+         © 2026 by S&P Global Inc. All rights reserved.   22
+         Specifications Guide        Global Coal: January 2026
+         Currency conversions
+         Platts Atlantic and Asia thermal coal assessments are originally 
+         assessed in $/mt. 
+         The source of the foreign exchange data is Platts assessment 
+         EUR.USD (AACOP00) and the timestamp is 4:30 pm London time.
+         PCC 6 (VAT included), PCC 7 (VAT included) and PCC 8 (Duty & 
+         VAT included) are automated values derived from PCC 6, PCC 
+         7 and PCC 8 US$ denominated assessments by converting to 
+         Yuan and adding VAT and/or duty at the prevailing rate.
+         Changes to the prevailing rate of VAT and/or duty will be applied 
+         immediately on public notification from the relevant Chinese 
+         authorities.
+         The foreign exchange conversion rate is the prevailing Bank of 
+         China midpoint of the Cash Buying and Cash Selling rates at the 
+         timestamp for the PCC thermal coal assessment series.
+         © 2026 by S&P Global Inc. All rights reserved.   23
+         Specifications Guide        Global Coal: January 2026
+         Revision History                                                            August 2024: Platts discontinued FOB Newcastle 5,500 kcal/kg               July 2023: Platts updated the CIF Turkey petroleum coke 
+                                                                                     NAR (AAVUWOO) and associated assessments.                                  assessment name to CIF Turkey 5.5% Sulfur, the typical sulfur 
+         December 2025: Platts updated the guide following the                                                                                                  content to 5.5% and the sulfur range to 5-6.5%.
+         amending of the sulfur range for USWC petcoke assessments,                  May 2024: Platts completed an annual review of the global 
+         1%-2.9% for low-sulfur and 3%-5% for mid-sulfur petcoke.                    thermal coal methodology and specifications guide. Added                   In June 2023, Platts completed an annual review of the global 
+                                                                                     January 2024 revision history and condensed December                       thermal coal methodology and specifications guide. Platts 
+         November 2025: Platts update the guide to reflect the launch                2023 revision history. Adds FOB Kalimantan GAR and NAR                     reviewed all content and made minor edits to the language and 
+         of daily price differential assessments for every 0.1% sulfur               descriptions. Adds link to Platts conversion guide. Removes                rectified misprint in the US West Coast mid-sulfur petroleum 
+         (AVTCH00) and 1% ash (AVTCI00) above the typical levels,                    reference to Eur/mt conversion.                                            coke assessment typical suflur content to 4.5%. Platts launched 
+         up to the maximum of the ranges, effective Oct. 30. For FOB                                                                                            FOB Vancouver (basis 5,750 kcal/kg NAR, max 1% sulfur).
+         Kalimantan 5,000 GAR (CSAKI00) and 5,900 GAR (CSAKH00),                     January 2024: Platts launched Japan dark spread. 
+         effective Oct. 30, Platts has also increased the standard                                                                                              Feb 2023: Platts changed the timestamp of weekly EMEA 
+         shipment volume size to 75,000 metric tons from 55,000 mt,                  December 2023: Starting Nov. 15, Platts launched NAR                       thermal coal assessments from 5:00 pm UK time to 4:30 pm UK 
+         while shortening the loading period to 15-60 days forward from              equivalent values of 8 existing thermal coal price assessments             time, effective Jan 20, 2023
+         90 days forward, to better reflect typical trading norms. Platts            in GAR.
+         also amended the standard specification of sulfur and ash for                                                                                          July 2022: Platts changed the timestamp of 20 US thermal coal 
+         all FOB Kalimantan assessments, effective Oct. 30.                          November 2023: Platts renamed FOB Vancouver 5,750                          assessments from 2:30 pm ET to 4:30 pm ET effective July 27, 2022. 
+                                                                                     kcal/kg NAR netback (CTVCB00) to FOB West Coast North 
+         July 2025: Platts updated the guide, changing the vessel size of            America effective Nov. 6, 2023. Platts discontinued FOB Long               July 2022: Platts completed an annual review of this guide, 
+         FOB Newcastl 5,500 kcal/kg NAR coal (AAVVB00) assessment to                 Beach (CTLBA00) and FOB Oakland (CTOKA00) thermal coal                     reviewing all content, correcting typos, and making edits to 
+         75,000 mt effective July 8.                                                 assessments, effective Nov. 13, 2023.                                      language throughout. Platts changed the timestamp of 14 US 
+                                                                                                                                                                thermal coal weekly price assessments from 2 pm ET to 11:30 
+         June 2025: Platts updated the guide, adding a mid-high sulfur               August 2023: Effective Aug. 11, 2023. Platts launches a weekly             am ET, effective May 12. 
+         assessment and making specification amendments to its                       FOB Black Sea thermal coal assessment 6000 kcal/kg NAR 
+         existing petcoke price assessment series effective May 16.                  30-60 day $/mt (CBSEA00), FOB Black Sea 6000 kcal/kg NAR                   January 2022: Platts discontinued the Richards Bay 6,000 NAR 
+         Platts also completed an annual review of the global thermal                30-60 day MAvg (CBSEA03), and FOB Black Sea thermal coal                   netback price
+         coal methodology and specifications guide and made minor                    6000 kcal/kg NAR 30-60 day $/mt QAvg (CBSEA04).
+         edits for clarity.                                                                                                                                     August 2021: Platts completed an annual update to the Global 
+                                                                                     August 2023: Effective Aug. 21, 2023, Platts discontinued FOB              Coal Specifications Guide,
+         April 2025: Platts added CFR China and India 3,400 GAR                      Vancouver Powder Basin thermal coal export assessments FOB 
+         assessments.                                                                Vancouver 8800 Btu/lb GAR $/st (COVCU00); FOB Vancouver                    April 2021: Platts discontinued the daily prompt month US OTC 
+                                                                                     5000 kcal/kg NAR 15-60 day $/mt (CTVCA00); FOB Vancouver                   11,800 Btu/lb, 5 lbs. SO2/MMBtu, max 0.35% chlorine FOB barge 
+         February 2025: Platts launched daily FOB Kalimantan 3,400                   5000 kcal/kg NAR 15-60 day $/mt MAvg (CTVCA03); FOB                        coal assessment (CTPM001) due to changes in liquidity; it was 
+         kcal/kg GAR assessments effective Jan. 2, 2025.                             Vancouver 5000 kcal/kg NAR 15-60 day $/mt QAvg (CTVCA05);                  replaced by a new, daily prompt month US OTC 11,500 Btu/lb, 5 
+                                                                                     and inputs PRB 9400 Btu/lb to kcal/kg (CTPRB00); Rail Freight              lbs. SO2/MMBtu, max 0.35% chlorine FOB barge coal assessment 
+         September 2024: Platts removed references to daily assessment               Montana-British Columbia Transportation Cost $/st (CTCMO00);               (CISM001). Platts converted its prompt-quarter weekly Illinois Basin 
+         FOB Hampton Roads 6,000 kcal/kg NAR (CUAEA04) and associated                Vancouver Terminal Loading Transportation Cost $/mt                        11,500 Btu/lb GAR, max 0.35% chlorine FOB barge assessment 
+         assessments following discontinuation on June 14, 2024.                     (CTLVC00).                                                                 (CISQ001) from a weekly to daily basis. The daily prompt quarter 
+         © 2026 by S&P Global Inc. All rights reserved.   24
+         Specifications Guide        Global Coal: January 2026
+         US OTC 11,800 Btu/lb, 5 lbs. SO2/MMBtu, max 0.35% chlorine FOB              March 2020: Corrected symbol for the Month-ahead German                    June 2019: Platts completed an annual update to sections 1 
+         barge coal assessment (CTPQ001) was converted to a weekly                   Clean Dark Spread.                                                         to 6 of Platts Methodology and Specifications Guides in April 
+         price. Platts discontinued the simple and rolling averages of the                                                                                      2019, and moved these sections into a standalone Methodology 
+         two Illinois Basin daily assessments (derived from CTPM001 and              December 2019: Platts discontinued the daily 7-45 day FOB                  Guide. Platts changed the name of its CIF Turkey assessment to 
+         CTPQ001, and published under the codes CUOTC00, CTPHP05,                    Newcastle 6,300 kcal/kg GAR physical assessments and FOB                   CIF Med 75kt, modified its basis port to Iskenderun, Turkey, and 
+         CTOTC00, and CTPHP03). Platts discontinued its weekly prompt                Newcastle 6,000 kcal/kg NAR financial forward curves.                      broadened its sulfur range from 0.5%-3% sulfur. Platts added 
+         quarter Illinois Basin 11,800 Btu/lb GAR, 5 lbs. SO2/MMBtu, max                                                                                        a new CIF Med 45kt assessment with the same basis port and 
+         0.2% chlorine FOB barge assessment (CIJQ001), as well as its                October 2019: The US FOB Assessments section was updated                   other specifications.
+         weekly prompt quarter FOB NAPP/ Pittsburgh Seam Rail 13,000                 to include three new assessments.
+         Btu/lb, less than 3% sulfur assessment (CPAQ001).                                                                                                      April 2019: Platts removed reference to FOB Baltimore 13,000 
+                                                                                     October 2019: Platts added Platts SEAT and NEAT Coal Index                 Btu/lb GAR (6,944 kcal/kg NAR), FOB Hampton Roads 12,500 
+         January 2021: Platts launches weekly average prices for Asia                descriptions.                                                              Btu/lb (6,667 kcal/kg NAR) and FOB New Orleans 11,500 Btu/lb 
+         thermal coal assessments                                                                                                                               GAR (6,111 kcal/kg NAR) assessments, which were discontinued.
+                                                                                     October 2019: Platts added Platts SEAT methodology.
+         September 2020: Platts discontinued CFR India West petroleum                                                                                           April 2019: Platts clarified the emissions intensity factor used in 
+         coke price assessment                                                       September 2019: Platts added Kalimantan Floating Crane                     its German clean dark spreads with 45% efficiency.
+                                                                                     methodology.
+         August 2020: Platts discontinued Euro equivalent prices for Asia                                                                                       August 2018: Platts completed an annual update to the Thermal 
+         thermal coal                                                                August 2019: Platts completed an annual review of the Global               Coal methodology and also revamped sections I-VI.
+                                                                                     Thermal Coal methodology and specifications guide. Platts 
+         August 2020: Platts discontinued CFR India 3800 GAR East and                reviewed all content and corrected typos, as well as discrepancies         July 2018: Platts removed references to daily 90-day 
+         CFR India 3800 GAR West assessments                                         between the text and the tables. Platts added the European                 assessments for CIF ARA and FOB Newcastle following 
+                                                                                     Blended Price (EBP) assessment, the EBP/CIF ARA Differential,              discontinuation on July 23. Platts also added monthly and 
+         August 2020: Platts completed an annual review of the global                the CIF ARA low-sulfur blend stock assessment and the FOB New              quarterly averages for the CIF ARA 15-60 and FOB Newcastle 
+         thermal coal methodology and specifications guide. Platts                   Orleans plus USGC-Rotterdam freight calculation. Additionally,             7-45 day assessments.
+         reviewed all content and made minor edits to the language.                  Platts updated this guide to include additional details about 
+                                                                                     location information for the US weekly survey assessments.                 April 2018: Added US FOB assessments.
+         July 2020: Renamed NEAT Coal Index as Platts NEAT throughout
+                                                                                     July 2019: Platts amended the Spot Dry Bulk Freight table                  December 2017: Platts discontinued the daily CAPP Barge OTC 
+         June 2020: Added CFR Bangladesh, CFR Pakistan and sulfur                    with one additional Panamax (Ventspils to Rotterdam) and two               assessment and related assessments on December 26.
+         differential methodologies                                                  Supramax (Richards Bay to Port Qasim and South Kalimantan 
+                                                                                     to Krishnapatnam) freight assessments and removed six                      October 2017: The Platts US Thermal Coal assessments section 
+         May 2020: Moved time and date stamp for FOB Russia Pacific                  discontinued Panamax freight assessments. The US FOB                       was revised to reflect changes in the daily OTC coal assessment 
+         USD and Euro assessments from 17:00 pm London to 17:30 pm                   assessments were converted from weekly to daily prices.                    methodology, including the publishing of a 2 pm prevailing 
+         Singapore; Corrected typo in FOB Kalimantan 5,900 GAR symbol                                                                                           Eastern time initial market value, which will be tested in the 
+                                                                                     June 2019: Platts corrected the heat range for the Platts China            market through 2:30 pm.
+         April 2020: Platts discontinued PCC 1 and PCC 2 price                       Coal PCC7 price in the specifications section in its published 
+         assessments; Time-stamp changed to align with Singapore                     online methodology guide. The correct specifications should                August 2017: Platts completed an annual update to the Thermal 
+         holidays for PCC 6, PCC 7 and PCC 8.                                        read 4,500-4,900 kcal/kg NAR.                                              Coal methodology.
+         © 2026 by S&P Global Inc. All rights reserved.   25
+         Specifications Guide        Global Coal: January 2026
+         August 2017: Added daily FOB Newcastle 5,500 kcal/kg NAR                    October 2016: Added clarification regarding the collection of              January 2016: Added specifications for Illinois Basin 11,800 daily 
+         23% ash assessment.                                                         data for inclusion in US OTC thermal coal assessments and                  assessment.
+                                                                                     the treatment of bilateral, non-brokered trades. Changed US 
+         June 2017: Renamed OTC Broker Index to Platts Daily Physical                thermal coal netback sulfur value to $/mt from $/st. Changed               July 2015: Updated the specifications for PCC assessment suite.
+         Coal Assessments. Discontinued US thermal coal futures                      the sulfur content for Thacker/Kenova to 1.6 lbs SO2/MMBtu 
+         assessments.                                                                from 1.5 lbs SO2/MMBtu.                                                    July 2015: Updated specifications for FOB Kalimantan 5,900 
+                                                                                                                                                                GAR and FOB Kalimantan 5,000 GAR.
+         May 2017: Amended UK and German dark spreads to reflect the                 October 2016: Review of Parts I-VI
+         change of source for European emissions (EUA) prices.                                                                                                  June 2015: Methodology for CCI 7 VAT included and CCI 8 
+                                                                                     October 2016: Added language related to new US thermal coal                Duty & VAT included price assessments added. Revised US 
+         February 2017: Discontinued the FOB Venezuela 4% Sulfur                     netbacks.                                                                  OTC specifications to add chlorine quantity to Illinois Basin 
+         and FOB USGC 5%-6% sulfur petcoke assessments; changed                                                                                                 11,500 OTC product. The assessments in the OTC Broker 
+         the names of the remaining US petcoke assessments;                          September 2016: Changed the source of the Eur-USD exchange                 Index were renamed: NYMEX look-alike – 12,000 Btu/lb. -1% 
+         added typical specifications for the remaining US petcoke                   rate from Tullet Prebon to Platts assessment.                              was renamed CAPP barge (12,000 Btu/lb) OTC; CSX BS/K 
+         assessments and the ranges that will be normalized to                                                                                                  – 12,500 Btu/lb. -1% was renamed CAPP rail (CSX) (12,500 
+         those specifications. February 2017: Discontinued the South                 September 2016: Added China PLV, met coke price differentials              Btu/lb) OTC; PRB – 8,800 Btu/lb. was renamed PRB 8,800 
+         African Richards Bay FOB 6,000 NAR quotes for both 7-45                     and PCC Met Shanxi Premium Low Vol CFR China equivalent price.             Btu/lb OTC; PRB – 8,400 Btu/lb. was renamed PRB 8,400 
+         days and 90 days forward, along with associated forward                                                                                                Btu/lb OTC; and Illinois Basin 11,500 OTC was renamed 
+         curve. Addition of South African Richards Bay FOB 6,000 NAR                 September 2016: Platts completed an annual update to the                   Illinois Basin 11,500 Btu/lb OTC. In addition, the CAPP 1% 
+         netback quote.                                                              Thermal Coal methodology. In this update, Platts reviewed                  vs Compliance Spread listed in the OTC Broker Index was 
+                                                                                     all content and introduced regional sections, code lists and               discontinued.
+         January 2017: Added daily NEAT Coal Index methodology;                      specification guides.
+         added methodology for US coal vs gas fuel cost ratios;                                                                                                 March 2015: Added CIF Turkey and CFR India East and West 
+         removed reference to discontinued spark spreads in                          September 2016: Added language related to new US thermal                   petcoke methodology.
+         Coal Trader; removed reference to the discontinued daily                    coal futures assessments; new weekly Illinois Basin and Colorado 
+         Illinois Basin 11,500 OTC assessment; removed reference                     physical prices; and US thermal coal netback methodology.                  March 2015: Amended and expanded US petcoke methodology.
+         to discontinued forward assessments for Platts US 
+         daily OTC coal assessments and Weekly Price Survey                          June 2016: Coal Trader Analytics (Coal Trader) methodology was             February 2015: This methodology guide was updated to include 
+         assessments. Discontinued the weekly CIF Japan 6,080                        added.                                                                     further description of Platts’ processes and practices in survey 
+         kcal/kg NAR, CIF Korea West 6,080 kcal/kg NAR, FOB                                                                                                     assessment environments.
+         Gladstone 6,500 kcal/kg GAR, FOB Qinhuangdao 6,200                          May 2016: References to the discontinued OTC Hedge Price 
+         kcal/kg GAR and FOB Poland Baltic 6,000 NAR kcal/kg                         Monitor were removed.                                                      January 2015: Platts revamped all Power Methodology And 
+         90-day assessments. Updated the formula for the FOB                                                                                                    Specifications Guides, including its Coal guide, in December 
+         Vancouver daily netback price.                                              April 2016: Deleted reference to the discontinued US FOB                   2014. This revamp was completed to enhance the clarity and 
+                                                                                     assessments; clarified content of the US OTC Broker Index.                 usefulness of all guides, and to introduce greater consistency 
+         December 2016: Discontinued CFR South China and FOB                                                                                                    of layout and structure across all published methodology 
+         Qinhuangdao 5,500 kcal/kg NAR prices, FOB ARA Barge 6,000                   February 2016: Added clarification regarding chlorine as well as           guides. Methodologies for market coverage were not 
+         NAR 90-day assessments, the CIF ARA Carbon-Adjusted price                   typical heat and sulfur content to specifications for Illinois Basin       changed through this revamp, unless specifically noted in the 
+         and Biomass Wood Pellet assessments.                                        11,800 daily assessment.                                                   methodology guide itself.
+         © 2026 by S&P Global Inc. All rights reserved.   26
+         Specifications Guide        Global Coal: January 2026
+         August 2014: CFR India East 6,000 NAR and CFR India West                    November 2013: 6,450 GAR FOB Bolivar assessment was                        as the Coal Trading Association specifications. CAPP 
+         6,000 NAR assessments were renamed from CFR India East                      discontinued.                                                              barge OTC was previously named NYMEX 12,000/<1%; 
+         6,300 GAR and CFR India West 6,300 GAR.                                                                                                                CAPP rail (CSX) OTC was CSX 12,500/1%; PRB 8,800 OTC 
+                                                                                     September 2013: Platts amended the FOB Bolivar, 6,300                      was PRB 8,800/0.35%; and PRB 8,400 OTC was PRB 
+         August 2014: Platts discontinued its monthly Coking Coal                    GAR specifications to reflect thermal coal of 6,000 NAR FOB                8,400/0.35%.
+         90-day forward price assessments.                                           Colombia.
+                                                                                                                                                                May 2007: Added CIF ARA, FOB Richards Bay and FOB 
+         April 2014: The carbon efficiency factor used in German and                 June 2013: Added daily FOB Richards Bay 5,500 NAR                          Newcastle forward curve assessments methodology.
+         UK clean dark spreads was revised from 0.96 and UK CPS clean                methodology.
+         dark spreads were published.                                                                                                                           August 2006: Monthly and quarterly averages were calculated 
+                                                                                     December 2010: The Platts Daily OTC coal assessments                       using the day of assessment, rather than the date of publication, 
+         March 2014: Added weekly CFR Turkey thermal coal assessment                 were renamed but the underlying specifications and                         as the reference date.
+         methodology.                                                                methodology were not changed, and remain the same 
+         © 2026 by S&P Global Inc. All rights reserved.   27

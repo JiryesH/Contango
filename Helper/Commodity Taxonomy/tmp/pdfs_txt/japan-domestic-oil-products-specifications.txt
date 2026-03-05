@@ -1,0 +1,198 @@
+    Specifications Guide
+    Japan Domestic Oil Products
+    Latest update: February 2026
+    Definitions of the trading locations for which Platts 
+    publishes daily assessments ..................................... 2
+    Japan domestic oil products assessments  ..................... 2
+    Gasoline ................................................................... 4
+    Gasoil ...................................................................... 5
+    Kerosene .................................................................. 6
+                 ..............................................7
+    Low sulfur A-fuel oil 0.1% 
+          .................................................................. 8
+    A-fuel oil 
+    Revision history ......................................................10
+    www.spglobal.com/energy
+         Specifications Guide          Japan Domestic Oil Products: February 2026
+         Definitions of the trading locations for which Platts publishes daily assessments
+         The following specifications guide contains the primary specifications and methodologies for Platts refined oil products assessments in Japan. All the assessments listed here employ Platts Assessments 
+         Methodology, as published at https://www.spglobal.com/content/dam/spglobal/ci/en/documents/platts/en/our-methodology/methodology-specifications/platts-assessments-methodology-guide.pdf
+         The various components of this guide are designed to give Platts subscribers as much information as possible about a wide range of methodology and specification issues.   
+         This methodology guide is current at the time of publication. Platts may issue further updates and enhancements to this methodology and will announce these to subscribers through its usual publications of 
+         record. Such updates will be included in the next version of the methodology guide. Platts editorial staff and managers will usually be ready to provide guidance when assessment issues require clarification.
+         Japan domestic oil products assessments                                   For Kanagawa, oil products on trucks loading from the                      An ex-refinery bid or offer would represent barrels loading 
+                                                                                   following refineries and storage terminals are considered in               exclusively from refineries at the respective loading locations. 
+         Rack                                                                      the assessment process: ENEOS Kawasaki Refinery, Toa Oil                   Ex-refinery bids, offers and transactions may be normalized to 
+                                                                                   Keihin Refinery, ENEOS Negishi Refinery, Daitoh Tank Terminal’s            the prevailing open-origin basis reflected in the assessments. 
+         Platts publishes assessments for Japanese rack oil products               Yokohama oil tank facility, and Central Tank Terminal Co., Ltd’s 
+         markets in Yen/kiloliters (Yen/kl) at key trading centers across          Yokohama Terminal.                                                         Price assessments in the rack markets reflect activity reported 
+         the country. Platts currently assesses rack prices for gasoline,                                                                                     to Platts throughout the day, and values for all reported trades 
+         gasoil, kerosene, A-fuel oil and low sulfur A-fuel oil tank trucks at     For Hanshin, oil products on trucks loading from the following             are always normalized to reflect the prevailing value of the 
+         two key trading hubs of Kanagawa and Chiba in Tokyo Bay, and              refineries and storage terminals are considered in the                     market at 2 pm in Japan. They do not represent an average 
+         in two trading hubs of Chukyo and Hanshin. In addition, Platts            assessment process: ENEOS Sakai Refinery, Cosmo Oil Sakai                  of the day’s trades. In making assessments, Platts may also 
+         publishes the average of Kanagawa and Chiba assessments as                Refinery, Marubeni Ennex’s Sakai Terminal and Nakagawa                     observe and consider activity in related markets, including but 
+         Tokyo Bay assessments for gasoline, gasoil, kerosene, A-fuel oil          Bussan’s Osaka Sakurajima Oil Tank.                                        not limited to, price movements in crude oil, domestic Japan oil 
+         and low sulfur A-fuel oil.                                                                                                                           products such as exchange futures and spot prices from other 
+                                                                                   For Chukyo, oil products on trucks loading from the following              platforms, including the spreads between related oil products 
+         All assessments reflect product prices before taxes.                      refineries and storage terminals are considered in the                     and locations.
+                                                                                   assessment process: Showa Yokkaichi Refinery, Idemitsu Kosan 
+         Timing: Platts publishes price assessments for oil products               Aichi Refinery, Cosmo Oil Yokkaichi Refinery, Kanematsu Yuso’s             Platts editorial standards for the MOC assessment process for 
+         loading on trucks from specified refineries or storage terminals          Nagoya Oil Tank, Marunaka Kosan’s Nagoya Oil Tank, Marubeni                rack fuel oil, gasoil, gasoline and kerosene in Japan calls for best 
+         located at all four locations one to seven days from the day of           Ennex’s Nagoya Terminal, Toyotsu Energy’s Nagoya Terminal,                 practices in all aspects of operational performance, including 
+         publication.                                                              ENEOS’s Nagoya No. 2 Oil Tank, and Kygnus Sekiyu Nagoya                    terminal and truck nominations.
+                                                                                   Terminal.
+         Locations:                                                                                                                                           Volume: In rack markets, bids and offers of a minimum of 50 
+                                                                                   Participants in the Platts Market on Close assessment process              kiloliters are considered for assessment. The maximum size for 
+         For Chiba, oil products on trucks loading from the following              can opt to submit bids, offers or interest to trade on either an           any one bid or offer is 200 kiloliters. 
+         refineries and storage terminals are considered in the                    open-origin or an ex-refinery basis.
+         assessment process: Cosmo Oil Chiba Refinery, ENEOS Chiba                                                                                            Nominations: Platts Japan domestic oil product assessments 
+         Refinery, Idemitsu Chiba Refinery, Fuji Oil’s Sodegaura Refinery          Trades done on an open-origin basis give the seller the option to          reflect bids, offers and transactions where the buyer commits 
+         and Marubeni Ennex’s Chiba oil tank terminal.                             nominate delivery from refinery or tank facilities.                        to load the contractual volumes as per the agreed volume at 
+         © 2026 by S&P Global Inc. All rights reserved.  2
+          Specifications Guide              Japan Domestic Oil Products: February 2026
+          the time of the trade, where the quantity delivered to a buyer                       Quality Specifications: Platts expects all participants to 
+          is measured in line with the typical practice established at the                     make sure oil product cargoes delivered against trades in 
+          nominated loading point. The buyers must give reasonable                             the Japan domestic oil products MOC assessment process 
+          notice of the intended loading date and provide necessary truck                      are merchantable and certify that the products are in 
+          details in line with standard industry practice and the seller must                  compliance with the respective Japan Industrial Standard 
+          respond in a timely manner with nomination of the load point.                        quality standards. In line with industry practice, counterparties 
+                                                                                               in a trade may mutually appoint independent inspectors to 
+          Assessment Calendar: Platts assessments for Japan domestic                           verify product quality according to standard testing against 
+          oil products follow the Platts Tokyo publishing schedule, which                      JIS specifications. The product specifications listed by Platts 
+          reflects Japan’s national holidays and global market holidays.                       are not comprehensive on all possible quality elements, and 
+                                                                                               cargoes reflected in the assessment processes must at all 
+          Seasonal Changes: Platts reflects winter spec material                               times be deemed to fall within industry standards, and be 
+          until April 1 in its rack assessments for gasoline, gasoil and                       fungible in the respective market. Trades executed through 
+          kerosene, after which only summer grade is reflected; similarly,                     the Platts MOC assessment process may be reviewed from 
+          Platts reflects summer grade until October 1, after which only                       time to time for performance completion and product quality 
+          winter grade is reflected. These dates are subject to change,                        standards. MOC trades may be subject to editorial review to 
+          depending on observed implementation of seasonal switching in                        ensure typical market practices and performance standards 
+          the market itself.                                                                   have been followed.
+          © 2026 by S&P Global Inc. All rights reserved.         3
+          Specifications Guide              Japan Domestic Oil Products: February 2026
+          Gasoline
+          Assessment             Code          Mavg                   Contract Basis         Location               Delivery period                       Min size             Max size              Currency              UOM                  Conv
+          Rack
+          Gasoline 89 RON        PJPBX00       PJPBX03                Rack                   Kanagawa               1-7 days from date of publication     50                   200                   JPY                   Kiloliter            Yen
+          Gasoline 89 RON        PJPBY00       PJPBY03                Rack                   Chiba                  1-7 days from date of publication     50                   200                   JPY                   Kiloliter            Yen
+          Gasoline 89 RON        PJPAR00       PJPAR03                Rack                   Tokyo Bay              1-7 days from date of publication     50                   200                   JPY                   Kiloliter            Yen
+          Gasoline 89 RON        PJPCT00       PJPCT03                Rack                   Chukyo                 1-7 days from date of publication     50                   200                   JPY                   Kiloliter            Yen
+          Gasoline 89 RON        PJPCU00       PJPCU03                Rack                   Hanshin                1-7 days from date of publication     50                   200                   JPY                   Kiloliter            Yen
+          Gasoline                                                                              Specifications: Platts Japan gasoline assessments reflect the                         to fall within industry standards, including merchantability 
+                                                                                                latest Japan Industrial Standard, JIS K 2202 specifications,                          of the product. Grades which are not widely merchantable – 
+          Japan gasoline assessments: Platts typically reflects outright                        unless otherwise specified. Platts Japan rack assessments in all                      for instance, gasoline with unusual additives, including high 
+          price bids, offers and transactions in its assessments, but may                       regions represent material with an octane level of 89 RON, and                        quantities of certain additives or blendstocks which are not 
+          use additional indications as appropriate including the market                        a specific gravity of 0.783 g/cm3 maximum. The maximum sulfur                         typical – will not be reflected in the assessments.  
+          value of spread relationships with other oil products where                           is 0.001% wt. The specifications listed are not comprehensive 
+          there is a demonstrable price relationship with gasoline, as well                     on all possible specification elements, and cargoes reflected 
+          as different cargo sizes and locations and associated markets.                        in Platts assessment processes must at all times be deemed 
+          © 2026 by S&P Global Inc. All rights reserved.         4
+          Specifications Guide              Japan Domestic Oil Products: February 2026
+          Gasoil
+          Assessment             Code          Mavg                   Contract Basis         Location               Delivery period                       Min size             Max size              Currency              UOM                  Conv
+          Rack
+          Gasoil 10ppm           PJPBZ00       PJPBZ03                Rack                   Kanagawa               1-7 days from date of publication     50                   200                   JPY                   Kiloliter            Yen
+          Gasoil 10ppm           PJPCA00       PJPCA03                Rack                   Chiba                  1-7 days from date of publication     50                   200                   JPY                   Kiloliter            Yen
+          Gasoil 10ppm           PJPAS00       PJPAS03                Rack                   Tokyo Bay              1-7 days from date of publication     50                   200                   JPY                   Kiloliter            Yen
+          Gasoil 10ppm           PJPCX00       PJPCX03                Rack                   Chukyo                 1-7 days from date of publication     50                   200                   JPY                   Kiloliter            Yen
+          Gasoil 10ppm           PJPCY00       PJPCY03                Rack                   Hanshin                1-7 days from date of publication     50                   200                   JPY                   Kiloliter            Yen
+          Gasoil                                                                                there is a demonstrable price relationship with gasoil, as well as                    regions represent material with 10 ppm sulfur maximum, in line 
+                                                                                                different parcel sizes and locations and associated markets.                          with motor fuel specifications in Japan. The specifications listed 
+          Japan gasoil 10 ppm assessments: Platts typically reflects                                                                                                                  are not comprehensive on all possible specification elements, 
+          outright price bids, offers and transactions in its assessments,                      Specifications: Platts Japan gasoil assessments reflect the                           and cargoes reflected in Platts assessment processes must at 
+          but may use additional indications as appropriate including the                       latest Japan Industrial Standard, JIS K 2204 specifications,                          all times be deemed to fall within industry standards, including 
+          market value of spread relationships with other oil products where                    unless otherwise specified. Platts Japan rack assessments in all                      merchantability of the product.  
+          © 2026 by S&P Global Inc. All rights reserved.         5
+          Specifications Guide              Japan Domestic Oil Products: February 2026
+          Kerosene
+          Assessment             Code          Mavg                   Contract Basis         Location               Delivery period                       Min size             Max size              Currency              UOM                  Conv
+          Rack
+          Kerosene               PJPCB00       PJPCB03                Rack                   Kanagawa               1-7 days from date of publication     50                   200                   JPY                   Kiloliter            Yen
+          Kerosene               PJPCC00       PJPCC03                Rack                   Chiba                  1-7 days from date of publication     50                   200                   JPY                   Kiloliter            Yen
+          Kerosene               PJPAT00       PJPAT03                Rack                   Tokyo Bay              1-7 days from date of publication     50                   200                   JPY                   Kiloliter            Yen
+          Kerosene               PJPCV00       PJPCV03                Rack                   Chukyo                 1-7 days from date of publication     50                   200                   JPY                   Kiloliter            Yen
+          Kerosene               PJPCW00       PJPCW03                Rack                   Hanshin                1-7 days from date of publication     50                   200                   JPY                   Kiloliter            Yen
+          Kerosene                                                                              as different cargo sizes and locations and associated markets.                        maximum 270 degrees Celsius. The maximum sulfur is 0.008% 
+                                                                                                                                                                                      wt. The specifications listed are not comprehensive on all 
+          Japan kerosene assessments: Platts typically reflects outright                        Specifications: Platts Japan kerosene assessments reflect                             possible specification elements, and cargoes reflected in 
+          price bids, offers and transactions in its assessments, but may                       the latest Japan Industrial Standard, JIS K 2203 specifications.                      Platts assessment processes must at all times be deemed to 
+          use additional indications as appropriate including the market                        Platts Japan rack assessments in all regions represent                                fall within industry standards, including merchantability of the 
+          value of spread relationships with other oil products where                           kerosene with smoke point of 23 mm min for summer and                                 product.  
+          there is a demonstrable price relationship with kerosene, as well                     21 mm min for winter, and 95% distillation temperature at 
+          © 2026 by S&P Global Inc. All rights reserved.         6
+          Specifications Guide              Japan Domestic Oil Products: February 2026
+          LOW SULFUR A-FUEL OIL 0.1%
+          Assessment                     Code          Mavg                   Contract Basis         Location               Delivery period                       Min size              Max size             Currency              UOM                  Conv
+          Rack
+          Low Sulfur A-Fuel Oil 0.1%     PJPCF00       PJPCF03                Rack                   Kanagawa               1-7 days from date of publication     50                    200                  JPY                   Kiloliter            Yen
+          Low Sulfur A-Fuel Oil 0.1%     PJPCG00       PJPCG03                Rack                   Chiba                  1-7 days from date of publication     50                    200                  JPY                   Kiloliter            Yen
+          Low Sulfur A-Fuel Oil 0.1%     PJPAU00       PJPAU03                Rack                   Tokyo Bay              1-7 days from date of publication     50                    200                  JPY                   Kiloliter            Yen
+          Low Sulfur A-Fuel Oil 0.1%     PJPCZ00       PJPCZ03                Rack                   Chukyo                 1-7 days from date of publication     50                    200                  JPY                   Kiloliter            Yen
+          Low Sulfur A-Fuel Oil 0.1%     PJPDA00       PJPDA03                Rack                   Hanshin                1-7 days from date of publication     50                    200                  JPY                   Kiloliter            Yen
+          Low sulfur A-fuel oil 0.1%                                                            fuel oil, as well as different sizes and locations and associated                     LSAFO assessments in all regions represent material with 
+                                                                                                markets.                                                                              0.1% wt sulfur maximum, in line with fuel oil specifications in 
+          Japan Low Sulfur A-Fuel Oil 0.1% assessments: Platts typically                                                                                                              Japan. The specifications listed are not comprehensive on 
+          reflects outright price bids, offers and transactions in its                          Specifications: Platts Japan low sulfur A-fuel oil 0.1% wt sulfur                     all possible specification elements, and cargoes reflected in 
+          assessments, but may use additional indications as appropriate                        assessments reflect the latest Japan Industrial Standard, JIS                         Platts assessment processes must at all times be deemed to 
+          including the market value of spread relationships with other oil                     K 2205 (Class 1. No.1) specifications, with the exception of the                      fall within industry standards, including merchantability of the 
+          products where there is a demonstrable price relationship with                        sulfur content, which is maximum 0.1% wt. Platts Japan rack                           product.  
+          © 2026 by S&P Global Inc. All rights reserved.         7
+          Specifications Guide              Japan Domestic Oil Products: February 2026
+          A-FUEL OIL
+          Assessment                     Code          Mavg                   Contract Basis         Location               Delivery period                       Min size              Max size             Currency              UOM                  Conv
+          Rack
+          A-Fuel Oil                     PJPCD00       PJPCD03                Rack                   Kanagawa               1-7 days from date of publication     50                    200                  JPY                   Kiloliter            Yen
+          A-Fuel Oil                     PJPCE00       PJPCE03                Rack                   Chiba                  1-7 days from date of publication     50                    200                  JPY                   Kiloliter            Yen
+          A-Fuel Oil                     PJPAV00       PJPAV03                Rack                   Tokyo Bay              1-7 days from date of publication     50                    200                  JPY                   Kiloliter            Yen
+          A-Fuel Oil                     PJPDB00       PJPDB03                Rack                   Chukyo                 1-7 days from date of publication     50                    200                  JPY                   Kiloliter            Yen
+          A-Fuel Oil                     PJPDC00       PJPDC03                Rack                   Hanshin                1-7 days from date of publication     50                    200                  JPY                   Kiloliter            Yen
+          A-fuel oil                                                                            Specifications: Platts Japan A-fuel oil assessments                                   all times be deemed to fall within industry standards, including 
+                                                                                                reflect Japan Industrial Standard, JIS K 2205 (Class 1. No.1)                         merchantability of the product. 
+          Japan A-Fuel Oil assessments: Platts typically reflects outright                      specifications, with the exception of the sulfur content, which 
+          price bids, offers and transactions in its assessments, but may                       is maximum 0.5% wt. Platts Japan rack AFO assessments in all                          To reflect the different level of sulfur in historical and current 
+          use additional indications as appropriate including the market                        regions represent material with 0.5% wt sulfur maximum, in line                       data, Platts has a symbol code for the sulfur content to 
+          value of spread relationships with other oil products where                           with fuel oil specifications in Japan. The specifications listed                      distinguish between HSAFO 1% and AFO 0.5% for the rack 
+          there is a demonstrable price relationship with fuel oil, as well                     are not comprehensive on all possible specification elements,                         assessments.  
+          as different cargo sizes and locations and associated markets.                        and cargoes reflected in Platts assessment processes must at 
+          © 2026 by S&P Global Inc. All rights reserved.         8
+          Specifications Guide              Japan Domestic Oil Products: February 2026
+          Sulfur codes
+          Assessment                                                     Code                            Mavg                           Contract Type                  Delivery Region                Currency                        UOM
+          Rack
+          Fuel Oil Japan Domestic Rack Sulfur Content                    JPRXT00                                                        Statistic                      Japan                          N/A                             PCT
+          © 2026 by S&P Global Inc. All rights reserved.         9
+          Specifications Guide              Japan Domestic Oil Products: February 2026
+          Revision history                                                                     was amended to “Showa Yokkaichi Refinery”, and “JXTG’s                                May 2017: Platts updated this guide to reflect the newly 
+                                                                                               Nagoya No. 2 Oil Tank” was amended to “ENEOS’ Nagoya No. 2                            launched waterborne oil products for the hub of Onishi.
+          February 2026: Platts completed an annual review of this guide                       Oil Tank”.
+          in February 2026.                                                                                                                                                          February 2017: Platts updated this guide to reflect acceptable 
+                                                                                               February 2020: Platts completed an annual review of this guide                        load points reflected in its Japan domestic waterborne oil 
+          February 2025: Platts completed an annual review of this guide                       in February 2020 and made minor edits to the text.                                    products assessments.
+          in February 2025.
+                                                                                               October 2019: Platts updated this guide to reflect the                                December 2016: Platts updated this guide to reflect its newly 
+          February 2024: Platts completed an annual review of this guide                       amendment of the maximum sulfur content in its Japan                                  launched rack oil products in the Japan domestic market. Platts 
+          in February 2024.                                                                    domestic rack and waterborne A-Fuel oil assessments to 0.5%                           also updated this guide to reflect that waterborne assessments 
+                                                                                               from 1% from October 1, 2019.                                                         reflect product before taxes.
+          February 2023: Platts completed an annual review of this guide 
+          in February 2023 and made minor edits to the text.                                   February 2019: Platts completed an annual review of this guide                        October 2016: Platts updated this guide to reflect its updated 
+                                                                                               in February 2019. Platts made several minor changes to the text,                      laycans methodology for the waterborne assessment and to 
+          February 2022: Platts completed an annual review of this guide                       and also amended the description of Tokyo Bay in the Rack                             amend typographical errors in gasoline and kerosene sulfur 
+          in February 2022 and made a minor edit to the text.                                  assessment tables.                                                                    specification. Platts began assessing the value of gasoline, 
+                                                                                                                                                                                     gasoil, kerosene, high sulfur fuel oil A and low sulfur fuel 
+          April 2021: Platts updated this guide to reflect the                                 May 2018: Platts updated this guide to reflect a name change                          oil A for loading on an FOB basis reflecting two half-month 
+          discontinuation of all waterborne oil products assessments from                      for one of the loading points for rack and waterborne oil                             time cycles with effect from August 1, 2016. Platts previously 
+          April 1, 2021                                                                        products: “Hashimoto Sangyo’s Yokohama oil tank facility”                             published assessments across the country reflecting 
+                                                                                               was amended to “Central Tank Terminal Co., Ltd’s Yokohama                             domestic oil products for loading at port 7-20 days from the 
+          February 2021: Platts completed an annual review of this                             Terminal” following a change in ownership.                                            day of assessment. The sulfur specification for gasoline and 
+          guide in February 2021 and made minor edits to the text.                                                                                                                   kerosene were corrected to 0.001% max and 0.008% max 
+                                                                                               March 2018: Platts completed an annual review of this guide in                        respectively, as per Japan Industrial Standards. The earlier 
+          October 2020: Platts updated this guide to reflect the                               March 2018. Platts updated this guide to add reference to Tokyo                       version of the methodology guide incorrectly mentioned the 
+          discontinuation of most waterborne oil products assessments                          Bay Rack assessment, which is an average of Kanagawa and                              sulfur specification for the two products at 0.01% and 0.015% 
+          from October 1, 2020. Platts also updated this guide to reflect                      Chiba rack assessments.                                                               respectively.
+          several name changes to loading points for rack oil products: 
+          “JXTG Chiba Refinery” was amended to “ENEOS Chiba                                    November 2017: Platts completed an annual review of this guide                        April 2016: Platts updated this guide to reflect a minimum 
+          Refinery”, “JXTG Kawasaki Refinery” was amended to “ENEOS                            in November 2017. Platts made several minor changes to the                            parcel size of 500 kl across all products. 
+          Kawasaki Refinery”, “JXTG Negishi Refinery” was amended to                           text and also amended names of certain refineries. Platts also 
+          “ENEOS Negishi Refinery”, “JXTG Sakai Refinery” was amended                          updated this guide to include the rack oil products assessments                       April 2016: Platts created a Japan domestic oil products guide.
+          to “ENEOS Sakai Refinery”, “Showa Shell Yokkaichi Refinery”                          for Chukyo and Hanshin launched on November 1, 2017.
+          © 2026 by S&P Global Inc. All rights reserved.         10

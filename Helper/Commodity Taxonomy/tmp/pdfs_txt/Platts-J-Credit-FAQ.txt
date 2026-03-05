@@ -1,0 +1,97 @@
+                                         
+                                         
+                                         
+                                         
+                                         
+                                         
+                                         
+               Platts J-Credit Price 
+               Assessments  
+               Japan aims to achieve net zero emissions        and Ministry of Agriculture, Forestry and 
+                
+               by 2050, with interim goals of cutting          Fisheries.  
+               emissions 60% by 2035 and 73% by 2040           What is Platts launching? 
+               relative to 2013 levels. 
+               Japan’s GX-ETS (Green Transformation            Platts is launching J-Credit spot price 
+               Emissions Trading Scheme) is the                assessments for the four most liquid 
+               country’s compliance carbon scheme,             trading categories in the market: Energy 
+               launched voluntarily in April 2023 and set      Efficiency, Renewable Energy (Heat), 
+               to become mandatory in April 2026,              Renewable Energy (Electricity), and 
+               covering around 300–400 companies               Forestry J-Credits.  
+               emitting more than 100,000 mt                   Platts will also publishes US dollar 
+               CO₂ annually, accounting for roughly 60%        conversions, along with monthly averages 
+               of Japan’s total emissions.                     for the assessments. 
+               What are J-Credits?                              
+                                                                 J-Credit Symbols   
+               J-Credits are domestic carbon credits            JCEE    Platts J-credit Energy 
+               certified by the Japanese government             Y00     Efficiency JPY/mtCO2e   
+               that quantify verified greenhouse gas 
+               emissions reductions or removals                 JCEH    Platts J-credit 
+               achieved through mitigation projects.            Y00     Energy Forestry JPY/mtCO2e   
+               These credits primarily represent 
+               activities such as energy efficiency             JCEG    Platts J-credit Renewable 
+               improvements, renewable energy                   Y00     Energy (Electricity) 
+               deployment, and forestry absorption.                     JPY/mtC02e 
+               Mandated facilities under the GX-ETS can         JCEF    Platts J-
+               utilize up to 10% of J-Credits to fulfil         Y00     credit Renewable Energy (Hea
+                                                                        t) JPY/mtCO2e 
+               compliance obligations.                                                   
+               The eligibility criteria and certification       
+               processes under the J-Credit scheme             How are Platts J-Credit 
+               are established and periodically reviewed       prices assessed?  
+               by Japan's Ministry of the Environment,         Platts assesses J-Credit prices based on 
+               Ministry of Economy, Trade and Industry,        the most competitive bids, offers, and 
+                
+               Copyright © 2026 by S&P Global Inc. All rights reserved. 
+               S&P Global, the S&P Global logo, S&P Global Energy, and Platts are trademarks of S&P Global Inc. 
+               Permission for any commercial use of these trademarks must be obtained in writing from S&P Global Inc. 
+                                         
+                                         
+                                         
+                                         
+                                         
+                                         
+                                         
+               trades observed in the market, adhering             o  Channel Partners 
+               to a 1530 Japan time Market on Close                o  API, FTP, Excel Add-in and Cloud  
+               process. Our price reporters gather this          
+               data directly from a wide range of market       Who can I contact to learn more 
+               participants, including traders, brokers,       about these price assessments?   
+               project developers, and end-users.    
+               Why are these assessments                       Contact: Platts_carbon@spglobal.com 
+               important?                                      or SEIG@spglobal.com   
+                                                                
+               Platts understands that the J-                  About S&P Global Energy  
+               credit market is still nascent and most 
+               transactions take place through over-the-       At S&P Global Energy, our comprehensive 
+               counter contracts apart from trading            view of global energy and commodities 
+               platforms, meaning limited                      markets enables our customers to make 
+               transparency.                                   superior decisions and create long-term, 
+               Demand for J-Credits is expected to grow        sustainable value. 
+               as Japan’s GX-ETS becomes mandatory             Our four core capabilities are: Platts for 
+               from April 2026 and companies seek to           pricing and news; CERA for research and 
+               manage their compliance obligations.            advisory; Horizons for energy expansion 
+               By providing an independent and                 and sustainability solutions; and Events 
+               transparent price assessment, Platts stri       for industry collaboration.  
+               ves to provide critical information of the      S&P Global Energy is a division of S&P 
+               highest standards, to facilitate greater        Global (NYSE: SPGI). S&P Global enables 
+               transparency and efficiency in the carbon       businesses, governments, and individuals 
+               markets.                                        with trusted data, expertise, and 
+                                                               technology to make decisions with 
+               Where are these prices published?               conviction. We are Advancing Essential 
+               The new assessments are commercially            Intelligence through world-leading 
+               packaged in CSM1.0 Energy Transition            benchmarks, data, and insights that 
+               and CSM+ Carbon and Scenarios, and              customers need in order to plan 
+               available via:                                  confidently, act decisively, and thrive 
+                                                               economically in a rapidly changing global 
+                  o  Market Data Category: ACM                 landscape. Learn more at 
+                      (Global Carbon Compliance                spglobal.com/energy 
+                      Markets)                                  
+                  o  Market Report: Carbon Markets 
+                      Daily   
+                  o  S&P Global Energy Core platform 
+                      (under Carbon and Scenarios) 
+                
+               Copyright © 2026 by S&P Global Inc. All rights reserved. 
+               S&P Global, the S&P Global logo, S&P Global Energy, and Platts are trademarks of S&P Global Inc. 
+               Permission for any commercial use of these trademarks must be obtained in writing from S&P Global Inc. 

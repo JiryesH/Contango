@@ -1,0 +1,10 @@
+# Core scraper dependencies
+feedparser
+requests
+curl_cffi
+
+# Optional — ML enrichment (only needed locally, not in GitHub Actions)
+# Uncomment to install:
+# transformers
+# torch
+# spacy

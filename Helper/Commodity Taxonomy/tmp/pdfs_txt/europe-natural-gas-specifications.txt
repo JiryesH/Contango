@@ -1,0 +1,499 @@
+    Specifications Guide
+    European Natural Gas
+    Latest update: September 2025
+                 ............................................. 2
+    Detailed specifications
+    Platts European natural gas assessments ....................... 2
+    Platts UK gas market coverage ..................................... 5
+    Platts Continental European gas coverage ...................... 9
+    NW Europe oil-indexed gas contract price indicator (GCI) ...11
+    Spark Spreads, CSPI, Cross-fuel comparisons ................. 12
+    LNG in tank assessments  ........................................... 13
+    Revision history ......................................................15
+    www.spglobal.com/commodityinsights
+          Specifications Guide           European Natural Gas: September 2025
+          Detailed specifications
+          All the assessments listed here employ Platts Assessments Methodology, as published at https://www.spglobal.com/content/dam/spglobal/ci/en/documents/platts/en/our-methodology/
+          methodology-specifications/platts-assessments-methodology-guide.pdf
+          These guides are designed to give Platts subscribers as much information as possible about a wide range of methodology and specification questions.
+          This guide is current at the time of publication. Platts may issue further updates and enhancements to this guide and will announce these to subscribers through its usual publications of record.  
+          Such updates will be included in the next version of this guide. Platts editorial staff and managers are available to provide guidance when assessment issues require clarification.
+          Platts European natural gas assessments                                              Working week + 1: delivered Monday-Friday of the front week                           The Dutch TTF: plus/minus 5-euro cent above or below the 
+                                                                                                                                                                                     primary assessment. 
+          Platts assessments reflect market value at the end of the                            Balance of Month: delivery starting two working days forward 
+          normal trading cycle. For European gas we define this as:                            until the end of month. Platts’ assessment ends two UK                                The Italian PSV, Austrian CEGH and French PEG and Spanish 
+                                                                                               business days before the end of the month.                                            TVB: plus/minus 10-euro cent above or below the primary 
+          UK day-ahead intra-day – 11:00 London time                                                                                                                                 assessment.
+                                                                                               Months: All months are calendar months
+          UK day-ahead and forward contracts – 16:30 London time.                                                                                                                    The UK’s NBP: plus/minus 0.1 p/th above or below the primary 
+                                                                                               Quarters: Q1 = January to March, Q2 = April to June, Q3 = July to                     assessment.
+          Continental European day-ahead and forward contracts – 16:30                         September, Q4 = October to December
+          London time.                                                                                                                                                               For further details on Platts TVB assessments, please refer to 
+                                                                                               Seasons: Winter = October to March, Summer = April to                                 the LNG in tank assessments section on page 13.
+          Ahead of certain UK public holidays, Platts assesses the market                      September
+          earlier than normal, at 12:30 pm London time. This is to take                                                                                                              Platts assessment increments
+          account of typically much lower liquidity and the earlier end of                     Gas year: October 1-September 30
+          trade.                                                                                                                                                                     Primary assessments for Continental European hubs are 
+                                                                                               Calendar Year: January 1-December 31                                                  in Eur/MWh: plus/minus 0.5 euro cent. For the UK National 
+          Contract definitions                                                                                                                                                       Balancing Point (NBP) primary assessments are in p/th: plus/
+                                                                                               Platts assessments of European gas prices typically reflect a                         minus 0.01 p/th.
+          Unless otherwise stated, contract definitions for all European                       gross calorific value, or higher heating value, basis.
+          gas assessments are as follows:                                                                                                                                            Standard volumes
+          Within Day: delivered during the same day of assessment                              Platts assessment ranges                                                              Platts assessments are based on standard contract 
+                                                                                               Platts publishes fixed price assessments for European gas                             definitions and volumes, as outlined in the following sections 
+          Day-ahead: delivered next working day after assessment                               markets, including a low-high range around the midpoint                               of this document. These vary according to market.
+                                                                                               assessment for the following hubs: 
+          Weekend: delivered Saturday, Sunday
+          © 2025 by S&P Global Inc. All rights reserved.     2
+          Specifications Guide           European Natural Gas: September 2025
+          For UK NBP gas market, the standard prompt trade is 25,000-                          Monday. On the last working day before a UK public holiday                            Friday’s weekend price is used to provide the flow date price 
+          500,000 th/d in 25,000 th/d increments. The standard forward                         additional day-ahead prices are assessed.                                             points for Saturday and Sunday. The flow date sequence also 
+          trade is 25,000 or 50,000 th/d.                                                                                                                                            takes values from the additional day-ahead prices that are 
+                                                                                               Platts publishes weekend assessments for the NBP and TTF                              assessed ahead of UK public holidays.
+          For the Dutch TTF, the Italian PSV, the French PEG, the                              on all UK working days. Platts publishes weekend assessments 
+          German THE, the Austrian VTP, the Spanish Punto Virtual de                           for, PEG, THE, PSV, Austrian VTP, PVB, ZTP, Czech VTP, Hungarian                      Monthly Averages
+          Balance (PVB), the Belgian Zeebrugge Trading Point (ZTP)                             MGP and Slovakian VTP on Friday or on the last working day of 
+          virtual trading hub, the Czech VTP, and the Slovakian VTP,                           the week in the event of a Friday UK public holiday.                                  The monthly average prices are based on the monthly averages 
+          Hungarian MGP the standard lot size is 30 MW, with larger lot                                                                                                              of day-ahead and month-ahead assessments made during the 
+          sizes in 30 MW increments common on the prompt.                                      Flow-date pricing                                                                     month in question.
+          Trades involving smaller or larger volumes may be considered                         Flow-date prices store prompt gas prices against the day on                           The day-ahead average is the flow-date average of spot 
+          for the purpose of determining Platts European gas                                   which the gas is delivered to the purchaser, rather than on                           prices assessed for the month and includes weekend and 
+          assessments.                                                                         the day that the gas was traded. For example, the October 1                           public holiday delivery. To illustrate, a January 31 day-ahead 
+                                                                                               assessment of day-ahead gas trades that took place on that day                        assessment would not be included in the January average 
+          When Platts assessments are published                                                would be databased against October 1 on a trade-date basis,                           because the gas would flow February 1.
+                                                                                               but against October 2 on a flow-date basis.
+          Platts publishes assessments on all UK working days.                                                                                                                       The month-ahead average is the trade-date average of all 
+                                                                                               Platts day-ahead flow date prices create a price point for every                      month-ahead assessments during the month in question.
+          Platts provides a continuous daily series for all European                           day of the year in a single continuous sequence by combining 
+          spot gas prices, including coverage of weekends and UK bank                          the day-ahead trade-date gas price assessment from Monday                             Monthly Averages include conversions in various currencies and 
+          holidays. On Fridays the day-ahead price is for delivery on the                      to Friday with the Friday assessment of the weekend price.                            units of measurement based on energy content.
+          © 2025 by S&P Global Inc. All rights reserved.     3
+          Specifications Guide           European Natural Gas: September 2025
+          Platts UK gas market coverage
+                                                                                          p/th                                       Eur/MWh                                   $/MMBtu                                    Eur/Gj
+          Platts UK NBP Assessments 
+          Within-Day                                                                      AAIGI00                                    AALJE00                                   GNCMW00                                    AAIGL00
+          DA 11:00 (working day ahead assessed intraday Monday to Thursday)               GNDAV00                                    GNDAT00                                   GNDAW00                                    GNDAU00
+          DA 11:00 (working day ahead assessed intraday Friday)                           GNDAV28                                    GNDAT28                                   GNDAW28                                    GNDAU28
+          Day ahead 16:30 (trade date)                                                    NGAAA00                                    AALJG00                                   GNCWU00                                    GNCUU00
+          Day ahead + 1*                                                                  NGAAA27                                    AALJG27                                   GNCWU27                                    GNCUU27
+          Day ahead + 2*                                                                  NGAAA28                                    AALJG28                                   GNCWU28                                    GNCUU28
+          Weekend                                                                         AAAXS00                                    AALJI00                                   GNCWW00                                    GNCUV00
+          Working week+1                                                                  AAOGC00                                    AAOGF00                                   GNCWP00                                    AAOGI00
+          Balance of month                                                                NGAAC00                                    AALJM00                                   GNCWB00                                    GNCUB00
+          Month ahead                                                                     NGAAE00                                    AALJO00                                   GNCWM10                                    GNCUM10
+          Second month ahead                                                              NGAAG00                                    AALJQ00                                   GNCWM20                                    GNCUM20
+          Third month ahead                                                               NGAAI00                                    AALJS00                                   GNCWM30                                    GNCUM30
+          Fourth month ahead                                                              NGAAK00                                    AALJU00                                   GNCWM40                                    GNCUM40
+          Fifth month ahead                                                               NGAAI05                                    AALJS05                                   GNCWM50                                    GNCUM50
+          Sixth month ahead                                                               NGAAI06                                    AALJS06                                   GNCWM60                                    GUCUM60
+          Quarter ahead                                                                   NGAAM00                                    AALJW00                                   GNCWQ10                                    GNCUQ10
+          Second quarter ahead                                                            NGAAO00                                    AALJY00                                   GNCWQ20                                    GNCUQ20
+          Third quarter ahead                                                             NGAAQ00                                    AALKA00                                   GNCWQ30                                    GNCUQ30
+          Fourth quarter ahead                                                            NGAAS00                                    AALKC00                                   GNCWQ40                                    CNCUQ40
+          Fifth quarter ahead                                                             NGAAQ05                                    AALKA05                                   GNCWQ50                                    GNCUQ50
+          Sixth quarter ahead                                                             NGAAQ06                                    AALKA06                                   GNCWQ60                                    GNCUQ60
+          Season 1                                                                        GNSNV00                                    GNSNT00                                   GNCWSN0                                    GNSNU00
+          Season 2                                                                        AAOWZ00                                    AAOXE00                                   GNCWSN1                                    AAOXJ00
+          Season 3                                                                        AAOXA00                                    AAOXF00                                   GNCWSN2                                    AAOXK00
+          Season 4                                                                        AAOXB00                                    AAOXG00                                   GNCWSN3                                    AAOXL00
+          Season 5                                                                        AAOXC00                                    AAOXH00                                   GNCWSN4                                    GNCUSN5
+          Season 6                                                                        AAOXD00                                    AAOXI00                                   GNCWSN5                                    GNCUSN6
+          Calendar year                                                                   GNCVZ00                                    GNCTZ00                                   GNCWZ00                                    GNCUZ00
+          Platts UK NBP Flow-Date Series
+          Day-ahead 11:00 flow-date                                                       GNDAV21                                    GNDAT21                                   GNDBW21                                    GNDAU21
+          Day-ahead 16:30 flow-date                                                       GNCVF21                                    GNCTF21                                   GNCWF21                                    GNCUF21
+          Platts UK NBP Intra-Day Gas Prices - Next Day
+          DA                                                                              GNDAV00                                    GNDAT00                                   GNDAW00                                    GNDAU00
+          DA + 1*                                                                         GNDAV27                                    GNDAT27                                   GNDAW27                                    GNDAU27
+          DA + 2*                                                                         GNDAV28                                    GNDAT28                                   GNDAW28                                    GNDAU28 
+          DA + 3*                                                                         GNDAV29                                    GNDAT29                                   GNDAW29                                    GNDAU29
+          DA + 4*                                                                         GNDAV30                                    GNDAT30                                   GNDAW30                                    GNDAU30
+          © 2025 by S&P Global Inc. All rights reserved.     4
+          Specifications Guide           European Natural Gas: September 2025
+          Platts UK gas market coverage
+                                                                                          p/th                                       Eur/MWh                                   $/MMBtu                                    Eur/Gj
+          Platts UK NBP Intra-Day Gas Prices - EFA Day-Ahead
+          DA                                                                              GNEAV00
+          DA + 1*                                                                         GNEAV27
+          DA + 2*                                                                         GNEAV28
+          DA + 3*                                                                         GNEAV29
+          DA + 4*                                                                         GNEAV30
+          Platts UK NBP Intra-Day Gas Prices - Within-Day 
+          D                                                                               GNWDV00
+          D + 1                                                                           GNWDV27
+          D + 2                                                                           GNWDV28
+          D + 3                                                                           GNWDV29
+          D + 4                                                                           GNWDV30
+          *Day ahead + 1 and Day ahead + 2 assessed ahead of UK bank holidays. DA + 3 and DA + 4 intraday also assessed ahead of UK bank holidays. DA + 1 and DA + 2 intraday assessments, when published on a Friday, reflect Sunday delivery and Monday 
+          delivery respectively.   
+          Platts UK gas market coverage                                                        Day-ahead (11am) = for next-day delivery assessed at 11am. In the 
+                                                                                               Platts UK NBP Assessment table in European Gas Daily and the 
+          Platts assesses prices for firm, physical delivery in the UK at the                  relevant fixed pages, the contract refers to the next working day.
+          National Balancing Point (NBP).
+                                                                                               The UK NBP is assessed in UK pence/therm, with equivalent 
+          In addition to standard contract definitions, UK NBP includes                        prices provided in euro per megawatt hour, euro per gigajoule 
+          the following:                                                                       and US dollars per million British thermal units.
+          EFA Day-ahead = this accounts for the difference between the                         Quality: As defined by UK network operator National Grid. 
+          start of the gas day and the start of the electricity day. The 
+          electricity day starts at 11pm. The EFA day-ahead is calculated 
+          by adding 6/24ths of within-day to 18/24ths of day-ahead.
+          © 2025 by S&P Global Inc. All rights reserved.     5
+          Specifications Guide           European Natural Gas: September 2025
+          Platts Continental European gas market coverage
+                                                                                          Eur/MWh                                    p/th                                      $/MMBtu                                    Eur/Gj
+          Platts Dutch TTF Assessments 
+          Day ahead (trade date)                                                          GTFTX00                                    GTFVX00                                   GTFWD00                                    GTFUX00
+          Day ahead + 1*                                                                  GTFTX27                                    GTFVX27                                   GTFWD27                                    GTFUX27
+          Day ahead + 2*                                                                  GTFTX28                                    GTFVX28                                   GTFWD28                                    GTFUX28
+          Weekend                                                                         GTFTW00                                    GTFVW00                                   GTFWW00                                    GTFUW00
+          Balance of month                                                                GTFAA00                                    GTFAB00                                   GTFAD00                                    GTFAC00
+          Month ahead                                                                     GTFTM01                                    GTFVM01                                   GTFWM10                                    GTFUM01
+          Second month ahead                                                              GTFTM02                                    GTFVM02                                   GTFWM20                                    GTFUM02
+          Third month ahead                                                               GTFTM03                                    GTFVM03                                   GTFWM30                                    GTFUM03
+          Fourth month ahead                                                              GTFTM04                                    GTFVM04                                   GTFWM40                                    GTFUM04
+          Fifth month ahead                                                               GTFTM05                                    GTFVM05                                   GTFWM50                                    GTFUM05
+          Sixth month ahead                                                               GTFTM06                                    GTFVM06                                   GTFWM60                                    GTFUM06
+          Quarter ahead                                                                   GTFTQ01                                    GTFVQ01                                   GTFWQ10                                    GTFUQ01
+          Second quarter ahead                                                            GTFTQ02                                    GTFVQ02                                   GTFWQ20                                    GTFUQ02
+          Third quarter ahead                                                             GTFTQ03                                    GTFVQ03                                   GTFWQ30                                    GTFUQ03
+          Fourth quarter ahead                                                            GTFTQ04                                    GTFVQ04                                   GTFWQ40                                    GTFUQ04
+          Fifth quarter ahead                                                             GTFTQ05                                    GTFVQ05                                   GTFWQ50                                    GTFUQ05
+          Sixth quarter ahead                                                             GTFTQ06                                    GTFVQ06                                   GTFWQ60                                    GTFUQ06
+          Season 1                                                                        GTFTSN1                                    GTFVSN1                                   GTFWSN1                                    GTFUSN1
+          Season 2                                                                        GTFTSN2                                    GTFVSN2                                   GTFWSN2                                    GTFUSN2
+          Season 3                                                                        GTFTSN3                                    GTFVSN3                                   GTFWSN3                                    GTFUSN3
+          Season 4                                                                        GTFTSN4                                    GTFVSN4                                   GTFWSN4                                    GTFUSN4
+          Season 5                                                                        GTFTSN5                                    GTFVSN5                                   GTFWSN5                                    GTFUSN5
+          Season 6                                                                        GTFTSN6                                    GTFVSN6                                   GTFWSN6                                    GTFUSN6
+          Season 7                                                                        GTFTSN7                                    GTFVSN7                                   GTFWSN7                                    GTFUSN7
+          Season 8                                                                        GTFTSN8                                    GTFVSN8                                   GTFWSN8                                    GTFUSN8
+          Gas year                                                                        GTFTY00                                    GTFVY00                                   GTFWX00                                    GTFUY00
+          Calendar year 1                                                                 GTFTZ00                                    GTFVZ00                                   GTFWZ00                                    GTFUZ00
+          Calendar year 2                                                                 GTFTCY2                                    GTFVCY2                                   GTFWCY2                                    GTFUCY2
+          Calendar year 3                                                                 GTFTCY3                                    GTFVCY3                                   GTFWCY3                                    GTFUCY3
+          Calendar year 4                                                                 GTFTCY4                                    GTFVCY4                                   GTFWCY4                                    GTFUCY4
+          Calendar year 5                                                                 GTFTCY5                                    GTFVCY5                                   GTFWCY5                                    GTFUCY5
+          Calendar year 6                                                                 GTFTCY6                                    GTFVCY6                                   GTFWCY6                                    GTFUCY6
+          Platts Dutch TTF Flow-Date Series
+          Day-ahead flow-date                                                             GTFTF21                                    GTFVF21                                   GTFWF21                                    GTFUF21
+          © 2025 by S&P Global Inc. All rights reserved.     6
+          Specifications Guide           European Natural Gas: September 2025
+          Platts Continental European gas market coverage
+                                                                                          Eur/MWh                                    p/th                                      $/MMBtu                                    Eur/Gj
+          Platts Belgian Zeebrugge Trading Point (ZTP) assessments
+          Day ahead (trade date)                                                          ZTPTD00                                    ZTPVD00                                   ZTPWD00                                    ZTPUD00
+          Day ahead + 1*                                                                  ZTPTD27                                    ZTPVD27                                   ZTPWD27                                    ZTPUD27
+          Day ahead + 2*                                                                  ZTPTD28                                    ZTPVD28                                   ZTPWD28                                    ZTPUD28
+          Day ahead + 3*                                                                  ZTPTD29                                    ZTPVD29                                   ZTPWD29                                    ZTPUD29
+          Weekend                                                                         ZTPTW00                                    ZTPVW00                                   ZTPWW00                                    ZTPUW00
+          Month ahead                                                                     ZTPTM00                                    ZTPVM00                                   ZTPWM00                                    ZTPUM00
+          Quarter ahead                                                                   ZTPTQ10                                    ZTPVQ10                                   ZTPWQ10                                    ZTPUQ10
+          Season 1                                                                        ZTPTS10                                    ZTPVS10                                   ZTPWS10                                    ZTPUS10
+          Season 2                                                                        ZTPTS20                                    ZTPVS20                                   ZTPWS20                                    ZTPUS20
+          Calendar year 1                                                                 ZTPTY10                                    ZTPVY10                                   ZTPWY10                                    ZTPUY10
+          Platts Belgian Zeebrugge Trading Point (ZTP) flow-date series
+          Day-ahead flow date                                                             ZTPTD21                                    ZTPVD21                                   ZTPWD21                                    ZTPUD21
+          Platts German THE Assessments
+          Day ahead (trade date)                                                          GTHTD00                                    GTHVD00                                   GTHWD00                                    GTHUD00
+          Day ahead + 1*                                                                  GTHTD27                                    GTHVD27                                   GTHWD27                                    GTHUD27
+          Day ahead + 2*                                                                  GTHTD28                                    GTHVD28                                   GTHWD28                                    GTHUD28
+          Day ahead + 3*                                                                  GTHTD29                                    GTHVD29                                   GTHWD29                                    GTHUD29
+          Weekend                                                                         GTHTW00                                    GTHVW00                                   GTHWW00                                    GTHUW00
+          Month ahead                                                                     GTHTM00                                    GTHVM00                                   GTHWM00                                    GTHUM00
+          Second month ahead                                                              GTHTM10                                    GTHVM10                                   GTHWM10                                    GTHUM10
+          Quarter ahead                                                                   GTHTQ10                                    GTHVQ10                                   GTHWQ10                                    GTHUQ10
+          Second quarter ahead                                                            GTHTQ20                                    GTHVQ20                                   GTHWQ20                                    GTHUQ20
+          Season 1                                                                        GTHTS10                                    GTHVS10                                   GTHWS10                                    GTHUS10
+          Season 2                                                                        GTHTS20                                    GTHVS20                                   GTHWS20                                    GTHUS20
+          Calendar year 1                                                                 GTHTY10                                    GTHVY10                                   GTHWY10                                    GTHUY10
+          Calendar year 2                                                                 GTHTY20                                    GTHVY20                                   GTHWY20                                    GTHUY20
+          Platts German THE Assessments
+          Day ahead flow date                                                             GTHTD21                                    GTHVD21                                   GTHWD21                                    GTHUD21
+          Platts French PEG Assessments
+          Day ahead (trade date)                                                          GPGTD00                                    GPGVD00                                   GPGWD00                                    GPGUD00
+          Day ahead + 1*                                                                  GPGTD27                                    GPGVD27                                   GPGWD27                                    GPGUD27
+          Day ahead + 2*                                                                  GPGTD28                                    GPGVD28                                   GPGWD28                                    GPGUD28
+          Weekend                                                                         GPGTT00                                    GPGVT00                                   GPGWT00                                    GPGUT00
+          Month ahead                                                                     GPGTM00                                    GPGVM00                                   GPGWM00                                    GPGUM00
+          Second month ahead                                                              GPGTM01                                    GPGVM01                                   GPGWM01                                    GPGUM01
+          Third month ahead                                                               GPGTM02                                    GPGVM02                                   GPGWM02                                    GPGUM02
+          Quarter ahead                                                                   GPGTQ00                                    GPGVQ00                                   GPGWQ00                                    GPGUQ00
+          Season 1                                                                        GPGTS00                                    GPGVS00                                   GPGWS00                                    GPGUS00
+          Calendar year 1                                                                 GPGTY00                                    GPGVY00                                   GPGWY00                                    GPGUY00
+          © 2025 by S&P Global Inc. All rights reserved.     7
+          Specifications Guide           European Natural Gas: September 2025
+          Platts Continental European gas market coverage
+                                                                                          Eur/MWh                                    p/th                                      $/MMBtu                                    Eur/Gj
+          Platts French PEG Flow-Date Series
+          Day-ahead flow-date                                                             GPGTF21                                    GPGVF21                                   GPGWF21                                    GPGUF21
+          Platts Italian PSV Assessments
+          Day ahead (trade date)                                                          GPVTD00                                    GPVVD00                                   GPVWD00                                    GPVUD00
+          Day ahead + 1*                                                                  GPVTD27                                    GPVVD27                                   GPVWD27                                    GPVUD27
+          Day ahead + 2*                                                                  GPVTD28                                    GPVVD28                                   GPVWD28                                    GPVUD28
+          Weekend                                                                         GPVTT00                                    GPVVT00                                   GPVWT00                                    GPVUT00
+          Month ahead                                                                     GPVTM00                                    GPVVM00                                   GPVWM00                                    GPVUM00
+          Quarter ahead                                                                   GPVTQ01                                    GPVVQ01                                   GPVWQ01                                    GPVUQ01
+          Season ahead                                                                    GPVTSN1                                    GPVVSN1                                   GPVWSN1                                    GPVUSN1
+          Calendar year                                                                   GPVTY00                                    GPVVY00                                   GPVWY00                                    GPVUY00
+          Platts Italian PSV Flow-Date Series
+          Day-ahead flow-date                                                             GPVTF21                                    GPVVF21                                   GPVWF21                                    GPVUF21
+          Platts Austrian VTP Assessments
+          Day ahead                                                                       GABTD00                                    GABVD00                                   GABWD00                                    GABUD00
+          Day ahead + 1*                                                                  GABTD27                                    GABVD27                                   GABWD27                                    GABUD27
+          Day ahead + 2*                                                                  GABTD28                                    GABVD28                                   GABWD28                                    GABUD28
+          Weekend                                                                         GABTT00                                    GABVT00                                   GABWT00                                    GABUT00
+          Month ahead                                                                     GABTM00                                    GABVM00                                   GABWM00                                    GABUM00
+          Platts Austrian VTP Flow-Date Series
+          Day-ahead flow-date                                                             GABTF21                                    GABVF21                                   GABWF21                                    GABUF21
+          Platts Spanish PVB Assessments
+          Day ahead                                                                       GAPGA00                                    GAPGB00                                   GAPGC00                                    GAPGD00
+          Day ahead + 1*                                                                  GAPHA00                                    GAPHB00                                   GAPHC00                                    GAPHD00
+          Day ahead + 2*                                                                  GAPIA00                                    GAPIB00                                   GAPIC00                                    GAPID00
+          Weekend                                                                         GAPWA00                                    GAPWB00                                   GAPWC00                                    GAPWD00
+          Month ahead                                                                     GAOCA00                                    GAOCD00                                   GAOCC00                                    GAOCB00
+          Second month ahead                                                              GAPCE00                                    GAPCF00                                   GAPCG00                                    GAPCH00   
+          Quarter ahead                                                                   GAPAC00                                    GAPAB00                                   GAPAA00                                    GAPAD00 
+          Second quarter ahead                                                            GAPBC00                                    GAPBB00                                   GAPBA00                                    GAPBD00 
+          Season ahead                                                                    GAPCI00                                    GAPCJ00                                   GAPCK00                                    GAPCL00  
+          Calendar year                                                                   GAPCC00                                    GAPCB00                                   GAPCA00                                    GAPCD00
+          Calendar year 1                                                                 GAPCM00                                    GAPCN00                                   GAPCO00                                    GAPCP00  
+          Platts Spanish PVB Flow-Date Series
+          Day-ahead flow-date                                                             GAPGA21                                    GAPGB21                                   GAPGC21                                    GAPGD21
+          Platts Spanish PVB/LNG Differentials
+          Platts MED minus Spanish PVB gas
+          Month ahead differential                                                        PVBTM01                                    PVBVM01                                   PVBWM01                                    PVBUM01
+          © 2025 by S&P Global Inc. All rights reserved.     8
+          Specifications Guide           European Natural Gas: September 2025
+          Platts Continental European gas market coverage
+                                                                                          Eur/MWh                                    p/th                                      $/MMBtu                                    Eur/Gj
+          Platts Hungarian MGP Assessments
+          Day ahead                                                                       GCAWT00                                    GCFWT00                                   GCGWT00                                    GCHWT00
+          Day ahead + 1*                                                                  GCBWT00                                    GCIWT00                                   GCJWT00                                    GCKWT00
+          Day ahead + 2*                                                                  GCCWT00                                    GCLWT00                                   GCMWT00                                    GCNWT00
+          Weekend                                                                         GCDWT00                                    GCOWT00                                   GCPWT00                                    GCQWT00
+          Month ahead                                                                     GCEWT00                                    GCRWT00                                   GCSWT00                                    GCTWT00
+          Platts Czech Republic VTP Assessments
+          Day ahead                                                                       GCZDT00                                    GCZDV00                                   GCZDW00                                    GCZDU00
+          Day ahead + 1*                                                                  GCZDT27                                    GCZDV27                                   GCZDW27                                    GCZDU27
+          Day ahead + 2*                                                                  GCZDT28                                    GCZDV28                                   GCZDW28                                    GCZDU28
+          Weekend                                                                         GCZWT00                                    GCZWV00                                   GCZWW00                                    GCZWU00
+          Month ahead                                                                     GCZMT00                                    GCZMV00                                   GCZMW00                                    GCZMU00
+          Platts Czech Republic VTP Flow-Date Series
+          Day-ahead flow-date                                                             GCZDT21                                    GCZDV21                                   GCZDW21                                    GCZDU21
+          Platts Slovakian VTP Assessments
+          Day ahead                                                                       GSKDT00                                    GSKDV00                                   GSKDW00                                    GSKDU00
+          Day ahead + 1*                                                                  GSKDT27                                    GSKDV27                                   GSKDW27                                    GSKDU27
+          Day ahead + 2*                                                                  GSKDT28                                    GSKDV28                                   GSKDW28                                    GSKDU28
+          Weekend                                                                         GSKWT00                                    GSKWV00                                   GSKWW00                                    GSKWU00
+          Month ahead                                                                     GSKMT00                                    GSKMV00                                   GSKMW00                                    GSKMU00
+          Platts Slovakian VTP Flow-Date Series
+          Day-ahead flow-date                                                             GSKDT21                                    GSKDV21                                   GSKDW21                                    GSKDU21
+          *Day ahead + 1 and Day ahead + 2 assessed ahead of UK bank holidays.
+          Platts Continental European gas coverage                                             Specifications                                                                        Quality: Prices are for high cal gas. Other specs are as defined 
+          Platts assesses the following continental European hubs: Dutch                       Dutch Title Transfer Facility (TTF)                                                   by the Belgian network operator.
+          TTF, Belgian Zeebrugge Trading Point (ZTP) virtual trading hub,                      Delivery: Prices are for firm, physical delivery at the Dutch Title                   German Trading Hub Europe (THE)
+          German THE, French PEG; Italian PSV; Austrian VTP; Spanish                           Transfer Facility.
+          PVB; Czech VTP; Hungarian MGP; and Slovakian VTP.                                                                                                                          Delivery: Prices are for firm, physical delivery at the Trading Hub 
+                                                                                               Quality: Prices are for high cal gas. Other specs are as defined                      Europe trading point. 
+          All continental European hubs are assessed in euro per                               by Dutch network operator Gasunie.
+          megawatt hour with equivalent values given in pence/therm,                           Belgian Zeebrugge Trading Point (ZTP) virtual trading hub                             Quality: Prices are for high cal gas. Other specs are as defined 
+          euro per gigajoule and US dollars per million British thermal                                                                                                              by the German network operator.
+          units.                                                                               Delivery: Prices are for firm, physical delivery at the Belgian 
+                                                                                               Zeebrugge Trading Point (ZTP). 
+          © 2025 by S&P Global Inc. All rights reserved.     9
+          Specifications Guide           European Natural Gas: September 2025
+          French Point d’Exchange de Gaz (PEG)                                                 Spanish Punto Virtual de Balance (PVB)                                                Hungarian Virtual Trading Hub (MGP)
+          Delivery: Prices are for firm, physical delivery at the Point                        Delivery: Prices are for firm, physical delivery at the Punto                         Delivery: Prices are for firm, physical delivery at the Virtual 
+          d’Exchange de Gaz.                                                                   Virtual de Balance.                                                                   Trading Hub.
+          Quality: Prices are for high cal gas. Other specs are as defined                     Quality: Prices are for high cal gas. Other specs are as defined                      Quality: Prices are for high cal gas. Other specs are as defined 
+          by the French network operator.                                                      by the Spanish network operator.                                                      by the Hungarian network operator.
+          Italian Punto di Scambio Virtuale (PSV)                                              Czech Virtual Trading Point (VTP)                                                     PVB/LNG Differential
+          Delivery: Prices are for firm, physical delivery at the Punto di                     Delivery: Prices are for firm, physical delivery at the Virtual                       The Spanish PVB/LNG month-ahead price differential is 
+          Scambio Virtuale.                                                                    Trading Point.                                                                        calculated from the Platts MED converted to Eur/MWh minus 
+                                                                                                                                                                                     Platts assessment of Spanish PVB gas in Eur/MWh. The 
+          Quality: Prices are for high cal gas. Other specs are as defined                     Quality: Prices are for high cal gas. Other specs are as defined                      differential is converted to $/MMBtu, p/th and Eur/Gj.
+          by the Italian network operator.                                                     by the Czech network operator.
+          Austrian Virtual Trading Point (VTP)                                                 Slovakian Virtual Trading Point (VTP)                                                 Further information on the MED is available in the Platts 
+                                                                                                                                                                                     Liquefied Natural Gas Assessments and Netbacks methodology 
+          Delivery: Prices are for firm, physical delivery at the Central                      Delivery: Prices are for firm, physical delivery at the Virtual                       and specifications guide at https://www.spglobal.com/
+          European Gas Hub (CEGH)’s Virtual Trading Point. This includes                       Trading Point.                                                                        commodity-insights/en/pricing-benchmarks/our-methodology/
+          Baumgarten, Austria.                                                                                                                                                       methodology-specifications/lng.
+                                                                                               Quality: Prices are for high cal gas. Other specs are as defined 
+          Quality: Prices are for high cal gas. Other specs are as defined                     by the Slovakian network operator.
+          by the Austrian network operator.
+          © 2025 by S&P Global Inc. All rights reserved.     10
+          Specifications Guide           European Natural Gas: September 2025
+          NW Europe oil-indexed gas contract price indicator (GCI)
+                                                                                          Eur/MWh                                                  p/th                                                     $/MMBtu
+          Platts NWE Oil-Indexed Gas Indicator
+          Current month                                                                   PNWTM00                                                  PNWVM00                                                  PNWWM00
+          Month ahead                                                                     PNWTM20                                                  PNWVM20                                                  PNWWM20
+          Second month ahead                                                              PNWTM30                                                  PNWVM30                                                  PNWWM30
+          Platts NBP,  TTF vs NWE Oil-Indexed Gas Indicator
+          NBP day ahead - current month                                                   GNCTDI0                                                  GNCVDI0                                                  GNCWDI0
+          NBP day ahead - month ahead                                                     GNCTMI0                                                  GNCVMI0                                                  GNCWMI0
+          NBP day ahead - second month ahead                                              GNCTM20                                                  GNCVM20                                                  GNCWM20
+          TTF day ahead - current month                                                   GTFTDI0                                                  GTFVDI0                                                  GTFWDI0
+          TTF day ahead - month ahead                                                     GTFTMI0                                                  GTFVMI0                                                  GTFWMI0
+          TTF day ahead - second month ahead                                              GTFTM20                                                  GTFVM20                                                  GTFWM20
+          NW Europe oil-indexed gas contract price indicator (GCI)                             The monthly indicator price is calculated according to a model                        does not include any additional discount factors to account for 
+                                                                                               long-term oil-indexed gas sales contract. Platts takes average                        possible contract renegotiations. Contracts used by industry 
+          The Platts NW Europe oil-indexed gas contract price indicator                        low sulfur fuel oil and 0.1% gasoil prices for northwest Europe                       normally have a six- to nine-month time lag. The Platts current 
+          (GCI) is a gas price indicator showing the out-turn price of a                       and converts these into a Euro per MWh price based on the                             month indicator is based on average prices for periods three 
+          model oil-linked long-term NW Europe gas sales contract. This                        average US dollar/Euro exchange rate over a six-month period                          to eight months ago. The forward month indicator is based 
+          is calculated monthly for the current month, month ahead and                         and giving a 45% weighting to gasoil and a 55% weighting to                           on average prices for periods two to seven months ago. The 
+          second month ahead. Platts publishes daily the differentials                         fuel oil. After combining the gasoil and fuel oil prices, a fixed                     forward month +1 indicator is based on average prices for 
+          between this monthly number and its existing gas price                               discount factor of 30% is applied in producing the gas price                          periods one to six months ago.
+          assessments for the day-ahead, month-ahead and second                                indicator to reflect the fact that sales contracts usually price 
+          month ahead contracts at the UK NBP and Dutch TTF.                                   gas below the straight oil-equivalent price.                                          For example, on October 1 the current month price would reflect 
+                                                                                                                                                                                     average prices three to eight months ago, i.e. gasoil and fuel oil 
+          The monthly indicator price is calculated in Euro per MWh.                           Different companies may use different contract formulae and                           prices during February to July. The month-ahead price would 
+          Platts also publishes converted values in pence/therm and                            the indicator price is only a model of one potential contract                         reflect two to seven months ago, i.e. March to August. The 
+          $/MMBtu using the exchange rate on the day the monthly                               arrangement that could be used in the industry. The model                             month-ahead + 1 price would reflect one to six months ago, i.e. 
+          indicator is calculated.                                                             is based on the traditional contracts in use in past years, but                       April to September.
+          © 2025 by S&P Global Inc. All rights reserved.     11
+          Specifications Guide           European Natural Gas: September 2025
+          Spark Spreads, CSPI, Cross-fuel comparisons
+          Platts publishes spark spreads, coal switching price indicator 
+          and cross-fuel comparisons. Please refer to the European 
+          electricity specifications guide for details:
+          https://www.spglobal.com/commodity-insights/en/pricing-
+          benchmarks/our-methodology/methodology-specifications/
+          electric-power
+          © 2025 by S&P Global Inc. All rights reserved.     12
+          Specifications Guide           European Natural Gas: September 2025
+          Platts Spanish TVB Assessments 
+                                                                           Eur/MWh                                        p/th                                          $/MMBtu                                        Eur/Gj
+          Day ahead                                                        TVBTD00                                        TVBVD00                                       TVBWD00                                        TVBUD00
+          Day ahead + 1*                                                   TVBTD01                                        TVBVD01                                       TVBWD01                                        TVBUD01
+          Day ahead + 2*                                                   TVBTD02                                        TVBVD02                                       TVBWD02                                        TVBUD02
+          Weekend                                                          TVBTW00                                        TVBVW00                                       TVBWW00                                        TVBUW00
+          1st half-month ahead                                             TVBTH00                                        TVBVH00                                       TVBWH00                                        TVBUH00
+          2nd half-month ahead                                             TVBTH01                                        TVBVH01                                       TVBWH01                                        TVBUH01
+          3nd half-month ahead                                             TVBTH02                                        TVBVH02                                       TVBWH02                                        TVBUH02
+          4th half-month ahead                                             TVBTH03                                        TVBVH03                                       TVBWH03                                        TVBUH03
+          Month ahead (Full month)                                         TVBTM00                                        TVBVM00                                       TVBWM00                                        TVBUM00
+          Spanish TVB/Dutch TTF month ahead differential                   TVBTDT0                                        TVBVDT0                                       TVBWDT0                                        TVBUDT0
+          Spanish TVB/Spanish PVB month ahead differential                 TVBTDP0                                        TVBVDP0                                       TVBWDP0                                        TVBUDP0
+          *Day ahead + 1, Day ahead + 2 assessed ahead of UK bank holidays. 
+          LNG in tank assessments                                                              For example, on July 11, the second half-month would be H2                            Quality: Of a merchantable specification suitable for entry into 
+          Platts Tanque Virtual De Balance (TVB) assessments                                   July, the third half-month would be H1 August, the fourth half-                       the EU gas system.
+                                                                                               month would be H2 August, the fifth half-month would be H1 
+          Platts publishes daily assessments for Spain’s virtual balancing                     September. On July 16, the second half-month would be H1                              Basis and Location: Title transfer in the following six 
+          tank, Tanque Virtual de Balance, representing LNG stored in                          August, the third half-month would be H2 August, the fourth                           regasification facilities basis Spain’s Virtual Balancing tank hub 
+          Spanish regasification plants.                                                       half-month would be H1 September, and the fifth half-month                            (TVB): Mugardos, Bilbao, Barcelona, Sagunto, Cartagena, and 
+                                                                                               would be H2 September.                                                                Huelva.
+          Platts’ assessments reflect market value at the end of the                           Spanish TVB month-ahead
+          normal trading cycle. For Spanish TVB assessments, we define                                                                                                               Standard volumes: The standard volumes for Day-ahead and 
+          this as 16:30 London time.                                                           Platts publishes a month-ahead value for TVB, which is the                            Weekend assessments is 100 MWh. Half-month assessments 
+                                                                                               average of the half months constituting the calendar month-                           have standard volumes of 50,000 MWh. 
+          Timing:                                                                              ahead. For example, on July 11, the TVB month-ahead (August)                          Platts may consider bids, offers and trades outside of 
+                                                                                               would be the average of the third and fourth half months,                             the standard terms above for publication and review for 
+            Day-ahead: delivered the next working day after assessment                        H1 August and H2 August. On July 16, the TVB month-ahead                              normalization.
+                                                                                               (August) would be the average of the second and third half 
+            Weekend: delivered Saturday, Sunday                                               months, also H1 August and H2 August.                                                 TVB assessment ranges
+            Four half-months ahead: Delivered on the second, third,                           Spanish TVB/Dutch TTF month ahead and                                                 Platts publishes fixed price assessments for Spanish TVB 
+             fourth and fifth half-month from the date of publication.                         Spanish TVB/Spanish PVB month ahead differentials                                     assessments, with a low-high range around its midpoint 
+             These instruments roll on the 16th of every calendar month,                       Platts publishes the differentials between the Spanish TVB                            assessments is published. These ranges are standardized as 
+             unless that day is not a business day, in which case the price                    month-ahead and the Platts assessed Dutch TTF and Spanish                             follows:
+             assessments roll on the following business day.                                   PVB month-ahead contracts. 
+          © 2025 by S&P Global Inc. All rights reserved.     13
+          Specifications Guide           European Natural Gas: September 2025
+          Primary assessments in Eur/MWh: plus/minus 10-euro cent.                             When Platts assessments are published                                                 price is for delivery on Monday. On the last working day before 
+                                                                                                                                                                                     a UK public holiday, additional day-ahead prices are assessed.
+          Assessment increments in Eur/MWh: plus/minus 0.5 euro cent.                          TVB assessments are published by Platts on all UK working days. 
+                                                                                                                                                                                     Platts publishes weekend TVB assessments on Friday or on the 
+                                                                                               Platts provides a continuous daily series, including coverage                         last working day of the week in the event of a Friday UK public 
+                                                                                               of weekends and UK bank holidays. On Fridays, the day-ahead                           holiday.
+          © 2025 by S&P Global Inc. All rights reserved.     14
+          Specifications Guide           European Natural Gas: September 2025
+          Revision history                                                                     and Dutch TTF assessments, effective from December 1, 2022.                           June 2019: Platts completed an annual update to sections 1 
+                                                                                               Additionally, Platts launched Season ahead 7-8 and Calendar                           to 6 of Platts Methodology and Specifications Guides in April 
+          September 2025: Platts completed an Annual review of this                            Year 4-6 on the Dutch TTF on December 1, 2022. Minor edits                            2019, and moved these sections into a standalone Methodology 
+          methodology guide and made minor edits to the language for                           to reflect greater clarity and the discontinuation of NCG and                         Guide. Platts launched day-ahead, weekend and month-ahead 
+          greater clarity.                                                                     GASPOOL in Germany.                                                                   natural gas assessments for both the Czech Republic and 
+                                                                                                                                                                                     Slovakia on June 17.
+          July 2025: Platts adds section for Spanish TVB assessments.                          August 2022: Platts completed an Annual Review of this 
+          Updates information on European natural gas high and low                             methodology guide in August 2022 and made minor edits to the                          October 2018: Platts renamed the French PEG Nord day-
+          ranges. Corrects Eur/MWh symbol for Belgian ZTP Calendar Year                        language for greater clarity.                                                         ahead and weekend assessments to French PEG assessments 
+          assessment. Updates December 2023, November 2023, October                                                                                                                  and discontinued the French TRS day-ahead and weekend 
+          2024 revision history to reflect removal of Zeebrugge Beach                          December 2021: Platts launched day-ahead, weekend and                                 assessments on October 31.
+          (ZEE) assessment and updated assessment ranges.                                      month-ahead natural gas assessments for Belgian Zeebrugge 
+                                                                                               Trading Point (ZTP) virtual trading hub on September 30,                              October 2018: Platts launched Spanish PVB day-ahead and 
+          October 2024: Platts completed an Annual Review of this                              2021. Platts introduced the German THE hub month-ahead                                weekend assessments as well as the corresponding day-ahead 
+          guide. Adds Hungarian price assessments. Adds additional PEG                         assessments and discontinued NCG & GASPOOL month-ahead                                spark spread and clean spark spreads with both 45% and 50% 
+          assessments. Removes Zeebrugge Beach information from the                            assessments, following the merger of the NetConnect Germany                           efficiency. Platts renamed the French PEG Nord month-ahead 
+          assessment increments and standard volumes section.                                  and GASPOOL hubs. Platts consolidated the description                                 assessment to French PEG assessment and discontinued the 
+                                                                                               of spark spreads, CSPI and cross-fuel comparisons in the                              French TRS month-ahead assessment. Platts discontinued 
+          December 2023: Platts updates information on high and low                            electricity specifications guide.                                                     several gas assessments on the UK NBP, the Dutch TTF, the 
+          ranges to 5 euro cent above and below primary assessments                                                                                                                  Belgian Zeebrugge Beach, the German NCG and the German 
+          for Continental European hubs and to 0.1 p/th for the UK’s                           August 2021: Platts completed an annual update to the                                 GASPOOL hubs. Platts also discontinued the UK month-ahead+2 
+          NBP. Removes information on Belgium’s Zeebrugge Beach                                European natural gas methodology and specifications guide                             spark spreads, clean spark spreads and clean spark spreads 
+          (ZEE) from standard volumes, assessment ranges, and Platts                           to ensure greater consistency of layout and structure across                          (CPS).
+          Continental European gas coverage sections.                                          Platts’ published methodology guides. Platts also reviewed all 
+                                                                                               content during this update.                                                           July 2018: Platts launched Italian PSV Year-ahead assessments 
+          November 2023: Platts discontinues Belgian Zeebrugge beach                                                                                                                 as well as the corresponding spark spread and clean spark 
+          natural gas assessments, basis differentials. Platts launches                        September 2020: Platts completed an annual update to the                              spreads with both 45% and 50% efficiency, Platts launched 
+          additional ZTP, THE natural gas assessments. Platts changes                          European natural gas methodology and specifications guide                             Spanish PVB Month-Ahead +1, Season-ahead and Year-ahead+1 
+          the assessment increment range to plus/minus 0.50 euro cent                          to ensure greater consistency of layout and structure across                          assessments as well as the corresponding spark spread and 
+          from plus/minus 5 euro cent for Dutch Title Transfer Facility                        Platts’ published methodology guides. Platts also reviewed all                        clean spark spreads with both 45% and 50% efficiency.
+          (TTF) and plus/minus 10 euro cent for all other hubs.                                content during this update. PVB/LNG Differential: changed EAM 
+                                                                                               to MED due to LNG methodology change. CPS confirmed rates:                            May 2018: Platts updated the Spark Spread section of this 
+          August 2023: Platts completed an Annual review of this                               added in April 1, 2020 – March 31, 2021.                                              guide to change the source of the power component in 
+          methodology guide in August 2023 and made minor edits to                                                                                                                   the calculations from Platts assessments to third-party 
+          the language for greater clarity. Platts changed/clarified the UK                    September 2019: Platts completed an annual update to the                              exchange.
+          bank holiday cutoff time as 12:30 pm.                                                European natural gas methodology and specifications guide 
+                                                                                               to ensure greater consistency of layout and structure across                          May 2018: Platts updated its European natural gas 
+          February 2023: Platts launched Month ahead 3-6, Quarter                              Platts’ published methodology guides. Platts also reviewed all                        methodology and specifications guide in May 2018 as part of 
+          ahead 3-6, and Season ahead 5-6 extension to British NBP                             content during this update.                                                           the annual review. This update included the introduction of 
+          © 2025 by S&P Global Inc. All rights reserved.     15
+          Specifications Guide           European Natural Gas: September 2025
+          new dialogue in parts 1-6 to enhance the clarity and usefulness                      October 2016: Platts renamed its Spanish gas assessments PVB                          October 2015: Platts discontinued cross-fuel comparisons data 
+          of all guides, and to introduce greater consistency of layout                        (formerly Almacenamiento Operativo Comercial; AOC).                                   containing Gasoil 0.1% sulfur content and Fuel Oil 3.5% sulfur 
+          and structure across all published methodology guides.                                                                                                                     content on European Power Alert. The equivalent data had been 
+          Methodologies for market coverage were not changed through                           October 2016: Platts discontinued several Zeebrugge Beach                             discontinued in the table published in European Gas Daily in 
+          this revamp, unless specifically noted in the methodology                            assessments (working-days-next-week, balance-of-month,                                March 2015. 
+          guide itself.                                                                        month-ahead +3, quarter-ahead +3).
+                                                                                                                                                                                     October 2015: Platts began publishing cross-fuel comparisons 
+          October 2017: Platts launched Spanish PVB Quarter-ahead,                             September 2016: Platts updated the former Currency                                    in European Gas Daily in $/MMBtu. At the same time, Platts 
+          Quarter-Ahead +1 and Year-ahead assessments as well as the                           conversions section of this guide. The source and timestamp                           discontinued publishing the equivalent data in Eur/Gj in European 
+          corresponding spark spread and clean spark spreads with both                         for the foreign exchange data used to convert Platts European                         Gas Daily. Cross-fuel comparisons data in Eur/Gj remains 
+          45% and 50% efficiency,                                                              natural gas assessments to foreign currency equivalents was                           available on European Power Alert and in Platts Market Data.
+                                                                                               revised from Tullett Prebon at 16:00 London time to Platts 16:30 
+          July 2017: Platts revises balance of month assessment                                London time assessment. Platts also removed references to                             August 2015: Platts changed the day-ahead average published 
+          methodology to bring into line with industry standards. The last                     the previous calculations for exchange rates. Prior to June 2014,                     in European Gas Daily: Monthly Averages to flow-date average 
+          assessment day for TTF and NBP balance of month contracts                            exchange rates were published with a working-day time lag, with                       from trade-date average.
+          changed to two UK business days before the end of the month.                         the previous day’s exchange rate close used in calculations.
+                                                                                                                                                                                     July 2015: Platts began publishing a single midpoint value for 
+          May 2017: Platts updated the Coal Switching Price Indicator                          August 2016: Platts updated this guide to remove references                           each of its European natural gas assessments and standardized 
+          section of this methodology guide to change the source of                            to Turkish spark spreads. Platts discontinued assessments of                          low-high ranges.
+          European emissions prices from Platts assessments to third-                          the Turkish power market effective August 1, 2016, with Turkish 
+          party exchange.                                                                      dark and spark spreads also discontinued. Price history remains                       March 2015: Platts renamed its day-ahead and weekend 
+                                                                                               available in Market Data category EM.                                                 assessments for southern French gas as PEG Sud/TRS on 
+          May 2017: Platts revamped its European natural gas methodology                                                                                                             March 31, 2015. 
+          and specifications guide in May 2017. This revamp was completed                      July 2016: Platts began publishing Zeebrugge Beach weekend 
+          to enhance the clarity and usefulness of all guides, and to                          assessments on a Friday or on the last working day of the week                        March 2015: Platts renamed its month-ahead assessments for 
+          introduce greater consistency of layout and structure across                         in the event of a Friday UK public holiday. Before July 1, 2016,                      southern French gas as PEG Sud/TRS on March 2, 2015.
+          all published methodology guides. Methodologies for market                           Platts published weekend assessments for Zeebrugge on all UK 
+          coverage were not changed through this revamp, unless                                working days.                                                                         March 2015: Platts began publishing cross-fuel comparisons 
+          specifically noted in the methodology guide itself.                                                                                                                        data in European Gas Daily in Eur/MWh from March 2, 2015. The 
+                                                                                               October 2015: The UK gas day start changed to 5am on October                          table was also updated on the same day to incorporate Dutch 
+          April 2017: Platts discontinued its Dutch TTF Working week +1                        1, 2015. Due to the change, the gas day was only 23 hours long                        TTF gas and German baseload electricity prices, providing 
+          assessment                                                                           (6am-5am) on September 30, 2015. On this day, the EFA day-                            cross-fuel comparisons data for the Continental European 
+                                                                                               ahead was calculated by adding 7/23rds of within-day to 16/23rds                      markets in addition to the UK.
+          March 2017: Platts launched a Dutch TTF Balance of month                             of day-ahead. Up until September 30, 2015, the gas day start was 
+          assessment                                                                           6am. Until September 29, 2015, the EFA day-ahead was calculated                       December 2014: Platts updated the plant efficiencies used in its 
+                                                                                               by adding 7/24ths of within-day to 17/24ths of day-ahead.                             cross-fuel comparisons calculations. Previous plant efficiencies 
+          February 2017: Platts removed references to duplicate UK NBP                                                                                                               were: Gas 55%, Fuel Oil: 32%, Gasoil: 32%, Coal: 34%.
+          index symbols discontinued on February 3,2017.                                       October 2015: Platts launched month-ahead assessments of 
+                                                                                               the Spanish gas market.
+          © 2025 by S&P Global Inc. All rights reserved.     16
+          Specifications Guide           European Natural Gas: September 2025
+          January 2014: Platts began publishing UK NBP day-ahead intra-                        December 2012: Platts Austrian month-ahead gas assessments 
+          day assessments.                                                                     began reflecting the Austrian VTP.
+          January 2013: Platts Austrian day-ahead gas assessments                              November 2009: Timestamp for UK day ahead contracts 
+          began reflecting the Austrian VTP, due to the inclusion from 2013                    changed from 12:00 noon London time to 16:30 London time . 
+          of the Baumgarten hub within the VTP trading point.                                  Timestamps for Continental forward contracts changed from 
+                                                                                               17:00 London time to 16:30 London time.
+          © 2025 by S&P Global Inc. All rights reserved.     17

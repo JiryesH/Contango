@@ -1,0 +1,123 @@
+    Specifications Guide
+    Cement 
+    Latest update: October 2025
+    Definitions of the trading locations for which Platts 
+    publishes assessments ............................................. 2
+    Cement and Clinker .................................................... 3
+    Freight ..................................................................... 5
+    Other Minerals ........................................................... 6
+    Revision history ....................................................... 7
+    www.spglobal.com/commodityinsights
+          Specifications Guide               Cement: October 2025
+          Definitions of the trading locations for which Platts publishes assessments
+          All the assessments listed here employ S&P Global Commodity Insights’ Platts Assessments Methodology, as published at https://www.spglobal.com/commodityinsights/plattscontent/_assets/_files/
+          en/our-methodology/methodology-specifications/platts-assessments-methodology-guide.pdf .
+          These guides are designed to give Platts subscribers as much information as possible about a wide range of methodology and specification questions.
+          This guide is current at the time of publication. Platts may issue further updates and enhancements to this guide and will announce these to subscribers through its usual publications of record.  
+          Such updates will be included in the next version of this guide. Platts editorial staff and managers are available to provide guidance when assessment issues require clarification.
+          The assessments listed in this guide reflect the prevailing market value of the specified product at the following times weekly:
+          EMEA – 16:30 London time, every Thursday, for all EMEA assessments
+          ASIA – 16:30 Penang time, every Thursday, for all ASIA assessments
+          Americas – 16:30 Sao Paulo time, every Thursday, for all Americas assessments
+          © 2025 by S&P Global Inc. All rights reserved.         2
+          Specifications Guide               Cement: October 2025
+          Cement and Clinker
+          Assessment                                                     UOM                        Code                       Mavg                       Incoterm                  Location                   Timing                                    Typical size
+          Ordinary Portland Cement (CEM I 42.5R) (bulk)
+          Platts CEMDEX Turkey                                           $/mt                       ACEMF00                    ACEMF03                    FOB                       Turkey                     7-30 days forward                           40,000 mt
+          Cement Clinker (OPC grey clinker)
+          FOB Turkey                                                     $/mt                       ACEMA00                    ACEMA03                    FOB                       Turkey                     7-30 days forward                           40,000 mt
+          Cement (ASTM type I) (bulk)
+          FOB Vietnam                                                    $/mt                       CEOVW04                    CEOVW03                    FOB                       Vietnam                    15-30 days forward              20,000 mt - 30,000 mt
+          Cement clinker (OPC grey clinker)
+          FOB Vietnam                                                    $/mt                       CLOVW04                    CLOVW03                    FOB                       Vietnam                    15-30 days forward              45,000 mt - 55,000 mt
+          Cement (ASTM Type I / II Low Alkali) (bulk)
+          Cement CIF Houston                                             $/mt                       ACZMA00                    ACZMA03                    CIF                       Houston                    Delivery 45-80 days                         40,000 mt
+                                                                                                                                                                                                               forward
+          Cement and Clinker                                                                   Clinker FOB Turkey                                                                    Basis and location: FOB Cam Pha, Vietnam 
+                                                                                               Quality: Grey clinker for Ordinary Portland Cement as per EN 197 
+          EMEA                                                                                 standards                                                                             Loading: 15-30 days forward 
+          Platts CEMDEX Turkey                                                                 Quantity: 40,000 mt; bulk clinker                                                     Timing: Weekly; Thursday 16:30 as per Penang publishing 
+          Quality: CEM 1 42.5 R Ordinary Portland Cement as per EN 197                                                                                                               calendar 
+          standards with clinker content of more than 95%.                                     Basis and location: FOB Sea of Marmara, Turkey 
+                                                                                                                                                                                     Unit of assessment: US dollars per mt 
+          Quantity: 40,000 mt; bulk cement                                                     Loading: 7-30 days forward                                                            Clinker FOB Vietnam
+          Basis and location: FOB Sea of Marmara, Turkey                                       Timing: Weekly; Thursday 16:30 as per London publishing                               Quality: OPC Grey Clinker
+                                                                                               calendar 
+          Loading: 7-30 days forward                                                                                                                                                 Quantity: 45,000 mt - 55,000 mt; bulk cement 
+                                                                                               Unit of assessment: US dollars per mt
+          Timing: Weekly; Thursday 16:30 as per London publishing                                                                                                                    Basis and location: FOB Cam Pha, Vietnam 
+          calendar                                                                             Asia
+                                                                                               Cement FOB Vietnam                                                                    Loading: 15-30 days forward 
+          Unit of assessment: US dollars per mt 
+                                                                                               Quality: ASTM Type I                                                                  Timing: Weekly; Thursday 16:30 as per Penang publishing 
+          Notes: Other cement specifications and grades will be                                                                                                                      calendar 
+          considered and normalized according to CEM 1 42.5 R cement                           Quantity: 20,000 mt - 30,000 mt; bulk cement 
+          specs.                                                                                                                                                                     Unit of assessment: US dollars per mt 
+          © 2025 by S&P Global Inc. All rights reserved.         3
+          Specifications Guide               Cement: October 2025
+          Americas
+          Cement CIF Houston
+          Quality: ASTM Type I / II Low Alkali
+          Quantity: 40,000 mt, Bulk Cement
+          Basis and location: CIF Houston, Texas 
+          Delivery: 45-80 days forward
+          Timing: Weekly; Thursday 16:30 Sao Paulo time, following the 
+          Sao Paulo publishing calendar
+          Unit of assessment: US dollars per mt 
+          © 2025 by S&P Global Inc. All rights reserved.         4
+          Specifications Guide               Cement: October 2025
+          Cement & Clinker Freight
+          Assessment                                                     Code                       Mavg                      Cargo Size            Laycans (days forward)                      Currency             UOM                  Load/Discharge Rates
+          Cement Med-Houston (40 kt)                                     ACEMB00                    ACEMB03                         40kt            7-30  days forward                          US dollars           mt                   5-10,000 mtpd
+          Clinker Med-S Europe (40 kt)                                   ACEMD00                    ACEMD03                         40kt            7-30  days forward                          US dollars           mt                   5-10,000 mtpd
+          Freight                                                                              Clinker Freight Mediterranean – S. Europe 40kt                                        Loading: 7-30 days forward 
+          Cement Freight Mediterranean – Houston 40kt                                          Quantity: 40,000 mt Handymax vessel 
+                                                                                                                                                                                     Timing: Weekly; Thursday 16:30 as per London publishing 
+          Quantity: 40,000 mt Handymax vessel                                                  Basis and location: FOB Sea of Marmara, Turkey. Ports in the                          calendar 
+                                                                                               Mediterranean region will be considered and normalized, if 
+          Basis and location: FOB Sea of Marmara, Turkey. Ports in the                         necessary, for assessment purposes.                                                   Payment terms: Cash/bank transfer  
+          Mediterranean region will be considered and normalized, if 
+          necessary, for assessment purposes.                                                  Discharge port: Porto Marghera, Italy. Other ports in Southern                        Unit of assessment: US dollars per mt
+                                                                                               Europe including, but not limited to, Valencia, Spain and 
+          Discharge port: Houston. Other nearby ports may be considered                        Castellón, Spain may be considered and normalized, if                                 Any information received regarding different locations, cargo 
+          and normalized, if necessary, for assessment purposes.                               necessary, for assessment purposes                                                    size, and timing may be considered and normalized, where 
+                                                                                                                                                                                     necessary, to align with the standard specifications listed 
+          Loading rate: 5-10,000 mt per day                                                    Loading rate: 5-10,000 mt per day Discharge port: Porto                               below.
+                                                                                               Marghera, Italy. Other ports in Southern Europe including, 
+          Discharge rate: 5-10,000 mt per day                                                  but not limited to, Valencia, Spain and Castellón, Spain may                          Platts also publishes daily freight assessments for 
+                                                                                               be considered and normalized, if necessary, for assessment                            Limestone and other commodities. For the methodology and 
+          Loading: 7-30 days forward                                                           purposes                                                                              specifications for these assessments, please refer to the 
+                                                                                                                                                                                     Shipping Specifications guide: https://www.spglobal.com/
+          Timing: Weekly; Thursday 16:30 as per London publishing calendar                     Discharge rate: 5-10,000 mt per day                                                   commodityinsights/en/our-methodology/methodology-
+                                                                                                                                                                                     specifications/shipping/freight  
+          Unit of assessment: US dollars per mt 
+          © 2025 by S&P Global Inc. All rights reserved.         5
+          Specifications Guide               Cement: October 2025
+          Other Minerals
+          Platts publishes weekly assessments for Potash, Sulfur and 
+          Phosphate Rock. For the methodology and specifications for 
+          these assessments, please refer to the Fertecon Specifications 
+          guide: https://www.spglobal.com/commodityinsights/en/
+          our-methodology/methodology-specifications/agriculture/
+          fertecon-methodology 
+          For ferrous metals assessments, please refer to the following 
+          specifications guides:
+          Iron Ore: https://www.spglobal.com/commodityinsights/en/
+          our-methodology/methodology-specifications/metals/iron-
+          ore-methodology
+          Steel: https://www.spglobal.com/commodityinsights/en/
+          our-methodology/methodology-specifications/metals/steel-
+          ferrous-scrap-ferroalloys-and-noble-alloys-methodology
+          © 2025 by S&P Global Inc. All rights reserved.         6
+          Specifications Guide               Cement: October 2025
+          Revision history
+          October 2025: This guide was updated to include the 
+          specifications of Cement price assessment CIF Houston; Texas 
+          cement launched in September 2025. 
+          August 2025: Guide was updated to reflect the launch of FOB 
+          Vietnam cement and clinker assessments in August 2025.
+          February 2025: Guide created following the launch of the 
+          cement, clinker and associated freight assessments in January 
+          2025.
+          © 2025 by S&P Global Inc. All rights reserved.         7

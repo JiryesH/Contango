@@ -1,0 +1,107 @@
+    Specifications guide
+    Uranium
+    Latest update: November 2025
+    Definitions of the trading locations for which Platts 
+    publishes daily indexes or assessments  ..................... 2
+    Uranium ................................................................... 3
+    Revision history ....................................................... 5
+    www.spglobal.com/energy
+         Specifications guide          Uranium: November 2025
+         Definitions of the trading locations for which Platts publishes daily indexes or assessments 
+         The following uranium specifications guide contains the primary specifications and methodologies for Platts uranium assessments throughout the world. All the assessments listed here employ Platts 
+         Assessments Methodology, as published at https://www.spglobal.com/content/dam/spglobal/ci/en/documents/platts/en/our-methodology/methodology-specifications/platts-assessments-
+         methodology-guide.pdf .
+         This guide is designed to give Platts subscribers as much information as possible about a wide range of methodology and specification questions.
+         This guide is current at the time of publication. Platts may issue further updates and enhancements to this guide and will announce these to subscribers through its usual publications of record.  
+         Such updates will be included in the next version of this guide. Platts editorial staff and managers are available to provide guidance when assessment issues require clarification.
+         © 2025 by S&P Global Inc. All rights reserved.    2
+         Specifications guide          Uranium: November 2025
+         URANIUM
+         Assessment                                                  Code             Price Type                     Quantity            Contract Basis             Location          Delivery/transfer timing    Currency       UOM
+         Uranium U3O8 Spot Canada Mo01 $/lb                          AFUEM01          Outright                       100,000 lb          Transfer                   Canada            Current month               US$            lb
+         Uranium U3O8 Spot Canada Mo02 $/lb                          AFUEM02          Outright                       100,000 lb          Transfer                   Canada            Current month + 1           US$            lb
+         Uranium U3O8 Spot Canada Mo03 $/lb                          AFUEM03          Outright                       100,000 lb          Transfer                   Canada            Current month + 2           US$            lb
+         Uranium U3O8 Spot Canada Mo04 $/lb                          AFUEM04          Outright                       100,000 lb          Transfer                   Canada            Current month + 3           US$            lb
+         Uranium U3O8 Spot Canada Mo05 $/lb                          AFUEM05          Outright                       100,000 lb          Transfer                   Canada            Current month + 4           US$            lb
+         Uranium U3O8 Spot Canada Mo06 $/lb                          AFUEM06          Outright                       100,000 lb          Transfer                   Canada            Current month + 5           US$            lb
+         Uranium U3O8 Spot Canada Mo07 $/lb                          AFUEM07          Outright                       100,000 lb          Transfer                   Canada            Current month + 6           US$            lb
+         Uranium U3O8 Spot Canada Mo08 $/lb                          AFUEM08          Outright                       100,000 lb          Transfer                   Canada            Current month + 7           US$            lb
+         Uranium U3O8 Spot Canada Mo09 $/lb                          AFUEM09          Outright                       100,000 lb          Transfer                   Canada            Current month + 8           US$            lb
+         Uranium U3O8 Spot Canada Mo10 $/lb                          AFUEM10          Outright                       100,000 lb          Transfer                   Canada            Current month + 9           US$            lb
+         Uranium U3O8 Spot Canada Mo11 $/lb                          AFUEM11          Outright                       100,000 lb          Transfer                   Canada            Current month + 10          US$            lb
+         Uranium U3O8 Spot Canada Mo12 $/lb                          AFUEM12          Outright                       100,000 lb          Transfer                   Canada            Current month + 11          US$            lb
+         Uranium U3O8 Spot Global $/lb                               AFUEL00          Outright                       100,000 lb          Transfer                   Canada            12-month average            US$            lb
+         Uranium U3O8 Spot US-Canada differential $/lb               AURUC00          Differential to AFUEM01        100,000 lb          Transfer                   US                Current month               US$            lb
+         Uranium U3O8 Spot France-Canada differential $/lb           AURFC00          Differential to AFUEM01        100,000 lb          Transfer                   France            Current month               US$            lb
+         Uranium U3O8 Spot Canada Mo01 $/lb Cumulative MAvg          AFUEC03          Outright                       100,000 lb          Transfer                   Canada            Monthly average             US$            lb
+         Uranium U3O8 Spot Canada Mo01 $/lb MAvg                     AFUED03          Outright                       100,000 lb          Transfer                   Canada            Monthly average             US$            lb
+         Uranium UF6 Spot US Mo01 $/kgU                              AURAA00          Outright                       25,000 kgU          Transfer                   US                Current month               US$            kgU
+         Uranium UF6 Spot US Mo02 $/kgU                              AURAB00          Outright                       25,000 kgU          Transfer                   US                Current month + 1           US$            kgU
+         Uranium UF6 Spot US Mo03 $/kgU                              AURAC00          Outright                       25,000 kgU          Transfer                   US                Current month + 2           US$            kgU
+         Uranium UF6 Spot US Mo04 $/kgU                              AURAH00          Outright                       25,000 kgU          Transfer                   US                Current month +3            US$            kgU
+         Uranium UF6 Spot US Mo05 $/kgU                              AURAI00          Outright                       25,000 kgU          Transfer                   US                Current month +4            US$            kgU
+         Uranium UF6 Spot US Mo06 $/kgU                              AURAJ00          Outright                       25,000 kgU          Transfer                   US                Current month +5            US$            kgU
+         Uranium UF6 Spot US Mo07 $/kgU                              AURAK00          Outright                       25,000 kgU          Transfer                   US                Current month +6            US$            kgU
+         Uranium UF6 Spot US Mo08 $/kgU                              AURAL00          Outright                       25,000 kgU          Transfer                   US                Current month +7            US$            kgU
+         Uranium UF6 Spot US Mo09 $/kgU                              AURAM00          Outright                       25,000 kgU          Transfer                   US                Current month +8            US$            kgU
+         Uranium UF6 Spot US Mo10 $/kgU                              AURAN00          Outright                       25,000 kgU          Transfer                   US                Current month +9            US$            kgU
+         Uranium UF6 Spot US Mo11 $/kgU                              AURAO00          Outright                       25,000 kgU          Transfer                   US                Current month +10           US$            kgU
+         Uranium UF6 Spot US Mo12 $/kgU                              AURAP00          Outright                       25,000 kgU          Transfer                   US                Current month +11           US$            kgU
+         Uranium UF6 Spot US Mo01 $/kgU Cumulative Mavg              AURAD00          Outright                       25,000 kgU          Transfer                   US                Monthly average             US$            kgU
+         Uranium UF6 Spot US Mo01 $/kgU Mavg                         AURAA03          Outright                       25,000 kgU          Transfer                   US                Monthly average             US$            kgU
+         Uranium conversion US 1-yr $/kgU                            AURAE00          Outright                       25,000 kgU          Transfer                   US                One-year                    US$            kgU
+         Uranium                                                                      U3O8 Uranium assessments                                                     US and France spot price assessments are published 
+                                                                                                                                                                   as differentials to the current month Canada price 
+         Uranium ore is processed into natural uranium concentrates,                  Platts publishes daily spot U3O8 price assessments                           assessment. 
+         U3O8 or yellowcake, and sold by the pound, denominated in US                 for title transfer in Canada, US and France. The Canada 
+         dollars worldwide. Uranium mined for civilian applications has               spot price assessments are published as outright values                      Platts also publishes an average of the 12 monthly Canada 
+         two uses: power generation and research/materials reactors.                  for the current month and next 11 forward months. The                        price assessments on a daily basis. This calculation reflects the 
+         © 2025 by S&P Global Inc. All rights reserved.    3
+         Specifications guide          Uranium: November 2025
+         tradeable value of U3O8 for transfer at a converter in Canada                delivered material is considered for normalization in the                    carried out within 12 months of the assessment date in the US.
+         within 12 months of the assessment date.                                     assessment process. 
+                                                                                                                                                                   Platts surveys the market to inform spot UF6 price assessments 
+         Platts publishes a monthly average price of U3O8 and a daily                 Quality: Standard specifications of U3O8                                     and considers information from adjacent markets such as U3O8 
+         cumulative average price for the current month.                                                                                                           prices and conversion costs for U3O8 to UF6.
+                                                                                      Volume: All assessments reflect 100,000 lb of U3O8
+         Each individual month’s assessment is based on pricing                                                                                                    Pricing information reflected in the final assessments includes, 
+         information about title transfer within that month, as well as               Pricing information with terms and conditions that differ from               but is not limited to, firm bids, offers and trades as well as 
+         observed relationships with other months and adjacent markets.               Platts standard specifications (such as volume and location                  indicative values from market participants.
+                                                                                      etc) may be normalized to the stated standards for assessment 
+         Pricing information reflected in the final assessments includes,             purposes.                                                                    These assessments reflect tradeable values at the close of the 
+         but is not limited to, firm bids, offers and trades as well as                                                                                            Platts market assessment process at 1:00 pm Eastern US Time. 
+         indicative values from market participants such as producers,                UF6 Uranium hexafluoride assessments, conversion                             All price assessments for UF6 and conversion are published in 
+         utilities, converters, traders and brokers.                                                                                                               US$/kgU.
+                                                                                      Platts publishes daily spot UF6 price assessments for title 
+         These assessments reflect tradeable values at the close of the               transfer to US enrichment plants. Platts is assessing the value of           Location: US enrichment plants
+         Platts market assessment process at 1:00 pm Eastern US Time.                 UF6 located at any US enrichment plant for the current month 
+         All prices are published in US$/lb.                                          and the following eleven calendar months. Physically delivered               Quality: Standard specifications of U3O8 or UF6 
+                                                                                      material is considered for normalization in the assessment 
+         Location: Due to legal restrictions on the physical possession               process. Platts publishes a monthly average price of UF6 and a               Volume: The assessment is in dollars per kilogram of uranium 
+         of U3O8, UF6 and other uranium compounds, delivery is usually                daily cumulative average UF6 price for the current month.                    content, with a minimum lot size of 25,000 kgU 
+         performed by title transfer of the material at a licensed facility 
+         for uranium conversion. Platts assessments reflect transfer at               Platts publishes a daily value for conversion of U3O8 into UF6.              Any information with differing location, volumes or terms may be 
+         these licensed facilities in Canada, US and France. Physically               Platts is assessing the value of any spot conversion services                considered for assessment purposes, subject to normalization.
+         © 2025 by S&P Global Inc. All rights reserved.    4
+         Specifications guide          Uranium: November 2025
+         Revision history                                                             October 2023: Annual Guide Update and insertion of the                       to reflect the discontinuation of the Platts Forward indicator. 
+                                                                                      monthly assessments launched September 2023.                                 Platts completed an annual update to sections 1 to 6 of Platts 
+         November 2025: Platts completed an annual review of the                                                                                                   Methodology and Specifications Guides in April 2019, and moved 
+         Uranium specifications guide. Platts reviewed all content,                   November 2022: Platts completed an annual review of the                      these sections into a standalone Methodology Guide.
+         corrected typos and made minor edits to language.                            Uranium specifications guide. Platts reviewed all content, 
+                                                                                      corrected typos and made minor edits to language. Extraneous                 November 2018: Platts revised the Uranium methodology and 
+         May 2025: Changes delivery basis for U3O8 and UF6                            columns in the table were also removed.                                      specifications guide to reflect the launch of its global U3O8 spot 
+         assessments to title transfer.                                                                                                                            assessment and the decision to discontinue the Platts Forward 
+                                                                                      September 2021: Platts launched locational differentials for                 Indicator.
+         December 2024: Adds references to daily assessment of UF6                    the US and France. Platts also conducted an annual review of 
+         for delivery in months 4 to 12 as well as uranium conversion                 the Uranium Specifications guide, added a table summarizing                  August 2018: Platts reviewed its Uranium methodology and 
+         assessment.                                                                  its U3O8 assessments and made minor clarifications and                       specifications guide. Minor edits were made throughout.
+                                                                                      amendments throughout. 
+         August 2024: Platts completed an annual review of the Uranium                                                                                             January 2017: Platts revamped all Uranium methodology and 
+         specifications guide.                                                        July 2020: Platts updated its Uranium methodology to reflect                 specifications guides, including this guide in January 2017. This 
+                                                                                      switch to daily from weekly assessment, effective March 2.                   revamp was completed to enhance the clarity and usefulness 
+         April 2024: Adds daily UF6 spot price assessment, including an               Annual review completed.                                                     of all guides, and to introduce greater consistency of layout and 
+         average UF6 price at the end of every calendar month and a                                                                                                structure across all published methodology guides. Methodologies 
+         daily cumulative monthly average                                             November 2019: Platts completed an annual review and                         for market coverage were not changed through this revamp, 
+                                                                                      revised the Uranium methodology and specifications guide                     unless specifically noted in the methodology guide itself.
+         © 2025 by S&P Global Inc. All rights reserved.    5

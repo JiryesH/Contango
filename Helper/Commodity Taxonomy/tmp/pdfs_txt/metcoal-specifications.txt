@@ -1,0 +1,550 @@
+    Specifications Guide
+    Global Metallurgical Coal
+    Latest update: January 2026
+    Definitions of the trading locations for which  
+    Platts publishes index and assessments .................... 2
+    Seaborne hard coking coal ........................................... 3
+    Seaborne PCI coal ...................................................... 5
+    Penalties and Premia for Seaborne HCC ......................... 6
+                     ................................7
+    Brand Assessments and Relativities
+    Semi Soft Coking Coal ................................................ 10
+    Metallurgical Coke ......................................................11
+    Derivatives ............................................................... 13
+    Chinese Domestic ..................................................... 14
+    Dry Bulk Freight ........................................................ 17
+    Revision history ......................................................18
+    www.spglobal.com/energy
+          Specifications Guide              Global Metallurgical Coal: January 2026
+          Definitions of the trading locations for which Platts publishes index and assessments
+          The following specifications guide contains the primary                                                  FOB       CFR  CFR          CFR  FOB  FOB          CFR NW 
+                                                                                                                   Australia China India (Net  
+          specifications for global metallurgical coal assessments                                                                             India China Indonesia Europe         Glossary
+          published by Platts, part of S&P Global Energy. All assessments                                                           Forward)                                        A: Ash
+          employ Platts Assessments Methodology, as published at                               Premium Low Vol     n         n n                                      n
+          https://www.spglobal.com/platts/plattscontent/_assets/_                                                                                                                   AD: Air-dried
+          files/en/our-methodology/methodology-specifications/platts-                          Premium Mid Vol                                 n
+          assessments-methodology-guide.pdf.                                                                                                                                        AR: As received
+                                                                                               Low Vol HCC         n         n n
+          These guides are designed to give Platts subscribers as much                                                                                                              CSN: Crucible swelling number
+          information as possible about a wide range of methodology and                        Low Vol PCI         n         n n
+          specification questions.                                                                                                                                                  CSR: Coke strength after reaction
+                                                                                               Mid Vol PCI         n         n n
+          This specifications guide is current at the time of publication.                     Mid Vol PCI Open                                                                     CRI: Coke reactivity index
+          Platts may issue further updates and enhancements to this                            Origin                                          n
+          guide and will announce these to subscribers through its usual                                                                                                            CV: calorific value
+          publications of record. Such updates will be included in the next                    Semi Soft           n         n n
+          version of this guide. Platts editorial staff and managers are                                                                                                            DAF: Dry ash free basis
+          available to provide guidance when assessment issues require                         Met Coke                                        n n n
+          clarification.                                                                       Premium Low Vol                                                                      DDPM: Dial division per minute (maximum fluidity)
+                                                                                               (CFR China Netback) n
+          All price assessments are timestamped; the time and location                         Premium Low Vol                                                                      FSI: Free swelling index
+          are noted below unless otherwise stated in the specification:                        (CFR China Netback) n
+                                                                                                                   FOB                                                              GAD: Gross air dried
+          Asia Pacific: 5.30 pm Singapore                                                                          USEC
+                                                                                                                                                                                    HGI: Hardgrove grindability index
+          Atlantic: 4.30 pm London                                                             Low Vol HCC         n
+                                                                                                                                                                                    MMR Ro Max: Mean max reflectance
+          Platts publishes daily assessments for hard coking coal,                             High-Vol A HCC      n
+          pulverized coal injection (PCI), semi soft coking coal and                                                                                                                S: Sulfur
+          metallurgical coke, for locations of loading/delivery detailed                       High-Vol B HCC      n
+          in the table below. Platts also assesses brand relativities daily                                                                                                         TD: Total dilatation
+          on a CFR China and FOB Australia basis, as well as a range                           *The Premium Low Vol price assessments may consider information 
+          of metallurgical coal and coke grades on a weekly basis in                           surrounding premium mid vol coals and brand relativities applicable in               TM: Total moisture
+          the domestic Chinese market. Sulfur, ash, volatile matter and                        the market. Similarly, the Premium Mid Vol assessment may also consider 
+          phosphorus are specified on an air-dried basis throughout this                       premium low vol coal information and relevant brand relativities.                    VM: Volatile matter
+          guide, except for the US assessments, which are specified on a 
+          dry basis.
+          © 2026 by S&P Global Inc. All rights reserved.      2
+          Specifications Guide               Global Metallurgical Coal: January 2026
+          Seaborne hard coking coal
+          Assessment                      CODE      Mavg      Wavg     Rolling month    Type          Published      Page   Quality                                                          Quantity         Incoterms   Location        Timing           Payment UOM
+          Australia
+          Premium Low Vol HCC FOB         PLVHA00 PLVHA03                               Assessment Daily             205    70% CSR, 20% VM, 10% TM, 10.5% ash, 0.65% sulfur, 0.04%          Min 30,000 mt FOB            Hay Point,      Loading 15-60  L/C at      $/mt
+          Australia                                                                                                         phosphorus, 300 ddpm max fluidity, 67% vitrinite                                              Australia       days forward     sight
+          TSI Premium Hard Coking Coal                                                                                      70% CSR, 20% VM, 10% TM, 10.5% ash, 0.65% sulfur, 0.04%                                       Hay Point,      Loading 15-60  L/C at 
+          Australia Export FOB East Coast  TS01034 TSMBH03             TSMBV03          Assessment Daily             205    phosphorus, 300 ddpm max fluidity, 67% vitrinite                 Min 30,000 mt FOB            Australia       days forward     sight     $/mt
+          Port
+          Low Vol HCC FOB Australia       HCCAU00 HCCAU03 HCCAU04                       Assessment Daily             205    62% CSR, 21.5% VM, 10.5% TM, 8% ash, 0.45% sulfur, 0.06%         Min 30,000 mt FOB            Hay Point,      Loading 15-60  L/C at      $/mt
+                                                                                                                            phosphorus, 100 ddpm max fluidity, 52% vitrinite                                              Australia       days forward     sight
+          Prem Low Vol HCC FOB Australia  PLVHD00                                       Calculation   Daily          205    70% CSR, 20% VM, 10% TM, 10.5% ash, 0.65% sulfur, 0.04%          Min 30,000 mt FOB            Hay Point,      Loading 15-60  L/C at      $/mt
+          (China Netback)                                                                                                   phosphorus, 300 ddpm max fluidity, 67% vitrinite                                              Australia       days forward     sight
+          Physical Structure M0/M1 of                                                                                                                                                                                     Hay Point, 
+          Premium Low Vol HCC FOB         PSPLV00                                       Assessment Daily             205    Basis Premium Low Vol HCC FOB Australia                          Min 30,000 mt FOB            Australia       NA               NA        $/mt
+          Australia
+          Physical Structure M1/M2 of                                                                                                                                                                                     Hay Point, 
+          Premium Low Vol HCC FOB         PSPLH00                                       Assessment Daily             205    Basis Premium Low Vol HCC FOB Australia                          Min 30,000 mt FOB            Australia       NA               NA        $/mt
+          Australia
+          China
+          Premium Low Vol HCC CFR China PLVHC00 PLVHC03                                 Assessment Daily             205    70% CSR, 20% VM, 10% TM, 10.5% ash, 0.65% sulfur, 0.04%          Min 30,000 mt CFR            Qingdao, ChinaDelivered 20-75 L/C at       $/mt
+                                                                                                                            phosphorus, 300 ddpm max fluidity, 67% vitrinite                                                              days forward     sight
+          Low Vol HCC CFR China           HCCCH00 HCCCH03 HCCCH04                       Assessment Daily             205    62% CSR, 21.5% VM, 10.5% TM, 8% ash, 0.45% sulfur, 0.06%         Min 10,000 mt CFR            Qingdao, ChinaDelivered 20-75 L/C at       $/mt
+                                                                                                                            phosphorus, 100 ddpm max fluidity, 52% vitrinite                                                              days forward     sight
+          India
+          Premium Mid Vol Hard Coking     INDIA00 INDIA03                               Assessment Daily             205    67% CSR, 23% VM, 10% TM, 9% ash, 0.55% sulfur, 0.03%             10,000 mt-       CFR         Paradip, India Delivered 20-75 L/C at      $/mt
+          Coal CFR India                                                                                                    phosphorus, 1000 ddpm max fluidity, 60% vitrinite                25,000 mt                                    days forward     sight
+          Premium Low Vol HCC CFR India  PLVHI00 PLVHI03                                Calculation   Daily          205    70% CSR, 20% VM, 10% TM, 10.5% ash, 0.65% sulfur, 0.04%          Min 30,000 mt CFR            Paradip, India Delivered 20-75 L/C at      $/mt
+          Net Forward                                                                                                       phosphorus, 300 ddpm max fluidity, 67% vitrinite                                                              days forward     sight
+          Low Vol HCC CFR India Net       HCCIN00 HCCIN03 HCCIN04                       Calculation   Daily          205    62% CSR, 21.5% VM, 10.5% TM, 8% ash, 0.45% sulfur, 0.06%         Min 30,000 mt CFR            Paradip, India Delivered 20-65 L/C at      $/mt
+          Forward                                                                                                           phosphorus, 100 ddpm max fluidity, 52% vitrinite                                                              days forward     sight
+          US*
+          Low Vol Hard Coking Coal FOB    AAWWR00 AAWWR03                               Assessment Daily             1049 58% CSR, 19.25% VM, 8% TM, 8.25% ash, 0.95% sulfur                 Min 10,000 mt FOB            Hampton         Loading 14-60  L/C at      $/mt
+          USEC                                                                                                                                                                                                            Roads, US       days forward     sight
+          High Vol A Hard Coking Coal FOB  AAWWS00 AAWWS03                              Assessment Daily             1049 32.25% VM, 8% TM, 7.5% ash, 0.95% sulfur, 30,000 ddpm max  Min 10,000 mt FOB                    Hampton         Loading 14-60  L/C at      $/mt
+          USEC                                                                                                              fluidity, 1.05 MMR, 220% dilatation                                                           Roads, US       days forward     sight
+          High Vol B Hard Coking Coal FOB  AAWWT00 AAWWT03                              Assessment Daily             1049 36% VM, 8% TM, 8% ash, 1% sulfur, 25,000 ddpm max fluidity,  Min 10,000 mt FOB                  Hampton         Loading 14-60  L/C at      $/mt
+          USEC                                                                                                              0.95 MMR, 160% dilatation                                                                     Roads, US       days forward     sight
+          * all relevant specifications dry basis
+          Europe
+          Premium Low Vol HCC CFR NWE  PLVHE00 PLVHE03                                  Calculation   Daily          205    70% CSR, 20% VM, 10% TM, 10.5% ash, 0.65% sulfur, 0.04%          Min 30,000 mt CFR            Rotterdam,      Delivered 52-90 L/C at     $/mt
+                                                                                                                            phosphorus, 300 ddpm max fluidity, 67% vitrinite                                              Netherlands     days forward     sight
+          © 2026 by S&P Global Inc. All rights reserved.         3
+          Specifications Guide              Global Metallurgical Coal: January 2026
+          Seaborne Hard Coking Coal                                                            Platts assesses to the middle of the 15-60 day forward loading                        assessments and Platts Panamax spot freight rate on the 
+                                                                                               window and normalizes each datapoint for timing to the                                Australia-India route (CDBFAI0).
+          Australia                                                                            middle of a cargo’s loading date. Platts Physical Structure 
+                                                                                               M0/M1 and M1/M2 of Premium Low Vol HCC FOB Australia                                  US
+          PLVHA00 - Premium Low Vol HCC FOB Australia                                          (PSPLV00, PSPLH00) represent the timing structure of the 
+                                                                                               physical market underlying the Platts Premium Low Vol Hard                            AAWWR00 – Low Vol Hard Coking Coal FOB US East Coast
+          TS01034 - TSI Premium Hard Coking Coal FOB East Coast Port                           Coking Coal FOB Australia (PLVHA00) assessment. The physical 
+          Australia                                                                            structure between M0/M1 refers to the price difference arising                        AAWWS00 – High Vol A Hard Coking Coal FOB US East Coast
+                                                                                               from timing between the current assessment month (M0) 
+          These assessments are published at parity, following the April                       and one month forward from the assessment month (M1),                                 AAWWT00 - High Vol B Hard Coking Coal FOB US East Coast
+          2021 merger of Platts PLV and TSI PHCC metallurgical coal                            and M1/M2 is the spread between the month forward from 
+          prices. Premium Low Vol assessments on an FOB Australia                              the assessment month (M1) and the second month forward                                Sulfur, ash, volatile matter and phosphorus for US assessments 
+          basis reflect the spot transactable value at the close of the                        from the assessment month (M2). For example, on Sept. 1, the                          are specified on a dry basis. 
+          assessment period on the day of publishing. Assessments are                          current assessment month (M0) is September, (M1) is October, 
+          based on FOB Australia export inputs, provided that these                            and (M2) is November.                                                                 The assessments reflect FOB US East Coast spot prices at the 
+          meet Platts editorial standards. Delivered pricing information,                                                                                                            close of the assessment period on the day of publishing. 
+          netted back to an FOB Australia basis, may be considered to                          China
+          test against FOB information, provided that these inputs reflect                                                                                                           Panamax loadings are reflected, with 30,000 mt-70,000 mt sold 
+          sufficient price consistency and repeatability for multiple                          PLVHC00 - Premium Low Vol CFR China                                                   as typical and clips from 10,000 mt and higher included. All 
+          destinations.                                                                                                                                                              other traded quantities and loaded vessel sizes are normalized 
+                                                                                               HCCCH00 - Low Vol HCC CFR China                                                       to a Panamax basis.
+          HCCAU00 - Low Vol HCC FOB Australia
+                                                                                               Assessments are basis CFR China. Pricing information on an                            Delivered pricing information, netted back to an FOB US East 
+          Platts assesses based on FOB Australia inputs, where they                            FOB basis netted forward to a CFR China basis may also be                             Coast basis, may be considered to test against FOB information, 
+          reflect sufficient price consistency and repeatability for                           considered to test against CFR information.                                           provided that these inputs are in line with assessment 
+          multiple destinations. Other related information, such as                                                                                                                  specifications. Associated freight rates or price spreads are 
+          spot prices from adjacent markets or cargoes on a different                          India                                                                                 taken into consideration when deriving netback values. 
+          incoterm basis, may also be normalized for assessment 
+          purposes.                                                                            INDIA00 - Premium Mid Vol Hard Coking Coal CFR India                                  Other related information, such as spot prices from adjacent 
+                                                                                                                                                                                     markets, may also be normalized for assessment purposes.
+          PLVHD00 - Hard Coking Coal (Premium Low Vol) FOB Australia                           PLVHI00 - Premium Low Vol CFR India
+          (China Netback)                                                                                                                                                            Europe
+                                                                                               HCCIN00 - Low Vol HCC CFR India
+          These freight netback values are calculated by taking the                                                                                                                  PLVHE00 - Prem Low Vol HCC CFR NWE
+          HCC Premium Low Vol CFR China assessment (PLVHC00), and                              The Premium Mid Vol Hard Coking Coal CFR India assessment 
+          subtracting the Platts daily Panamax spot freight rate from Hay                      reflects a basis quantity specification of 10,000 mt-25,000 mt,                       Premium Low Vol Hard Coking Coal CFR NW Europe represents 
+          Point, Australia, to Qingdao, China (CDBFA00).                                       typical of cargoes traded in the secondary market.                                    a delivered spot price for Australian Premium Low Vol (PLVHA00) 
+                                                                                                                                                                                     in Northwest Europe, calculated daily by adding Platts Capesize 
+          Timing normalization                                                                 The Premium Low Vol and Low Vol HCC prices on a CFR India                             freight assessment between Hay Point, Queensland, and 
+                                                                                               basis are calculated as a sum of the respective FOB Australia                         Rotterdam (CDARN00) to the Australian benchmark.
+          © 2026 by S&P Global Inc. All rights reserved.       4
+           Specifications Guide                Global Metallurgical Coal: January 2026
+           Seaborne PCI coal
+           Assessment                         CODE        Mavg       Type           Published          Page            Quality                                                        Quantity          Incoterms     Location           Timing                  Payment          UOM
+           Australia
+           Low Vol PCI FOB Australia          MCLVA00     MCLVA03    Assessment Daily                  205             13% VM, 8.5% ash, 0.55% sulfur, 7,800 kcal/kg (GAD), 78        Min 30,000 mt FOB               Hay Point,         Loading 15-60 days  L/C at sight         $/mt
+                                                                                                                       HGI, 10% TM, 90.5% total carbon (DAF)                                                          Australia          forward
+           Mid Vol PCI FOB Australia          MCLAA00     MCLAA03    Assessment Daily                  205             19% VM, 10% ash, 0.5% sulfur, 78 HGI, 10% TM, 1 CSN            Min 30,000 mt FOB               Hay Point,         Loading 15-60 days  L/C at sight         $/mt
+                                                                                                                                                                                                                      Australia          forward
+           China
+           Low Vol PCI CFR China              MCLVC00     MCLVC03    Assessment Daily                  205             13% VM, 8.5% ash, 0.55% sulfur, 7,800 kcal/kg (GAD), 78        Min 10,000 mt     CFR           Qingdao, China     Delivered 20-75 days L/C at sight        $/mt
+                                                                                                                       HGI, 10% TM, 90.5% total carbon (DAF)                                                                             forward
+           Mid Vol PCI CFR China              MCLAC00     MCLAC03    Assessment Daily                  205             19% VM, 10% ash, 0.5% sulfur, 78 HGI, 10% TM, 1 CSN            Min 10,000 mt     CFR           Qingdao, China     Delivered 20-75 days L/C at sight        $/mt
+                                                                                                                                                                                                                                         forward
+           India
+           Mid Vol PCI CFR India Open Origin  AMDVA00     AMDVA03    Assessment Daily                  205             19% VM, 10% ash, 0.5% sulfur, 78 HGI, 10% TM, 1 CSN            Min 30,000 mt CFR               Paradip, India     Delivered 20-65 days L/C at sight        $/mt
+                                                                                                                                                                                                                                         forward
+           Low Vol PCI CFR India Net Forward MCLVI00      MCLVI03    Calculation    Daily              205             13% VM, 8.5% ash, 0.55% sulfur, 7,800 kcal/kg (GAD), 78        Min 30,000 mt CFR               Paradip, India     Delivered 20-65 days L/C at sight        $/mt
+                                                                                                                       HGI, 10% TM, 90.5% total carbon (DAF)                                                                             forward
+           Mid Vol PCI CFR India Net Forward MCVAI00      MCVAI03    Calculation    Daily              205             19% VM, 10% ash, 0.5% sulfur, 78 HGI, 10% TM, 1 CSN            Min 30,000 mt CFR               Paradip, India     Delivered 20-65 days L/C at sight        $/mt
+                                                                                                                                                                                                                                         forward
+           Seaborne PCI                                                                                also monitors the opportunity cost of high-quality Australian                                considered to test against CFR information.
+                                                                                                       PCI, which may be derived by observing spot trades of run-of-
+           Australia                                                                                   mine material and through energy-adjusted calculations relating                              India
+                                                                                                       to thermal coal prices.
+           MCLVA00 – Low Vol PCI FOB Australia                                                                                                                                                      AMDVA00 – Mid Vol PCI CFR India Open Origin
+           MCLAA00 – Mid Vol PCI FOB Australia                                                         China                                                                                        MCLVI00 – Low Vol PCI CFR India Net Forward
+                                                                                                       MCLVC00 – Low Vol PCI CFR China
+           Assessments are basis FOB Australia. Platts may also consider                                                                                                                            MCVAI00 – Mid Vol PCI CFR India Net Forward
+           delivered pricing information from key consumer markets netted                              MCLAC00 – Mid Vol PCI CFR China
+           back to an FOB Australia basis using Platts Panamax spot                                                                                                                                 The CFR India net forward prices are calculated as a sum of 
+           freight rates, provided that these inputs reflect sufficient price                          Assessments are basis CFR China. Pricing information on an                                   respective FOB Australia assessments and Platts Panamax spot 
+           consistency and repeatability for multiple destinations. Platts                             FOB basis netted forward to a CFR China basis may also be                                    freight rate on the Australia-India route (CDBFAI0).
+           © 2026 by S&P Global Inc. All rights reserved.           5
+          Specifications Guide                Global Metallurgical Coal: January 2026
+          Penalties and Premia for Seaborne HCC
+          Assessment                                           CODE       Mavg      Type           Published   Page      Quality                                                                   Quantity         Incoterms    Location               Payment       UOM
+          Atlantic
+          Higher Banding CSR per 1% as % US LV FOB USEC        CPPBA00              Assessment Daily           1049      Penalty/premia applied for 50-64% Coal Strength After Reaction            min 10,000 mt    FOB          Hampton Roads, US L/C at sight %
+          Higher Banding CSR per 1% US LV FOB USEC $/mt        CPPBB00    CBBBB03   Calculation    Daily       1049      Penalty/premia applied for 50-64% Coal Strength After Reaction            min 10,000 mt    FOB          Hampton Roads, US L/C at sight $/mt
+          Lower Banding CSR per 1% as % US LV FOB USEC         CPPBC00              Assessment Daily           1049      Penalty premia applied for 40-49% Coal Strength After Reaction            min 10,000 mt    FOB          Hampton Roads, US L/C at sight %
+          Lower Banding CSR per 1% US LV FOB USEC $/mt         CPPBD00    CPPBD03   Calculation    Daily       1049      Penalty premia applied for 40-49% Coal Strength After Reaction            min 10,000 mt    FOB          Hampton Roads, US L/C at sight $/mt
+          Lower Banding Sulfur per 0.1% as % US LV FOB USEC    CPPBE00              Assessment Daily           1049      Penalty premia applied for 0.7-1.05% Sulfur                               min 10,000 mt    FOB          Hampton Roads, US L/C at sight %
+          Lower Banding Sulfur per 0.1% US LV FOB USEC $/mt    CPPBF00    CPPBF03   Calculation    Daily       1049      Penalty premia applied for 0.7-1.05% Sulfur                               min 10,000 mt    FOB          Hampton Roads, US L/C at sight $/mt
+          Higher Banding Sulfur per 0.1% as % US LV FOB USEC   CPPBG00              Assessment Daily           1049      Penalty premia applied for 1.06-1.25% Sulfur                              min 10,000 mt    FOB          Hampton Roads, US L/C at sight %
+          Higher Banding Sulfur per 0.1% US LV FOB USEC $/mt   CPPBH00    CPPBH03   Calculation    Daily       1049      Penalty premia applied for 1.06-1.25% Sulfur                              min 10,000 mt    FOB          Hampton Roads, US L/C at sight $/mt
+          Total Moisture per 1% as % US LV FOB USEC            CPPBK00              Assessment Daily           1049      Penalty premia applied for 6-11% Total Moisture                           min 10,000 mt    FOB          Hampton Roads, US L/C at sight %
+          Total Moisture per 1% US FOB USEC LV $/mt            CPPBL00    CPPBL03   Calculation    Daily       1049      Penalty premia applied for 6-11% Total Moisture                           min 10,000 mt    FOB          Hampton Roads, US L/C at sight $/mt
+          Ash per 1% as % US LV FOB USEC                       CPPBI00              Assessment Daily           1049      Penalty premia applied for 5-10% Ash                                      min 10,000 mt    FOB          Hampton Roads, US L/C at sight %
+          Ash per 1% US LV FOB USEC $/mt                       CPPBJ00    CPPBJ03   Calculation    Daily       1049      Penalty premia applied for 5-10% Ash                                      min 10,000 mt    FOB          Hampton Roads, US L/C at sight $/mt
+          © 2026 by S&P Global Inc. All rights reserved.         6
+          Specifications Guide              Global Metallurgical Coal: January 2026
+          Brand Assessments and Relativities
+          Brand Assessment
+          Assessment                  Code         Mavg        Type              Published      Page     Quality                                Quantity            Incoterms    Location               Timing                               Payment          UOM
+          Australia
+          Goonyella C                 HCGNA00      HCGNA03     Assessment        Daily          1064     as per typical specifications          Min 30,000 mt       FOB          Australia              Loading 15-60 days forward           L/C at sight     $/mt
+          Goonyella                   HCGOA00      HCGOA03     Assessment        Daily          1064     as per typical specifications          Min 30,000 mt       FOB          Australia              Loading 15-60 days forward           L/C at sight     $/mt
+          GLV                         HCHCA00      HCHCA03     Assessment        Daily          1064     as per typical specifications          Min 30,000 mt       FOB          Australia              Loading 15-60 days forward           L/C at sight     $/mt
+          Illawarra                   HCIWA00      HCIWA03     Assessment        Daily          1064     as per typical specifications          Min 30,000 mt       FOB          Australia              Loading 15-60 days forward           L/C at sight     $/mt
+          Moranbah North              HCMOA00      HCMOA03     Assessment        Daily          1064     as per typical specifications          Min 30,000 mt       FOB          Australia              Loading 15-60 days forward           L/C at sight     $/mt
+          Oaky North                  HCOKA00      HCOKA03     Assessment        Daily          1064     as per typical specifications          Min 30,000 mt       FOB          Australia              Loading 15-60 days forward           L/C at sight     $/mt
+          Peak Downs                  HCPDA00      HCPDA03     Assessment        Daily          1064     as per typical specifications          Min 30,000 mt       FOB          Australia              Loading 15-60 days forward           L/C at sight     $/mt
+          Riverside                   HCRVA00      HCRVA03     Assessment        Daily          1064     as per typical specifications          Min 30,000 mt       FOB          Australia              Loading 15-60 days forward           L/C at sight     $/mt
+          Saraji                      HCSAA00      HCSAA03     Assessment        Daily          1064     as per typical specifications          Min 30,000 mt       FOB          Australia              Loading 15-60 days forward           L/C at sight     $/mt
+          Atlantic
+          Blue Creek No. 7            MCAPB04      MCAPB03     Assessment        Weekly         1065     as per typical specifications          Min 10,000 mt       FOB          Mobile, US Gulf        Loading 14-60 days forward           L/C at sight     $/mt
+          Blue Creek No. 4            MCAPC04      MCAPC03     Assessment        Weekly         1065     as per typical specifications          Min 10,000 mt       FOB          Mobile, US Gulf        Loading 14-60 days forward           L/C at sight     $/mt
+          Beckley                     MCAPD04      MCAPD03     Assessment        Weekly         1065     as per typical specifications          Min 10,000 mt       FOB          Hampton Roads, USECLoading 14-60 days forward               L/C at sight     $/mt
+          Windber                     MCAPE04      MCAPE03     Assessment        Weekly         1065     as per typical specifications          Min 10,000 mt       FOB          Hampton Roads, USECLoading 14-60 days forward               L/C at sight     $/mt
+          Buchanan                    MCAPF04      MCAPF03     Assessment        Weekly         1065     as per typical specifications          Min 10,000 mt       FOB          Hampton Roads, USECLoading 14-60 days forward               L/C at sight     $/mt
+          * Brand specifications available upon request
+          © 2026 by S&P Global Inc. All rights reserved.       7
+          Specifications Guide              Global Metallurgical Coal: January 2026
+          Brand Assessment Relativities
+          Assessment                                                                             Code                           Type                                         Published                                       Page
+          Peak Downs percentage spread vs PLV FOB Australia                                      HCCRC00                        Calculation                                  Daily                                           1064
+          Saraji percentage spread vs PLV FOB Australia                                          HCCRE00                        Calculation                                  Daily                                           1064
+          Oaky North percentage spread vs PLV FOB Australia                                      HCCRG00                        Calculation                                  Daily                                           1064
+          Illawarra percentage spread vs PLV FOB Australia                                       HCCRI00                        Calculation                                  Daily                                           1064
+          Moranbah North percentage spread vs PLV FOB Australia                                  HCCRK00                        Calculation                                  Daily                                           1064
+          Goonyella percentage spread vs PLV FOB Australia                                       HCCRM00                        Calculation                                  Daily                                           1064
+          Caval Ridge percentage spread vs PLV FOB Australia                                     HCCRO00                        Calculation                                  Daily                                           1064
+          Goonyella C percentage spread vs PLV FOB Australia                                     HCCRQ00                        Calculation                                  Daily                                           1064
+          Riverside percentage spread vs PLV FOB Australia                                       HCCRS00                        Calculation                                  Daily                                           1064
+          GLV percentage spread vs PLV FOB Australia                                             HCCRU00                        Calculation                                  Daily                                           1064
+          © 2026 by S&P Global Inc. All rights reserved.       8
+          Specifications Guide              Global Metallurgical Coal: January 2026
+          Platts Metallurgical Coal Brand Assessments                                             reflecting the value of these brands of coal in the spot                              price relativities are published daily and expressed as a 
+                                                                                                  market. Information gathered by Platts for assessment                                 percentage. For example, a Goonyella brand assessment 
+          The published metallurgical coal brand values are assessed                              purposes includes firm offers, bids, trades and price                                 (HCGOA00) at $98/mt FOB Australia would have a 98% 
+          by Platts and are not affiliated with or sponsored by the brand                         differentials among brands alongside price relativities                               relativity against the Platts Premium Low Vol Hard Coking 
+          owners. The brand specifications Platts uses are typical, based                         reported as a percentage of the Platts Premium Low Vol                                Coal FOB Australia (PLVHA00) assessment at $100/mt FOB 
+          on information gathered from various sources, including but not                         Hard Coking Coal FOB Australia (PLVHA00) assessment.                                  Australia.
+          limited to brand owners’ public documents, market participant                           Other information deemed relevant to the assessment may 
+          feedback and engagement. The specifications are constantly                              also be considered.                                                                n  Penalties and Premia
+          monitored and updated as changes become apparent.
+                                                                                               n  Brand relativities                                                                 n  Platts publishes penalties and premia applied for Coke 
+          n  Brand Assessments FOB Australia basis                                                                                                                                      strength after reaction (CSR), Sulfur, Total Moisture (TM) and 
+                                                                                               n  Platts also publishes price relativities of the brand                                 Ash for the Atlantic market. CSR, TM and Ash are assessed on 
+          n  Platts publishes daily brand assessments on an FOB                                   assessments to the Platts Premium Low Vol Hard Coking                                 a per 1% basis while Sulfur is assessed on a 0.1% basis. These 
+             Australia basis for commonly traded brands of coal,                                  Coal FOB Australia (PLVHA00) assessment. The calculated                               values are reviewed periodically.
+          © 2026 by S&P Global Inc. All rights reserved.       9
+          Specifications Guide              Global Metallurgical Coal: January 2026
+          Semi Soft Coking Coal
+          Assessment                CODE      Mavg       Type          Published   Page           Quality                                                                 Quantity         Incoterms   Location              Timing            Payment       UOM
+          Semi Soft FOB Australia   MCSSA00   MCSSA03    Assessment Daily          205            34% VM, 9.5% TM, 9.25% ash, 0.58% sulfur, 0.025% phosphorus, 53%        Min 30,000 mt FOB            Hay Point, Australia  Loading 15-60     L/C at sight  $/mt
+                                                                                                  fixed carbon, 200 ddpm max fluidity, 5.5 CSN                                                                               days forward
+          Semi Soft CFR China       MCSSC00   MCSSC03    Assessment Daily          205            34% VM, 9.5% TM, 9.25% ash, 0.58% sulfur, 0.025% phosphorus, 53%        Min 10,000 mt    CFR         Qingdao, China        Delivered 20-75  L/C at sight   $/mt
+                                                                                                  fixed carbon, 200 ddpm max fluidity, 5.5 CSN                                                                               days forward
+          Semi Soft CFR India Net   MCSSI00   MCSSI03    Calculation   Daily       205            34% VM, 9.5% TM, 9.25% ash, 0.58% sulfur, 0.025% phosphorus, 53%        Min 30,000 mt CFR            Paradip, India        Delivered 22-65  L/C at sight   $/mt
+          Forward                                                                                 fixed carbon, 200 ddpm max fluidity, 5.5 CSN                                                                               days forward
+          Semi Soft Coking Coal                                                                multiple destinations. Platts may also take into consideration                       into consideration daily price movements in adjacent markets 
+                                                                                               daily price movements in adjacent markets such as thermal                            such as thermal coal.
+          Australia                                                                            coal.
+          MCSSA00 – Semi Soft Coking Coal FOB Australia                                                                                                                             India
+                                                                                               China                                                                                MCSSI00 - Semi Soft Coking Coal CFR India Net Forward
+          Platts uses pricing information on an FOB Australia basis                            MCSSC00 – Semi Soft Coking Coal CFR China
+          and may also consider delivered pricing information in key                                                                                                                The CFR India price is a net forward, calculated as the sum 
+          consumer markets netted back to an FOB Australia basis,                              Assessments are basis CFR China. Pricing information on an                           of the corresponding FOB Australia assessment and Platts 
+          using Platts Panamax spot freight rates, provided that these                         FOB basis netted forward to a CFR China basis may also be                            Panamax spot freight rate for the Australia-India route 
+          inputs reflect sufficient price consistency and repeatability for                    considered to test against CFR information. Platts may also take                     (CDBFAI0).
+          © 2026 by S&P Global Inc. All rights reserved.       10
+          Specifications Guide             Global Metallurgical Coal: January 2026
+          Metallurgical Coke
+          Assessment                             CODE      Mavg      Wavg       Type          Frequency   Page   Quality                                                     Quantity         Incoterms  Location          Timing       Payment        UOM
+          China (Seaborne)
+          Met Coke 66/65 CSR FOB North China     MCCNC00   MCCNC03                                        205    66/65% CSR, 12.5% ash, 0.70% sulfur, 84% min Micum 40, 7%                                                 Loading 7-45 
+                                                                                Assessment Daily                 max Micum 10, 30-90 mm size, 25% CRI, 5% TM                 Min 10,000 mt    FOB        Tianjin, China    days forward L/C at sight   $/mt
+          Met Coke 65/63 CSR FOB North China     MCCHB00   MCCHB03                                        205    65/63% CSR, 12.5% ash, 0.70% sulfur, 82% min Micum 40, 8%                                                 Loading 7-45 
+                                                                                Assessment Daily                 max Micum 10, 30-80 mm size, 25%-26% CRI, 5% TM             Min 10,000 mt    FOB        Tianjin, China    days forward L/C at sight   $/mt
+          Met Coke 62/60 CSR FOB North China     MCCHA00   MCCHA03                                        205    62/60% CSR, 12.5% ash, 0.70% sulfur, 82% min Micum 40, 8%                                                 Loading 7-45 
+                                                                                Assessment Daily                 max Micum 10, 30-80 mm size, 28%-30% CRI, 5% TM             Min 10,000 mt    FOB        Tianjin, China    days forward L/C at sight   $/mt
+          China (Domestic)
+          Met Coke 62/60 CSR DDP North China                                                                     62/60% CSR, 12.5% ash, 0.70% sulfur, 82% min Micum 40, 8%                                                 Dispatched                  Yuan/
+          Yuan/mt                                AAWVJ00   AAWVJ03   AAWVJ04    Assessment Weekly         1052   max Micum 10, 30-80 mm size, 28%-30% CRI, 5% TM             Min 300 mt       DDP        Tangshan, China within 30      L/C 90 days    mt
+                                                                                                                                                                                                                           days
+                                                                                                                 62/60% CSR, 12.5% ash, 0.70% sulfur, 82% min Micum 40, 8%                                                 Dispatched 
+          Met Coke 62/60 CSR DDP North China     AAWVK00   AAWVK03   AAWVK04    Calculation   Weekly      1052   max Micum 10, 30-80 mm size, 28%-30% CRI, 5% TM             Min 300 mt       DDP        Tangshan, China within 30      L/C 90 days    $/mt
+                                                                                                                                                                                                                           days
+          Met Coke 62/60 CSR FOB North China     PLVHM04   PLVHM03              Calculation   Weekly      1052   62/60% CSR, 12.5% ash, 0.70% sulfur, 82% min Micum 40, 8% 
+          Equivalent                                                                                             max Micum 10, 30-80 mm size, 28%-30% CRI, 5% TM             NA               FOB        North China       NA           NA             $/mt
+          Met Coke 62/60 CSR Export-Domestic FOB PLVHN04   PLVHN03              Calculation   Weekly      1052   NA                                                          NA               NA         NA                NA           NA             $/mt
+          North China Differential
+          India (Seaborne)
+                                                                                                                 66/65% CSR, 12.5% ash, 0.65% sulfur, 84% min Micum 40, 7%                                                 Delivered 
+          Met Coke 66/65 CSR CFR India           MCCNI00   MCCNI03              Assessment Daily          205    max Micum 10, 30-90 mm size,25% CRI, 5% TM                  Min 10,000 mt    CFR        Paradip, India    22-65 days   L/C at sight   $/mt
+                                                                                                                                                                                                                           forward
+                                                                                                                 65/63% CSR, 12.5% ash, 0.65% sulfur, 82% min Micum 40, 8%                                                 Delivered 
+          Met Coke 65/63 CSR CFR India           MCINB00   MCINB03              Assessment Daily          205    max Micum 10, 30-80 mm size, 25%-26% CRI, 5% TM             Min 10,000 mt    CFR        Paradip, India    22-65 days   L/C at sight   $/mt
+                                                                                                                                                                                                                           forward
+                                                                                                                 62/60% CSR, 12.5% ash, 0.65% sulfur, 82% min Micum 40, 8%                                                 Delivered 
+          Met Coke 62/60 CSR CFR India           MCINA00   MCINA03              Assessment Daily          205    max Micum 10, 30-80 mm size, 27%-29% CRI, 5% TM             Min 10,000 mt    CFR        Paradip, India    22-65 days   L/C at sight   $/mt
+                                                                                                                                                                                                                           forward
+          Indonesia (Seaborne)
+                                                                                                                 65/63% CSR, 1.3% VM, 12.5% ash, 0.65% sulfur, 84% min                                   Bahodopi,         Loading 
+          Met Coke 65/63 CSR FOB Indonesia       MCCFI00   MCCFI03              Assessment Daily          205    Micum 40, 7% max Micum 10, 30-90 mm size, 25% CRI, 5%       Min 20,000 mt FOB           Morowali          14-60 days   L/C at sight   $/mt
+                                                                                                                 TM                                                                                                        forward
+          © 2026 by S&P Global Inc. All rights reserved.     11
+          Specifications Guide              Global Metallurgical Coal: January 2026
+          Metallurgical Coke                                                                   AAWVK00 - Met Coke 62/60 CSR DDP North China $/mt                                     India
+          The CSR range for each assessment refers to the minimum                              PLVHM04 - Met Coke 62/60 CSR FOB North China Equivalent                               MCCNI00 - Met Coke 66/65 CSR CFR India
+          guaranteed/rejection range. For example, met coke with a 
+          66%/65% CSR refers to a guaranteed minimum of 66% CSR,                               PLVHN04 - Met Coke 62/60 CSR Export-Domestic FOB North                                MCINB00 - Met Coke 65/63 CSR CFR India
+          with rejection for CSR below 65%.                                                    China Differential
+                                                                                                                                                                                     MCINA00 - Met Coke 62/60 CSR CFR India
+          China                                                                                The Chinese domestic assessments are published weekly on 
+                                                                                               Thursdays. The assessed price is published in Yuan/mt and is                          The CFR India assessments are published daily. Other related 
+          MCCNC00 - Met Coke 66/65 CSR FOB North China                                         converted into $/mt.                                                                  information reported, such as spot prices from adjacent 
+                                                                                                                                                                                     markets or cargoes on a different incoterm basis, may also be 
+          MCCHB00 - Met Coke 65/63 CSR FOB North China                                         The Met Coke 62/60 CSR FOB North China Equivalent is a                                normalized for assessment purposes.
+                                                                                               calculation from the domestic DDP China coke assessment 
+          MCCHA00 - Met Coke 62/60 CSR FOB North China                                         (AAWVJ00), normalized for payment terms, logistical cost,                             Indonesia
+                                                                                               exchange rate and prevailing export tax or rebate, if any, to an 
+          The FOB North China assessments are published daily. Platts                          FOB North China basis.                                                                MCCFI00 - Met Coke 65/63 CSR FOB Indonesia
+          may consider other relevant information reported, such as spot 
+          prices in adjacent markets or cargoes on a different incoterm                        Platts also publishes a differential between the export and                           The FOB Indonesia assessment is published daily. Platts may 
+          basis for assessment purposes after appropriate normalization.                       domestic market, which subtracts the domestic FOB North                               consider other relevant information reported, such as freight 
+                                                                                               China equivalent (PLVHM04) from the 62/60 CSR FOB North                               netbacks from CFR datapoints to key consumer markets or 
+          Chinese Domestic                                                                     China assessment (MCCHA00).                                                           price movements in adjacent markets for assessment purposes 
+                                                                                                                                                                                     after appropriate normalization.
+          AAWVJ00 - Met Coke 62/60 CSR DDP North China Yuan/mt                                 Domestic assessments are inclusive of prevailing VAT.
+          © 2026 by S&P Global Inc. All rights reserved.       12
+          Specifications Guide               Global Metallurgical Coal: January 2026
+          Derivatives
+          Assessment                                                         CODE        Mavg       Type             Frequency    Page    Quality                                 Quantity  Location   Timing                                                         UOM
+          TSI Premium Hard Coking Coal FOB Australia Derivative Mo01         MCPLM01     MCPLM13    Assessment       Daily        1120    Basis TSI PHCC FOB Australia index      NA        NA         First month after month of prevailing index date               $/mt
+          TSI Premium Hard Coking Coal FOB Australia Derivative Mo02         MCPLM02     MCPLM23    Assessment       Daily        1120    Basis TSI PHCC FOB Australia index      NA        NA         Second month after month of prevailing index date              $/mt
+          TSI Premium Hard Coking Coal FOB Australia Derivative Mo03         MCPLM03     MCPLM33    Assessment       Daily        1120    Basis TSI PHCC FOB Australia index      NA        NA         Third month after month of prevailing index date               $/mt
+          TSI Premium Hard Coking Coal FOB Australia Derivative Qr01         MCPLQ01     MCPLQ13    Assessment       Daily        1120    Basis TSI PHCC FOB Australia index      NA        NA         First quarter after month of prevailing index date             $/mt
+          TSI Premium Hard Coking Coal FOB Australia Derivative Qr02         MCPLQ02     MCPLQ23    Assessment       Daily        1120    Basis TSI PHCC FOB Australia index      NA        NA         Second quarter after month of prevailing index date            $/mt
+          TSI Premium Hard Coking Coal FOB Australia Derivative Qr03         MCPLQ03     MCPLQ33    Assessment       Daily        1120    Basis TSI PHCC FOB Australia index      NA        NA         Third quarter after month of prevailing index date             $/mt
+          TSI Premium Hard Coking Coal FOB Australia Derivative Yr01         MCPLY01     MCPLY13    Assessment       Daily        1120    Basis TSI PHCC FOB Australia index      NA        NA         First calendar year after month of prevailing index date       $/mt
+          Derivatives                                                                              Using the assessments on Sept. 30, 2024 as an example:                                  On Oct. 1, 2024, the values were rolled to: 
+          Platts publishes daily forward month derivatives assessments                             MCPLM01 was published as October 2024                                                   MCPLM01 was published as November 2024 
+          named month one (Mo01), month two (Mo02) and month 
+          three (Mo03), daily forward quarter derivatives assessments                              MCPLM02 was published as November 2024                                                  MCPLM02 was published as December 2024 
+          named Qr01, Qr02 and Qr03 and daily forward year derivatives 
+          assessment named Yr01.                                                                   MCPLM03 was published as December 2024                                                  MCPLM03 was published as January 2025
+          Monthly assessments roll on the first working day of the month.                          MCPLQ01 was published as Q4 2024                                                        MCPLQ01 was published as Q1 2025
+          Quarters are defined as calendar quarters, for example Q1                                MCPLQ02 was published as Q1 2025                                                        MCPLQ02 was published as Q2 2025
+          refers to January, February and March. Quarterly derivatives 
+          assessments roll four times a year on the first working days of                          MCPLQ03 was published as Q2 2025                                                        MCPLQ03 was published as Q3 2025
+          January, April, July and October. 
+                                                                                                   MCPLY01 was published as 2025                                                           MCPLY01 was published as 2025
+          A year is defined as a calendar year, for example 2024, i.e. 
+          from the first to the last working day in that year. The yearly 
+          derivatives assessment rolls on the first working day of January.
+          © 2026 by S&P Global Inc. All rights reserved.         13
+           Specifications Guide                Global Metallurgical Coal: January 2026
+           Chinese Domestic
+           Assessment                                 CODE       Mavg       Wavg         Type            Frequency    Page    QUALITY                                                            QUANTITY          INCOTERMS      LOCATION            TIMING         PAYMENT UOM
+           Ex-Washing Plant
+           PCC Met Shanxi Premium Low Vol             PCCMA04    PCCMA03                 Assessment Weekly            1050    68% CSR, 16.9% VM (ad), 9.3% ash (ad), 8% TM (ar), 0.6%            Min 1,000 mt      Ex-washing  Lvliang, Shanxi,       Loading in     L/C 180     Yuan/
+           Ex-washing plant                                                                                                   sulfur (ad), 85 G-value                                                              plant          China               3-30 days      days        mt
+           PCC Met Shanxi High Sulfur Premium Low  PCCMD04       PCCMD03                 Assessment Weekly            1050    68% CSR, 19.5% VM (ad), 10.8% ash (ad), 8% TM (ar), 1.6%           Min 1,000 mt      Ex-washing  Lvliang, Shanxi,       Loading in     L/C 180     Yuan/
+           Vol Ex-washing plant                                                                                               sulfur (ad), 85 G-value                                                              plant          China               3-30 days      days        mt
+           PCC Met Shanxi PCI Ex-washing plant        PCCMH04    PCCMH03                 Assessment Weekly            1050    9.3% VM (ad), 10.8% ash (ad), 8% TM (ar), 0.5% sulfur (ad)         Min 1,000 mt      Ex-washing  Changzhi, Shanxi, Loading in          L/C 180     Yuan/
+                                                                                                                                                                                                                   plant          China               3-30 days      days        mt
+           PCC Met Shandong Semi Soft Ex-washing  PCCMK04        PCCMK03                 Assessment Weekly            1050    29.6% VM (ad), 8.3% (ad), 8% TM (ar), 0.6% sulfur (ad), 70         Min 1,000 mt      Ex-washing  Jining, Shandong, Loading in          L/C 180     Yuan/
+           plant                                                                                                              G-value                                                                              plant          China               3-30 days      days        mt
+           Free-on-Rail
+           PCC Met Shanxi Premium Low Vol Free-       PCCMB04    PCCMB03                 Assessment Weekly            1050    68% CSR, 16.9% VM (ad), 9.3% ash (ad), 8% TM (ar), 0.6%            Min 1,000 mt      Free-on-rail   Lvliang, Shanxi,    Loading in     L/C 180     Yuan/
+           on-Rail                                                                                                            sulfur (ad), 85 G-value                                                                             China               3-30 days      days        mt
+           PCC Met Shanxi High Sulfur Premium Low  PCCME04       PCCME03                 Assessment Weekly            1050    68% CSR, 19.5% VM (ad), 10.8% ash (ad), 8% TM (ar), 1.6%           Min 1,000 mt      Free-on-rail   Lvliang, Shanxi,    Loading in     L/C 180     Yuan/
+           Vol Free-on-Rail                                                                                                   sulfur (ad), 85 G-value                                                                             China               3-30 days      days        mt
+           PCC Met Shanxi PCI Free-on-Rail            PCCMI04    PCCMI03                 Assessment Weekly            1050    9.3% VM (ad), 10.8% ash (ad), 8% TM (ar), 0.5% sulfur (ad)         Min 1,000 mt      Free-on-rail   Changzhi Shanxi, Loading in        L/C 180     Yuan/
+                                                                                                                                                                                                                                  China               3-30 days      days        mt
+           PCC Met Shandong Semi Soft Free-on-Rail PCCML04       PCCML03                 Assessment Weekly            1050    29.6% VM (ad), 8.3% (ad), 8% TM (ar), 0.6% sulfur (ad), 70         Min 1,000 mt      Free-on-rail   Jining, Shandong, Loading in       L/C 180     Yuan/
+                                                                                                                              G-value                                                                                             China               3-30 days      days        mt
+           DDP Tangshan
+           PCC Met Shanxi Premium Low Vol DDP         PCCMC04    PCCMC03                 Assessment Weekly            1050    68% CSR, 16.9% VM (ad), 9.3% ash (ad), 8% TM (ar), 0.6%            Min 1,000 mt      DDP            Tangshan, China Loading in         L/C 180     Yuan/
+           Tangshan                                                                                                           sulfur (ad), 85 G-value                                                                                                 3-30 days      days        mt
+           PCC Met Shanxi High Sulfur Premium Low  PCCMF04       PCCMF03                 Assessment Weekly            1050    68% CSR, 19.5% VM (ad), 10.8% ash (ad), 8% TM (ar), 1.6%           Min 1,000 mt      DDP            Tangshan, China Loading in         L/C 180     Yuan/
+           Vol DDP Tangshan                                                                                                   sulfur (ad), 85 G-value                                                                                                 3-30 days      days        mt
+           PCC Met North China Fat Coal DDP           PCCMG04    PCCMG03                 Assessment Weekly            1050    55% CSR, 25.4% VM (ad), 9.8% ash (ad), 8% TM (ar), 1.2%            Min 1,000 mt      DDP            Tangshan, China Loading in         L/C 180     Yuan/
+           Tangshan                                                                                                           sulfur (ad), 90 G-value                                                                                                 3-30 days      days        mt
+           PCC Met Shanxi PCI DDP Tangshan            PCCMJ04    PCCMJ03                 Assessment Weekly            1050    9.3% VM (ad), 10.8% ash (ad), 8% TM (ar), 0.5% sulfur (ad)         Min 1,000 mt      DDP            Tangshan, China Loading in         L/C 180     Yuan/
+                                                                                                                                                                                                                                                      3-30 days      days        mt
+           CFR China equivalents
+           Met Coal Prem Low Vol Shanxi CFR China     PLVHJ04    PLVHJ03                 Calculation     Weekly       1050    68% CSR, 16.9% VM (ad), 9.3% ash (ad), 8% TM (ar), 0.6%            NA                CFR            China               NA             NA          $/mt
+           Equivalent                                                                                                         sulfur (ad), 85 G-value
+           Met Coal Prem Low Vol Import-Shanxi CFR  PLVHK04      PLVHK03                 Calculation     Weekly               NA                                                                 NA                NA             NA                  NA             NA          $/mt
+           China Differential
+           Met Coal Prem Low Vol High Sulfur Shanxi  PLVHD04     PLVHD03                 Calculation     Weekly       1050    68% CSR, 19.5% VM (ad), 10.8% ash (ad), 8% TM (ar), 1.6%           NA                CFR            China               NA             NA          $/mt
+           CFR China Equivalent                                                                                               sulfur (ad), 85 G-value
+           Met Coal North China Fat Coal CFR China    PCCDG04    PCCDG03                 Calculation     Weekly       1050    55% CSR, 25.4% VM (ad), 9.8% ash (ad), 8% TM (ar), 1.2%            NA                CFR            China               NA             NA          $/mt
+           Equivalent                                                                                                         sulfur (ad), 90 G-value
+           PCI Shanxi CFR China Equivalent            MCLCC04    MCLCC03                 Calculation     Weekly       1050    9.3% VM (ad), 10.8% ash (ad), 8% TM (ar), 0.5% sulfur (ad)         NA                CFR            China               NA             NA          $/mt
+           Semi Soft Coking Coal Shandong CFR China                                      Calculation     Weekly               29.6% VM (ad), 8.3% (ad), 8% TM (ar), 0.6% sulfur (ad), 70 
+           Equivalent                                 MCSSD04    MCSSD03                                              1050    G-value                                                            NA                CFR            China               NA             NA          $/mt
+           © 2026 by S&P Global Inc. All rights reserved.           14
+          Specifications Guide              Global Metallurgical Coal: January 2026
+          Chinese Domestic
+          Assessment                               CODE      Mavg      Wavg        Type          Frequency    Page   QUALITY                                                        QUANTITY         INCOTERMS     LOCATION          TIMING        PAYMENT UOM
+          Ex-Stock Jingtang
+          Prem Low Vol Ex-Stock Jingtang           AAWZN00   AAWZN03               Assessment Weekly          1062   70% CSR, 20% VM, 10% TM, 10.5% ash, 0.65% sulfur, 0.04%        10,000-20,000  Ex-stock        Jingtang port,    Delivered 20  Cash       Yuan/
+                                                                                                                     phosphorus, 300 ddpm max fluidity, 67% vitrinite               mt                             China             days forward             mt
+          Low Vol HCC Ex-Stock Jingtang            AAWZP00   AAWZP03               Assessment Weekly          1062   62% CSR, 21.5% VM, 10.5% TM, 8% ash, 0.45% sulfur, 0.06%       10,000-20,000  Ex-stock        Jingtang port,    Delivered 20  Cash       Yuan/
+                                                                                                                     phosphorus, 100 ddpm max fluidity, 52% vitrinite               mt                             China             days forward             mt
+          CFR Jintang Equivalents
+          Prem Low Vol CFR Jingtang Equivalent     AAWZO00   AAWZO03               Calculation   Weekly       1062   70% CSR, 20% VM, 10% TM, 10.5% ash, 0.65% sulfur, 0.04%        10,000-20,000  CFR             Jingtang port,    Delivered 20  Cash       $/mt
+                                                                                                                     phosphorus, 300 ddpm max fluidity, 67% vitrinite               mt                             China             days forward
+          Met Coal Prem Low Vol Import-Port Stock  PLVHL04   PLVHL03               Calculation   Weekly       1062   70% CSR, 20% VM, 10% TM, 10.5% ash, 0.65% sulfur, 0.04%        NA               NA            NA                NA            NA         $/mt
+          CFR China Differential                                                                                     phosphorus, 300 ddpm max fluidity, 67% vitrinite
+          Low Vol HCC CFR Jingtang Equivalent      AAWZQ00   AAWZQ03               Calculation   Weekly       1062   62% CSR, 21.5% VM, 10.5% TM, 8% ash, 0.45% sulfur, 0.06%       10,000-20,000  CFR             Jingtang port,    Delivered 20  Cash       $/mt
+                                                                                                                     phosphorus, 100 ddpm max fluidity, 52% vitrinite               mt                             China             days forward
+          Rail and Truck Freight
+          PCC Met Rail Freight Shanxi - Tangshan   PCCMM04   PCCMM03               Assessment Weekly          1050   NA                                                             Min 1,000 mt     NA            Shanxi -          Loading in    L/C 180    Yuan/
+                                                                                                                                                                                                                   Tangshan          3-30 days     days       mt
+          PCC Met Truck Freight Shanxi - Tangshan  PCCMO04   PCCMO03               Assessment Weekly          1050   NA                                                             Min 1,000 mt     NA            Shanxi -          Loading in    L/C 180    Yuan/
+                                                                                                                                                                                                                   Tangshan          3-30 days     days       mt
+          Chinese Domestic Price Assessments                                                    of more specific market information, data from other related                          To provide clarity on the import price arbitrage across the 
+                                                                                                locations may be netted back or forward to normalize to the                           varying grades of metallurgical coal, Platts also publishes 
+          PCC Met series                                                                        specified location basis, using prevailing rail and truck freight                     calculated CFR China equivalents in US dollar for these grades to 
+                                                                                                rates.                                                                                reflect their respective import parity values. These assessments 
+          PCCMA04 - PCC Met Shanxi Premium Low Vol                                                                                                                                    are calculated by considering the domestic prices of the relevant 
+                                                                                                PLVHJ04 - Met Coal Prem Low Vol Shanxi CFR China Equivalent                           grades and adjusting for specification, credit terms, transport 
+          PCCMD04 - PCC Met Shanxi High Sulfur Premium Low Vol                                                                                                                        and logistical costs, duties and the relevant currency exchange 
+                                                                                                PLVHK04 - Met Coal Prem Low Vol Import-Shanxi CFR China                               rate. In addition, a differential (PLVHK04) between Met Coal Prem 
+          PCCMH04 - PCC Met Shanxi PCI                                                          Differential                                                                          Low Vol Shanxi CFR China Equivalent (PLVHJ04) and Premium 
+                                                                                                                                                                                      Low Vol CFR China (PLVHC00) is also published.
+          PCCMK04 - PCC Met Shandong Semi Soft                                                  PLVHD04 - Met Coal Prem Low Vol High Sulfur Shanxi CFR China 
+                                                                                                Equivalent                                                                            PCCMM04 - PCC Met Rail Freight Shanxi - Tangshan
+          PCCMG04 - PCC Met North China Fat Coal
+                                                                                                PCCDG04 - Met Coal North China Fat Coal CFR China Equivalent                          PCCMO04 - PCC Met Truck Freight Shanxi - Tangshan
+          Platts China Coal – Metallurgical (PCC Met) price assessments, 
+          published on Wednesdays, reflect the value of five grades                             MCLCC04 - PCI Shanxi CFR China Equivalent                                             Platts publishes two freight assessments in the domestic 
+          of metallurgical coal in the domestic Chinese market on an                                                                                                                  Chinese market, reflecting rail and truck transportation costs 
+          ex-wash plant Lvliang (Shanxi), free-on-rail Lvliang (Shanxi) and                     MCSSD04 - Semi Soft Coking Coal Shandong CFR China                                    on the Shanxi-Tangshan route in Yuan/mt. Freight from Shanxi is 
+          delivered, duty paid Tangshan basis in Yuan/mt. In the absence                        Equivalent                                                                            basis Lvliang.
+          © 2026 by S&P Global Inc. All rights reserved.       15
+          Specifications Guide              Global Metallurgical Coal: January 2026
+          Jingtang port                                                                        without going through ports for pricing consistency, including                        China Differential
+                                                                                               for domestic Chinese, Mongolian and Russian metallurgical coal. 
+          AAWZN00 - Premium Low Vol ex-stock Jingtang, North China                             Platts also monitors prices of seaborne metallurgical coal for                        CFR Jingtang Equivalents are calculated net forwards from 
+                                                                                               pricing consistency.                                                                  corresponding ex-stock Jingtang assessments, normalized 
+          AAWZP00 - Low Vol HCC ex-stock Jingtang, North China                                                                                                                       for payment terms, additional logistical costs, prevailing VAT 
+                                                                                               AAWZO00 - Prem Low Vol CFR Jingtang Equivalent                                        and exchange rates to reach a port-equivalent value. These 
+          These assessments reflect the value of imported coking coal                                                                                                                calculations are published on Fridays. In addition to the outright 
+          sold for prompt and typical delivery in North China and at North                     AAWZQ00 - Low Vol HCC CFR Jingtang Equivalent                                         price of the Premium Low Vol CFR Jingtang Equivalent, Platts 
+          Chinese ports in Yuan/mt, inclusive of VAT. Platts monitors                                                                                                                also publishes its weekly differential to the PLV HCC CFR China 
+          inland spot trade flowing from mines directly to end-users                           PLVHL04 - Met Coal Prem Low Vol Import-Port Stock CFR                                 assessment (PLVHC00).
+          © 2026 by S&P Global Inc. All rights reserved.       16
+          Specifications Guide              Global Metallurgical Coal: January 2026
+          Dry Bulk Freight
+          Platts assesses freight rates for dry bulk cargoes on a variety of routes. Please refer to the Freight specifications guide for details of these assessments.
+          https://www.spglobal.com/commodityinsights/PlattsContent/_assets/_files/en/our-methodology/methodology-specifications/global_freight.pdf
+          © 2026 by S&P Global Inc. All rights reserved.       17
+          Specifications Guide              Global Metallurgical Coal: January 2026
+          Revision history                                                                     Platts launched a daily 65/63 CSR met coke assessment basis                           assessments and calculations and its CFR China Premium Low-
+                                                                                               FOB Indonesia.                                                                        Vol HCC assessments to minimum 30,000 mt. 
+          January 2026: Platts streamlined its APAC metallurgical coal 
+          assessments through the discontinuations of TSI coking coal                          November 2024: Platts completed an annual review of this guide                        December 2022: Platts completed an annual review of this 
+          indices that mirrored values of corresponding Platts hard coking                     and made minor edits throughout. The brand relativities and                           guide, reviewing all content, correcting typos, and making edits 
+          coal assessments, Peak Downs Region assessments, CFR China                           penalties and premia section was reworded for better clarity.                         to language throughout. 
+          brand assessments and relativities and the derivative calendar 
+          year 2 assessment. Platts additionally discontinued its Met Coke                     Platts clarified that the basis location of its metallurgical coal                    September 2022: Platts updated the timing specifications of its 
+          64/62 CSR FOB North China and CFR India assessments.                                 brand relativities on an FOB Australia basis is Hay Point, Australia.                 seaborne coking coal and PCI assessments basis FOB Australia 
+                                                                                               Rephrased “Premium Low Vol FOB (China Netback)” to “Premium                           to 15-60 days forward. Amended the freight rate code specified 
+          December 2025: Platts conducted an annual review of the                              Low Vol (CFR China Netback)” found in the table on page 2.                            for the PLV CFR NW Europe assessment.
+          guide, made minor stylistic and typographical changes and 
+          removed discontinued symbols.                                                        In October, Platts launched a daily premium mid vol hard coking                       April 2022: Renamed and updated the specifications of certain 
+                                                                                               coal CFR India assessment for 10,000 mt-25,000 mt cargo sizes.                        metallurgical coke FOB China, CFR India, and domestic Chinese 
+          April 2025: Platts clarified the quality specifications of its 65/63                                                                                                       assessments. 
+          CSR metallurgical coke CFR India assessment. In January, Platts                      In September, Platts launched the daily Caval Ridge brand 
+          launched a daily 65/63 CSR met coke assessment basis FOB                             assessment and discontinued Lake Vermont, Middlemount                                 March 2022: Moved to a net-forward approach for Australian coking 
+          Indonesia. November 2024: Platts completed an annual review                          Coking, Peak Downs North, and Poitrel Semi Hard brand                                 coal brand relativities on a CFR China basis, using net-forward 
+          of this guide and made minor edits throughout. The brand                             assessments. Symbols for brand price relativities were also                           calculations from FOB Australia assessments and relativities.
+          relativities and penalties and premia section was reworded                           added to the guide. Penalties and premia assessments for 
+          for better clarity. Platts clarified that the basis location of its                  Australian coals were discontinued.                                                   December 2021: Platts completed an annual review of this 
+          metallurgical coal brand relativities on an FOB Australia basis                                                                                                            methodology guide in December 2021 and made minor edits to 
+          is Hay Point, Australia. Rephrased “Premium Low Vol FOB                              March 2024: Platts clarified the description of its sulfur                            the language for greater clarity. 
+          (China Netback)” to “Premium Low Vol (CFR China Netback)”                            penalty/premia assessment for Asia-Pacific seaborne hard 
+          found in the table on page 2. In October, Platts launched a daily                    coking coal to remove an incorrect reference to $/mt. In                              September 2021: Updated the timing specifications of 
+          premium mid vol hard coking coal CFR India assessment for                            January, Platts discontinued its assessments of US hard                               metallurgical assessments
+          10,000 mt-25,000 mt cargo sizes. In September, Platts launched                       coking coal brands Blue Creek No. 7, Blue Creek No. 4, Beckley, 
+          the daily Caval Ridge brand assessment and discontinued                              Windber and Buchanan. Platts also updated the revision                                September 2021: Updated Mid Vol PCI assessment name and 
+          Lake Vermont, Middlemount Coking, Peak Downs North, and                              history entry of April 2016 to amend an incomplete description                        specifications.
+          Poitrel Semi Hard brand assessments. Symbols for brand price                         of China netback calculations for hard coking coal basis FOB 
+          relativities were also added to the guide. Penalties and premia                      Australia.                                                                            April 2021: Following the merger of TSI and Platts Premium Hard 
+          assessments for Australian coals were discontinued.                                                                                                                        Coking Coal Price Series, effective April 1, the specs guide updated 
+                                                                                               October 2023: Platts conducted an annual review of the guide                          various aspects of the methodology, including data treatment, 
+          September 2025: Platts launched physical timing structure                            and made stylistic edits throughout for better clarity. CFR                           timestamp, quality, timing, quantity, and location. In addition, 
+          assessments for Premium Low Vol HCC FOB Australia. Platts                            India net forward prices were also renamed. The specifications                        renamed the generic hard coking coal marker, Low Vol HCC, from 
+          clarified the Alert service page number associated with its                          of Platts daily open origin Mid Vol PCI CFR India assessment                          HCC 64 Mid Vol. Also updated the CFR China equivalents of 4 
+          Derivatives assessment as 1120.                                                      launched in August were added.                                                        weekly domestic Chinese coking coal assessments.
+          March 2025: Platts clarified the quality specifications of its                       April 2023: Platts updated the volume specifications of its                           Platts clarified typical shipment volumes for US export FOB 
+          65/63 CSR metallurgical coke CFR India assessment. In January,                       FOB Australia, CFR India and CFR NWE metallurgical coal                               coking coal assessments.
+          © 2026 by S&P Global Inc. All rights reserved.       18
+          Specifications Guide              Global Metallurgical Coal: January 2026
+          October 2020: Platts conducted an annual review of the guide                         methodological approach, replaced the description of                                  February 2018: Platts updates its assessment for Blue Creek 
+          with the following updates: Removed trademark for Peak Downs;                        swaps with derivatives, updated links, clarified calculations                         No.7 and No. 4 cited in the US brand relativities weekly series.
+          simplified the PCI CFR China assessment process; added product                       of differentials, added missing and removed discontinued 
+          codes for ”PCC Met” series; clarified the definition of Jingtang port                symbols, and made minor stylistic changes throughout. Moved                           October 2017: Methodology & Specifications Guide Annual 
+          assessment, and fixed some typos throughout the specs guide.                         dry bulk freight assessments into the freight guide. Added TSI                        Review was conducted.
+                                                                                               PHCC assessment with the associated revision history, and a 
+          August 2020: Updated the assessment type to Assessment                               description of the European HCC assessment. Added a list of                           August 2017: Updates and amending unit of measurement.
+          from Calculation for TSI Hard Coking Coal Australia Export FOB                       commonly used acronyms.
+          East Coast Port (TS01035), TSI Prem JM25 Coking Coal China                                                                                                                 May 2017: Platts updates its assessment for Blue Creek No.4 
+          Imports CFR Jingtang Port (TS01044) and TSI Hard JM25 Coking                         July 2019: Platts updated the guide to include the new daily met                      cited in the US brand relativities weekly series.
+          Coal China Imports CFR Jingtang Port (TS01045); narrowed the                         coke 65%/63% CSR, 62%/60% CSR assessments launched on 
+          CSR band for premium hard coking coal penalties and premia                           January 2, 2019.                                                                      November 2016: Methodology & Specifications Guide Annual 
+          differentials to 67-74%; increased the volume specification                                                                                                                Review was conducted and clarifications made
+          of the Met Coke 64/62% CSR CFR East India (MCCEI00)                                  June 2019: Updated High Vol A, High Vol B and Low Vol HCC US 
+          assessment to minimum 10,000 mt.                                                     East Coast price assessments’ spot loading period to 14-60                            September 2016: Platts adds the China PLV, Met Coke Price 
+                                                                                               days. Platts completed an annual update to sections 1 to 6 of                         Differentials series.
+          June 2020: Platts discontinued German Creek CFR China and                            Platts Methodology and Specifications Guides in April 2019, and 
+          FOB Australia brand relativities; clarified the section on penalties                 moved these sections into a standalone Methodology Guide.                             June 2016: Platts clarifies 64/62% CSR quality for Met Coke FOB 
+          and premia differentials for seaborne PHCC; clarified all                                                                                                                  North China (AAWVL00) & Met Coke CFR East India (MCCEI00). 
+          metallurgical coal CFR India prices as calculations; and clarified                   April 2019: Updated to remove Pinnacle US brand relativity after                      Platts updates South 32’s Illawarra specification.
+          methodology for FOB Australia HCC64 Mid Vol assessment.                              discontinuation.
+                                                                                                                                                                                     May 2016: Platts adds Premium Low Vol CFR North West Europe 
+          April 2020: Platts changed US coking coal specifications,                            November 2018: Methodology & Specifications Guide Annual                              net forward.
+          extended laycan period for US brand assessments and                                  Review was conducted and clarifications made. Removed 
+          discontinued Oak Grove brand relativity assessment. Platts                           specifications for Asia-Pacific brand relativities and US HCC                         April 2016: Platts launches the following calculations: HCC Peak 
+          updated US coking coal brand methodology to include a                                brand relativities which remain available upon request.                               Downs Region FOB Australia (China Netback) and Premium Low 
+          combination of market survey, VIU and reference to benchmark                                                                                                               Vol FOB Australia (China Netback). Platts changes methodology 
+          indices.                                                                             July 2018: Updated to reflect basis change of Platts derivatives                      process for Peak Downs Region and Premium Low Vol FOB 
+                                                                                               assessments to reflect the TSI PHCC FOB Australia derivatives                         Australia assessments.
+          February 2020: Updated to reflect the discontinuation of                             contracts. Updated to reflect discontinuations of Oaky Creek 
+          Standard and Premium CFR China, reflect the name change                              and Mavis Downs CFR China relativities, and the launch of Oaky                        March 2016: Updated to remove the upper limit for 
+          from Hail Creek to GLV. Updated the specifications for HCC 64                        North CFR China relativity.                                                           permissible fluidity for TSI Premium Hard Coking Coal index 
+          Mid Vol Ex-Stock Jingtang and HCC 64 Mid Vol CFR Jingtang                                                                                                                  - FOB East Coast port, Australia. US brand relativities data 
+          Equivalent.                                                                          June 2018: Updated to reflect merger of various TSI                                   updated.
+                                                                                               metallurgical coal indices with Platts equivalent price series.
+          November 2019: Platts launched 11 FOB Australia met coal                                                                                                                   January, 2016: US brand relativities weekly series published.
+          brand relativities and Riverside CFR China brand assessment.                         May 2018: Updated to reflect change in China’s VAT rate.
+          Specifications Guide Annual Review was conducted and                                                                                                                       February 2016: Teck’s Standard and Premium specifications 
+          clarifications made. Platts clarified its approach to calculating                    March 2018: Platts launches Met Coke 66/65 CSR CFR India                              revised.
+          netbacks, combined description of assessments with similar                           daily assessment.
+          © 2026 by S&P Global Inc. All rights reserved.       19
+          Specifications Guide              Global Metallurgical Coal: January 2026
+          December 2015: Platts launches daily metallurgical coal                              April 2015: Platts renames Low Vol 12 Ash PCI to Mid-Tier PCI.                        Coal Methodology Guide, in July 2014. This revamp was 
+          relativities.                                                                                                                                                              completed to enhance the clarity and usefulness of all 
+                                                                                               March 2015: Platts adds details on monthly met coal relativities.                     guides, and to introduce greater consistency of layout 
+          August 2015: Platts launches PCC Met Chinese domestic                                                                                                                      and structure across all published methodology guides. 
+          metallurgical coal price series.                                                     February 2015: This methodology guide was updated to include                          Methodologies for market coverage were not changed 
+                                                                                               further description of Platts’ processes and practices in survey                      through this revamp, unless specifically noted in the 
+          July 2015: Platts discontinues CCI Met Chinese domestic                              assessment environments.                                                              methodology guide itself.
+          metallurgical coal price series.
+                                                                                               October 2014: Platts increased the frequency of its Met Coke                          July 2014: Platts started publishing relativities table at 
+          April 2015: Platts launches Met Coke 66/65 CSR FOB North                             FOB North China (AAWVL00) to daily, from weekly, starting                             the end of the last working day of each month. Previously, 
+          China daily assessments.                                                             October 1, 2014.                                                                      since May 2013, the table showed an average of relativities 
+                                                                                                                                                                                     through the month. Since January 2014 the table represents 
+          April 2015: Platts adds methodology for CCI Met china domestic                       July 2014: Platts revamped all Metals Methodology                                     relativities on a CFR China basis, rather than theoretical FOB 
+          metallurgical coal price assessments.                                                and Specification guides, including its Metallurgical                                 Queensland basis.
+          © 2026 by S&P Global Inc. All rights reserved.       20

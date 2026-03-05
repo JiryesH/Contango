@@ -1,0 +1,4328 @@
+{
+  "categories": [
+    {
+      "name": "Agriculture",
+      "subcategories": [
+        {
+          "name": "Fertilizers",
+          "commodities": [
+            {
+              "name": "Ammonium Nitrate",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "fertecon-specifications.pdf",
+                "freight-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Ammonium Sulfate",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "fertecon-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Ammonium Thiosulfate",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "fertecon-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Calcium Ammonium Nitrate",
+              "aliases": [
+                "CAN"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "fertecon-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Diammonium Phosphate",
+              "aliases": [
+                "DAP"
+              ],
+              "variants": [
+                "18-46-0"
+              ],
+              "source_pdfs": [
+                "fertecon-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Monoammonium Phosphate",
+              "aliases": [
+                "MAP"
+              ],
+              "variants": [
+                "11-52-0",
+                "12-52-0"
+              ],
+              "source_pdfs": [
+                "fertecon-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Phosphate Rock",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "cement-specifications.pdf",
+                "fertecon-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Potash",
+              "aliases": [],
+              "variants": [
+                "K2SO4",
+                "KCl",
+                "SOP"
+              ],
+              "source_pdfs": [
+                "cement-specifications.pdf",
+                "fertecon-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Sulfur",
+              "aliases": [
+                "Liquid Sulfur",
+                "Solid Sulfur"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "biofuels-specifications.pdf",
+                "bunker-fuels-specifications.pdf",
+                "carbon-intensity-specifications.pdf",
+                "cement-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf",
+                "coal-specifications.pdf",
+                "emea-crude-specifications.pdf",
+                "europe-natural-gas-specifications.pdf",
+                "european-electricity-specifications.pdf",
+                "fertecon-specifications.pdf",
+                "freight-specifications.pdf",
+                "global-biofuels.pdf",
+                "iron-ore-specifications.pdf",
+                "japan-domestic-oil-products-specifications.pdf",
+                "lng-specifications.pdf",
+                "metcoal-specifications.pdf",
+                "nonferrous-specifications.pdf",
+                "north-sea-sulfur-de-escalator.pdf",
+                "oil-timing-increment-guidelines.pdf",
+                "platts-forward-curve-oil-specifications.pdf",
+                "refined-products-americas-specifications.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf",
+                "russia-domestic-oil-products-specifications.pdf",
+                "steel-ferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Sulfuric Acid",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "fertecon-specifications.pdf",
+                "freight-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Triple Superphosphate",
+              "aliases": [
+                "GTSP",
+                "TSP"
+              ],
+              "variants": [
+                "0-46-0"
+              ],
+              "source_pdfs": [
+                "fertecon-specifications.pdf"
+              ]
+            },
+            {
+              "name": "UAN Solution",
+              "aliases": [
+                "UAN"
+              ],
+              "variants": [
+                "32% N UAN Solution"
+              ],
+              "source_pdfs": [
+                "fertecon-specifications.pdf",
+                "freight-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Urea",
+              "aliases": [],
+              "variants": [
+                "Automotive-grade Urea",
+                "Granular Urea",
+                "Prilled Urea"
+              ],
+              "source_pdfs": [
+                "fertecon-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Grains and Oilseeds",
+          "commodities": [
+            {
+              "name": "Canola",
+              "aliases": [
+                "Rapeseed"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "global-biofuels.pdf",
+                "grains-oilseeds-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Corn",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "freight-specifications.pdf",
+                "global-biofuels.pdf",
+                "grains-oilseeds-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Crude Palm Oil",
+              "aliases": [
+                "CPO"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "global-biofuels.pdf",
+                "grains-oilseeds-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Palm Kernel Oil",
+              "aliases": [
+                "CPKO"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "grains-oilseeds-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Rice",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "grains-oilseeds-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Soybean Meal",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "global-biofuels.pdf",
+                "grains-oilseeds-specifications.pdf",
+                "proteins-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Soybean Oil",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "global-biofuels.pdf",
+                "grains-oilseeds-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Soybeans",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "grains-oilseeds-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Sunflower Oil",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "grains-oilseeds-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Vegetable Oils",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "global-biofuels.pdf",
+                "grains-oilseeds-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Wheat",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "freight-specifications.pdf",
+                "global-biofuels.pdf",
+                "grains-oilseeds-specifications.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Proteins and Feed",
+          "commodities": [
+            {
+              "name": "Animal Feed",
+              "aliases": [],
+              "variants": [
+                "DDG",
+                "DDGS"
+              ],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "global-biofuels.pdf",
+                "grains-oilseeds-specifications.pdf",
+                "proteins-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Beef",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "global-biofuels.pdf",
+                "proteins-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Pork",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "proteins-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Poultry",
+              "aliases": [
+                "Chicken"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "proteins-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Seafood",
+              "aliases": [],
+              "variants": [
+                "Shrimp"
+              ],
+              "source_pdfs": [
+                "proteins-specifications.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sugar",
+          "commodities": [
+            {
+              "name": "Raw Sugar",
+              "aliases": [],
+              "variants": [
+                "Brazil 150 ICUMSA",
+                "Thai Hi Polarization"
+              ],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "global-biofuels.pdf",
+                "sugar-methodology.pdf",
+                "sugar-specifications.pdf"
+              ]
+            },
+            {
+              "name": "White Sugar",
+              "aliases": [],
+              "variants": [
+                "Europe 45 ICUMSA",
+                "White Sugar Premium"
+              ],
+              "source_pdfs": [
+                "sugar-methodology.pdf",
+                "sugar-specifications.pdf"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chemicals",
+      "subcategories": [
+        {
+          "name": "Aromatics and Derivatives",
+          "commodities": [
+            {
+              "name": "Adipic Acid",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Benzene",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf",
+                "chemicals-timing.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Caprolactam",
+              "aliases": [
+                "CPL"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf",
+                "fertecon-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Cumene",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Cyclohexane",
+              "aliases": [
+                "CX"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Ethylbenzene",
+              "aliases": [
+                "EB"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Mixed Xylenes",
+              "aliases": [
+                "MX",
+                "Mixed xylenes"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Orthoxylene",
+              "aliases": [
+                "OX"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Paraxylene",
+              "aliases": [
+                "PX"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf",
+                "chemicals-timing.pdf"
+              ]
+            },
+            {
+              "name": "Styrene Monomer",
+              "aliases": [
+                "SM",
+                "Styrene monomer"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf",
+                "chemicals-timing.pdf"
+              ]
+            },
+            {
+              "name": "Toluene",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf",
+                "chemicals-timing.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Chlor-Alkali",
+          "commodities": [
+            {
+              "name": "Caustic Soda",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Chlorine",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf",
+                "coal-specifications.pdf",
+                "refined-products-americas-specifications.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Hydrochloric Acid",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Soda Ash",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Intermediates and Solvents",
+          "commodities": [
+            {
+              "name": "2-Ethyl Hexanol",
+              "aliases": [
+                "2-EH",
+                "Ethyl Hexanol"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Acetic Acid",
+              "aliases": [
+                "AA"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf",
+                "global-biofuels.pdf"
+              ]
+            },
+            {
+              "name": "Acetone",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Acrylic Acid",
+              "aliases": [
+                "GAA",
+                "Glacial Acrylic Acid"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Acrylonitrile",
+              "aliases": [
+                "ACN"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Bisphenol-A",
+              "aliases": [
+                "BPA"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Butyl Acrylate",
+              "aliases": [
+                "BA"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Carbon Black",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Diisononyl Phthalate",
+              "aliases": [
+                "DINP"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Dioctyl Phthalate",
+              "aliases": [
+                "DOP"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Dioctyl Terephthalate",
+              "aliases": [
+                "DOTP"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Ethyl Acetate",
+              "aliases": [
+                "Etac",
+                "Ethyl acetate"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Ethylene Dichloride",
+              "aliases": [
+                "EDC"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Hexane",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Iso-butanol",
+              "aliases": [
+                "IBA",
+                "Iso-butanol"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Isocyanates",
+              "aliases": [],
+              "variants": [
+                "TDI",
+                "Toluene Diisocyanate"
+              ],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Isopropyl Alcohol",
+              "aliases": [
+                "IPA"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-europe-specifications.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Methyl Ethyl Ketone",
+              "aliases": [
+                "MEK"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Methyl Methacrylate",
+              "aliases": [
+                "MMA"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "N-Butyl Acetate",
+              "aliases": [
+                "Butac",
+                "N-butyl acetate"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Normal Butanol",
+              "aliases": [
+                "NBA"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-markets-specifications.pdf",
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Phenol",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "bunker-fuels-specifications.pdf",
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf",
+                "refined-products-americas-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Phthalic Anhydride",
+              "aliases": [
+                "PA"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Polyols",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Purified Terephthalic Acid",
+              "aliases": [
+                "PTA"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Vinyl Acetate Monomer",
+              "aliases": [
+                "VAM"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Vinyl Chloride Monomer",
+              "aliases": [
+                "VCM"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-markets-specifications.pdf",
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf",
+                "freight-specifications.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Methanol and Ethers",
+          "commodities": [
+            {
+              "name": "ETBE",
+              "aliases": [
+                "Ethyl Tertiary Butyl Ether"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-europe-specifications.pdf",
+                "chemicals-timing.pdf",
+                "global-biofuels.pdf",
+                "refined-products-americas-specifications.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Methanol",
+              "aliases": [],
+              "variants": [
+                "MMF",
+                "Methanol Bunker",
+                "Methanol Marine Fuel"
+              ],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "bunker-fuels-specifications.pdf",
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf",
+                "chemicals-timing.pdf",
+                "global-biofuels.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf"
+              ]
+            },
+            {
+              "name": "MTBE",
+              "aliases": [
+                "Methyl Tertiary Butyl Ether"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf",
+                "chemicals-timing.pdf",
+                "freight-specifications.pdf",
+                "global-biofuels.pdf",
+                "refined-products-americas-specifications.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Olefins and Derivatives",
+          "commodities": [
+            {
+              "name": "Butadiene",
+              "aliases": [
+                "C4"
+              ],
+              "variants": [
+                "Butadiene CP"
+              ],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf",
+                "chemicals-timing.pdf",
+                "freight-specifications.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Butene-1",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Diethanolamine",
+              "aliases": [
+                "DEA"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Diethylene Glycol",
+              "aliases": [
+                "DEG"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Ethylene",
+              "aliases": [
+                "C2"
+              ],
+              "variants": [
+                "Ethylene Choctaw",
+                "Ethylene Mont Belvieu"
+              ],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf",
+                "chemicals-timing.pdf",
+                "freight-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Ethylene Oxide",
+              "aliases": [
+                "EO"
+              ],
+              "variants": [
+                "High Purity Ethylene Oxide"
+              ],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Hexene-1",
+              "aliases": [
+                "1-Hexene"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Monoethanolamine",
+              "aliases": [
+                "MEA"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Monoethylene Glycol",
+              "aliases": [
+                "MEG"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-intensity-specifications.pdf",
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Octene-1",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Propylene",
+              "aliases": [
+                "C3"
+              ],
+              "variants": [
+                "Chemical Grade Propylene",
+                "Polymer Grade Propylene",
+                "Refinery Grade Propylene"
+              ],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf",
+                "chemicals-timing.pdf",
+                "freight-specifications.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Propylene Oxide",
+              "aliases": [
+                "PO"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Raffinate-1",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Triethanolamine",
+              "aliases": [
+                "TEA"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Triethylene Glycol",
+              "aliases": [
+                "TEG"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Polymers and Elastomers",
+          "commodities": [
+            {
+              "name": "Acrylic Fiber",
+              "aliases": [
+                "Acrylic fibers"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Acrylonitrile Butadiene Styrene",
+              "aliases": [
+                "ABS"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Epoxy Resin",
+              "aliases": [
+                "Epoxy Resins"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Ethylene Vinyl Acetate",
+              "aliases": [
+                "EVA"
+              ],
+              "variants": [
+                "H-EVA",
+                "M-EVA"
+              ],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "High Density Polyethylene",
+              "aliases": [
+                "HDPE"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf",
+                "freight-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Linear Low Density Polyethylene",
+              "aliases": [
+                "LLDPE"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Low Density Polyethylene",
+              "aliases": [
+                "LDPE"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf",
+                "freight-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Natural Rubber",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Nylon",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Polybutadiene Rubber",
+              "aliases": [
+                "PBR"
+              ],
+              "variants": [
+                "H-PBR"
+              ],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Polybutylene Terephthalate",
+              "aliases": [
+                "PBT"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Polycarbonate",
+              "aliases": [
+                "PC"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Polyethylene",
+              "aliases": [
+                "PE"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf",
+                "freight-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Polyethylene Terephthalate",
+              "aliases": [
+                "PET",
+                "Polyethylene Terephtalate"
+              ],
+              "variants": [
+                "Food-Grade Pellets"
+              ],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Polymethyl Methacrylate",
+              "aliases": [
+                "PMMA"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Polyoxymethylene",
+              "aliases": [
+                "POM"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Polypropylene",
+              "aliases": [
+                "PP"
+              ],
+              "variants": [
+                "BOPP",
+                "PP Inflated Film"
+              ],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf",
+                "freight-specifications.pdf",
+                "grains-oilseeds-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Polystyrene",
+              "aliases": [
+                "PS"
+              ],
+              "variants": [
+                "EPS",
+                "GPPS",
+                "HIPS"
+              ],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Polyvinyl Chloride",
+              "aliases": [
+                "PVC"
+              ],
+              "variants": [
+                "Suspension PVC"
+              ],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf",
+                "freight-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Styrene Butadiene Rubber",
+              "aliases": [
+                "SBR"
+              ],
+              "variants": [
+                "ESBR",
+                "SSBR"
+              ],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Recycled Polymers and Waste Feedstocks",
+          "commodities": [
+            {
+              "name": "HDPE Bales",
+              "aliases": [
+                "Post-Consumer HDPE Bales"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "LDPE Bales",
+              "aliases": [
+                "Post-use LDPE Bales"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Mixed Plastic Waste Bales",
+              "aliases": [
+                "Process-ready Mixed Plastic Waste Bales"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "PET Bottle Bales",
+              "aliases": [
+                "Post-Consumer PET Bottle Bales"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Recycled ABS",
+              "aliases": [
+                "R-ABS"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Recycled HDPE Pellets",
+              "aliases": [
+                "R-HDPE"
+              ],
+              "variants": [
+                "R-HDPE Black"
+              ],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Recycled LDPE Pellets",
+              "aliases": [
+                "R-LDPE"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Recycled PET Flakes",
+              "aliases": [
+                "R-PET Flakes"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Recycled PET Food-Grade Pellets",
+              "aliases": [
+                "R-PET Food-Grade Pellets"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Recycled Polypropylene",
+              "aliases": [
+                "R-PP"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-europe-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Recycled Polystyrene",
+              "aliases": [
+                "R-PS"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-europe-specifications.pdf"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Construction Materials",
+      "subcategories": [
+        {
+          "name": "Cement and Clinker",
+          "commodities": [
+            {
+              "name": "Cement",
+              "aliases": [],
+              "variants": [
+                "Type I / II Low Alkali"
+              ],
+              "source_pdfs": [
+                "cement-specifications.pdf",
+                "freight-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Clinker",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "cement-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Limestone",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "cement-specifications.pdf",
+                "freight-specifications.pdf"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Energy",
+      "subcategories": [
+        {
+          "name": "Biofuels",
+          "commodities": [
+            {
+              "name": "Biobunker Fuel",
+              "aliases": [
+                "Biobunkers"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "bunker-fuels-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Biodiesel",
+              "aliases": [
+                "FAME"
+              ],
+              "variants": [
+                "B100"
+              ],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "biofuels-timing-increment.pdf",
+                "bunker-fuels-specifications.pdf",
+                "global-biofuels.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Biomass-Based Diesel",
+              "aliases": [
+                "BBD"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "global-biofuels.pdf"
+              ]
+            },
+            {
+              "name": "Distillers Corn Oil",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "global-biofuels.pdf"
+              ]
+            },
+            {
+              "name": "Ethanol",
+              "aliases": [
+                "ENA",
+                "REN 96"
+              ],
+              "variants": [
+                "Anhydrous Ethanol",
+                "Ethanol T2"
+              ],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "biofuels-timing-increment.pdf",
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf",
+                "global-biofuels.pdf",
+                "refined-products-americas-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf",
+                "sugar-methodology.pdf",
+                "sugar-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Hydrotreated Vegetable Oil",
+              "aliases": [
+                "HVO"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "global-biofuels.pdf"
+              ]
+            },
+            {
+              "name": "Palm Fatty Acid Distillate",
+              "aliases": [
+                "PFAD"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "global-biofuels.pdf",
+                "grains-oilseeds-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Palm Methyl Ester",
+              "aliases": [
+                "PME"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "global-biofuels.pdf"
+              ]
+            },
+            {
+              "name": "Palm Oil Mill Effluent",
+              "aliases": [
+                "POME"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "global-biofuels.pdf"
+              ]
+            },
+            {
+              "name": "Rapeseed Methyl Ester",
+              "aliases": [
+                "RME"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "bunker-fuels-specifications.pdf",
+                "global-biofuels.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Renewable Diesel",
+              "aliases": [
+                "RD"
+              ],
+              "variants": [
+                "R100",
+                "R99"
+              ],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "global-biofuels.pdf",
+                "refined-products-americas-specifications.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Soy Methyl Ester",
+              "aliases": [
+                "SME"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "global-biofuels.pdf"
+              ]
+            },
+            {
+              "name": "Sustainable Aviation Fuel",
+              "aliases": [
+                "SAF"
+              ],
+              "variants": [
+                "HEFA-SPK",
+                "SPK-HEFA"
+              ],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "biofuels-timing-increment.pdf",
+                "global-biofuels.pdf",
+                "refined-products-americas-specifications.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Used Cooking Oil",
+              "aliases": [
+                "UCO"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "biofuels-timing-increment.pdf",
+                "global-biofuels.pdf"
+              ]
+            },
+            {
+              "name": "Used Cooking Oil Methyl Ester",
+              "aliases": [
+                "UCOME"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "biofuels-timing-increment.pdf",
+                "bunker-fuels-specifications.pdf",
+                "global-biofuels.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Coal and Coke",
+          "commodities": [
+            {
+              "name": "Hard Coking Coal",
+              "aliases": [
+                "HCC"
+              ],
+              "variants": [
+                "Low Vol HCC",
+                "PLV HCC"
+              ],
+              "source_pdfs": [
+                "coal-specifications.pdf",
+                "metals-timing-increment-guidelines.pdf",
+                "metcoal-specifications.pdf",
+                "steel-ferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Metallurgical Coal",
+              "aliases": [
+                "Met Coal"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "coal-specifications.pdf",
+                "freight-specifications.pdf",
+                "metals-timing-increment-guidelines.pdf",
+                "metcoal-specifications.pdf",
+                "steel-ferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Metallurgical Coke",
+              "aliases": [
+                "Met Coke"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "coal-specifications.pdf",
+                "metcoal-specifications.pdf",
+                "steel-ferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Petroleum Coke",
+              "aliases": [
+                "Petcoke"
+              ],
+              "variants": [
+                "Calcined Petcoke"
+              ],
+              "source_pdfs": [
+                "coal-specifications.pdf",
+                "freight-specifications.pdf",
+                "nonferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Pulverized Coal Injection Coal",
+              "aliases": [
+                "PCI"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "coal-specifications.pdf",
+                "metcoal-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Semi-Soft Coking Coal",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "metcoal-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Thermal Coal",
+              "aliases": [],
+              "variants": [
+                "CAPP rail"
+              ],
+              "source_pdfs": [
+                "coal-specifications.pdf",
+                "freight-specifications.pdf",
+                "lng-specifications.pdf",
+                "metcoal-specifications.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Crude Oil",
+          "commodities": [
+            {
+              "name": "Agbami",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-intensity-specifications.pdf",
+                "crude-oil-market-parity-prices-specifications.pdf",
+                "emea-crude-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Al-Shaheen",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "carbon-intensity-specifications.pdf",
+                "emea-crude-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Alaska North Slope",
+              "aliases": [
+                "ANS"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "emea-crude-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Arab Light",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-intensity-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Azeri Light",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "emea-crude-specifications.pdf",
+                "north-sea-sulfur-de-escalator.pdf",
+                "oil-timing-increment-guidelines.pdf"
+              ]
+            },
+            {
+              "name": "Bonga",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "carbon-intensity-specifications.pdf",
+                "crude-oil-market-parity-prices-specifications.pdf",
+                "emea-crude-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Bonny Light",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "crude-oil-market-parity-prices-specifications.pdf",
+                "emea-crude-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Brent",
+              "aliases": [],
+              "variants": [
+                "Brent Strip"
+              ],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "carbon-intensity-specifications.pdf",
+                "crude-oil-market-parity-prices-specifications.pdf",
+                "dated-brent-month-ahead-calendar.pdf",
+                "emea-crude-specifications.pdf",
+                "lng-specifications.pdf",
+                "north-sea-sulfur-de-escalator.pdf",
+                "platts-forward-curve-oil-specifications.pdf",
+                "refined-products-americas-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf",
+                "us-canada-natural-gas-methodology.pdf"
+              ]
+            },
+            {
+              "name": "Brent/Ninian Blend",
+              "aliases": [
+                "BNB"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "emea-crude-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Cabinda",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "crude-oil-market-parity-prices-specifications.pdf",
+                "emea-crude-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Canadon Seco",
+              "aliases": [
+                "Canadon Seco"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-intensity-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Castilla Blend",
+              "aliases": [
+                "Castilla"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "carbon-intensity-specifications.pdf",
+                "crude-oil-market-parity-prices-specifications.pdf",
+                "emea-crude-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Cinta",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "apac-me-crude-specifications.pdf",
+                "crude-oil-market-parity-prices-specifications.pdf"
+              ]
+            },
+            {
+              "name": "CPC Blend",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "emea-crude-specifications.pdf",
+                "north-sea-sulfur-de-escalator.pdf",
+                "oil-timing-increment-guidelines.pdf",
+                "platts-forward-curve-oil-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Cuban Heavy",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-intensity-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Dalia",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "apac-me-crude-specifications.pdf",
+                "crude-oil-market-parity-prices-specifications.pdf",
+                "emea-crude-specifications.pdf",
+                "freight-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Das Blend",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "carbon-intensity-specifications.pdf",
+                "emea-crude-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Dated Brent",
+              "aliases": [],
+              "variants": [
+                "Dated Brent CIF Rotterdam",
+                "Dated North Sea Light"
+              ],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "crude-oil-market-parity-prices-specifications.pdf",
+                "dated-brent-month-ahead-calendar.pdf",
+                "emea-crude-specifications.pdf",
+                "lng-specifications.pdf",
+                "north-sea-sulfur-de-escalator.pdf",
+                "platts-forward-curve-oil-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Djeno",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "crude-oil-market-parity-prices-specifications.pdf",
+                "emea-crude-specifications.pdf",
+                "freight-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Dubai Crude",
+              "aliases": [
+                "Dubai"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "bunker-fuels-specifications.pdf",
+                "carbon-intensity-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "emea-crude-specifications.pdf",
+                "lng-specifications.pdf",
+                "north-sea-sulfur-de-escalator.pdf",
+                "oil-timing-increment-guidelines.pdf",
+                "platts-forward-curve-oil-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Ekofisk",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-intensity-specifications.pdf",
+                "emea-crude-specifications.pdf",
+                "north-sea-sulfur-de-escalator.pdf"
+              ]
+            },
+            {
+              "name": "Escalante",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "carbon-intensity-specifications.pdf",
+                "emea-crude-specifications.pdf"
+              ]
+            },
+            {
+              "name": "ESPO",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "emea-crude-specifications.pdf",
+                "oil-timing-increment-guidelines.pdf"
+              ]
+            },
+            {
+              "name": "Forcados",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "crude-oil-market-parity-prices-specifications.pdf",
+                "emea-crude-specifications.pdf",
+                "freight-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Forties",
+              "aliases": [],
+              "variants": [
+                "Forties Blend"
+              ],
+              "source_pdfs": [
+                "apac-me-crude-specifications.pdf",
+                "carbon-intensity-specifications.pdf",
+                "emea-crude-specifications.pdf",
+                "north-sea-sulfur-de-escalator.pdf"
+              ]
+            },
+            {
+              "name": "Galeota Mix",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-intensity-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Girassol",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-intensity-specifications.pdf",
+                "crude-oil-market-parity-prices-specifications.pdf",
+                "emea-crude-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Gullfaks",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-intensity-specifications.pdf",
+                "emea-crude-specifications.pdf",
+                "oil-timing-increment-guidelines.pdf"
+              ]
+            },
+            {
+              "name": "Heavy Louisiana Sweet",
+              "aliases": [
+                "HLS"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Hungo",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "crude-oil-market-parity-prices-specifications.pdf",
+                "emea-crude-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Isthmus",
+              "aliases": [
+                "Istmo"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "carbon-intensity-specifications.pdf",
+                "emea-crude-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Kimanis",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "crude-oil-market-parity-prices-specifications.pdf",
+                "emea-crude-specifications.pdf",
+                "freight-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Light Louisiana Sweet",
+              "aliases": [
+                "LLS"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Liza",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "carbon-intensity-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Mars Crude",
+              "aliases": [
+                "Mars"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "carbon-intensity-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Maya",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "carbon-intensity-specifications.pdf",
+                "crude-oil-market-parity-prices-specifications.pdf",
+                "emea-crude-specifications.pdf",
+                "refined-products-americas-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Medanito",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "carbon-intensity-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Merey 16",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-intensity-specifications.pdf",
+                "crude-oil-market-parity-prices-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Minas",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "biofuels-specifications.pdf",
+                "crude-oil-market-parity-prices-specifications.pdf",
+                "emea-crude-specifications.pdf",
+                "lng-specifications.pdf",
+                "nonferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Murban",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "carbon-intensity-specifications.pdf",
+                "crude-oil-market-parity-prices-specifications.pdf",
+                "emea-crude-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Napo",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "carbon-intensity-specifications.pdf",
+                "crude-oil-market-parity-prices-specifications.pdf",
+                "emea-crude-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Nile Blend",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "apac-me-crude-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Olmeca",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "carbon-intensity-specifications.pdf",
+                "emea-crude-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Oman Crude",
+              "aliases": [
+                "Oman"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "bunker-fuels-specifications.pdf",
+                "carbon-intensity-specifications.pdf",
+                "emea-crude-specifications.pdf",
+                "freight-specifications.pdf",
+                "hydrogen-ammonia-methodology.pdf",
+                "lng-specifications.pdf",
+                "platts-forward-curve-oil-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Oriente",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "carbon-intensity-specifications.pdf",
+                "crude-oil-market-parity-prices-specifications.pdf",
+                "emea-crude-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Oseberg",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-intensity-specifications.pdf",
+                "emea-crude-specifications.pdf",
+                "north-sea-sulfur-de-escalator.pdf"
+              ]
+            },
+            {
+              "name": "Payara",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "carbon-intensity-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Qua Iboe",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "crude-oil-market-parity-prices-specifications.pdf",
+                "emea-crude-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Roncador Heavy",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-intensity-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Rubiales",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-intensity-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Saharan Blend",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-intensity-specifications.pdf",
+                "emea-crude-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Southern Green Canyon",
+              "aliases": [
+                "SGC"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "emea-crude-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Statfjord",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-intensity-specifications.pdf",
+                "emea-crude-specifications.pdf",
+                "oil-timing-increment-guidelines.pdf"
+              ]
+            },
+            {
+              "name": "Troll",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "carbon-intensity-specifications.pdf",
+                "emea-crude-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Tupi",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "carbon-intensity-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Unity Gold",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "carbon-intensity-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Upper Zakum",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "carbon-intensity-specifications.pdf",
+                "emea-crude-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Urals",
+              "aliases": [],
+              "variants": [
+                "Urals FIP Surgut netback",
+                "Urals Netbacks"
+              ],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "emea-crude-specifications.pdf",
+                "north-sea-sulfur-de-escalator.pdf",
+                "oil-timing-increment-guidelines.pdf",
+                "platts-forward-curve-oil-specifications.pdf",
+                "russia-domestic-oil-products-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Vasconia",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "carbon-intensity-specifications.pdf",
+                "crude-oil-market-parity-prices-specifications.pdf",
+                "emea-crude-specifications.pdf"
+              ]
+            },
+            {
+              "name": "West Texas Intermediate",
+              "aliases": [
+                "WTI"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "carbon-intensity-specifications.pdf",
+                "dated-brent-month-ahead-calendar.pdf",
+                "emea-crude-specifications.pdf",
+                "lng-specifications.pdf",
+                "oil-timing-increment-guidelines.pdf",
+                "platts-forward-curve-oil-specifications.pdf",
+                "refined-products-americas-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Western Canadian Select",
+              "aliases": [
+                "WCS"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "crude-oil-market-parity-prices-specifications.pdf",
+                "emea-crude-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Widuri",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "apac-me-crude-specifications.pdf",
+                "crude-oil-market-parity-prices-specifications.pdf"
+              ]
+            },
+            {
+              "name": "WTI Midland",
+              "aliases": [],
+              "variants": [
+                "MEH",
+                "West Texas Intermediate (MEH)"
+              ],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "carbon-intensity-specifications.pdf",
+                "dated-brent-month-ahead-calendar.pdf",
+                "emea-crude-specifications.pdf",
+                "oil-timing-increment-guidelines.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hydrogen and Ammonia",
+          "commodities": [
+            {
+              "name": "Ammonia",
+              "aliases": [],
+              "variants": [
+                "Japan Korea Ammonia Price",
+                "US Gulf Ammonia Price"
+              ],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "fertecon-specifications.pdf",
+                "freight-specifications.pdf",
+                "hydrogen-ammonia-methodology.pdf"
+              ]
+            },
+            {
+              "name": "Hydrogen",
+              "aliases": [],
+              "variants": [
+                "Renewable PPA Derived Hydrogen"
+              ],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "bunker-fuels-specifications.pdf",
+                "fertecon-specifications.pdf",
+                "global-biofuels.pdf",
+                "hydrogen-ammonia-methodology.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Low-Carbon Ammonia",
+              "aliases": [
+                "Low Carbon Ammonia"
+              ],
+              "variants": [
+                "AESI"
+              ],
+              "source_pdfs": [
+                "fertecon-specifications.pdf",
+                "hydrogen-ammonia-methodology.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Natural Gas and LNG",
+          "commodities": [
+            {
+              "name": "AECO",
+              "aliases": [
+                "AECO-C"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-intensity-specifications.pdf",
+                "us-canada-natural-gas-methodology.pdf",
+                "us-electricity-methodology.pdf"
+              ]
+            },
+            {
+              "name": "Algonquin City-Gates",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-intensity-specifications.pdf",
+                "us-canada-natural-gas-methodology.pdf"
+              ]
+            },
+            {
+              "name": "Bio-LNG",
+              "aliases": [],
+              "variants": [
+                "Subsidized Bio-LNG"
+              ],
+              "source_pdfs": [
+                "lng-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Biomethane",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-intensity-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Dawn Ontario",
+              "aliases": [
+                "Dawn"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-intensity-specifications.pdf",
+                "us-canada-natural-gas-methodology.pdf",
+                "us-electricity-methodology.pdf"
+              ]
+            },
+            {
+              "name": "Dutch TTF",
+              "aliases": [
+                "TTF"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "europe-natural-gas-specifications.pdf",
+                "european-electricity-specifications.pdf",
+                "lng-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Eastern Gas South",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-intensity-specifications.pdf",
+                "hydrogen-ammonia-methodology.pdf",
+                "us-canada-natural-gas-methodology.pdf"
+              ]
+            },
+            {
+              "name": "Henry Hub",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-intensity-specifications.pdf",
+                "lng-specifications.pdf",
+                "us-canada-natural-gas-methodology.pdf"
+              ]
+            },
+            {
+              "name": "Houston Ship Channel Gas",
+              "aliases": [
+                "Houston Ship Channel"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "biofuels-specifications.pdf",
+                "carbon-intensity-specifications.pdf",
+                "chemicals-americas-specifications.pdf",
+                "emea-crude-specifications.pdf",
+                "global-biofuels.pdf",
+                "refined-products-americas-specifications.pdf",
+                "us-canada-natural-gas-methodology.pdf"
+              ]
+            },
+            {
+              "name": "Japan Korea Marker",
+              "aliases": [
+                "JKM"
+              ],
+              "variants": [
+                "JKTC"
+              ],
+              "source_pdfs": [
+                "apac-me-crude-specifications.pdf",
+                "lng-specifications.pdf",
+                "lng-timing-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Liquefied Natural Gas",
+              "aliases": [
+                "LNG"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "europe-natural-gas-specifications.pdf",
+                "lng-timing-specifications.pdf"
+              ]
+            },
+            {
+              "name": "National Balancing Point",
+              "aliases": [
+                "NBP"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "europe-natural-gas-specifications.pdf",
+                "lng-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Natural Gas",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "carbon-intensity-specifications.pdf",
+                "chemicals-americas-specifications.pdf",
+                "coal-specifications.pdf",
+                "crude-oil-market-parity-prices-specifications.pdf",
+                "europe-natural-gas-specifications.pdf",
+                "european-electricity-specifications.pdf",
+                "fertecon-specifications.pdf",
+                "global-biofuels.pdf",
+                "hydrogen-ammonia-methodology.pdf",
+                "lng-specifications.pdf",
+                "lng-timing-specifications.pdf",
+                "mexico-natural-gas-methodology.pdf",
+                "refined-products-americas-specifications.pdf",
+                "us-canada-natural-gas-methodology.pdf"
+              ]
+            },
+            {
+              "name": "NGPL Midcontinent",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-intensity-specifications.pdf"
+              ]
+            },
+            {
+              "name": "PG&E Malin",
+              "aliases": [
+                "PG&E Malin"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-intensity-specifications.pdf",
+                "us-electricity-methodology.pdf"
+              ]
+            },
+            {
+              "name": "Renewable Natural Gas",
+              "aliases": [
+                "RNG"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-intensity-specifications.pdf"
+              ]
+            },
+            {
+              "name": "SoCal Gas",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-intensity-specifications.pdf",
+                "mexico-natural-gas-methodology.pdf",
+                "us-canada-natural-gas-methodology.pdf",
+                "us-electricity-methodology.pdf"
+              ]
+            },
+            {
+              "name": "Transco Zone 6 Non-NY",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-intensity-specifications.pdf",
+                "us-canada-natural-gas-methodology.pdf"
+              ]
+            },
+            {
+              "name": "Waha",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-intensity-specifications.pdf",
+                "mexico-natural-gas-methodology.pdf",
+                "us-canada-natural-gas-methodology.pdf",
+                "us-electricity-methodology.pdf"
+              ]
+            },
+            {
+              "name": "Zeebrugge Trading Point",
+              "aliases": [
+                "ZTP"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "europe-natural-gas-specifications.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Power",
+          "commodities": [
+            {
+              "name": "Electricity",
+              "aliases": [],
+              "variants": [
+                "Renewable Capture Price Indices"
+              ],
+              "source_pdfs": [
+                "Platts-J-Credit-FAQ.pdf",
+                "biofuels-specifications.pdf",
+                "carbon-markets-specifications.pdf",
+                "coal-specifications.pdf",
+                "crude-oil-market-parity-prices-specifications.pdf",
+                "europe-natural-gas-specifications.pdf",
+                "european-electricity-specifications.pdf",
+                "global-biofuels.pdf",
+                "hydrogen-ammonia-methodology.pdf",
+                "renewables-certificates-specifications.pdf",
+                "us-canada-natural-gas-methodology.pdf",
+                "us-electricity-methodology.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Refined Products",
+          "commodities": [
+            {
+              "name": "Base Oil",
+              "aliases": [
+                "Base Oils"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "refined-products-americas-specifications.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Bitumen",
+              "aliases": [],
+              "variants": [
+                "Asphalt"
+              ],
+              "source_pdfs": [
+                "oil-timing-increment-guidelines.pdf",
+                "refined-products-americas-specifications.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Blendstocks",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "global-biofuels.pdf",
+                "japan-domestic-oil-products-specifications.pdf",
+                "oil-timing-increment-guidelines.pdf",
+                "refined-products-americas-specifications.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Butane",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "chemicals-americas-specifications.pdf",
+                "freight-specifications.pdf",
+                "oil-timing-increment-guidelines.pdf",
+                "refined-products-americas-specifications.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Diesel",
+              "aliases": [],
+              "variants": [
+                "10ppm diesel"
+              ],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "biofuels-specifications.pdf",
+                "bunker-fuels-specifications.pdf",
+                "carbon-intensity-specifications.pdf",
+                "global-biofuels.pdf",
+                "lng-specifications.pdf",
+                "north-sea-sulfur-de-escalator.pdf",
+                "oil-timing-increment-guidelines.pdf",
+                "platts-forward-curve-oil-specifications.pdf",
+                "refined-products-americas-specifications.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf",
+                "russia-domestic-oil-products-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Eurobob Gasoline",
+              "aliases": [
+                "Eurobob"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-intensity-specifications.pdf",
+                "chemicals-europe-specifications.pdf",
+                "north-sea-sulfur-de-escalator.pdf",
+                "platts-forward-curve-oil-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf",
+                "russia-domestic-oil-products-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Fuel Oil",
+              "aliases": [],
+              "variants": [
+                "A-FUEL OIL"
+              ],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "bunker-fuels-specifications.pdf",
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf",
+                "europe-natural-gas-specifications.pdf",
+                "european-electricity-specifications.pdf",
+                "freight-specifications.pdf",
+                "japan-domestic-oil-products-specifications.pdf",
+                "lng-specifications.pdf",
+                "north-sea-sulfur-de-escalator.pdf",
+                "oil-timing-increment-guidelines.pdf",
+                "platts-forward-curve-oil-specifications.pdf",
+                "refined-products-americas-specifications.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf",
+                "russia-domestic-oil-products-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Gasoil",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "biofuels-specifications.pdf",
+                "bunker-fuels-specifications.pdf",
+                "carbon-intensity-specifications.pdf",
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "europe-natural-gas-specifications.pdf",
+                "european-electricity-specifications.pdf",
+                "freight-specifications.pdf",
+                "global-biofuels.pdf",
+                "japan-domestic-oil-products-specifications.pdf",
+                "lng-specifications.pdf",
+                "north-sea-sulfur-de-escalator.pdf",
+                "oil-timing-increment-guidelines.pdf",
+                "platts-forward-curve-oil-specifications.pdf",
+                "refined-products-americas-specifications.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf",
+                "russia-domestic-oil-products-specifications.pdf",
+                "world-jet-indexes-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Gasoline",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "biofuels-specifications.pdf",
+                "carbon-intensity-specifications.pdf",
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf",
+                "chemicals-timing.pdf",
+                "freight-specifications.pdf",
+                "global-biofuels.pdf",
+                "japan-domestic-oil-products-specifications.pdf",
+                "north-sea-sulfur-de-escalator.pdf",
+                "oil-timing-increment-guidelines.pdf",
+                "platts-forward-curve-oil-specifications.pdf",
+                "refined-products-americas-specifications.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf",
+                "russia-domestic-oil-products-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Heating Oil",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "oil-timing-increment-guidelines.pdf",
+                "platts-forward-curve-oil-specifications.pdf",
+                "refined-products-americas-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf",
+                "russia-domestic-oil-products-specifications.pdf"
+              ]
+            },
+            {
+              "name": "High Sulfur Fuel Oil",
+              "aliases": [
+                "HSFO",
+                "IFO 380"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "bunker-fuels-specifications.pdf",
+                "chemicals-americas-specifications.pdf",
+                "freight-specifications.pdf",
+                "japan-domestic-oil-products-specifications.pdf",
+                "north-sea-sulfur-de-escalator.pdf",
+                "oil-timing-increment-guidelines.pdf",
+                "platts-forward-curve-oil-specifications.pdf",
+                "refined-products-americas-specifications.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Jet Fuel",
+              "aliases": [
+                "Jet"
+              ],
+              "variants": [
+                "World Jet Indexes"
+              ],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "biofuels-specifications.pdf",
+                "carbon-intensity-specifications.pdf",
+                "freight-specifications.pdf",
+                "global-biofuels.pdf",
+                "oil-timing-increment-guidelines.pdf",
+                "platts-forward-curve-oil-specifications.pdf",
+                "refined-products-americas-specifications.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf",
+                "russia-domestic-oil-products-specifications.pdf",
+                "world-jet-indexes-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Kerosene",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "biofuels-specifications.pdf",
+                "freight-specifications.pdf",
+                "global-biofuels.pdf",
+                "japan-domestic-oil-products-specifications.pdf",
+                "oil-timing-increment-guidelines.pdf",
+                "platts-forward-curve-oil-specifications.pdf",
+                "refined-products-americas-specifications.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf",
+                "world-jet-indexes-specifications.pdf"
+              ]
+            },
+            {
+              "name": "LPG",
+              "aliases": [],
+              "variants": [
+                "LPG/NGLs",
+                "NGLs"
+              ],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "freight-specifications.pdf",
+                "oil-timing-increment-guidelines.pdf",
+                "refined-products-americas-specifications.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Marine Diesel Oil",
+              "aliases": [
+                "MDO"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "bunker-fuels-specifications.pdf",
+                "oil-timing-increment-guidelines.pdf",
+                "refined-products-americas-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Marine Gasoil",
+              "aliases": [
+                "MGO"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "bunker-fuels-specifications.pdf",
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "freight-specifications.pdf",
+                "lng-specifications.pdf",
+                "oil-timing-increment-guidelines.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Naphtha",
+              "aliases": [
+                "Light Naphtha"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "biofuels-specifications.pdf",
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf",
+                "freight-specifications.pdf",
+                "global-biofuels.pdf",
+                "lng-specifications.pdf",
+                "oil-timing-increment-guidelines.pdf",
+                "platts-forward-curve-oil-specifications.pdf",
+                "refined-products-americas-specifications.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Propane",
+              "aliases": [],
+              "variants": [
+                "Propane CP"
+              ],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "biofuels-specifications.pdf",
+                "chemicals-americas-specifications.pdf",
+                "freight-specifications.pdf",
+                "global-biofuels.pdf",
+                "lng-specifications.pdf",
+                "platts-forward-curve-oil-specifications.pdf",
+                "refined-products-americas-specifications.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf"
+              ]
+            },
+            {
+              "name": "RBOB Gasoline",
+              "aliases": [
+                "RBOB"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-timing.pdf",
+                "oil-timing-increment-guidelines.pdf",
+                "platts-forward-curve-oil-specifications.pdf",
+                "refined-products-americas-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Straight Run Fuel Oil",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "refined-products-americas-specifications.pdf"
+              ]
+            },
+            {
+              "name": "ULSD",
+              "aliases": [
+                "Ultra Low Sulfur Diesel"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "biofuels-specifications.pdf",
+                "carbon-intensity-specifications.pdf",
+                "global-biofuels.pdf",
+                "oil-timing-increment-guidelines.pdf",
+                "platts-forward-curve-oil-specifications.pdf",
+                "refined-products-americas-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf",
+                "russia-domestic-oil-products-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Vacuum Gas Oil",
+              "aliases": [
+                "VGO"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "oil-timing-increment-guidelines.pdf",
+                "refined-products-americas-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Very Low Sulfur Fuel Oil",
+              "aliases": [
+                "Fuel 0.5%",
+                "VLSFO"
+              ],
+              "variants": [
+                "IFO 500"
+              ],
+              "source_pdfs": [
+                "bunker-fuels-specifications.pdf",
+                "freight-specifications.pdf",
+                "oil-timing-increment-guidelines.pdf",
+                "platts-forward-curve-oil-specifications.pdf",
+                "refined-products-americas-specifications.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Environmental Markets",
+      "subcategories": [
+        {
+          "name": "Carbon Credits and Allowances",
+          "commodities": [
+            {
+              "name": "Australian Carbon Credit Unit",
+              "aliases": [
+                "ACCU"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-markets-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Avoidance Carbon Credits",
+              "aliases": [
+                "Avoidance Credits"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-markets-specifications.pdf"
+              ]
+            },
+            {
+              "name": "California Carbon Allowances",
+              "aliases": [
+                "CCA"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "carbon-markets-specifications.pdf",
+                "global-biofuels.pdf"
+              ]
+            },
+            {
+              "name": "CORSIA Eligible Credit",
+              "aliases": [
+                "CEC"
+              ],
+              "variants": [
+                "Pre-CEC"
+              ],
+              "source_pdfs": [
+                "carbon-markets-specifications.pdf",
+                "nonferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "EU Allowances",
+              "aliases": [
+                "EUA"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "bunker-fuels-specifications.pdf",
+                "carbon-markets-specifications.pdf",
+                "coal-specifications.pdf",
+                "european-electricity-specifications.pdf",
+                "freight-specifications.pdf"
+              ]
+            },
+            {
+              "name": "International Carbon Credit",
+              "aliases": [
+                "ICC"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-markets-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Korean Allowance Unit",
+              "aliases": [
+                "KAU"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-markets-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Korean Offset Credit",
+              "aliases": [
+                "KOC"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-markets-specifications.pdf"
+              ]
+            },
+            {
+              "name": "New Zealand Unit",
+              "aliases": [
+                "NZU"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-markets-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Removals Carbon Credits",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-markets-specifications.pdf"
+              ]
+            },
+            {
+              "name": "RGGI Allowances",
+              "aliases": [
+                "RGGI"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-markets-specifications.pdf"
+              ]
+            },
+            {
+              "name": "UK Allowances",
+              "aliases": [
+                "UKA"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-markets-specifications.pdf",
+                "european-electricity-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Verified Carbon Standard Credits",
+              "aliases": [
+                "VCS"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-markets-specifications.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Renewable Certificates and Fuel Credits",
+          "commodities": [
+            {
+              "name": "Canada Clean Fuel Regulation Credits",
+              "aliases": [
+                "CFR"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "global-biofuels.pdf"
+              ]
+            },
+            {
+              "name": "Guarantees of Origin",
+              "aliases": [
+                "GO"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-intensity-specifications.pdf",
+                "european-electricity-specifications.pdf",
+                "renewables-certificates-specifications.pdf"
+              ]
+            },
+            {
+              "name": "HBE Advanced",
+              "aliases": [
+                "HBE-A"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "global-biofuels.pdf"
+              ]
+            },
+            {
+              "name": "HBE Annex IX B",
+              "aliases": [
+                "HBE-B"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "global-biofuels.pdf"
+              ]
+            },
+            {
+              "name": "HBE Conventional",
+              "aliases": [
+                "HBE-C"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "global-biofuels.pdf"
+              ]
+            },
+            {
+              "name": "HBE Other",
+              "aliases": [
+                "HBE-O"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "global-biofuels.pdf"
+              ]
+            },
+            {
+              "name": "Low Carbon Fuel Standard Credits",
+              "aliases": [
+                "LCFS"
+              ],
+              "variants": [
+                "BC LCFS"
+              ],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "carbon-intensity-specifications.pdf",
+                "global-biofuels.pdf"
+              ]
+            },
+            {
+              "name": "Oregon Clean Fuel Program Credits",
+              "aliases": [
+                "OCFP"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "global-biofuels.pdf"
+              ]
+            },
+            {
+              "name": "Renewable Energy Certificate",
+              "aliases": [
+                "REC"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "renewables-certificates-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Renewable Gas Guarantees of Origin",
+              "aliases": [
+                "RGGO"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-intensity-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Renewable Identification Number",
+              "aliases": [
+                "RIN"
+              ],
+              "variants": [
+                "D3",
+                "D4",
+                "D5",
+                "D6"
+              ],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "global-biofuels.pdf"
+              ]
+            },
+            {
+              "name": "THG Annex IX B",
+              "aliases": [
+                "THG-Annex IX B"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "global-biofuels.pdf"
+              ]
+            },
+            {
+              "name": "THG Conventional",
+              "aliases": [
+                "THG-Conventional"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "global-biofuels.pdf"
+              ]
+            },
+            {
+              "name": "THG Other",
+              "aliases": [
+                "THG-Other"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "global-biofuels.pdf"
+              ]
+            },
+            {
+              "name": "Washington Clean Fuel Standard Credits",
+              "aliases": [
+                "WACFS"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "biofuels-specifications.pdf",
+                "global-biofuels.pdf"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Metals",
+      "subcategories": [
+        {
+          "name": "Ferrous",
+          "commodities": [
+            {
+              "name": "Coated Steel",
+              "aliases": [
+                "COATED"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "freight-specifications.pdf",
+                "steel-ferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Cold-Rolled Coil",
+              "aliases": [
+                "CRC"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "carbon-intensity-specifications.pdf",
+                "carbon-markets-specifications.pdf",
+                "iron-ore-specifications.pdf",
+                "lng-specifications.pdf",
+                "steel-ferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Direct Reduced Iron",
+              "aliases": [
+                "DRI"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "iron-ore-specifications.pdf",
+                "steel-ferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Ferroalloys",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "cement-specifications.pdf",
+                "iron-ore-specifications.pdf",
+                "nonferrous-specifications.pdf",
+                "steel-ferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Ferrous Scrap",
+              "aliases": [
+                "Scrap"
+              ],
+              "variants": [
+                "Shredded scrap"
+              ],
+              "source_pdfs": [
+                "cement-specifications.pdf",
+                "freight-specifications.pdf",
+                "iron-ore-specifications.pdf",
+                "nonferrous-specifications.pdf",
+                "steel-ferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Hot-Rolled Coil",
+              "aliases": [
+                "HRC"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "steel-ferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Iron Ore",
+              "aliases": [
+                "IODEX"
+              ],
+              "variants": [
+                "Carbon-Accounted Iron Ore"
+              ],
+              "source_pdfs": [
+                "cement-specifications.pdf",
+                "freight-specifications.pdf",
+                "iron-ore-specifications.pdf",
+                "metals-timing-increment-guidelines.pdf",
+                "nonferrous-specifications.pdf",
+                "steel-ferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Iron Ore Concentrate",
+              "aliases": [
+                "Domestic Concentrate"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "iron-ore-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Iron Ore Fines",
+              "aliases": [
+                "Fines"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "iron-ore-specifications.pdf",
+                "metals-timing-increment-guidelines.pdf",
+                "nonferrous-specifications.pdf",
+                "steel-ferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Iron Ore Lump",
+              "aliases": [
+                "Lump"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "apac-me-crude-specifications.pdf",
+                "bunker-fuels-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "fertecon-specifications.pdf",
+                "freight-specifications.pdf",
+                "iron-ore-specifications.pdf",
+                "lng-specifications.pdf",
+                "metals-timing-increment-guidelines.pdf",
+                "nonferrous-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf",
+                "steel-ferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Iron Ore Pellets",
+              "aliases": [
+                "Pellet"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-americas-specifications.pdf",
+                "chemicals-asia-pacific-specifications.pdf",
+                "chemicals-europe-specifications.pdf",
+                "coal-specifications.pdf",
+                "iron-ore-specifications.pdf",
+                "metals-timing-increment-guidelines.pdf",
+                "steel-ferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Metallics",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "nonferrous-specifications.pdf",
+                "steel-ferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Pellet Feed",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "iron-ore-specifications.pdf",
+                "metals-timing-increment-guidelines.pdf"
+              ]
+            },
+            {
+              "name": "Rebar",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "steel-ferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Stainless Steel",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "freight-specifications.pdf",
+                "nonferrous-specifications.pdf",
+                "steel-ferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Steel Billet",
+              "aliases": [
+                "Billet"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "nonferrous-specifications.pdf",
+                "steel-ferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Steel Plate",
+              "aliases": [
+                "PLATE"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "grains-oilseeds-specifications.pdf",
+                "nonferrous-specifications.pdf",
+                "steel-ferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Steel Slab",
+              "aliases": [
+                "Slab"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "steel-ferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Wire Rod",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "steel-ferrous-specifications.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Nonferrous",
+          "commodities": [
+            {
+              "name": "Alumina",
+              "aliases": [
+                "SGA"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "freight-specifications.pdf",
+                "iron-ore-specifications.pdf",
+                "metals-timing-increment-guidelines.pdf",
+                "nonferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Aluminum",
+              "aliases": [
+                "Aluminium"
+              ],
+              "variants": [
+                "P1020"
+              ],
+              "source_pdfs": [
+                "bunker-fuels-specifications.pdf",
+                "freight-specifications.pdf",
+                "metals-timing-increment-guidelines.pdf",
+                "nonferrous-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf",
+                "steel-ferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Aluminum Alloy",
+              "aliases": [
+                "ADC12"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "nonferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Cathode Active Material",
+              "aliases": [
+                "CAM"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "nonferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Cobalt",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "nonferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Copper",
+              "aliases": [],
+              "variants": [
+                "Copper Cathode"
+              ],
+              "source_pdfs": [
+                "chemicals-europe-specifications.pdf",
+                "freight-specifications.pdf",
+                "nonferrous-specifications.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf",
+                "steel-ferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Copper Concentrate",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "nonferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Copper Scrap",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "nonferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Graphite",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "nonferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Lead",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "chemicals-asia-pacific-specifications.pdf",
+                "iron-ore-specifications.pdf",
+                "nonferrous-specifications.pdf",
+                "refined-products-americas-specifications.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf",
+                "steel-ferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Lead Scrap",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "nonferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Lithium",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "nonferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Magnesium",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "nonferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Manganese",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "freight-specifications.pdf",
+                "nonferrous-specifications.pdf",
+                "refined-products-asia-pacific-middle-east-specifications.pdf",
+                "steel-ferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Nickel",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "america-crude-specifications.pdf",
+                "apac-me-crude-specifications.pdf",
+                "emea-crude-specifications.pdf",
+                "freight-specifications.pdf",
+                "nonferrous-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf",
+                "steel-ferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Nickel Pig Iron",
+              "aliases": [
+                "NPI"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "nonferrous-specifications.pdf",
+                "steel-ferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Silicon",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "bunker-fuels-specifications.pdf",
+                "nonferrous-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf",
+                "steel-ferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Tin",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "nonferrous-specifications.pdf",
+                "steel-ferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Titanium",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "nonferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Zinc",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "bunker-fuels-specifications.pdf",
+                "nonferrous-specifications.pdf",
+                "refined-products-europe-africa-specifications.pdf",
+                "steel-ferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Zinc Secondary Alloys",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "nonferrous-specifications.pdf"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Precious and Nuclear",
+          "commodities": [
+            {
+              "name": "Platinum",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "nonferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Rhodium",
+              "aliases": [],
+              "variants": [],
+              "source_pdfs": [
+                "nonferrous-specifications.pdf"
+              ]
+            },
+            {
+              "name": "Uranium",
+              "aliases": [
+                "U3O8"
+              ],
+              "variants": [],
+              "source_pdfs": [
+                "uranium-specifications.pdf"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "needs_review": [
+    {
+      "term": "Ammonia",
+      "reason": "Can be fuel/energy carrier or fertilizer input. Kept in Energy > Hydrogen and Ammonia; also appears in fertilizer contexts.",
+      "chosen_category": "Energy > Hydrogen and Ammonia",
+      "source_pdfs": [
+        "chemicals-americas-specifications.pdf",
+        "fertecon-specifications.pdf",
+        "freight-specifications.pdf",
+        "hydrogen-ammonia-methodology.pdf"
+      ]
+    },
+    {
+      "term": "Naphtha",
+      "reason": "Can be refined product and petrochemical feedstock. Kept in Energy > Refined Products.",
+      "chosen_category": "Energy > Refined Products",
+      "source_pdfs": [
+        "america-crude-specifications.pdf",
+        "apac-me-crude-specifications.pdf",
+        "biofuels-specifications.pdf",
+        "chemicals-americas-specifications.pdf",
+        "chemicals-asia-pacific-specifications.pdf",
+        "chemicals-europe-specifications.pdf",
+        "freight-specifications.pdf",
+        "global-biofuels.pdf",
+        "lng-specifications.pdf",
+        "oil-timing-increment-guidelines.pdf",
+        "platts-forward-curve-oil-specifications.pdf",
+        "refined-products-americas-specifications.pdf",
+        "refined-products-asia-pacific-middle-east-specifications.pdf",
+        "refined-products-europe-africa-specifications.pdf"
+      ]
+    },
+    {
+      "term": "Methanol",
+      "reason": "Appears as chemical and marine fuel. Kept in Chemicals > Methanol and Ethers with MMF variant.",
+      "chosen_category": "Chemicals > Methanol and Ethers",
+      "source_pdfs": [
+        "biofuels-specifications.pdf",
+        "bunker-fuels-specifications.pdf",
+        "chemicals-americas-specifications.pdf",
+        "chemicals-asia-pacific-specifications.pdf",
+        "chemicals-europe-specifications.pdf",
+        "chemicals-timing.pdf",
+        "global-biofuels.pdf",
+        "refined-products-asia-pacific-middle-east-specifications.pdf"
+      ]
+    },
+    {
+      "term": "Sulfur",
+      "reason": "Appears as fertilizer commodity and crude/refined quality parameter. Kept in Agriculture > Fertilizers.",
+      "chosen_category": "Agriculture > Fertilizers",
+      "source_pdfs": [
+        "america-crude-specifications.pdf",
+        "apac-me-crude-specifications.pdf",
+        "biofuels-specifications.pdf",
+        "bunker-fuels-specifications.pdf",
+        "carbon-intensity-specifications.pdf",
+        "cement-specifications.pdf",
+        "chemicals-asia-pacific-specifications.pdf",
+        "chemicals-europe-specifications.pdf",
+        "coal-specifications.pdf",
+        "emea-crude-specifications.pdf",
+        "europe-natural-gas-specifications.pdf",
+        "european-electricity-specifications.pdf",
+        "fertecon-specifications.pdf",
+        "freight-specifications.pdf",
+        "global-biofuels.pdf",
+        "iron-ore-specifications.pdf",
+        "japan-domestic-oil-products-specifications.pdf",
+        "lng-specifications.pdf",
+        "metcoal-specifications.pdf",
+        "nonferrous-specifications.pdf",
+        "north-sea-sulfur-de-escalator.pdf",
+        "oil-timing-increment-guidelines.pdf",
+        "platts-forward-curve-oil-specifications.pdf",
+        "refined-products-americas-specifications.pdf",
+        "refined-products-asia-pacific-middle-east-specifications.pdf",
+        "refined-products-europe-africa-specifications.pdf",
+        "russia-domestic-oil-products-specifications.pdf",
+        "steel-ferrous-specifications.pdf"
+      ]
+    },
+    {
+      "term": "Coke",
+      "reason": "Used for both petroleum coke and metallurgical coke. Split into two commodities under Energy > Coal and Coke.",
+      "chosen_category": "Energy > Coal and Coke",
+      "source_pdfs": [
+        "bunker-fuels-specifications.pdf",
+        "coal-specifications.pdf",
+        "metcoal-specifications.pdf",
+        "nonferrous-specifications.pdf",
+        "steel-ferrous-specifications.pdf",
+        "us-canada-natural-gas-methodology.pdf"
+      ]
+    },
+    {
+      "term": "Fuel Oil",
+      "reason": "Generic label can overlap HSFO/VLSFO marine bunker products. Kept as parent commodity with separate HSFO/VLSFO entries.",
+      "chosen_category": "Energy > Refined Products",
+      "source_pdfs": [
+        "america-crude-specifications.pdf",
+        "bunker-fuels-specifications.pdf",
+        "chemicals-americas-specifications.pdf",
+        "chemicals-asia-pacific-specifications.pdf",
+        "chemicals-europe-specifications.pdf",
+        "europe-natural-gas-specifications.pdf",
+        "european-electricity-specifications.pdf",
+        "freight-specifications.pdf",
+        "japan-domestic-oil-products-specifications.pdf",
+        "lng-specifications.pdf",
+        "north-sea-sulfur-de-escalator.pdf",
+        "oil-timing-increment-guidelines.pdf",
+        "platts-forward-curve-oil-specifications.pdf",
+        "refined-products-americas-specifications.pdf",
+        "refined-products-asia-pacific-middle-east-specifications.pdf",
+        "refined-products-europe-africa-specifications.pdf",
+        "russia-domestic-oil-products-specifications.pdf"
+      ]
+    },
+    {
+      "term": "Freight",
+      "reason": "Freight rates are not physical commodities; excluded from categories and flagged for review if needed for headline routing.",
+      "chosen_category": "Excluded (non-commodity market service)",
+      "source_pdfs": [
+        "america-crude-specifications.pdf",
+        "apac-me-crude-specifications.pdf",
+        "biofuels-specifications.pdf",
+        "carbon-intensity-specifications.pdf",
+        "cement-specifications.pdf",
+        "chemicals-americas-specifications.pdf",
+        "chemicals-asia-pacific-specifications.pdf",
+        "chemicals-europe-specifications.pdf",
+        "coal-specifications.pdf",
+        "crude-oil-market-parity-prices-specifications.pdf",
+        "emea-crude-specifications.pdf",
+        "fertecon-specifications.pdf",
+        "freight-specifications.pdf",
+        "global-biofuels.pdf",
+        "grains-oilseeds-specifications.pdf",
+        "hydrogen-ammonia-methodology.pdf",
+        "iron-ore-specifications.pdf",
+        "lng-specifications.pdf",
+        "lng-timing-specifications.pdf",
+        "metcoal-specifications.pdf",
+        "nonferrous-specifications.pdf",
+        "refined-products-americas-specifications.pdf",
+        "refined-products-asia-pacific-middle-east-specifications.pdf",
+        "refined-products-europe-africa-specifications.pdf",
+        "russia-domestic-oil-products-specifications.pdf",
+        "steel-ferrous-specifications.pdf",
+        "sugar-methodology.pdf",
+        "sugar-specifications.pdf"
+      ]
+    },
+    {
+      "term": "Carbon Intensity",
+      "reason": "Carbon intensity is a metric rather than a tradable commodity. Related instruments are included under Environmental Markets.",
+      "chosen_category": "Excluded metric; related credits in Environmental Markets",
+      "source_pdfs": [
+        "biofuels-specifications.pdf",
+        "carbon-intensity-specifications.pdf",
+        "chemicals-asia-pacific-specifications.pdf",
+        "chemicals-europe-specifications.pdf",
+        "fertecon-specifications.pdf",
+        "global-biofuels.pdf",
+        "hydrogen-ammonia-methodology.pdf",
+        "iron-ore-specifications.pdf",
+        "lng-specifications.pdf"
+      ]
+    },
+    {
+      "term": "Electricity",
+      "reason": "Electricity appears as power index/assessment products rather than physical inventories. Kept in Energy > Power for taxonomy utility.",
+      "chosen_category": "Energy > Power",
+      "source_pdfs": [
+        "Platts-J-Credit-FAQ.pdf",
+        "biofuels-specifications.pdf",
+        "carbon-markets-specifications.pdf",
+        "coal-specifications.pdf",
+        "crude-oil-market-parity-prices-specifications.pdf",
+        "europe-natural-gas-specifications.pdf",
+        "european-electricity-specifications.pdf",
+        "global-biofuels.pdf",
+        "hydrogen-ammonia-methodology.pdf",
+        "renewables-certificates-specifications.pdf",
+        "us-canada-natural-gas-methodology.pdf",
+        "us-electricity-methodology.pdf"
+      ]
+    }
+  ]
+}

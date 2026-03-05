@@ -1,0 +1,110 @@
+    Specifications Guide
+    Global Jet Indexes
+    Latest update: December 2025
+    Definitions of the trading locations for which Platts 
+    publishes daily indexes or assessments ..................... 2
+    World jet fuel indexes .................................................. 2
+                     ................................ 3
+    Regional jet fuel index composition
+    Revision history ....................................................... 4
+    www.spglobal.com/energy
+          Specifications Guide             Global Jet Indexes: December 2025
+          Definitions of the trading locations for which Platts publishes daily indexes or assessments
+          The following specifications guide contains the component assessments and weightings used in Platts World Jet Fuel Indexes. All the component assessments listed here employ Platts Assessments 
+          Methodology, as published at https://www.spglobal.com/platts/plattscontent/_assets/_files/en/our-methodology/methodology-specifications/platts-assessments-methodology-guide.pdf.
+          These guides are designed to give Platts subscribers as much information as possible about a wide range of methodology and specification questions.
+          This guide is current at the time of publication. Platts may issue further updates and enhancements to this guide and will announce these to subscribers through its usual publications of record. Such 
+          updates will be included in the next version of this guide. Platts editorial staff and managers are available to provide guidance when assessment issues require clarification.
+          World jet fuel indexes
+          Assessment                                  US Cents/Gallon                   US $/Barrel                        US $/MT                           Relative Value                     Relative Value (Mavg)             Contract Basis
+          Jet Index Global                            PJGLO07                           PJGLO08                            PJGLO09                           PJGLO00                            PJGLO03                           INDEX
+          Jet Index Asia & Oceania                    PJASO07                           PJASO08                            PJASO09                           PJASO00                                                              INDEX
+          Jet Index Europe & CIS                      PJECI07                           PJECI08                            PJECI09                           PJECI00                                                              INDEX
+          Jet Index Latin America & Caribbean         PJLAC07                           PJLAC08                            PJLAC09                           PJLAC00                                                              INDEX
+          Jet Index Middle East                       PJMEA07                           PJMEA08                            PJMEA09                           PJMEA00                                                              INDEX
+          Jet Index North America                     PJNAM07                           PJNAM08                            PJNAM09                           PJNAM00                                                              INDEX
+          Jet Index Africa                            JIMEA00                           JIMEB00                            JIMEC00                           JIMED00                                                              INDEX
+          World jet fuel indexes                                                               averaging these regional indexes, weighted by the proportion of                       Global Jet Fuel Index: Six major regions are represented in the 
+                                                                                               world demand for the product captured in each region.                                 global index: Asia & Oceania; Europe and the Commonwealth of 
+          The Platts Global Jet Fuel Index is a weighted average of Platts                                                                                                           Independent States; the Middle East; Africa; North America; and 
+          jet fuel assessments from major global trading, supply and                           The assessments that feed into the global and regional                                Latin America. The current proportional weighting of each region 
+          demand centers. The weightings in the index represent a broad                        indexes are produced at Platts offices across the world. The                          in the Global Jet Fuel Index is shown in the following table:
+          view of proportional demand for jet fuel around the world.                           underlying methodology for these assessments, including                               North America                                      38.61%
+          The weightings are reviewed periodically to keep the index                           examples of calculation, can be found in the regional                                 Europe & CIS                                       28.47%
+          representative of global supply and demand trends.                                   methodology guides, which are available at: https://www.                              Asia & Oceania                                     21.74%
+                                                                                               spglobal.com/platts/en/our-methodology/methodology-                                   Middle East                                         5.33%
+                                                                                                                                                                                     Latin America                                       4.08%
+          Platts creates its global index by first assembling regional                         specifications/oil. Each office follows local holiday schedules,                      Africa                               1.77%
+          indexes, which reflect specific local Platts spot market                             and consequently there are days where one or more of the                              The Platts Global Jet Fuel Index is published daily on Platts 
+          assessments with proportional weightings that broadly capture                        assessments carried in the index is not published. When                               Global Alert page 115, and once a week on the website of the 
+          the relative demand for jet fuel in the region, expressed as a                       a market is not assessed on a particular day, the previous                            International Air Transport Association (IATA): IATA - Fuel Price 
+          percentage of regional demand. The global index is created by                        working day’s spot assessment is used.                                                Monitor.
+          © 2025 by S&P Global Inc. All rights reserved.         2
+          Specifications Guide             Global Jet Indexes: December 2025
+          Regional jet fuel index composition
+          The index for each of the regions is comprised of assessments of the value of jet fuel at specific trading locations. Each of the individual Platts assessments is given a weighting by Platts in the regional 
+          baskets, based primarily on uplift data and trading volume.
+          Platts assessment                                            Code                                           Conversion                                      Region                                         Weighting
+          Jet C+F Japan                                                PJAAN00                                        7.90                                            Asia & Oceania                                 23.00%
+          Jet FOB Singapore                                            PJABF00                                        7.90                                            Asia & Oceania                                 63.50%
+          Jet C+F South China                                          PJABQ00                                        7.90                                            Asia & Oceania                                 13.50%
+          Jet CIF NWE                                                  PJAAU00                                        7.89                                            Europe & CIS                                   50.00%
+          Jet FOB FARAG                                                PJABA00                                        7.89                                            Europe & CIS                                   50.00%
+          Jet Kero FOB Arab Gulf                                       PJAAA00                                        7.90                                            Middle East                                    50.00%
+          Jet Kero FOB Fujairah                                        AFUJF00                                        7.90                                            Middle East                                    50.00%
+          Jet FOB Med                                                  AAIDL00                                        7.89                                            Africa                                         30.00%
+          Jet FOB STS Lome                                             AJWAA00                                        7.89                                            Africa                                         35.00%
+          Jet CFR South Africa                                         AAQWT00                                        7.90                                            Africa                                         35.00%
+          Jet Kero 54 USGC Pipeline                                    PJABO00                                        7.90                                            North America                                  50.00%
+          Jet Kero LA Pipeline                                         PJAAP00                                        7.90                                            North America                                  25.00%
+          Jet Kero New York Harbor Barge                               PJAAW00                                        7.90                                            North America                                  25.00%
+          Jet CIF Eastern Mexico                                       AATFG00                                        7.90                                            Latin America                                  60.00%
+          Jet CFR Santos                                               AJAAD00                                        7.90                                            Latin America                                  40.00%
+          Regional jet fuel index composition                                                  dollars per metric ton and US cents per gallon. These values are                      year 2000. The final index values are compared with average 
+                                                                                               derived by converting each original assessment into a volumetric                      spot prices in 2000, similarly weighted by estimated uplift 
+          The index for each of the regions is comprised of                                    assessment (barrels and gallons) and mass-based assessment                            during that period, to generate a percentage figure reflecting 
+          assessments of the value of jet fuel at specific trading                             (metric tons) using local conversion factors. The above table                         the overall rise in markets compared to the base period. As an 
+          locations. Each of the individual Platts assessments is given                        describes the components of the regional indexes, the                                 example, a relative index value of 200% reflects a doubling of 
+          a weighting by Platts in the regional baskets, based primarily                       weightings they are assigned and the conversion factors used.                         prices since the year 2000.
+          on uplift data and trading volume.
+                                                                                               Relative Value Index: In addition to the global and regional jet                      For the Africa jet fuel index which was launched on Jan 2, 2025, 
+          For ease of comparison, Platts publishes its global and regional                     fuel price indexes, which reflect current world prices, Platts                        Platts determines this base value by calculating the average 
+          jet fuel indexes in the three most commonly referenced units                         also publishes global and regional Relative Value Indexes, which                      value of the same index in the year 2024.
+          of measurement in global markets: US dollars per barrel, US                          express the value of the index in relation to jet fuel prices in the 
+          © 2025 by S&P Global Inc. All rights reserved.         3
+          Specifications Guide             Global Jet Indexes: December 2025
+          Revision history                                                                     assessments used in its Middle East & Africa jet fuel index                           July 2017: Platts completed an annual review of the World 
+                                                                                               with effect from January, 4, 2021 to include CFR South Africa                         Gasoil and Jet Indexes methodology guide. Platts reviewed 
+          December 2025: Platts completed an annual review of the                              and FOB STS Lome jet fuel assessments and the replacement                             all content, made minor edits to language and streamlined 
+          World Jet Indexes methodology guide, reviewing all content                           of the FOB AG LR2 assessment with the benchmark FOB AG                                naming conventions for the indexes in the guide. Platts also 
+                                                                                               LR1 assessment. Platts updated the jet fuel metric ton-to-                            included details of the calculations involved in the Asia, Europe 
+          January 2025: Platts has amended the composition of its                              barrel conversion factor for its European, West African and AG                        and Americas Gasoil Indexes. In addition, Platts updated this 
+          Middle East and Africa jet fuel index to reflect only Middle                         assessments.                                                                          guide to reflect revised assessments and weightings used 
+          East assessments and renamed it to Platts Middle East jet                                                                                                                  in the calculation of the Latin America Gasoil Index and the 
+          fuel index. At the same time, Platts has launched a new Africa                       January 2020: Platts completed an annual review of the World                          Americas Gasoil Index, which also form part of the Platts 
+          jet fuel index, and amended the Global Jet Fuel Index basket                         Jet Indexes methodology guide, reviewing all content, correcting                      Global Gasoil Index.
+          weightings, effective Jan. 2, 2025.                                                  typos and making minor edits to language.
+                                                                                                                                                                                     February 2016: Platts updated this guide in February 2016 
+          March 2024: Platts completed an annual review of the World                           June 2019: Platts completed an annual update to sections 1 to                         to clarify the North American Jet Fuel Index calculation and 
+          Jet Indexes methodology guide, reviewing all content.                                6 of Platts Methodology and Specifications Guides in April 2019,                      reflect the methodology change made in April 2015. In it, 
+                                                                                               and moved these sections into a standalone Methodology Guide.                         Platts discontinued the New York Harbor jet fuel CIF Cargo 
+          March 2023: Platts completed an annual review of the World                           In addition, Platts updated this guide to reflect the change in the                   assessment in April 2015 and adjusted the North America 
+          Jet Indexes methodology guide, reviewing all content. The guide                      components of the Latin America and Caribbean Jet Fuel Index                          index calculation to reflect the New York Harbor jet fuel barge 
+          was updated to reflect the change in the weightings for the                          on June 3, to include delivered jet fuel prices to Mexico and                         assessment in its place. Platts also adjusted the calculation 
+          underlying assessments used for the composition of the Latin                         Brazil, as well as a standardization of the conversion rate to 7.9.                   by replacing the US Gulf Coast waterborne jet fuel and US Gulf 
+          America & Caribbean Index, where the weighting for Jet CIF                                                                                                                 Coast waterborne 55 grade kerosene components with US Gulf 
+          Eastern Mexico AATFG00 was amended to reflect 60.00%, Jet                            January 2019: Platts completed an annual review of the World                          Coast pipeline jet fuel.
+          CFR Santos AJAAD00 was amended to reflect 40.00%, and Jet                            Jet Indexes methodology guide, reviewing all content, correcting 
+          Kero Caribbean PJAAD00 was removed from the basket entirely,                         typos and making minor edits to language. Platts also added                           August 2013: Platts revamped all Oil Methodology and 
+          following its discontinuation on July 1, 2021. All references to                     new sections I to VI, and added language in Section VII to                            Specifications Guides, including its Global Gasoil Index 
+          “Caribbean” are also removed from the nomenclature reflected                         provide greater detail on the construction of the global and                          and Global Jet Fuel Index guides, in August 2013. The two 
+          In the previous “Latin America & Caribbean” indexes.                                 regional indexes. In addition, the loading basis of the symbol                        guides were merged together into a single guide through 
+                                                                                               PJABA00 was updated to reflect the change in methodology to                           this process. This revamp was completed to enhance the 
+          February 2022: Platts completed an annual review of the                              Jet FOB FARAG.                                                                        clarity and usefulness of all guides, and to introduce greater 
+          World Jet Indexes methodology guide, reviewing all content.                                                                                                                consistency of layout and structure across all published 
+                                                                                               May 2018: Platts completed an annual review of the World                              methodology guides. Methodologies for market coverage were 
+          January 2021: Platts completed an annual review of the                               Jet Indexes methodology guide and updated some language                               not changed through this revamp, unless specifically noted 
+          World Jet Indexes methodology guide, reviewing all content,                          in sections 1 to 6 to reflect harmonization across Platts                             in the methodology guide itself. Global index calculations 
+          correcting typos and making minor edits to language. The                             methodology guides. The guide was also updated to reflect the                         described in this guide were not changed through the June 
+          guide was updated to reflect the change in the underlying                            discontinuation of the Gasoil indexes.                                                2013 review.
+          © 2025 by S&P Global Inc. All rights reserved.         4

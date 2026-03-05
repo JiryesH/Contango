@@ -1,0 +1,793 @@
+    Specifications Guide
+    Americas Crude Oil
+    Latest update: October 2025
+    Definitions of the trading locations for which Platts 
+    publishes daily indexes or assessments ..................... 2
+    United States .............................................................7
+    Canada ................................................................... 13
+    Latin America ........................................................... 16
+    Revision history ......................................................19
+    www.spglobal.com/commodityinsights
+           Specifications Guide                  Americas Crude Oil: October 2025
+           Definitions of the trading locations for which Platts publishes daily indexes or assessments
+           The following specifications guide contains the primary specifications for S&P Global Commodity Insights’ Platts crude oil assessments in the Americas. All the assessments listed here employ Platts 
+           Assessments Methodology, as published at https://www.spglobal.com/commodity-insights/plattscontent/_assets/_files/en/our-methodology/methodology-specifications/platts-assessments-
+           methodology-guide.pdf.
+           These guides are designed to give Platts subscribers as much information as possible about a wide range of methodology and specification questions.
+           This guide is current at the time of publication. Platts may issue further updates and enhancements to this guide and will announce these to subscribers through its usual publications of record.  
+           Such updates will be included in the next version of this guide. Platts editorial staff and managers are available to provide guidance when assessment issues require clarification.
+           United States
+           Assessment                                               Code              Mavg             Pavg              Wavg       Contract basis            Location                          Delivery period    Min size       Max size          Typical size     Currency          UOM
+           Pipeline assessments
+           WTI M1                                                   PCACG00           PCACG03          AAFCV00                      ex-tank                   Cushing                           M+1                25,000         -                 -                US $              Barrels
+           WTI M2                                                   PCACH00           PCACH03          AAFCX00                      ex-tank                   Cushing                           M+2                25,000         -                 -                US $              Barrels
+           WTI M3                                                   AAGIT00           AAGIT03          AAGIU00                      ex-tank                   Cushing                           M+3                25,000         -                 -                US $              Barrels
+           WTI EFP M1                                               AAGVT00           AAGVT03          AAGVT02                      ex-tank                   Cushing                           M+1                25,000         -                 -                US $              Barrels
+           WTI EFP M2                                               AAGVU00           AAGVU03          AAGVU02                      ex-tank                   Cushing                           M+2                25,000         -                 -                US $              Barrels
+           WTI EFP M3                                               AAGVV00           AAGVV03          AAGVV02                      ex-tank                   Cushing                           M+3                25,000         -                 -                US $              Barrels
+           WTI (Midland)                                            PCACJ00           PCACJ03          AAFCY00                      Delivered                 Midland, Texas                    M+1                25,000         -                 -                US $              Barrels
+           WTI (Midland) vs 1st Line WTI                            AAGVZ00           AAGWA00          AAGWA02                      Delivered                 Midland, Texas                    M+1                25,000         -                 -                US $              Barrels
+           WTI (Midland) vs ICE HOU                                 WMVIH00           WMVIH03                                       Delivered                 Midland, Texas                    M+1                25,000         -                 -                US $              Barrels
+           WTI (Midland) M2                                         AAYZA00           AAYZA03          AAYZA02                      Delivered                 Midland, Texas                    M+2                25,000         -                 -                US $              Barrels
+           WTI (Midland) M2 vs 2nd Line WTI                         AAXXF00           AAXXF03          AAXXF02                      Delivered                 Midland, Texas                    M+2                25,000         -                 -                US $              Barrels
+           WTI MEH                                                  AAYRG00           AAYRG03                                       FIP                       Houston                           M+1                25,000         -                 -                US $              Barrels
+           WTI MEH vs 1st Line WTI                                  AAYRH00           AAYRH03                                       FIP                       Houston                           M+1                25,000         -                 -                US $              Barrels
+           WTI MEH M2                                               AAXXE00           AAXXE03                                       FIP                       Houston                           M+2                25,000         -                 -                US $              Barrels
+           WTI MEH M2 vs 2nd Line WTI                               AAYYA00           AAYYA03                                       FIP                       Houston                           M+2                25,000         -                 -                US $              Barrels
+           WTI-Delta                                                AAEJK00           AAEJL00          AAEJK03                      ex-tank                   Cushing                           M+1                25,000         -                 -                US $              Barrels
+           P-Plus WTI                                               PCACI00           PCACI03          AAFCT00                      ex-tank                   Cushing                           M+1                25,000         -                 -                US $              Barrels
+           P-5 WTI                                                  AAFEN00                                                         ex-tank                   Cushing                           M+1                25,000         -                 -                US $              Barrels
+           Bakken Williston                                         AAXPP00           AAXPP03          AAXPP02                      Delivered                 Williston Basin                   M+1                25,000         -                 -                US $              Barrels
+           Bakken Williston vs WTI CMA                              AASRX00           AASRX03                                       Delivered                 Williston Basin                   M+1                25,000         -                 -                US $              Barrels
+           Bakken Clearbrook                                        AASRU00           AASRU13          AASRU03                      Delivered                 Clearbrook, Minnesota             M+1                25,000         -                 -                US $              Barrels
+           Bakken Clearbrook vs NYMEX WTI CMA                       AASRW00           AASRW13          AASRW03                      Delivered                 Clearbrook, Minnesota             M+1                25,000         -                 -                US $              Barrels
+           Bakken Guernsey                                          AASRR00           AASRR13          AASRR03                      Delivered                 Guernsey, Wyoming                 M+1                25,000         -                 -                US $              Barrels
+           Bakken Guernsey vs NYMEX WTI CMA                         AASRV00           AASRV13          AASRV03                      Delivered                 Guernsey, Wyoming                 M+1                25,000         -                 -                US $              Barrels
+           Bakken USGC Pipe                                         ABAKA00           ABAKA03                                       Delivered                 Nederland/Beaumont, Texas M+1                        25,000                                            US $              Barrels
+           Bakken USGC Pipe  vs NYMEX WTI CMA                       ABAKB00           ABAKB03                                       Delivered                 Nederland/Beaumont, Texas M+1                        25,000                                            US $              Barrels
+           Bonito                                                   PCAIE00           PCAIH03          AAFCI00                      Delivered                 St. James, Louisiana              M+1                25,000         -                 -                US $              Barrels
+           Bonito vs 1st Line WTI                                   AAGWF00           AAGWG00          AAGWG02                      Delivered                 St. James, Louisiana              M+1                25,000         -                 -                US $              Barrels
+           © 2025 by S&P Global Inc. All rights reserved.
+                                                                     2
+           Specifications Guide                  Americas Crude Oil: October 2025
+           United States
+           Assessment                                               Code              Mavg             Pavg              Wavg       Contract basis            Location                          Delivery period    Min size       Max size          Typical size     Currency          UOM
+           HLS (1st month)                                          PCABD00           PCABD03          AAFCK00                      Delivered                 Empire, Louisiana                 M+1                25,000         -                 -                US $              Barrels
+           HLS (1st month) vs 1st Line WTI                          AAGWP00           AAGWQ00          AAGWQ02                      Delivered                 Empire, Louisiana                 M+1                25,000         -                 -                US $              Barrels
+           HLS (2nd month)                                          AAURE00           AAURE13          AAURE03                      Delivered                 Empire, Louisiana                 M+2                25,000         -                 -                US $              Barrels
+           HLS (2nd month)  vs 2nd Line WTI                         AAURF00           AAURF13          AAURF03                      Delivered                 Empire, Louisiana                 M+2                25,000         -                 -                US $              Barrels
+           Light Houston Sweet (LHS)                                AAXEW00           AAXEW03                                       FIP                       Houston                           M+1                25,000         -                 -                US $              Barrels
+           Light Houston Sweet (LHS) M2                             AAYRY00                            AAYRY02                      FIP                       Houston                           M+2                25,000         -                 -                US $              Barrels
+           LOOP Sour M1                                             AALSM01           AALSR03                                       In-cavern title transfer LOOP Clovelly Hub, Louisiana M+1                      25,000         -                 -                US $              Barrels
+           LOOP Sour vs WTI  M1                                     AALOM01           AALOP03                                       In-cavern title transfer LOOP Clovelly Hub, Louisiana M+1                      25,000         -                 -                US $              Barrels
+           LOOP Sour vs Mars M1                                     AALPM01           AALPR03                                       In-cavern title transfer LOOP Clovelly Hub, Louisiana M+1                      25,000         -                 -                US $              Barrels
+           LOOP Sour M2                                             AALSM02           AALSS03                                       In-cavern title transfer LOOP Clovelly Hub, Louisiana M+2                      25,000         -                 -                US $              Barrels
+           LOOP Sour vs WTI  M2                                     AALOM02           AALOQ03                                       In-cavern title transfer LOOP Clovelly Hub, Louisiana M+2                      25,000         -                 -                US $              Barrels
+           LOOP Sour vs Mars M2                                     AALPM02           AALPS03                                       In-cavern title transfer LOOP Clovelly Hub, Louisiana M+2                      25,000         -                 -                US $              Barrels
+           LOOP Sour M3                                             AALSM03           AALSV03                                       In-cavern title transfer LOOP Clovelly Hub, Louisiana M+3                      25,000         -                 -                US $              Barrels
+           LOOP Sour vs WTI  M3                                     AALOM03           AALOR03                                       In-cavern title transfer LOOP Clovelly Hub, Louisiana M+3                      25,000         -                 -                US $              Barrels
+           LOOP Sour vs Mars M3                                     AALPM03           AALPT03                                       In-cavern title transfer LOOP Clovelly Hub, Louisiana M+3                      25,000         -                 -                US $              Barrels
+           LLS (1st month)                                          PCABN00           PCABN03          AAFCO00           AAIIQ00 Delivered                    St. James, Louisiana              M+1                25,000         -                 -                US $              Barrels
+           LLS (1st month) vs 1st Line WTI                          AAGWN00           AAGWO00          AAGWO02                      Delivered                 St. James, Louisiana              M+1                25,000         -                 -                US $              Barrels
+           LLS (2nd month)                                          AAURC00           AAURC13          AAURC03                      Delivered                 St. James, Louisiana              M+2                25,000         -                 -                US $              Barrels
+           LLS (2nd month)  vs 2nd Line WTI                         AAURD00           AAURD13          AAURD03                      Delivered                 St. James, Louisiana              M+2                25,000         -                 -                US $              Barrels
+           Mars M1                                                  AAMBR00           AAMBS00          AAMBS02           AAIIM00 Delivered                    LOOP Clovelly Hub, Louisiana M+1                     25,000         -                 -                US $              Barrels
+           Mars M1 vs WTI                                           AAGWH00           AAGWK00          AAGWK02                      Delivered                 LOOP Clovelly Hub, Louisiana M+1                     25,000         -                 -                US $              Barrels
+           Mars M2                                                  AAMBU00           AAMBV00          AAMBV02                      Delivered                 LOOP Clovelly Hub, Louisiana M+2                     25,000         -                 -                US $              Barrels
+           Mars M2 vs WTI                                           AAKTH00           AAKTI00          AAKTI02                      Delivered                 LOOP Clovelly Hub, Louisiana M+2                     25,000         -                 -                US $              Barrels
+           Mars M3                                                  AAMBX00           AAMBY00          AAMBY02                      Delivered                 LOOP Clovelly Hub, Louisiana M+3                     25,000         -                 -                US $              Barrels
+           Mars M3 vs WTI                                           AAMBO00           AAMBP00          AAMBP02                      Delivered                 LOOP Clovelly Hub, Louisiana M+3                     25,000         -                 -                US $              Barrels
+           Mars M1 vs Mars M2 Spread                                AAWFC00                                                         Delivered                 LOOP Clovelly Hub, Louisiana M+1                     25,000         -                 -                US $              Barrels
+           Mars M2 vs Mars M3 Spread                                AAWFD00                                                         Delivered                 LOOP Clovelly Hub, Louisiana M+2                     25,000         -                 -                US $              Barrels
+           Mars M2 vs Dubai M1                                      MVDM021                                                         Delivered                 LOOP Clovelly Hub, Louisiana M+2                     25,000         -                 -                US $              Barrels
+           Mars M3 vs Dubai M2                                      MVDM032                                                         Delivered                 LOOP Clovelly Hub, Louisiana M+3                     25,000         -                 -                US $              Barrels
+           Poseidon                                                 AABHK00           AABHL00          AAFCQ00                      Delivered                 Houma, Louisiana                  M+1                25,000         -                 -                US $              Barrels
+           Poseidon vs 1st Line WTI                                 AAGWL00           AAGWM00          AAGWM02                      Delivered                 Houma, Louisiana                  M+1                25,000         -                 -                US $              Barrels
+           SGC                                                      AASOI00           AASOI03          AASOI02                      Delivered                 Nederland, Texas                  M+1                25,000         -                 -                US $              Barrels
+           SGC vs 1st Line WTI                                      AASOJ00           AASOJ03          AASOJ02                      Delivered                 Nederland, Texas                  M+1                25,000         -                 -                US $              Barrels
+           Thunder Horse                                            AAWZK00           AAWZK03          AAWZK02                      Delivered                 LOOP Clovelly Hub, Louisiana M+1                     25,000         -                 -                US $              Barrels
+           Thunder Horse vs 1st Line WTI                            AAWZL00           AAWZL03          AAWZL02                      Delivered                 LOOP Clovelly Hub, Louisiana M+1                     25,000         -                 -                US $              Barrels
+           WCS Ex-Cushing                                           AAWTY00           AAWTY03                                       ex-tank                   Cushing                           M+1                25,000         -                 -                US $              Barrels
+           WCS Ex-Cushing (C$/CM)                                   AAWUA00           AAWUA03                                       ex-tank                   Cushing                           M+1                25,000         -                 -                C $               cm
+           WCS Ex-Cushing vs WTI CMA                                AAWTZ00           AAWTZ03                                       ex-tank                   Cushing                           M+1                25,000         -                 -                US $              Barrels
+           WCS Ex-Nederland                                         AAYAY00           AAYAY03                                       FIP                       Nederland, Texas                  M+1                25,000         -                 -                US $              Barrels
+           WCS Ex-Nederland vs WTI CMA                              AAYAX00           AAYAX03                                       FIP                       Nederland, Texas                  M+1                25,000         -                 -                US $              Barrels
+           WTL Midland                                              SSWTA00           SSWTA03                                       Delivered                 Midland, Texas                    M+1                25,000         -                                  US $              Barrels
+           WTL Midland vs 1st Line WTI                              SSWTB00           SSWTB03                                       Delivered                 Midland, Texas                    M+1                25,000         -                                  US $              Barrels
+           WTL Midland vs WTI Midland                               SSWTC00           SSWTC03                                       Delivered                 Midland, Texas                    M+1                25,000         -                                  US $              Barrels
+           WTS Midland M1                                           PCACK00           PCACK03          AAFCS00                      Delivered                 Midland, Texas                    M+1                25,000         -                 -                US $              Barrels
+           © 2025 by S&P Global Inc. All rights reserved.
+                                                                     3
+           Specifications Guide                  Americas Crude Oil: October 2025
+           United States
+           Assessment                                               Code              Mavg             Pavg              Wavg       Contract basis            Location                          Delivery period    Min size       Max size          Typical size     Currency          UOM
+           WTS Midland M1 vs 1st Line WTI                           AAGWB00           AAGWC00          AAGWC02                      Delivered                 Midland, Texas                    M+1                25,000         -                 -                US $              Barrels
+           WTS Midland M2                                           AAURG00           AAURG13          AAURG03                      Delivered                 Midland, Texas                    M+2                25,000         -                 -                US $              Barrels
+           WTS Midland M2 vs 2nd Line WTI                           AAURH00           AAURH13          AAURH03                      Delivered                 Midland, Texas                    M+2                25,000         -                 -                US $              Barrels
+           Wyoming Sweet                                            PCACM00           PCACM03          PCACL03                      Delivered                 Guernsey, Wyoming                 M+1                25,000         -                 -                US $              Barrels
+           Wyoming Sweet vs 1st Line WTI                            AAGWR00           AAGWS00          AAGWS02                      Delivered                 Guernsey, Wyoming                 M+1                25,000         -                 -                US $              Barrels
+           Cargo assessments
+           Platts AGS                                               AGSAA00           AGSAA03                                       FOB                       USGC                              15-45 days         550,000        800,000           700,000          US $              Barrels
+           Platts AGS vs NYMEX WTI Strip                            AGSAC00           AGSAC03                                       FOB                       USGC                              15-45 days         550,000        800,000           700,000          US $              Barrels
+           Platts AGS vs Dated Brent Strip                          AGSAB00           AGSAB03                                       FOB                       USGC                              15-45 days         550,000        800,000           700,000          US $              Barrels
+           WTI FOB USGC                                             AAYBA00           AAYBA03                                       FOB                       USGC                              15-45 days         550,000        800,000           700,000          US $              Barrels
+           WTI FOB USGC vs NYMEX WTI Strip                          AAYAZ00           AAYAZ03                                       FOB                       USGC                              15-45 days         550,000        800,000           700,000          US $              Barrels
+           WTI FOB USGC vs Dated Brent Strip                        AWTUA00           AWTUA03                                       FOB                       USGC                              15-45 days         550,000        800,000           700,000          US $              Barrels
+           WTI FOB USGC First Decade                                ADECB00                                                         FOB                       USGC                              M+1                550,000        800,000           700,000          US $              Barrels
+           WTI FOB USGC First Decade vs Dated Brent                 ADECC00                                                         FOB                       USGC                              M+1                550,000        800,000           700,000          US $              Barrels
+           WTI FOB USGC First Decade vs ICE Brent                   ADECK00                                                         FOB                       USGC                              M+1                550,000        800,000           700,000          US $              Barrels
+           WTI FOB USGC First Decade vs WTI MEH                     ADECD00                                                         FOB                       USGC                              M+1                550,000        800,000           700,000          US $              Barrels
+           WTI FOB USGC Second Decade                               ADECE00                                                         FOB                       USGC                              M+1                550,000        800,000           700,000          US $              Barrels
+           WTI FOB USGC Second Decade vs Dated Brent                ADECF00                                                         FOB                       USGC                              M+1                550,000        800,000           700,000          US $              Barrels
+           WTI FOB USGC Second Decade vs ICE Brent                  ADECL00                                                         FOB                       USGC                              M+1                550,000        800,000           700,000          US $              Barrels
+           WTI FOB USGC Second Decade vs WTI MEH                    ADECG00                                                         FOB                       USGC                              M+1                550,000        800,000           700,000          US $              Barrels
+           WTI FOB USGC Third Decade                                ADECH00                                                         FOB                       USGC                              M+1                550,000        800,000           700,000          US $              Barrels
+           WTI FOB USGC Third Decade vs Dated Brent                 ADECI00                                                         FOB                       USGC                              M+1                550,000        800,000           700,000          US $              Barrels
+           WTI FOB USGC Third Decade vs ICE Brent                   ADECM00                                                         FOB                       USGC                              M+1                550,000        800,000           700,000          US $              Barrels
+           WTI FOB USGC Third Decade vs WTI MEH                     ADECJ00                                                         FOB                       USGC                              M+1                550,000        800,000           700,000          US $              Barrels
+           WTI FOB USGC Decades Average                             ADECB00                                                         FOB                       USGC                              M+1                550,000        800,000           700,000          US $              Barrels
+           ANS                                                      PCAAD00           PCAAD03          AAFFL02                      Delivered                 Long Beach, California            M+1                300,000        -                 -                US $              Barrels
+           ANS vs NYMEX WTI CMA                                     AAGWX00           AAGWY00          AAGWY02                      Delivered                 Long Beach, California            M+1                300,000        -                 -                US $              Barrels
+           ANS vs ICE Brent CMA                                     AANSA00           AANSA03                                       Delivered                 Long Beach, California            M+2                300,000        -                 -                US $              Barrels
+           Bakken FOB USGC                                          ABAKC00           ABAKC03                                       FOB                       USGC                              15-45 days         500,000        700,000           600,000          US $              Barrels
+           Bakken FOB USGC vs NYMEX WTI Strip                       ABAKD00           ABAKD03                                       FOB                       USGC                              15-45 days         500,000        700,000           600,000          US $              Barrels
+           Bakken FOB USGC vs Dated Brent Strip                     ABAKE00           ABAKE03                                       FOB                       USGC                              15-45 days         500,000        700,000           600,000          US $              Barrels
+           Eagle Ford Crude FOB USGC                                AAYAT00           AAYAT03                                       FOB                       USGC                              15-45 days         550,000        800,000           700,000          US $              Barrels
+           Eagle Ford Crude FOB USGC vs NYMEX WTI Strip AAYAU00                       AAYAU03                                       FOB                       USGC                              15-45 days         550,000        800,000           700,000          US $              Barrels
+           Eagle Ford Crude FOB USGC vs Dated Brent Strip AEFCA00                     AEFCA03                                       FOB                       USGC                              15-45 days         550,000        800,000           700,000          US $              Barrels
+           Eagle Ford Condensate FOB USGC                           AAYAR00           AAYAR03                                       FOB                       USGC                              15-45 days         550,000        800,000           700,000          US $              Barrels
+           Eagle Ford Condensate FOB USGC vs NYMEX WTI  AAYAS00                       AAYAS03                                       FOB                       USGC                              15-45 days         550,000        800,000           700,000          US $              Barrels
+           Strip
+           Eagle Ford Condensate FOB USGC vs Dated Brent AEFCB00                      AEFCB03                                       FOB                       USGC                              15-45 days         550,000        800,000           700,000          US $              Barrels
+           Strip
+           Americas Dated Brent                                     AAQBF00           AAQBF03          AAQBF02                                                                                                     600,000        600,000           -                US $              Barrels
+           © 2025 by S&P Global Inc. All rights reserved.
+                                                                     4
+           Specifications Guide                  Americas Crude Oil: October 2025
+           United States
+           Assessment                                               Code              Mavg             Pavg              Wavg       Contract basis            Location                          Delivery period    Min size       Max size          Typical size     Currency          UOM
+           Regional markers and posting averages
+           Americas Crude Marker M1                                 AAQHN00           AAQHN13          AAQHN03                      Delivered                 USGC                              M+1                25,000         -                 -                US $              Barrels
+           Americas Crude Marker M2                                 AAQHO00           AAQHO13          AAQHO03                      Delivered                 USGC                              M+2                25,000         -                 -                US $              Barrels
+           Americas Crude Marker M3                                 AAQHP00           AAQHP13          AAQHP03                      Delivered                 USGC                              M+3                25,000         -                 -                US $              Barrels
+           Eagle Ford Marker                                        AAYAJ00           AAYAJ03          AAYAJ02                                                                                  M+1                -              -                 -                US $              Barrels
+           US crude assessments at Asia close
+           WTI MEH                                                  AAZDF00           AAZDF03                                       FIP                       Houston                           M+1                25,000         -                 -                US $              Barrels
+           WTI MEH M2                                               AAZDG00           AAZDG03                                       FIP                       Houston                           M+2                25,000         -                 -                US $              Barrels
+           LLS (1st month)                                          AAZDC00           AAZDC03                                       Delivered                 St. James, Louisiana              M+1                25,000         -                 -                US $              Barrels
+           LLS (2nd month)                                          AAZDD00           AAZDD03          AAURC03                      Delivered                 St. James, Louisiana              M+2                25,000         -                 -                US $              Barrels
+           LOOP Sour M1                                             AAZDA00           AAZDA03                                       In-cavern title transfer LOOP Clovelly Hub, Louisiana       M+1                25,000         -                 -                US $              Barrels
+           LOOP Sour M2                                             AAZDB00           AAZDB03                                       In-cavern title transfer LOOP Clovelly Hub, Louisiana M+2                      25,000         -                 -                US $              Barrels
+           SGC                                                      AAZDE00           AAZDE03                                       Delivered                 Nederland, Texas                  M+1                25,000         -                 -                US $              Barrels
+           US crude assessments at London close
+           WTI M1                                                   AAQAR00           AAQAR13          AAQAR03                      ex-tank                   Cushing                           M+1                25,000         -                 -                US $              Barrels
+           WTI M1 (Euro)                                            AAPYT00           AAPYT03                                       ex-tank                   Cushing                           M+1                25,000         -                 -                Euro              Barrels
+           WTI M2                                                   AAQAT00           AAQAT13          AAQAT03                      ex-tank                   Cushing                           M+2                25,000         -                 -                US $              Barrels
+           WTI M2 (Euro)                                            AAWFJ00           AAWFJ03                                       ex-tank                   Cushing                           M+2                25,000         -                 -                Euro              Barrels
+           WTI M3                                                   AAQAV00           AAQAV13          AAQAV03                      ex-tank                   Cushing                           M+3                25,000         -                 -                US $              Barrels
+           WTI M3 (Euro)                                            AAWFK00           AAWFK03                                       ex-tank                   Cushing                           M+3                25,000         -                 -                Euro              Barrels
+           WTI EFP M1                                               AAQAS00           AAQAS13          AAQAS03                      ex-tank                   Cushing                           M+1                25,000         -                 -                US $              Barrels
+           WTI EFP M2                                               AAQAU00           AAQAU13          AAQAU03                      ex-tank                   Cushing                           M+2                25,000         -                 -                US $              Barrels
+           WTI EFP M3                                               AAQAW00           AAQAW13          AAQAW03                      ex-tank                   Cushing                           M+3                25,000         -                 -                US $              Barrels
+           WTI MEH M1                                               AAYRZ00           AAYRZ03                                       FIP                       Houston                           M+1                25,000         -                 -                US $              Barrels
+           WTI MEH M1 (Euro)                                        AAYSA00           AAYSA03                                       FIP                       Houston                           M+1                25,000         -                 -                Euro              Barrels
+           WTI MEH M2                                               AAXYD00           AAXYD03                                       FIP                       Houston                           M+1                25,000         -                 -                US $              Barrels
+           WTI MEH M2 (Euro)                                        AAYVA00           AAYVA03                                       FIP                       Houston                           M+1                25,000         -                 -                Euro              Barrels
+           Mars M1                                                  AAQAX00           AAQAX13          AAQAX03                      Delivered                 LOOP Clovelly Hub, Louisiana M+1                     25,000         -                 -                US $              Barrels
+           Mars M1 vs WTI                                           AAQAY00           AAQAY13          AAQAY03                      Delivered                 LOOP Clovelly Hub, Louisiana M+1                     25,000         -                 -                US $              Barrels
+           Mars M1 (Euro)                                           AAPYU00           AAPYU03                                       Delivered                 LOOP Clovelly Hub, Louisiana      M+1                25,000         -                 -                Euro              Barrels
+           Mars M2                                                  AAQAZ00           AAQAZ13          AAQAZ03                      Delivered                 LOOP Clovelly Hub, Louisiana      M+2                25,000         -                 -                US $              Barrels
+           Mars M2 vs WTI                                           AAQBA00           AAQBA13          AAQBA03                      Delivered                 LOOP Clovelly Hub, Louisiana      M+2                25,000         -                 -                US $              Barrels
+           Mars M2 (Euro)                                           AAWFI00           AAWFI03                                       Delivered                 LOOP Clovelly Hub, Louisiana      M+2                25,000         -                 -                Euro              Barrels
+           LLS (1st month)                                          AAQBB00           AAQBB13          AAQBB03                      Delivered                 St. James, Louisiana              M+1                25,000         -                 -                US $              Barrels
+           LLS (1st month) vs 1st Line WTI                          AAQBC00           AAQBC13          AAQBC03                      Delivered                 St. James, Louisiana              M+1                25,000         -                 -                US $              Barrels
+           LLS (1st month) (Euro)                                   AAWEP00           AAWEP03                                       Delivered                 St. James, Louisiana              M+1                25,000         -                 -                Euro              Barrels
+           LLS (2nd month)                                          AAQBD00           AAQBD13          AAQBD03                      Delivered                 St. James, Louisiana              M+2                25,000         -                 -                US $              Barrels
+           LLS (2nd month)  vs 2nd Line WTI                         AAQBE00           AAQBE13          AAQBE03                      Delivered                 St. James, Louisiana              M+2                25,000         -                 -                US $              Barrels
+           LLS (2nd month) (Euro)                                   AAWFH00           AAWFH03                                       Delivered                 St. James, Louisiana              M+2                25,000         -                 -                Euro              Barrels
+           © 2025 by S&P Global Inc. All rights reserved.
+                                                                     5
+        Specifications Guide         Americas Crude Oil: October 2025
+        US crude pipelines
+        Pipeline Name                     Ownership                                                                       Capacity (Mb/d)                 Origin                          Destination
+        BridgeTex                         BridgeTex LLC (OMERS Infrastructure, Magellan Midstream & Plains All American)  440                             Colorado City, TX               Houston, TX
+        Cactus I                          Plains All American                                                             390                             McCamey, TX                     Gardendale, TX
+        Cactus II                         Plains All American                                                             670                             McCamey, TX                     Corpus Christi, TX
+        EPIC                              EPIC Midstream                                                                  600                             Orla/Wink/Crane, TX             Corpus Christi, TX
+        Gray Oak                          Phillips 66                                                                     900                             Orla/Wink/Crane, TX             Corpus Christi, TX
+        Longhorn                          Magellan Midstream Partners                                                     275                             Crane/Barnhart, TX              Houston, TX
+        Midland-ECHO I                    Enterprise Products Partners LP                                                 620                             Midland, TX                     Houston, TX
+        Midland-ECHO II                   Enterprise Products Partners LP                                                 200                             Midland, TX                     Houston, TX
+        Midland-ECHO III                  Enterprise Products Partners LP                                                 450                             Midland, TX                     Houston, TX
+        Permian Express                   Energy Transfer LP                                                              640                             Permian Basin                   Nederland, TX
+        Wink-to-Webster                   ExxonMobil/Lotus Midstream                                                      1050                            Wink, TX                        Webster/Houston, TX
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                    6
+        Specifications Guide         Americas Crude Oil: October 2025
+        United States
+        US pipeline crude assessments
+        Platts assesses the value of a variety of crudes in the US as a 
+        flat price and as a differential against common pricing bases. 
+        The spot month assessments for all US domestic pipeline 
+        barrels, with the exception of Bakken, change on the first 
+        business day after the 25th of the calendar month unless 
+        otherwise specified. For example, from January 26 through 
+        February 25, the front month for US domestic pipeline barrels is 
+        March. On February 26, the front month switches to April. If the 
+        26th falls on a weekend or holiday, the next business day marks 
+        the beginning of the new trading month.
+        The spot month for US Gulf Coast pipeline crude grades does 
+        not roll with the expiration of the front month NYMEX light 
+        sweet crude futures contract. After the expiration of the related 
+        front-month crude futures contract, Platts continues to assess 
+        the prompt cash month in relation to WTI values that factor in 
+        intermonth spreads in the cash WTI market.
+        In markets where commodities trade at differentials to futures 
+        contracts, the official prevailing futures settlement prices are 
+        used in the assessment process. Market participants submitting 
+        bids and offers on a differential exchange for physical (EFP) 
+        basis to futures contracts during the Platts MOC assessment 
+        process should be explicit in their positions, including the 
+        month of reference for the EFP. The minimum volume for US 
+        domestic pipeline grades reflects 1,000 b/d of ratable crude, for 
+        a minimum of 25,000 barrels in total, delivered over the course 
+        of the pipeline month.
+        West Texas Intermediate (WTI): Platts assesses WTI at Cushing, 
+        Oklahoma; Midland, Texas; the Magellan East Houston (MEH) 
+        terminal and on an FOB basis in the US Gulf Coast. Platts 
+        assesses WTI Cushing three months forward, and WTI Midland 
+        and WTI MEH two months forward. West Texas Intermediate 
+        crude in Midland is also assessed as a differential to the ICE 
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                    7
+        Specifications Guide         Americas Crude Oil: October 2025
+        Midland WTI futures contract, known as HOU. This assessment             the Nederland/Beaumont terminals on the US Gulf Coast. In              Crude and Basrah Light. The quality of LOOP Sour crude 
+        is in addition to Platts WTI Midland assessment prices published        the event DAPL is not operating normally, that assessment              changes depending on the amount of the five crudes delivered 
+        against cash WTI. Platts publishes one contract month of the            may reflect Bakken crude for injection at other Williston Basin        into the blend but will be within the range of the five component 
+        WTI Midland differential against the corresponding ICE HOU              locations. Platts Bakken assessments are published as a flat           crude grades. 
+        contract. The assessment month for the differential rolls over          price and unlike most US Gulf Coast pipeline crude grades, as a 
+        on the first business day after the expiration of the prompt            differential to the NYMEX light sweet crude CMA. Bakken, and           Platts publishes an outright price and differentials versus 
+        contract. Platts WTI Midland quality specifications are in line         Canadian pipeline crude assessments, including the NYMEX light         both WTI and Mars for LOOP Sour one, two and three calendar 
+        with quality specifications outlined in the ICE HOU contract.           sweet crude CMA basis, follow the pipeline schedule published by       months forward. The front-month LOOP Sour price reflects 
+                                                                                Canada’s Crude Oil Logistics Committee. The volumes assessed           barrels trading one calendar month forward, with trading 
+        WTI Calendar Delta: The WTI Calendar Delta reflects the spread          reflect 1,000 b/d of ratable crude, for a minimum of 25,000 barrels    shifting to the next month on the first business day after the 
+        between front month cash WTI and the front month NYMEX                  in total, delivered over the course of the pipeline month.             25th day of the calendar month. The minimum volume reflected 
+        light sweet crude calendar month average (CMA). The latter                                                                                     for the LOOP Sour assessments is 25,000 barrels.
+        reflects the average of the front month NYMEX light sweet               Bonito: This assessment reflects barrels delivered to St. James, 
+        crude settlement values over a calendar month, in line with             Louisiana.                                                             Mars: This assessment reflects barrels for delivery to LOOP 
+        the US domestic pipeline roll schedule. The WTI Calendar Delta                                                                                 Clovelly Hub in Louisiana.
+        fluctuates with first/second and first/third month WTI spreads,         Heavy Louisiana Sweet (HLS): This assessment reflects barrels 
+        and with bids/offers in the market. It rolls to the next month on       delivered to Empire, Louisiana.                                        Poseidon: This assessment reflects barrels delivered to Houma, 
+        the first business day after the 25th of the month.                                                                                            Louisiana.
+                                                                                Light Houston Sweet (LHS): This assessment reflects the value of 
+        P-Plus WTI: The assessment reflects the price of WTI sold               light sweet crude flowing into Houston, Texas, from the Permian        Southern Green Canyon (SGC): This assessment reflects barrels 
+        into Cushing on the basis of “postings plus.” P-Plus deals are          Basin, Eagle Ford and Cushing, Oklahoma. The assessment is for         delivered to Nederland, Texas.
+        invoiced at a later date on the basis of a differential to an           crude delivered on a Free In Pipe (FIP) basis out of three Houston 
+        average of one or more crude oil postings. For example, a deal          terminals: MEH Terminal, Enterprise Crude Houston (ECHO)               Thunder Horse: This assessment reflects barrels delivered to 
+        done at P-Plus 75 cents/b would be invoiced at 75 cents/b               Terminal and Enterprise Houston Ship Channel terminal. As              LOOP Clovelly Hub in Louisiana.
+        more than the previously agreed-upon postings basis. The                Houston crude transportation infrastructure develops, Platts may 
+        industry standard for P-Plus WTI utilizes the Phillips 66 posting.      consider additional terminals for inclusion in its LHS assessment      WCS: Platts assesses Western Canadian Select crude at two 
+        The P-Plus assessment reflects the spread between the front-            basis. Platts reflects WTI Midland specifications in Houston in its    locations in the US – at Cushing, Oklahoma, and on a Free 
+        month WTI CMA and the Phillips 66 posting differential.                 LHS assessment and may normalize Domestic Light Sweet and              In Pipe (FIP) basis at Port Arthur/Nederland, Texas. Platts 
+                                                                                Eagle Ford crude bids, offers and transactions at Houston to a WTI     publishes WCS ex-Cushing and WCS ex-Nederland as outright 
+        West Texas Light (WTL): This assessment reflects WTL at                 Midland specification basis.                                           prices, and as differentials to the NYMEX light sweet crude CMA. 
+        Midland, Texas. Platts assesses front-month WTL as an outright                                                                                 These assessments, including the NYMEX light sweet crude 
+        price, a differential to WTI Midland, and a differential to the         Light Louisiana Sweet (LLS): This assessment reflects barrels          CMA basis, follow the pipeline schedule published by Canada’s 
+        front-month cash WTI basis. WTL has a typical gravity between           delivered to St. James, Louisiana.                                     Crude Oil Logistics Committee. The quality reflects typical 
+        44.1 and 49.9 with a maximum sulfur of 0.2%.                                                                                                   specifications for WCS.
+                                                                                LOOP Sour: This assessment reflects the value of LOOP Sour 
+        Bakken: Platts assesses the value of Bakken crude at four               crude traded in cavern via title transfer at the Louisiana             West Texas Sour (WTS): This assessment reflects barrels 
+        locations: for injection into the Dakota Access Pipeline (DAPL)         Offshore Oil Port terminal near Galliano, Louisiana, on the US         delivered to Midland, Texas.
+        in the Williston Basin, North Dakota; for injection at Guernsey,        Gulf Coast. LOOP Sour is a medium sour crude blend comprised 
+        Wyoming; for injection at Clearbrook, Minnesota; and in pipe            of two domestic US crudes -- Mars and Poseidon -- and three            Wyoming Sweet: This assessment reflects barrels delivered to 
+        and loaded onto Aframax-sized vessels on an FOB basis at                Middle Eastern crude grades -- Arab Medium, Kuwait Export              Guernsey, Wyoming.
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                    8
+         Specifications Guide          Americas Crude Oil: October 2025
+         US cargo assessments                                                        the Permian Basin on one or more of the following designated               assessment reflects barrels with a typical API gravity of 45 
+                                                                                     pipelines: BridgeTex, Longhorn, Midland-to-Echo I/II, Cactus I/II/III,     degrees and a maximum sulfur content of 0.2%. The Eagle 
+         Platts AGS: This assessment reflects the value of an Aframax                EPIC, Gray Oak, Permian Express, and Wink-to-Webster. In addition          Ford condensate assessment reflects barrels with a typical API 
+         cargo of WTI Midland crude loading 15-45 days forward on an FOB             to pipeline provenance, WTI FOB USGC reflects crude that meets             gravity of 52 degrees and maximum sulfur content of 0.1%.
+         basis from locations along the US Gulf Coast, including Corpus              the Platts WTI Midland specifications outlined below. Crude 
+         Christi, Texas City, Houston, Beaumont, Nederland and Port                  delivered as a result of the bids or offers published in the Platts        WTI FOB USGC by Month Decade: This collection of 
+         Arthur. Platts WTI Midland is currently the only grade reflected            Market On Close assessment process must meet the Platts WTI                assessments reflects values for cargoes loaded within three 
+         in the Platts AGS assessment. The most competitive location,                Midland specifications and should not contain any previously               segments of each calendar month: first decade: 1-10 of a month; 
+         on a cargo-size normalized basis, defines the value for the Platts          cracked or refined material. The WTI FOB USGC assessment is                second decade: 11-20 of a month; and third decade: 21-end of 
+         AGS assessment. The assessment reflects a typical volume of                 published as an outright price, and as differentials to a Dated            the month.
+         700,000 barrels. Bids, offers, and trades that are smaller or larger        Brent forward strip and a NYMEX WTI forward strip, aligned to the 
+         than the cargo-size typical may be normalized to reflect the                assessment’s 15-45 day loading window.                                     The assessment month aligns with the US Gulf Coast pipeline 
+         freight economics of the typical cargo size using that day’s US to                                                                                     schedule and rolls to the new month’s assessment the first 
+         UK Aframax freight assessment (Platts symbol: TDUCF00). The                 Alaska North Slope (ANS): This assessment reflects a minimum               business day following the 25th of each month. For example, from 
+         assessment reflects light, sweet crude supplied directly from               volume of 300,000 barrels basis delivered to Long Beach,                   Jan. 26 to Feb. 25 the prompt month for US domestic pipeline 
+         the Permian Basin on one or more of the following designated                California. The pricing basis for ANS is the NYMEX light sweet             barrels is March. During this time Platts would be publishing 
+         pipelines: BridgeTex, Longhorn, Midland-to-Echo I/II/III, Cactus I/II,      crude CMA and the ICE Brent CMA. Platts rolls its assessment               values for the first, second and third decades of March loadings, 
+         EPIC, Gray Oak, Permian Express, and Wink-to-Webster. In addition           to reflect deliveries in the second calendar month forward                 and they would be published against the March WTI MEH pipeline 
+         to pipeline provenance, Platts AGS reflects crude that meets the            from the first publishing day of each month. For example, on               assessment and the March Dated Brent basis. On Feb. 26, the 
+         Platts WTI Midland quality specifications outlined below. Crude             Nov. 1, the Platts ANS assessment will reflect crude delivered             prompt month for US domestic pipeline barrels shifts to April, 
+         delivered as a result of the bids or offers published in the Platts         in January; and on Dec. 1, the assessment will reflect crude               and Platts assessments would roll to publishing first, second 
+         Market On Close assessment process must meet the Platts WTI                 delivered in February.                                                     and third decades for April loadings against the April WTI MEH 
+         Midland specifications and should not contain any previously                                                                                           pipeline assessment and the April Dated Brent basis. 
+         cracked or refined material. The Platts AGS assessment is                   Bakken FOB USGC: This assessment reflects an Aframax cargo, 
+         published as an outright price, and as differentials to a Dated             with a typical volume of 600,000 barrels, loading 15-45 days               The Dated Brent basis is formed using the relevant underlying 
+         Brent forward strip and a NYMEX WTI forward strip, aligned to the           forward from terminals along the US Gulf Coast. Bids, offers, and          prompt-month ICE Brent futures settle at the US close with the 
+         assessment’s 15-45-day loading window.                                      trades that are smaller or larger than the cargo-size typical may          relevant Platts assessment of the Brent DFL financial differential 
+                                                                                     be normalized to reflect the freight economics of the typical              at the time of loading. Dated Brent-related differentials reflect 
+         WTI FOB USGC: This assessment reflects the value of an Aframax              cargo size using that day’s US to UK Aframax freight assessment            values relative to the value of Dated Brent that prevails at the 
+         cargo of Platts WTI Midland crude loading 15-45 days forward on             (Platts symbol: TDUCF00). The quality reflects the typical                 time of loading. For example, on Feb. 1 Platts would be publishing 
+         an FOB basis from locations along the US Gulf Coast, including              specifications of Bakken crude.                                            the first, second and third decade assessments for March. The 
+         Corpus Christi, Texas City, Houston, Beaumont, Nederland and                                                                                           prompt ICE Brent futures contract for March loadings would be 
+         Port Arthur. The most competitive location, on a cargo-size                 Eagle Ford Crude and Condensate FOB USGC: Platts assesses                  May, so the Dated Brent basis would be formed using the May 
+         normalized adjusted basis, defines the value for the WTI FOB                the value of crude oil and condensate produced in the Eagle                ICE Brent settle with the March DFL differential. The ICE Brent 
+         USGC assessment. The assessment reflects a typical volume of                Ford formation in South Texas on an FOB US Gulf Coast basis.               basis reflects the value of the relevant contract month price of 
+         700,000 barrels. Bids, offers, and trades that are smaller or larger        The assessments reflect an Aframax cargo, with a typical                   ICE Brent futures settles at the US close.
+         than the cargo-size typical may be normalized to reflect the                volume of 700,000 barrels, loading 15-45 days forward from 
+         freight economics of the typical cargo size using that day’s US to          terminals along the US Gulf Coast. The most competitive                    The assessments of WTI FOB by month decade reflects the 
+         UK Aframax freight assessment (Platts symbol: TDUCF00). The                 location defines the values for the Eagle Ford crude and                   established specifications from the Platts WTI Midland FOB 
+         assessment reflects WTI Midland crude supplied directly from                condensate FOB USGC assessments. The Eagle Ford crude                      USGC assessment mentioned above in this guide.
+         © 2025 by S&P Global Inc. All rights reserved.
+                                                        9
+        Specifications Guide         Americas Crude Oil: October 2025
+        Americas Crude Marker                                                   times of relative weakness in the value of refined products. To        addition to the existing set of assessments published at the 
+                                                                                account for this, Platts compares the relative value of the Eagle      Americas market close. Platts publishes the prompt month and 
+        The Americas Crude Marker (ACM) reflects tradable sour crude            Ford gross product worth to the gross product worth of Light           next forward month for WTI MEH, LOOP Sour and LLS, and the 
+        values on the US Gulf Coast. The ACM assessment is composed             Louisiana Sweet, and applies this relationship to the actual spot      prompt month for SGC.
+        of Mars, Southern Green Canyon (SGC), Poseidon and Thunder              price of LLS. This approach helps ensure that the published 
+        Horse. These four sour grades are produced off the US Gulf              value is not overstated in times of strong refining margins, nor       The assessments reflect the price prevailing at the close 
+        Coast and are transported via pipeline to US Gulf Coast, where          understated in times of weak refining margins.                         of the market in Asia, taking into account the rise or fall in 
+        the streams can be delivered to Texas/Louisiana refineries. The                                                                                the cash WTI market from the time of the assessment at 
+        ACM reflects the most competitive grade.                                Platts selected LLS as the comparative variable for the Eagle          US market close at 2:30 pm ET until the Asian close. The 
+                                                                                Ford Marker. The spot price of LLS provides a better reflection        assessments follow the US roll schedule, with the prompt 
+        Eagle Ford Marker                                                       of US Gulf Coast supply and demand fundamentals for light,             month rolling over to the next month on the first business 
+                                                                                sweet crude. LLS’ gross product worth is calculated using the          day after the 25th of each month. In the absence of market 
+        Due to variability inherent to Eagle Ford, the Platts Eagle Ford        same product prices as the Eagle Ford Yield. This LLS yield            indications, Platts uses prevailing spreads in relevant cash 
+        Marker (EFM) represents the value of a 47 degree API barrel of          calculation is subtracted from the Eagle Ford Yield value to           markets to determine a value for the new prompt month 
+        Eagle Ford crude oil, based on its product yield. To determine          establish a price relationship. This relationship is applied to the    assessment on the first business day after the 25th of each 
+        these yields, Platts has gathered a variety of Eagle Ford crude         spot price of LLS to arrive at the Eagle Ford Marker assessment.       month.
+        assays ranging from 40 degrees API to 62 degrees API from many 
+        sources. Platts analyzed the relative yields to extrapolate median      For example, the Eagle Ford Yield is $100/b and the LLS Yield          US crude assessments at London close
+        yield percentages by volume for LPGs, light naphtha, heavy              is $105/b. The relationship between Eagle Ford and LLS based 
+        naphtha, kerosene, middle distillates, gasoil, and residual fuel oil.   on these yield calculations is -$5/b. The LLS front-month price        These assessments are aligned with the 4:30 pm London 
+                                                                                is assessed at $100/b. Based on this spot price for LLS and the        market close and are an addition to the existing set of 
+        The base of the Eagle Ford Marker, called Eagle Ford Yield,             -$5/b relationship between the yield calculations of Eagle Ford        assessments published at the Americas market close.
+        is calculated by applying these median yields for a 47 degree           and LLS, the Eagle Ford Marker would be $95/b.
+        API crude to Platts US Gulf Coast LPG and refined product                                                                                      Platts publishes the prompt month and next forward month for 
+        assessments. This yield is calculated using Platts assessments          Americas Dated Brent                                                   LLS, Mars and WTI MEH, and the three most prompt months 
+        for propane, isobutane, normal butane, non-Targa natural                                                                                       for WTI Cushing. Platts publishes an outright price as well as a 
+        gasoline, standard naphtha barge, jet fuel, ULSD, VGO 0.5% S            This assessment reflects the value of Dated Brent at the               differential for each of the three crudes — an EFP in the case 
+        and high sulfur fuel oil.                                               Americas market close of 2:30 pm Eastern Time, taking into             of cash WTI relative to NYMEX light sweet crude futures, and a 
+                                                                                account the rise or fall in the movement of Brent futures              differential to same-month cash WTI in the case of Mars and 
+        Platts uses its prompt refined oil product price assessments            from the time of assessment of Dated Brent at the European             LLS. These assessments are published in US dollars per barrel 
+        as the basis for the Eagle Ford Yield, with exceptions being            market close of 4:30 pm London time until the Americas                 as well as euros per barrel.
+        the diesel (ULSD Colonial Pipeline) and jet fuel (Jet 54 Colonial       market close. Dated Brent reflects cargoes loading 10 days 
+        Pipeline). Due to the prompt nature of the front pipeline               forward from the date of publication to one full month ahead.          Platts WTI Midland specifications
+        cycle product assessments into the Colonial Pipeline as 
+        they approach scheduling day, Platts uses the second cycle              US crude assessments at Asia close                                     Platts global suite of WTI assessments, including both pipeline 
+        assessments for the Eagle Ford Yield and the LLS Yield.                                                                                        and cargo, reflects the Platts WTI Midland specifications:
+                                                                                These assessments reflect the outright price of WTI MEH, Light 
+        A simple yield approach may result in relatively high calculated        Louisiana Sweet, Southern Green Canyon and LOOP Sour at                Sulfur: 0.2% or less by weight as determined by ASTM Standard 
+        values in times of healthy refining margins, and the opposite in        the Asian market close at 4:30 pm Singapore time, and are an           D-4294;
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                    10
+        Specifications Guide         Americas Crude Oil: October 2025
+        Gravity: Not less than 40 degrees American Petroleum Institute          Iron: 10 ppm or less as determined by ASTM Standard D5708              Vapor pressure: Less than 9.5 pounds per square inch at 100F 
+        (API), nor more than 44 degrees API as determined by ASTM               Method B;                                                              and 4:1 V/L ratio as determined by ASTM Standard D6377;
+        Standard D5002;
+                                                                                Vanadium: 2 ppm or less as determined by ASTM Standard                 Basic Sediment, water and other impurities: Less than 1% as 
+        Mercaptans: 75 parts per million (ppm) or less as determined by         D5708 Method B;                                                        determined by ASTM Standard D4007.
+        ASTM Standard UOP-163;
+                                                                                Nickel: 2 ppm or less as determined by ASTM Standard D5708 
+                                                                                Method B;
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                    11
+         Specifications Guide            Americas Crude Oil: October 2025
+         Canada
+         Assessment                                          Code          Mavg          Pavg     Contract basis     Location                             Delivery period      Min size      Max size     Typical size    Currency      UOM
+         Pipeline assessments
+         Cold Lake Hardisty                                  AASZX00       AASZX03                Delivered          Hardisty, Alberta                    M+1                  25,000        -            -               US $          Barrels
+         Cold Lake Hardisty vs WTI CMA                       AASZZ00       AASZZ03                Delivered          Hardisty, Alberta                    M+1                  25,000        -            -               US $          Barrels
+         Cold Lake Hardisty (C$/CM)                          AASZY00       AASZY03                Delivered          Hardisty, Alberta                    M+1                  25,000        -            -               C $           cu m
+         Condensates                                         AALSF00       AALSG00                Delivered          Edmonton/Fort Saskatchewan,          M+1                  25,000        -            -               US $          Barrels
+                                                                                                                     Alberta
+         Condensates vs WTI CMA                              AALSJ00       AALSK00                Delivered          Edmonton/Fort Saskatchewan,          M+1                  25,000        -            -               US $          Barrels
+                                                                                                                     Alberta
+         Condensates (C$/CM)                                 AALSH00       AALSI00                Delivered          Edmonton/Fort Saskatchewan,          M+1                  25,000        -            -               C $           cu m
+                                                                                                                     Alberta
+         Light Sour Blend                                    AALRX00       AALRY00                Delivered          Cromer, Manitoba                     M+1                  25,000        -            -               US $          Barrels
+         Light Sour Blend vs WTI CMA                         AALSD00       AALSE00                Delivered          Cromer, Manitoba                     M+1                  25,000        -            -               US $          Barrels
+         Light Sour Blend (C$/CM)                            AALRZ00       AALSA00                Delivered          Cromer, Manitoba                     M+1                  25,000        -            -               C $           cu m
+         Lloyd Blend                                         AALRK00       AALRL00                Delivered          Hardisty, Alberta                    M+1                  25,000        -            -               US $          Barrels
+         Lloyd Blend vs WTI CMA                              AALRP00       AALRQ00                Delivered          Hardisty, Alberta                    M+1                  25,000        -            -               US $          Barrels
+         Lloyd Blend (C$/CM)                                 AALRM00       AALRO00                Delivered          Hardisty, Alberta                    M+1                  25,000        -            -               C $           cu m
+         Midale                                              AAUCC00       AAUCC03                Delivered          Cromer, Manitoba                     M+1                  25,000        -            -               US $          Barrels
+         Midale vs WTI CMA                                   AAUCE00       AAUCE03                Delivered          Cromer, Manitoba                     M+1                  25,000        -            -               US $          Barrels
+         Midale (C$/CM)                                      AAUCD00       AAUCD03                Delivered          Cromer, Manitoba                     M+1                  25,000        -            -               C $           cu m
+         Mixed Sweet                                         AALRR00       AALRS00                Delivered          Edmonton, Alberta                    M+1                  25,000        -            -               US $          Barrels
+         Mixed Sweet vs WTI CMA                              AALRV00       AALRW00                Delivered          Edmonton, Alberta                    M+1                  25,000        -            -               US $          Barrels
+         Mixed Sweet (C$/CM)                                 AALRT00       AALRU00                Delivered          Edmonton, Alberta                    M+1                  25,000        -            -               C $           cu m
+         Syncrude Sweet Premium                              AASOK00       AASOK03                Delivered          Edmonton, Alberta                    M+1                  25,000        -            -               US $          Barrels
+         Syncrude Sweet Premium vs WTI CMA                   AASOM00       AASOM03                Delivered          Edmonton, Alberta                    M+1                  25,000        -            -               US $          Barrels
+         Syncrude Sweet Premium (C$/CM)                      AASOL00       AASOL03                Delivered          Edmonton, Alberta                    M+1                  25,000        -            -               C $           cu m
+         WCS Hardisty                                        AAPPN00       AAPPN03                Delivered          Hardisty, Alberta                    M+1                  25,000        -            -               US $          Barrels
+         WCS Hardisty vs WTI CMA                             AAPPP00       AAPPP03                Delivered          Hardisty, Alberta                    M+1                  25,000        -            -               US $          Barrels
+         WCS Hardisty (C$/CM)                                AAPPO00       AAPPO03                Delivered          Hardisty, Alberta                    M+1                  25,000        -            -               C $           cu m
+         WTI CMA                                             AAVSN00       AAVSN03       AAVSN02  -                  -                                    -                    -             -            -               US $          Barrels
+         Cargo assessments
+         FOB Westridge Pacific Cold Lake                     ATMXA00       ATMXA03                FOB                Westridge, Burnaby, British Columbia M+1                                             550,000         US $          Barrels
+         FOB Westridge Pacific Cold Lake vs ICE Brent CMA    ATMXB00       ATMXB03                FOB                Westridge, Burnaby, British Columbia M+1                                             550,000         US $          Barrels
+         FOB Westridge Pacific Cold Lake vs WTI CMA          ATMXC00       ATMXC03                FOB                Westridge, Burnaby, British Columbia M+1                                             550,000         US $          Barrels
+         FOB Westridge Pacific Cold Lake vs Dubai CMA        ATMXI00       ATMXI03                FOB                Westridge, Burnaby, British Columbia M+1                                             550,000         US $          Barrels
+         FOB Westridge Pacific Cold Lake (C$/CM)             ATMXD00       ATMXD03                FOB                Westridge, Burnaby, British Columbia M+1                                             550,000         C $           cu m
+         © 2025 by S&P Global Inc. All rights reserved.
+                                                           12
+          Specifications Guide             Americas Crude Oil: October 2025
+          Canada
+          Assessment                                           Code          Mavg          Pavg      Contract basis     Location                              Delivery period        Min size     Max size      Typical size     Currency      UOM
+          FOB Westridge Pacific Dilbit vs ICE Brent CMA        ATMXF00       ATMXF03                 FOB                Westridge, Burnaby, British Columbia M+1                                                550,000          US $          Barrels
+          FOB Westridge Pacific Dilbit vs WTI CMA              ATMXG00       ATMXG03                 FOB                Westridge, Burnaby, British Columbia M+1                                                550,000          US $          Barrels
+          FOB Westridge Pacific Dilbit vs Dubai CMA            ATMXJ00       ATMXJ03                 FOB                Westridge, Burnaby, British Columbia M+1                                                550,000          US $          Barrels
+          FOB Westridge Pacific Dilbit (C$/CM)                 ATMXH00       ATMXH03                 FOB                Westridge, Burnaby, British Columbia M+1                                                550,000          C $           cu m
+          Hebron                                               AHEBA00       AHEBA03                 FOB                Whiffen Head, Newfoundland            30-60 days             550,000      960,000       640,000          US $          Barrels
+          Hebron vs Canada Dated Brent Strip                   AHEBC00       AHEBC03                 FOB                Whiffen Head, Newfoundland            30-60 days             550,000      960,000       640,000          US $          Barrels
+          Hebron (C$/CM)                                       AHEBB00       AHEBB03                 FOB                Whiffen Head, Newfoundland            30-60 days             550,000      960,000       640,000          C $           cu m
+          Hibernia                                             AAJKK00       AAJKL00                 FOB                Whiffen Head, Newfoundland            30-60 days             -            -             675,000          US $          Barrels
+          Hibernia vs Canada Dated Brent Strip                 AAJKM00       AAJKN00                 FOB                Whiffen Head, Newfoundland            30-60 days             -            -             675,000          US $          Barrels
+          Hibernia (C$/CM)                                     AALSN00       AALSO00                 FOB                Whiffen Head, Newfoundland            30-60 days             -            -             675,000          C $           cu m
+          Terra Nova                                           AAJUH00       AAJUI00                 FOB                Whiffen Head, Newfoundland            30-60 days             -            -             675,000          US $          Barrels
+          Terra Nova vs Canada Dated Brent Strip               AAJUJ00       AAJUK00                 FOB                Whiffen Head, Newfoundland            30-60 days             -            -             675,000          US $          Barrels
+          Terra Nova (C$/CM)                                   AALSP00       AALSQ00                 FOB                Whiffen Head, Newfoundland            30-60 days             -            -             675,000          C $           cu m
+          White Rose                                           AAVJX00       AAVJX03                 FOB                Whiffen Head, Newfoundland            30-60 days             550,000      960,000       710,000          US $          Barrels
+          White Rose vs Canada Dated Brent Strip               AAVJY00       AAVJY03                 FOB                Whiffen Head, Newfoundland            30-60 days             550,000      960,000       710,000          US $          Barrels
+          White Rose (C$/CM)                                   AAVPI00       AAVPI03                 FOB                Whiffen Head, Newfoundland            30-60 days             550,000      960,000       710,000          C $           cu m
+          33-63 Day Dated Strip (Canada Dated Brent Strip)     AALEJ00       AALEJ03                 -                  -                                     -                      -            -             -                US $          Barrels
+          Canada                                                                             Cold Lake (CL): This assessment reflects barrels injected at                       Mixed Sweet (MSW): This assessment reflects barrels injected 
+                                                                                             Hardisty, Alberta.                                                                 at Edmonton, Alberta.
+          Canadian pipeline assessments                                                      Condensates: This assessment reflects condensates at the                           Syncrude Sweet Premium (SSP): This assessment reflects 
+          The following spot assessments are published as outright                           Edmonton/Fort Saskatchewan, Alberta, area.                                         barrels injected at Edmonton, Alberta.
+          prices and as differentials to the NYMEX light sweet crude CMA. 
+          Crudes are assessed for injection in the first forward month.                      Light Sour Blend (LSB): This assessment reflects barrels                           Western Canadian Select (WCS): This assessment reflects 
+          These assessments, including the NYMEX light sweet crude                           injected at Cromer, Manitoba.                                                      barrels injected at Hardisty, Alberta.
+          CMA basis (sometimes called the “Canada basis”, follow the 
+          pipeline schedule published by Canada’s Crude Oil Logistics                        Lloyd Blend (LLB): This assessment reflects barrels injected at                    WTI Calendar Month Average: This assessment, sometimes 
+          Committee. The volume for Canadian pipeline grades reflects                        Hardisty, Alberta.                                                                 called the “Canada basis,” reflects the average of the front 
+          1,000 b/d of ratable crude, for a minimum of 25,000 barrels in                                                                                                        month NYMEX light sweet crude settlement values over a 
+          total, delivered over the course of the pipeline month. These                      Midale (MSM): This assessment reflects barrels injected at                         calendar month, in line with the pipeline schedule published by 
+          assessments are published in US dollars per barrel as well as                      Cromer, Manitoba.                                                                  Canada’s Crude Oil Logistics Committee.
+          Canadian dollars per cubic meter.
+          © 2025 by S&P Global Inc. All rights reserved.
+                                                             13
+        Specifications Guide         Americas Crude Oil: October 2025
+        Western Canadian cargo assessments                                      Pacific Cold Lake assessment typically aligns with Cold Lake           size is 550,000 barrels, the maximum is 960,000 barrels and the 
+                                                                                quality fuel, and it has a maximum TAN (Total Acid Number) 1.1         typical size is 640,000 barrels.
+        The following Western Canadian cargo assessments are                    mgKOH/g.
+        based on spot transactions for cargoes loading two months                                                                                      Hibernia: This assessment reflects barrels loading FOB terminal 
+        forward from the month of publication. They are assessed as             FOB Westridge Pacific Dilbit: This assessment reflects barrels         basis Whiffen Head, Newfoundland, Canada. The typical cargo 
+        differentials to the ICE Brent settle, the WTI CMA, and the Dubai       loading FOB terminal basis Westridge. The typical cargo size           size is 675,000 barrels.
+        Frontline swap during the month of loading. Platts assessments          is 550,000 barrels. The quality of the Pacific Dilbit meets the 
+        reflect loadings in the second calendar month forward from              specifications of that pool as outlined by TMX. The quality of the     Terra Nova: This assessment reflects barrels loading FOB 
+        the first publishing day of each month. For example, on May             Pacific Dilbit assessment typically aligns with Access Western         terminal basis Whiffen Head, Newfoundland, Canada. The typical 
+        1, when Platts begins its assessment for July loadings, the             Blend quality fuel, and it has a minimum TAN of 1.1 mgKOH/g.           cargo size is 675,000 barrels.
+        assessments will be published as a differential to July ICE Brent 
+        calendar month average (CMA). The July ICE Brent CMA would              Eastern Canadian cargo assessments                                     White Rose: This assessment reflects barrels loading FOB 
+        reflect September ICE futures. The value will also be published                                                                                terminal basis Whiffen Head, Newfoundland, Canada. The 
+        against the WTI CMA for the same month. In the example above,           The following Eastern Canadian cargo assessments are based             minimum cargo size is 550,000 barrels, the maximum is 960,000 
+        the July WTI CMA would be calculated as a weighted average              on spot transactions for cargoes loading 30 to 60 days forward         barrels and the typical size is 710,000 barrels.
+        of the August and September futures. These assessments are              from the date of publication. The outright price is derived from 
+        published in US dollars per barrel as well as Canadian dollars          the forward value of Dated Brent with pricing typically 1-5 days       33-63 Day Dated Strip (Canada Dated Brent Strip): This 
+        per cubic meter.                                                        after loading. The Canadian cargo markets are assessed at 4:30         assessment reflects the value of forward Dated Brent at the 
+                                                                                pm London time. These assessments are published in US dollars          London market close for the loading period reflected in Platts 
+        FOB Westridge Pacific Cold Lake: This assessment reflects               per barrel as well as Canadian dollars per cubic meter.                Canadian cargo assessments, with pricing typically occurring 
+        barrels loading FOB terminal basis Westridge. The typical cargo                                                                                1-5 days after loading. Dated Brent-related differentials for all 
+        size is 550,000 barrels. The quality of the Pacific Cold Lake           Hebron: This assessment reflects barrels loading FOB terminal          Canadian crude cargoes reflect values relative to the value of 
+        meets the specifications of that pool as outlined by TMX. The           basis Whiffen Head, Newfoundland, Canada. The minimum cargo            forward Dated Brent that prevails at the time of loading.
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                    14
+            Specifications Guide                    Americas Crude Oil: October 2025
+            Latin America
+            Assessment                                                                                          Code               Mavg              Wavg              Contract basis           Location                          Delivery period           Typical size      Currency           UOM
+            Castilla Blend                                                                                      AAVEQ00            AAVEQ03                             FOB                      Covenas                           30-60 days                1 million         US $               Barrels
+            Castilla Blend vs Latin America Brent Futures Strip                                                 AAXBZ00            AAXBZ03                             FOB                      Covenas                           30-60 days                1 million         US $               Barrels
+            Castilla Blend vs Latin America Dated Brent Strip                                                   AAXBK00            AAXBK03                             FOB                      Covenas                           30-60 days                1 million         US $               Barrels
+            Castilla Blend vs Latin America WTI Strip                                                           AAVEQ01            AAVEQ05                             FOB                      Covenas                           30-60 days                1 million         US $               Barrels
+            Escalante                                                                                           PCAGC00            PCAGC03           AAIIN00           FOB                      Caleta Cordoba                    30-60 days                1 million         US $               Barrels
+            Escalante vs Latin America Brent Futures Strip                                                      AAXBS00            AAXBS03                             FOB                      Caleta Cordoba                    30-60 days                1 million         US $               Barrels
+            Escalante vs Latin America Dated Brent Strip                                                        AAXAX00            AAXAX03                             FOB                      Caleta Cordoba                    30-60 days                1 million         US $               Barrels
+            Escalante vs Latin America WTI Strip                                                                PCAGO00            AAJJN00                             FOB                      Caleta Cordoba                    30-60 days                1 million         US $               Barrels
+            Golden Arrowhead                                                                                    GOLAH00            GOLAH03                             FOB                      One Guyana FPSO                   30-60 days                1 million         US $               Barrels
+            Golden Arrowhead vs Latin American Brent Futures Strip                                              GAGLA00            GAGLA03                             FOB                      One Guyana FPSO                   30-60 days                1 million         US $               Barrels
+            Golden Arrowhead vs Latin America Dated Brent Strip                                                 GAGLD00            GAGLD03                             FOB                      One Guyana FPSO                   30-60 days                1 million         US $               Barrels
+            Golden Arrowhead vs Latin America WTI Strip                                                         GAGLW00            GAGLW03                             FOB                      One Guyana FPSO                   30-60 days                1 million         US $               Barrels
+            Liza                                                                                                ALIZA00            ALIZA03                             FOB                      Liza Destiny FPSO                 30-60 days                1 million         US $               Barrels
+            Liza vs Latin American Brent Futures Strip                                                          ALIZC00            ALIZC03                             FOB                      Liza Destiny FPSO                 30-60 days                1 million         US $               Barrels
+            Liza vs Latin America Dated Brent Strip                                                             ALIZB00            ALIZB03                             FOB                      Liza Destiny FPSO                 30-60 days                1 million         US $               Barrels
+            Liza vs Latin America WTI Strip                                                                     ALIZD00            ALIZD03                             FOB                      Liza Destiny FPSO                 30-60 days                1 million         US $               Barrels
+            Medanito FOB Argentina                                                                              AMTOA00            AMTOA03                             FOB                      Puerto Rosales                    30-60 days                600,000           US $               Barrels
+            Medanito FOB Argentina vs Latin America Brent Futures Strip                                         AMTOB00            AMTOB03                             FOB                      Puerto Rosales                    30-60 days                600,000           US $               Barrels
+            Medanito FOB Argentina vs Latin American Dated Brent Strip                                          AMTOD00            AMTOD03                             FOB                      Puerto Rosales                    30-60 days                600,000           US $               Barrels
+            Medanito FOB Argentina vs Latin America WTI Strip                                                   AMTOC00            AMTOC03                             FOB                      Puerto Rosales                    30-60 days                600,000           US $               Barrels
+            Mero FOB Brazil                                                                                     AEROA00            AEROA03                             FOB                      Porto do Acu                      30-60 days                1 million         US $               Barrels
+            Mero FOB Brazil vs Latin America Brent Futures Strip                                                AEROC00            AEROC03                             FOB                      Porto do Acu                      30-60 days                1 million         US $               Barrels
+            Mero FOB Brazil vs Latin America Dated Brent Strip                                                  AEROB00            AEROB03                             FOB                      Porto do Acu                      30-60 days                1 million         US $               Barrels
+            Mero FOB Brazil vs Latin America WTI Strip                                                          AEROD00            AEROD03                             FOB                      Porto do Acu                      30-60 days                1 million         US $               Barrels
+            Napo                                                                                                AAMCA00            AAMCC00                             FOB                      Esmeraldas                        30-60 days                720,000           US $               Barrels
+            Napo vs Latin America Brent Futures Strip                                                           AAXBX00            AAXBX03                             FOB                      Esmeraldas                        30-60 days                720,000           US $               Barrels
+            Napo vs Latin America Dated Brent Strip                                                             AAXBI00            AAXBI03                             FOB                      Esmeraldas                        30-60 days                720,000           US $               Barrels
+            Napo vs Latin America WTI Strip                                                                     AAMCD00            AAMCE00                             FOB                      Esmeraldas                        30-60 days                720,000           US $               Barrels
+            Oriente                                                                                             PCADE00            PCADE03                             FOB                      Esmeraldas                        30-60 days                360,000           US $               Barrels
+            Oriente vs Latin America Brent Futures Strip                                                        AAXBW00            AAXBW03                             FOB                      Esmeraldas                        30-60 days                360,000           US $               Barrels
+            Oriente vs Latin America Dated Brent Strip                                                          AAXBH00            AAXBH03                             FOB                      Esmeraldas                        30-60 days                360,000           US $               Barrels
+            Oriente vs Latin America WTI Strip                                                                  PCAGU00            AAJJP00                             FOB                      Esmeraldas                        30-60 days                360,000           US $               Barrels
+            Payara Gold                                                                                         AYARA00            AYARA03                             FOB                      Prosperity FPSO                   30-60 days                1 million         US $               Barrels
+            Payara Gold vs Latin American Brent Futures Strip                                                   AYARC00            AYARC03                             FOB                      Prosperity FPSO                   30-60 days                1 million         US $               Barrels
+            Payara Gold vs Latin American WTI Strip                                                             AYARD00            AYARD03                             FOB                      Prosperity FPSO                   30-60 days                1 million         US $               Barrels
+            Payara Gold vs Latin American Dated Brent Strip                                                     AYARB00            AYARB03                             FOB                      Prosperity FPSO                   30-60 days                1 million         US $               Barrels
+            Tupi FOB Brazil                                                                                     ATUPA00            ATUPA03                             FOB                      Brazil                            30-60 days                2 million         US $               Barrels
+            Tupi FOB Brazil vs Latin America Brent Futures Strip                                                ATUPB00            ATUPB03                             FOB                      Brazil                            30-60 days                2 million         US $               Barrels
+            Tupi FOB Brazil vs Latin America Dated Brent Strip                                                  ATUPD00            ATUPD03                             FOB                      Brazil                            30-60 days                2 million         US $               Barrels
+            Tupi FOB Brazil vs Latin America WTI Strip                                                          ATUPC00            ATUPC03                             FOB                      Brazil                            30-60 days                2 million         US $               Barrels
+            © 2025 by S&P Global Inc. All rights reserved.
+                                                                          15
+            Specifications Guide                    Americas Crude Oil: October 2025
+            Latin America
+            Assessment                                                                                          Code               Mavg              Wavg              Contract basis           Location                          Delivery period           Typical size      Currency           UOM
+            Unity Gold                                                                                          AUNIA00            AUNIA03                             FOB                      Liza Unity FPSO                   30-60 days                1 million         US $               Barrels
+            Unity Gold vs Latin American Brent Futures Strip                                                    AUNIB00            AUNIB03                             FOB                      Liza Unity FPSO                   30-60 days                1 million         US $               Barrels
+            Unity Gold vs Latin American WTI Strip                                                              AUNIC00            AUNIC03                             FOB                      Liza Unity FPSO                   30-60 days                1 million         US $               Barrels
+            Unity Gold vs Latin American Dated Brent Strip                                                      AUNID00            AUNID03                             FOB                      Liza Unity FPSO                   30-60 days                1 million         US $               Barrels
+            Vasconia                                                                                            PCAGI00            PCAGI03                             FOB                      Covenas                           30-60 days                500,000           US $               Barrels
+            Vasconia vs Latin America Brent Futures Strip                                                       AAXCB00            AAXCB03                             FOB                      Covenas                           30-60 days                500,000           US $               Barrels
+            Vasconia vs Latin America Dated Brent Strip                                                         AAXBN00            AAXBN03                             FOB                      Covenas                           30-60 days                500,000           US $               Barrels
+            Vasconia vs Latin America WTI Strip                                                                 PCAGR00            AAJJO00                             FOB                      Covenas                           30-60 days                500,000           US $               Barrels
+            Latin America Dated Brent Strip                                                                     AAXBR00            AAXBR03           -                 -                        -                                 -                         -                 US $               Barrels
+            Latin America Brent Futures Strip                                                                   AAXBQ00            AAXBQ03           -                 -                        -                                 -                         -                 US $               Barrels
+            Latin America WTI Futures Strip                                                                     AAXBP00            AAXBP03           -                 -                        -                                 -                         -                 US $               Barrels
+            Latin America                                                                                       750,000-barrel maximum for cargoes that would be included in                                         Vasconia: This assessment reflects barrels sold FOB Covenas, 
+                                                                                                                these assessments.                                                                                   Colombia, with a typical volume of 500,000 barrels.
+            Assessments                                                                                         Mero: This assessment reflects standard cargoes of 1 million                                         Latin America WTI strip: WTI-related assessments reflect values 
+            Platts Latin American crude assessments are published as                                            barrels loading 30-60 days forward via ship-to-ship transfer at                                      relative to the prevailing contract month at the time of loading. 
+            outright prices, and as differentials to WTI, Brent futures and                                     Porto do Acu. Bids and offers for cargoes between 950,000-                                           For example, on June 1, Platts assesses the value of Latin 
+            Dated Brent strips. These assessments reflect bids, offers and                                      1.05 million barrels may be published for consideration in the                                       American crudes loading in the month of July. Therefore, the 
+            trades 30-60 days forward from the date of publication.                                             assessment. Platts considers market information for cargoes                                          WTI-related basis for Platts Latin American crude assessments 
+                                                                                                                loading at other locations in Brazil, normalized to reflect loading                                  on June 1 reflects the average of prevailing front-month cash 
+            Castilla Blend: This assessment reflects barrels sold FOB                                           economics at Porto do Acu.                                                                           WTI values for July 1-31, which would be August cash WTI for July 
+            Covenas, Colombia, with a typical volume of 1 million barrels.                                                                                                                                           1-25 and September cash WTI for July 26-31. 
+                                                                                                                Napo: This assessment reflects barrels sold FOB Esmeraldas, 
+            Escalante: This assessment reflects barrels sold FOB Caleta                                         Ecuador, with a typical volume of 720,000 barrels.                                                   Latin America Brent Futures strip: Brent futures-related 
+            Cordova, Argentina, with a typical volume of 1 million barrels.                                                                                                                                          assessments reflect values relative to the prevailing contract 
+                                                                                                                Oriente: This assessment reflects barrels sold FOB Esmeraldas,                                       month at the time of loading. As with the example above, on 
+            Golden Arrowhead: This assessment reflects barrels sold                                             Ecuador, with a typical volume of 360,000 barrels.                                                   June 1, Platts assesses the value of Latin American crudes 
+            FOB from the One Guyana Floating Production Storage and                                                                                                                                                  loading in the month of July. Therefore, the Brent futures-
+            Offloading vessel offshore Guyana, with a typical cargo size of                                     Payara Gold: This assessment reflects barrels sold FOB from the                                      related basis for Platts Latin American crude assessments on 
+            1 million barrels.                                                                                  Prosperity Floating Production Storage and Offloading vessel                                         June 1 reflects the average of prevailing front- month Brent 
+                                                                                                                offshore Guyana, with a typical cargo size of 1 million barrels.                                     futures for July 1-31, which would be September Brent futures 
+            Liza: This assessment reflects barrels sold FOB from the Liza                                                                                                                                            during the month of July, excluding the last business day of 
+            Destiny Floating Production Storage and Offloading vessel                                           Tupi: This assessment reflects barrels sold FOB Porto do Acu,                                        July which would be October Brent futures. 
+            offshore Guyana, with a typical cargo size of 1 million barrels.                                    Brazil, with a typical volume of 2 million barrels.
+                                                                                                                                                                                                                     Latin America Dated Brent strip: This assessment reflects 
+            Medanito: This assessment reflects barrels sold FOB                                                 Unity Gold: This assessment reflects barrels sold FOB from the                                       the value of forward Dated Brent at the US close for the 
+            Puerto Rosales, Argentina, with a typical volume of 600,000                                         Liza Unity Floating Production Storage and Offloading vessel                                         loading period reflected in the Latin American crude market. 
+            barrels. Platts also includes a 450,000-barrel minimum and a                                        offshore Guyana, with a typical cargo size of 1 million barrels.                                     Dated Brent-related differentials for all Latin American crudes 
+            © 2025 by S&P Global Inc. All rights reserved.
+                                                                          16
+        Specifications Guide         Americas Crude Oil: October 2025
+        reflect values relative to the value of forward Dated Brent 
+        that prevails at the time of loading. As an example, on June 1, 
+        Platts assesses the value of Latin American crudes loading in 
+        the month of July. Therefore, the Dated Brent-related basis for 
+        Platts Latin American crude assessments on June 1 reflects the 
+        average of prevailing Dated Brent swaps for July 1-31.
+        Mexican Crude OSP Calculations
+        Platts publishes calculated Mexican crude OSP values daily, based 
+        on the following FOB-based OSP formulas from Mexico’s PMI:
+        US Gulf Coast, Americas’ Atlantic Coast, Caribbean
+        *Maya: (0.65*WTI MEH)+(0.35*ICE BRENT)+K
+        *Isthmus: (0.65*WTI MEH)+(0.35*ICE BRENT)+K
+        *Olmeca: (0.65*WTI MEH)+(0.35*ICE BRENT)+K
+        *Zapoteco: (0.65*WTI MEH)+(0.35*ICE BRENT)+K
+        US West Coast, Americas’ Pacific Coast
+        *Maya: (0.65*WTI MEH)+(0.35*ICE BRENT)+K
+        *Isthmus: (0.65*WTI MEH)+(0.35*ICE BRENT)+K
+        *Olmeca: (0.65*WTI MEH)+(0.35*ICE BRENT)+K
+        *Zapoteco: (0.65*WTI MEH)+(0.35*ICE BRENT)+K
+        Europe and the Middle East
+        Maya: ICE BRENT + K
+        Isthmus: ICE BRENT + K
+        Olmeca: ICE BRENT + K 
+        Zapoteco: ICE BRENT + K
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                    17
+        Specifications Guide         Americas Crude Oil: October 2025
+        India                                                                   Americas crude quality                                                 Americas crude quality
+        Maya: ICE BRENT + K                                                                                             API gravity  Sulfur content                                            API gravity  Sulfur content 
+                                                                                                                        (degrees)        (%)                                                   (degrees)         (%)
+        Isthmus: ICE BRENT + K                                                  US pipeline crude assessments                                          Canada crude cargo assessments
+                                                                                Bakken                                      43.3           0.09        FOB Westridge Pacific Cold Lake             21.8           3.67
+        Olmeca: ICE BRENT + K                                                   Bonito                                      30.8           1.68        FOB Westridge Pacific Dilbit                21.9           3.95
+        Zapoteco: ICE BRENT + K                                                 Heavy Lousiana Sweet                        34.8           0.48        Hebron                                      20.4           0.79
+                                                                                Light Lousiana Sweet                        38.5           0.40        Hibernia                                    34.1           0.56
+        Far East:                                                               Mars                                        29.4           1.87        Terra Nova                                  34.2           0.52
+        Maya: (Oman + Dubai)/2 + K                                              Poseidon                                    29.5           1.74        White Rose                                    31           0.31
+                                                                                Southern Green Canyon                        28            2.35        Latin America crude assessments
+        Isthmus: (Oman + Dubai)/2 + K                                           Thunder Horse                               34.2           0.70        Castilla Blend
+                                                                                West Texas Intermediate (Cushing)         38 - 42         ≤0.42                                                     1 7.7         1.83
+        Olmeca: (Oman + Dubai)/2 + K                                            West Texas Intermediate (Midland)         40 - 44         ≤0.20        Escalante                                    24.1          0.18
+                                                                                West Texas Intermediate (MEH)             40 - 44         ≤0.20        Golden Arrowhead                            36.5           0.25
+        Zapoteco: (Oman + Dubai)/2 + K                                          West Texas Light                        44.1-49.9         ≤0.20        Isthmus                                     32.5           1.80
+                                                                                West Texas Sour                           30 - 33          1.28        Liza                                          32           0.58
+        *Used as a proxy for another Price Reporting Agency’s WTI               Western Canadian Select (Cushing/                                      Maya                                        21.5            3.4
+        Houston Assessment                                                      Nederland)                                  21.8           3.63        Medanito                                     42.1           0.15
+                                                                                Wyoming Sweet                               43.3           0.09        Mero                                        28.8           0.32
+        Maya: This crude is sold FOB Cayo Arcas, FOB Dos Bocas and              US crude cargo assessments                                             Napo                                          17           2.30
+        FOB Salina Cruz, with a typical API gravity of 21-22 degrees and        Alaska North Slope (Long Beach)             32.1           0.96        Olmeca                                      38.5           0.82
+        sulfur content of 3.4%, according to PMI’s website.                     Basrah Light (delivered USGC)               31.4           2.74        Oriente                                       23           1.50
+        Isthmus: This crude is sold FOB Dos Bocas, FOB Salina Cruz and          Eagle Ford Crude                             45           ≤0.20        Payara Gold                                  28            0.58
+        FOB Pajaritos, with a typical API gravity of 32-33 degrees and          Eagle Ford Condensate                        52           ≤0.10        Tupi                                          31           0.35
+        sulfur content of 1.8%, according to PMI’s website.                                                                                            Unity Gold                                  34.5           0.41
+                                                                                Canada pipeline crude assessments                                      Vasconia                                    24.5           0.90
+        Olmeca: This crude is sold FOB Pajaritos, with a typical API            Cold Lake                                   21.8           3.67        Zapoteco                                    29.5           2.51
+        gravity of 38-39 degrees and sulfur content of 0.73%-0.75%,             Condensates (Edmonton)                      74.8           0.10        Note: Crude specifications can vary over time. These are based on latest crude 
+        according to PMI’s website.                                             Light Sour Blend                             35            1.53        oil tenders and available assays as of June 2025.
+                                                                                Lloyd Blend                                 22.3           3.40
+        Zapoteco: This crude is sold FOB Salina Cruz in Oaxaca, with a          Midale                                      32.9           2.08
+        typical API gravity between 29-29.9 and a sulfur level of 2.513%,       Mixed Sweet                                  42            0.44
+        according to PMI’s website.                                             Syncrude Sweet Premium                      33.4           0.20
+                                                                                Western Canadian Select (Hardisty)          21.8           3.63
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                    18
+        Specifications Guide         Americas Crude Oil: October 2025
+        Revision history                                                        May 2023: Platts completed an annual review of the Americas            effective July 15, 2021. Updates also were made to reflect the 
+                                                                                Crude Oil methodology and specifications guide. Platts also            discontinuation of the Magdalena crude assessment, effective 
+        October 2025: Platts updated this guide to reflect launch of            updated this guide to reflect the updated volumes of White             July 1, 2021. Typos were corrected and updates and corrections 
+        Golden Arrowhead assessments, effective Aug. 1 2025.                    Rose crude cargoes, effective March 1, 2023.                           were made to typical crude qualities based on current crude 
+                                                                                                                                                       assay information.
+        June 2025: Platts completed an annual review of this guide,             November 2022: Platts updated this guide to reflect the 
+        reviewing all content, correcting typos, and making edits to            discontinuation of Eugene Island and its associated differential       April 2021: Platts completed an annual review of this guide 
+        language throughout. Platts also updated this guide to reflect          to the NYMEX WTI CMA, effective Nov. 1, 2022.                          in April 2021, reviewing all content, correcting typos and 
+        the launches of West Texas Light, West Texas Intermediate                                                                                      making minor edits to language. Platts also updated this 
+        in Midland differential to ICE HOU, and Mero FOB Brazil                 September 2022: Platts updated this guide to reflect the               guide to reflect the discontinuation of Flint Hills Eagle Ford 
+        assessments. Platts also updated the guide to include the               discontinuation of the Eagle Ford Postings Average and the             crude postings and the amendment to the Eagle Ford Posting 
+        renaming of FOB Westridge Low TAN Dilbit to FOB Westridge               differential between the Eagle Ford Postings Average and the           Average, effective Oct. 1, 2020. Platts also updated this guide 
+        Pacific Cold Lake, and the launch of FOB Westridge differentials        Eagle Ford Marker, effective Aug. 22, 2022.                            to reflect the launch of the assessment of Guyana’s Liza crude, 
+        to Dubai basis. It also updated to reflect the discontinuation of                                                                              effective Feb. 16, 2021 and the launch of Argentina’s Medanito 
+        Loreto crude assessments and updated the assessed volume of             July 2022: Platts updated this guide to reflect the launch of          crude, effective April 19, 2021.
+        Medanito crude assessments to reflect 600,000 barrel cargoes.           the Hebron crude assessment and the update to the basis 
+                                                                                location for the White Rose crude cargo assessment, effective          August 2020: Platts updated this guide to reflect 
+        June 2024: Platts completed an annual review of this guide,             June 1, 2022. Platts also updated the guide to reflect the             implementation of Platts WTI Midland specifications globally 
+        reviewing all content, correcting typos, and making edits to            discontinuation of California crude grades Kern River, Lines 63/       from August 5, 2020. The update also amended the Bakken 
+        language throughout. Platts also updated this guide to reflect          Hynes, P-Plus Line 63 and Thumbs/Long Beach, effective July 1,         Williston assessment delivery point options.
+        the launch of FOB Westridge Low TAN Dilbit and Pacific                  2022.
+        Dilbit assessments on April 22. Also removed reference to                                                                                      July 2020: Platts updated its guide to include details of the 
+        discontinued Marlim assessment in text and tables.                      April 2022: Platts completed an annual review of this guide,           Platts AGS assessment. The update also added the EPIC, Gray 
+                                                                                reviewing all content, correcting typos, and making edits to           Oak and Permian Express crude pipelines to the list of pipelines 
+        January 2024: Platts updated this guide to reflect the launch of        language throughout. Updated guide to reflect discontinuation          reflected in WTI cargo assessments and updated its WTI, Eagle 
+        Payara Gold, effective Dec. 1. It also updates the guide to reflect     of the Roncador assessment, effective April 1, 2022.                   Ford, and Eagle Ford Condensate FOB USGC assessment typical 
+        the discontinuation of Mesa 30 and Santa Barbara, effective                                                                                    cargo size from 600,000 barrels to 700,0000 barrels.
+        Nov. 1. It also amends the text to reflect the launch of Mexico         January 2022: Platts updated this guide to reflect the 
+        OSP values and K factors for Zapoteco crude, and additional             discontinuation of Basrah Light assessments, effective Dec. 1,         May 2020: Platts completed an annual review of the Americas 
+        Olmeca destinations. It also amended the table to reflect the           2021, amendments to the WTI Midland Pipeline provenance list           Crude Oil methodology and specifications guide. Platts reviewed 
+        discontinuation of the calendar and pipeline monthly averages           and the addition of India to the Mexican Crude OSP Calculations.       all content, corrected typos and made minor edits to language. 
+        for the P-5 WTI posted prices, effective Sep. 4.                                                                                               Platts updated Mexican Crude OSP Calculations to reflex recent 
+                                                                                November 2021: Platts updated this guide to reflect the new            changes to formulas and also added information regarding 
+        September 2023: Platts updated this guide to reflect the launch         assessment of Tupi FOB Brazil, effective Oct. 11, 2021 and             pipeline provenance specifications for the WTI FOB USGC cargo 
+        of WTI Midland FOB cargo assessments by monthly- decade                 amendments to the Alaska North Slope assessment, effective             assessment.
+        basis, effective July 5, as well as the launch of the Unity Gold        Nov. 1, 2021.
+        crude cargo assessments, effective Aug. 1. It also amends                                                                                      May 2019: Platts completed an annual review of the Americas 
+        the basis of the Canadian condensate assessment to the                  August 2021: Platts updated this guide to reflect the                  Crude Oil specifications guide. Platts reviewed all content, 
+        Edmonton/Fort Saskatchewan area, effective Aug. 28.                     amendment to the WTI Midland pipeline provenance standard,             corrected typos and made minor edits to language.
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                    19
+        Specifications Guide         Americas Crude Oil: October 2025
+        April 2019: Platts completed an annual update to sections 1             spread versus front-month Dubai that was launched in July,             to reflect the addition of Troll to BFOE and the inclusion of 
+        to 6 of Platts Methodology and Specifications Guides in April           2018. In the Asia Pacific section Platts corrected the explanation     previously-loaded oil in the delivered Urals and Mediterranean 
+        2019, and moved these sections into a standalone Methodology            of how the Dated Brent Strip is calculated. Platts also added          MOC markets. Additionally, Platts edited and updated the text 
+        Guide. The Global Crude Oil Specifications Guide was separated          description of several Asia-Pacific crude oil grades that Platts       and tables for the EMEA crude sections.
+        from the overall Methodology Guide,and split into three regional        currently assesses in the region. In the Americas, Platts updated 
+        guides for Asia Pacific and Middle East, Europe and Africa and          the guide to reflect the addition of LOOP Sour differential            September 2017: Platts updated its guide to reflect additional 
+        Americas.                                                               assessments; new US crude assessments at the Asia close;               methodology on its Dated Brent CIF Rotterdam assessment. 
+                                                                                the change in the Canadian cargo laycans assessed and the              Platts also completed an annual review of the Crude Oil 
+        January 2019: Platts updated the North Sea and Urals &                  underlying Canada Dated Brent strip; the clarification of its          methodology and specifications guide. Platts reviewed all 
+        Mediterranean sections to include annual freight rates effective        USGC Basrah Light assessment methodology; the change in the            content and made minor edits to language. Guidance on 
+        January 2, 2019. Platts also updated assessment names in the            ANS differential basis; the addition of two new USGC Bakken            outright, differential and spread price was clarified in reference 
+        Urals & Mediterranean section to reflect changes to assessment          assessments, and the renaming and redefinition of its existing         to increments. In the Americas, Platts clarified calculation 
+        names effective January 2, 2019. Platts removed assessments             North Dakota assessment; the renaming and broader scope                and loading details of Mexican crude prices and added in the 
+        for Iran Light and Iran Heavy FOB Sidi Kerir, which were                of its WTI crude and Eagle Ford crude and condensate cargo             OSP formula for Maya crude heading to the US West Coast. 
+        discontinued effective January 2, 2019 and added assessments            assessments on the US Gulf Coast; the discontinuation of its           In addition, Platts has removed most Americas crude quality 
+        for Iran Light and Iran Heavy FOB Kharg Island (Med) which were         FOB Houston Eagle Ford crude and condensate assessments;               specifications from the text and compiled them into an 
+        introduced also effective January 2, 2019. The ESPO assessment          and the change in specification reflected in its Eagle Ford            Americas crude quality table, updated with details from latest 
+        in the Urals & Mediterranean section was updated to reflect that        condensate assessments. In addition the text on WTI CMA                assays. In the assessment tables, Platts added in a column 
+        effective January 2, 2019, ESPO will now be reflecting cargoes          methodology was edited for further clarity and the assessment          for typical volume sizes, and deleted extraneous columns. 
+        loading two months ahead in line with methodology changes to            was added to the table. The Canada Dated Brent strip and Latin         Platts also clarified the rollover dates for ANS cargoes and the 
+        the Asia assessment and announced in Singapore. All changes             America strips were also added to the assessment tables. In            Latin America Brent Futures Strip calculations, and removed 
+        conducted during this review were designed to get the guide in          the Americas section, the text and tables were also reorganized        redundant language for the Eagle Ford Marker. In the EMEA 
+        shape for publication early 2019 in order to reflect methodology        In Europe, Platts updated the symbol tables, re-ordering               region, Platts updated the guide to include the Asgard and 
+        changes due to take effect at the start of the upcoming year.           the groupings and changing headings. Doba crude had its                Alvheim condensate grades in the North Sea. Also, text on 
+        Additionally, the accompanying EMEA Crude assessment table              conversion factor changed; netback calculations were adjusted;         the delivery and loading dates on Dated Brent was clarified, 
+        was updated to reflect all changes. In the Asia-Pacific and             and a US CIF delivered crude section was added.                        alongside text on the Forward Dated Brent strips. Platts edited 
+        Persian Gulf sections: Platts removed references to Enfield                                                                                    and updated the text for Persian Gulf and Asia Pacific sections, 
+        crude after the assessment was discontinued in November,                July 2018: Platts updated its guide to reflect 2018 Worldscale         and in table corrected the loading period for ESPO and Sakhalin 
+        2018. Updated loading period reflected in Platts ESPO M1                rates, the addition of several maps, the revision and clarification    Blend and loading point for Senipah crude. Maps relevant to key 
+        and ESPO M2 assessments effective January 2019. Added                   of text and the revision of cargo sizes in West Africa. Platts         crude oil assessments were also added.
+        references to Murban M2 and M3 assessments, launched on                 updated the Asia and Persian Gulf sections to reflect the 
+        January 2, 2019. Removed reference to Vietnam’s Su Tu Den               addition of crude assessments at Singapore close for the               April 2017: Platts updated the Crude Oil Methodology Guide to 
+        crude differential to OSP which was discontinued in 2017.               following: Indonesia’s Banyu Urip crude, Iraq’s Basrah Light and       reflect the addition of the LOOP Sour crude assessments traded 
+                                                                                Basrah Heavy crudes, US crude assessments and CFR North                in cavern at the Louisiana Offshore Oil Port terminal on the US 
+        October 2018: Platts completed an annual review of the global           Asia crude assessments. The guide was also updated to reflect          Gulf Coast.
+        Crude Oil methodology and specifications guide. Platts reviewed         the discontinuation of Su Tu Den crude differential to OSP 
+        all content, corrected typos and made minor edits to language.          effective December 1, 2017. Platts edited and updated the text         January 2017: Platts completed an annual update to the 
+        Platts also added new sections I to VI. In the Persian Gulf             for Asia Pacific sections as well as quality chart for Asia-Pacific    Crude Oil Methodology Guide, published in January 2017. This 
+        section Platts added reference to an assessment of Murban’s             crudes as per latest available assays. Platts updated the guide        update moved the location of certain passages in Sections I 
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                    20
+        Specifications Guide         Americas Crude Oil: October 2025
+        to VI for enhanced clarity, and removed redundant references            the assessment period for Alaska North Slope (ANS) crude               Platts removed references to Kumkol crude, which is no longer 
+        to STS and barge practices. Platts also updated Worldscale              delivered into the US West Coast. Under the updated ANS                assessed.
+        rates to reflect changes from 2016 to 2017. Platts updated the          methodology, Platts will roll its assessments forward to reflect 
+        Crude Oil Methodology Guide to clarify around nomination                deliveries in the second calendar month forward from the               August 2015: Platts completed an annual update to the Crude 
+        procedure for Middle Eastern sour crude cargo deliveries,               first publishing day on or after the 10th of each month. Platts        Oil Methodology Guide in July 2015. In this update, Platts 
+        and remove reference to the use of the Aframax Abu Dhabi-               also updated the Crude Oil Methodology Guide to reflect                reviewed all content. Platts updated guidance around how to 
+        III as an alternative delivery point in the assessment process          updated specifications of Basrah Light delivered into the US           report information and expectations for contactability. Platts 
+        for loading of Upper Zakum cargoes. Platts updated the                  Gulf Coast. The updated specifications reflect a typical API           also consolidated guidance regarding review of reported 
+        Crude Oil Methodology Guide to include the Kimanis crude                gravity 29.5 and a maximum sulfur content of 3%. Prior to              trades and incorporated information regarding how Platts 
+        assessment and Murban Quality Premium. Removed references               March 2016, Platts Basrah Light reflected an API gravity of            accounts for market structure in its crude oil assessments. 
+        to discontinued Canadian crude postings, updated the new                31-35.5 and sulfur content of 2%. Platts also corrected minor          In the specifications section of the guide, Platts reflected the 
+        MOC timestamps and general review and update of Americas                typographical errors.                                                  renaming of Flotta Gold assessment, in line with the change 
+        methodology. Platts also updated the European section                                                                                          in name by the terminal operator, Talisman Sinopec Energy UK 
+        throughout, including procedures around pre-loaded oil for              February 2016: Platts updated the Crude Oil Methodology                Ltd (TSEUK). Platts added the planned discontinuation dates 
+        Urals Mediterranean, changes to Cash BFOE contract months               Guide to reflect the addition of US crude export cargo                 of its existing Kumkol and Zarzaitine assessments. Platts 
+        and the discontinuation of Azeri FOB Supsa. Platts made a               assessments for Eagle Ford crude and condensate from                   incorporated netback calculations for Urals and Mediterranean 
+        variety of edits to its North Sea methodology section for further       Houston and Corpus Christi, Texas terminals as well as WTI             assessments. Platts added its Baltic Urals crude short option 
+        clarity around descriptions for BFOE, convergence practices,            Houston. Platts also added a new crude oil pipeline assessment         methodology. Language has been clarified in the US pipeline 
+        a note that Platts now published assessments for the value of           for Western Canadian Select (WCS) ex-Nederland. Platts also            crude assessments, US shale crude oils and Americas dated 
+        three forward months of BFOE (instead of as four, previously).          removed references to Canadian crude oil postings that were            Brent and US crude assessments at London close. Latin 
+        Platts also added information relating to its updated intraday          discontinued effective July 31, 2015.                                  America crude has added clarification around the monthly cash 
+        BFOE assessments.                                                                                                                              WTI assessments along with language to the Mexican crude 
+                                                                                January 2016: Platts updated the Crude Oil Methodology Guide           contract pricing formulas. Language around Latin America 
+        May 2016: Platts updated the Crude Oil Methodology Guide to             to reflect the inclusion of Al Shaheen and Murban in its Dubai         assessments FOB has also been clarified. Platts updated this 
+        include new assessments for WTI 2nd month and at the London             and Oman crude oil benchmarks. Platts removed references to            guide to include guidance regarding the inclusion of STS as a 
+        close including: WTI MEH M2, WTI Midland M2, Light Houston              Stybarrow crude, which is no longer assessed. Platts started to        delivery option for Upper Zakum.
+        Sweet M2, WTI MEH M1 (London), and WTI MEH M2 (London).                 assess Dubai and Oman derivatives independently of physical 
+                                                                                assessments with effect from December 1, 2015.                         May 2015: Platts removed a number of European, Russian 
+        April 2016: Platts updated the Crude Oil Methodology Guide                                                                                     and West African crude oil specifications from the guide and 
+        to reflect typical volumes for Latin American crude oil cargoes         November 2015: Platts updated the Crude Oil Methodology                replaced them with a table format. Previously, the crude oil 
+        to: Escalante (1 million barrels), Roncador (750,000 barrels),          Guide to reflect Brazilian Roncador crude oil with a typical           specifications had appeared next to the crude oil’s description. 
+        Loreto (400,000 barrels), Oriente (360,000 barrels), Napo               gravity of 19.8 API, sulfur content of 0.935%. Platts assessments      Now, the specifications appear separately in one table and are 
+        (720,000 barrels), Marlim (750,000 barrels), Castilla Blend (1          for Roncador have reflected crude of this general quality since        designed as a reference. Platts updated the description of its 
+        million barrels), and Vasconia (500,000 barrels). Prior to April        2013, when Roncador exports began to reflect a heavier, more           Dated Brent and North Sea crude assessment methodology 
+        2016, Platts reflected typical volume sizes of 350,000 barrels          sulfurous specification than had previously been typical for the       to reflect North Sea cargoes loading a full month-ahead. This 
+        with the exception of Santa Barbara (350,000 barrels), Mesa             crude. Prior to 2013, Roncador exports and Platts Roncador             change to Platts Dated Brent and North Sea crude methodology 
+        30 (350,000 barrels), Castilla Blend (500,000 barrels) and              assessments had reflected crude with a lighter gravity of              also incorporated changes to Platts Cash BFOE; under Platts 
+        Magdalena (300,000 barrels). Additionally, Platts has updated           approximately 28.3 API, and a lower sulfur of generally 0.58%.         new methodology, full cargo date nominations are declared 
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                    21
+        Specifications Guide         Americas Crude Oil: October 2025
+        one month in advance. This change also impacted Platts Asian           markets from December 2014. As part of the change, Platts              available API and sulfur specifications for SGC and Poseidon; 
+        and American Dated Brent assessments, which also reflect               discontinued the use of the partials mechanism to assess               create separate sections for US and Canada cargo assessments 
+        loadings 10 days to a month-ahead. Platts further clarified the        Minas and Tapis. Platts updated the tables for Asia-Pacific            for more clarity; include descriptions of its new Bakken basin 
+        convergence and settlement expectations for BFOE partials              crude to amend the cargo size of Minas to 100,000 barrels and          assessment; remove certain background commentary around 
+        published for assessment under its methodology. Platts updated         Tapis to 300,000 barrels. Platts also updated the description          US shale markets that was not strictly relevant to methodology 
+        the description of its West African assessment range to reflect        of Angolan Dated Brent Strip codes AALGM00 and AALGN00                 itself; remove references to Canadian crude postings that 
+        the value of all West African crude assessments loading 25-55          to their new description, the “15-45 Day Dated Strip”. In North        are no longer published; add explanations of Latin strips; add 
+        days forward. Platts noted the addition of the Deodorized Field        Sea crude, Platts added assessment codes for M4 cash BFOE              definitions for Isthmus to USWC and Olmeca to Europe; and 
+        Condensate assessment and the Sakhalin Blend assessment.               at the London and Asia closes, M4 BFOE EFPs, and spreads               incorporate descriptions of Platts’ 3:15 futures assessments. 
+        DFC will run alongside the existing Ras Gas assessment and             with WTI.                                                              Platts also made minor typographical edits throughout the text 
+        will carry the historical data for Ras Gas when the Ras Gas                                                                                   for clarity.
+        assessment is discontinued on January 2, 2016. The Sakhalin            July 2014: Platts completed an annual update to the Crude Oil 
+        Blend assessment will run alongside the existing Vityaz Blend          Methodology Guide in July 2014. In this update, Platts reviewed        November 2013: Platts updated this guide, making minor edits 
+        assessment and will carry the historical data for Vityaz when          all content. Platts consolidated guidelines around publishing          through the text. Platts also updated its methodology for Middle 
+        the Vityaz assessment is discontinued on January 2, 2016. Platts       information during the MOC assessment process into the MOC             Eastern crude oil, noting a change where full cargos converge 
+        removed references to discontinued assessments for Lower               Data Publishing Principles section, and incorporated clarification     on the 20th partial between a buyer and seller, forming cargos 
+        Zakum and Umm Shaif following the launch of the Das Blend              guidance about how to express interest in bids and offers              of 500,000 barrels each. Platts added information regarding 
+        assessment and the removal of the codes associated with those          that were published in January 2014 and May 2014. Platts also          its new Light Houston Sweet (LHS) assessment, which had 
+        assessments. Platts added information about its new WTI MEH            incorporated clarifications around book-outs, circle-outs, and         previously been published in a separate document. Platts also 
+        assessment reflecting Midland grade WTI crude oil trading at           editorial review of reported trades. The guide was updated to          added details regarding assessments for Akpo, Bonga, Pazflor, 
+        the Magellean East Houston terminal. Platts also amended the           add details regarding new assessments for Das Blend crude;             Plutonio and Djeno crude oils.
+        guide to reflect the renaming of its Canadian Syncrude Sweet           correct the implementation date for valuing Asian crudes 
+        assessment to Syncrude Sweet Premium. This methodology                 versus the ADB Strip to September 2013; remove a reference             August 2013: Platts revamped all Oil Methodology and 
+        guide was also updated to include further description of Platts’       to Oman quality specifications; add details regarding Minas            Specifications Guides, including its Crude Oil guide, in August 
+        processes and practices in survey assessment environments.             and Tapis partials; update Platts QP calculations formula;             2013. This revamp was completed to enhance the clarity and 
+        Platts made other minor edits throughout.                              remove references to Palanca/Soyo, Kole, and Rabi Light,               usefulness of all guides, and to introduce greater consistency 
+                                                                               which are no longer assessed; update descriptions of Urals CIF         of layout and structure across all published methodology 
+        December 2014: Platts updated this guide making some                   Rotterdam and CIF Augusta; incorporate additional Azeri Light          guides. Methodologies for market coverage were not 
+        minor edits. Platts also updated the methodology to reflect            descriptions; revise Urals CFD descriptions; clarify language          changed through this revamp, unless specifically noted in the 
+        the use of full cargoes to assess Tapis and Minas crude oil            describing the US and Canadian pipeline rolls; update latest           methodology guide itself.
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                    22

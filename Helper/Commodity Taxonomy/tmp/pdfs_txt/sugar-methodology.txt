@@ -1,0 +1,312 @@
+         Specifications Guide
+         Global Sugar
+          Latest update: July 2025
+          Definitions of the trading locations for which Platts                            Additional price assessments.................................... 7
+          publishes indexes or assessments ............................. 2
+                                                                                           Third-Party Data ...................................................... 7
+          Raw Sugar Assessments ........................................... 3              Brazil - CEPEA/ESALQ Price ...........................................7
+          Thai Hi Polarization ..................................................... 3     China - ZCE White Sugar Futures ....................................7
+          Forward physical curve ................................................ 3        Mexico - SNIIM Mexican Standard & Refined Sugar Prices  ...7
+          Center South Brazil ..................................................... 4                                               ................................... 8
+                                                                                           Commitments of Traders Update
+                                                                                           ICE Settlements, Open Interest and Volume ..................... 8
+          CFR Asia price arbitrage matrix and calculations ........5                       White Sugar Premium .................................................. 9
+          White Sugar Assessments .........................................6               Revision history ......................................................10
+          Brazil 150 ICUMSA ...................................................... 6
+          Europe 45 ICUMSA  .................................................... 6
+          www.spglobal.com/commodityinsights
+          Specifications Guide              Global Sugar: July 2025
+          Definitions of the trading locations for which Platts publishes indexes or assessments
+          All the assessments listed here employ S&P Global Commodity Insights’ Platts Assessments Methodology, as published at 
+          https://www.spglobal.com/commodityinsights/en/our-methodology/methodology-specifications/agriculture/sugar-methodology 
+          These guides are designed to give Platts subscribers as much information as possible about a wide range of methodology and specification questions.
+          This guide is current at the time of publication. Platts may issue further updates and enhancements to this guide and will announce these to subscribers through its usual publications of record.  
+          Such updates will be included in the next version of this guide. Platts editorial staff and managers are available to provide guidance when assessment issues require clarification.
+          The following global sugar guide contains the primary specifications and methodologies for Platts sugar assessments throughout the world. The various components of this guide are designed to give 
+          Platts subscribers as much information as possible about a wide range of methodology and specification issues.
+          The weekly assessments listed in this guide reflect the prevailing market value of the specified product at the following times each Thursday:
+          Asia – 16:30 Singapore time 
+          EMEA – 16:30 London time 
+          Americas – 16:30 London time for all assessments (Brazil) in line with the European market close 
+          © 2025 by S&P Global Inc. All rights reserved.         2
+           Specifications Guide                 Global Sugar: July 2025
+           Raw Sugar
+           Assessment                                               Currency/     Code         Monthly     Contract type                Contract      Location                                              Timing                                                  Min size   Max size
+                                                                    UOM                        Avg                                      basis
+           Thai Hi Polarization
+           Thai Hi Polarization outright price                      ¢/lb          SGAAD00      SGAAD03     Spot                         FOB           Bangkok, Laem Chabang, Koh Si Chang, Sri Racha        Contractual delivery within front calendar month         8,000     12,000
+           Thai Hi Polarization premium                             0.01 ¢/lb     SGAAC00      SGAAC03     Spot                         FOB           Bangkok, Laem Chabang, Koh Si Chang, Sri Racha        Contractual delivery within front calendar month         8,000     12,000
+           Thai HiPol Sugar Flat Price First 75-day Window          ¢/lb          SGAGD00      SGAGD03     Forward Physical Curve       FOB           Bangkok, Laem Chabang, Koh Si Chang, Sri Racha        Contractual delivery within 75-day shipment window       8,000     12,000
+           Thai HiPol Sugar Premium First 75-day Window             0.01 ¢/lb     SGAFD00      SGAFD03     Forward Physical Curve       FOB           Bangkok, Laem Chabang, Koh Si Chang, Sri Racha        Contractual delivery within 75-day shipment window       8,000     12,000
+           Thai HiPol Sugar Flat Price Second 75-day Window ¢/lb                  SGAID00      SGAID03     Forward Physical Curve       FOB           Bangkok, Laem Chabang, Koh Si Chang, Sri Racha        Contractual delivery within 75-day shipment window       8,000     12,000
+           Thai HiPol Sugar Premium Second 75-day Window            0.01 ¢/lb     SGAHD00      SGAHD03     Forward Physical Curve       FOB           Bangkok, Laem Chabang, Koh Si Chang, Sri Racha        Contractual delivery within 75-day shipment window       8,000     12,000
+           Thai HiPol Sugar Inter-Window Spread 1                   ¢/lb          SGALD00                  Forward Physical Curve       FOB           Bangkok, Laem Chabang, Koh Si Chang, Sri Racha        Contractual delivery within 75-day shipment window       8,000     12,000
+           Center South Brazil
+           Brazil CS VHP outright price                             ¢/lb          SGABA00                  Spot                         FOB           Santos                                                Loading in current calendar month                        15,000     50,000 
+           Brazil CS VHP premium                                    0.01 ¢/lb     SGAAE00                  Spot                         FOB           Santos                                                Loading in current calendar month                        15,000     50,000 
+           Brazil CS VHP Second Month outright price                ¢/lb          SGAAW00                  Spot                         FOB           Santos                                                Loading in first calendar month forward                  15,000     50,000 
+           Brazil CS VHP Second Month  premium                      0.01 ¢/lb     SGAAX00                  Spot                         FOB           Santos                                                Loading in first calendar month forward                  15,000     50,000 
+           Raw Sugar Assessments                                                                       Timing: Contractual loading within the front calendar month.                                 Forward physical curve
+                                                                                                       The assessment rolls to the following calendar month on the 
+           Thai Hi Polarization                                                                        11th of each month unless that day is not a business day, in                                 Quality: Price assessments reflect Thai raw sugar of a fair 
+                                                                                                       which case the assessment rolls on the next business day.                                    average quality of the current crop, with a minimum polarization 
+           Quality: Price assessments reflect Thai raw sugar of a                                                                                                                                   on a wet basis of 98.5 degrees, at the time of shipment. 
+           fair average quality of the available crop, with a minimum                                  Frequency: Assessments are published on a weekly basis every 
+           polarization on a wet basis of 98.5 degrees, at the time of                                 Thursday. When the publishing day falls on a Singapore or US                                 Quantity: Cargo assessments reflect parcels of 12,000 mt, 
+           shipment.                                                                                   public holiday, the assessments will be published the working                                though FOB cargoes of between 8,000 mt and 12,000 mt may be 
+                                                                                                       day prior.                                                                                   considered. 
+           Quantity: Cargo assessments reflect parcels of 12,000 mt, 
+           though FOB cargoes of between 8,000 mt and 12,000 mt may be                                 Unit of assessment: 0.01 US cents per pound.                                                 Basis & location: FOB Bangkok, Laem Chabang, Koh Si Chang 
+           considered.                                                                                                                                                                              and Sri Racha.
+                                                                                                       Notes: The weekly assessments are published as a premium 
+           Basis & location: FOB Bangkok, Laem Chabang, Koh Si Chang                                   to the prior day settlement for the front-month contract of ICE                              Loading rate: 3,000 mt per weather working day. Other rates 
+           and Sri Racha.                                                                              Sugar No. 11 Futures, as well as an outright price, effective 16:30                          may be taken into account but normalized to cargoes fitting the 
+                                                                                                       Singapore time.                                                                              assessment specification.
+           Loading rate: 3,000 mt per weather working day. Other rates 
+           may be taken into account but normalized to cargoes fitting the                                                                                                                          Timing: The weekly assessed curve includes the first two 75-day 
+           assessment specification.                                                                                                                                                                shipment windows. As the calendar year runs, these are March 
+           © 2025 by S&P Global Inc. All rights reserved.             3
+          Specifications Guide              Global Sugar: July 2025
+          1 to May 15, May 1 to July 15, July 1 to September 15, and October                   Center South Brazil                                                                   Timing: Assessments reflect two calendar loading months: the 
+          1 to December 15. The assessments will roll forward in line with                                                                                                           current calendar month and next calendar month forward. The 
+          expiry of the ICE Sugar No. 11 Futures monthly contract.                             Quality: Price assessments reflect Brazil Center South VHP                            assessments roll over to the following calendar month on the 
+                                                                                               raw cane sugar with minimum polarization of 99 degrees and                            first publication day after the 10th of the month.  
+          Unit of assessment: 0.01 US cents per pound.                                         maximum 99.49 degrees.
+                                                                                                                                                                                     Unit of measurement: 0.01 US cents per pound. 
+          Notes: The weekly assessments are published as premiums                              Quantity: Typical parcel size of 50,000 mt.
+          to the prior day settlements for the corresponding contract                                                                                                                Frequency: Assessments are published as a differential to the 
+          months of ICE Sugar No. 11 Futures, as well as outright prices,                      Basis & location: FOB Santos, Brazil. Cargoes loading from                            London 16:30 timestamped assessment for the front-month 
+          effective 16:30 Singapore time. The outright price does not                          Paranagua, Brazil may be normalized back to the basis location.                       contract of ICE Sugar No. 11 Futures that day, as well as an 
+          include an additional polarization premium.                                                                                                                                outright price, effective 16:30 London time. The assessments 
+          Loading period                          Underlying futures contract month            Loading rate: 10,000 mt per weather working day. Other rates                          are published on a weekly basis every Thursday or the 
+          March-May 15                            March                                        may be taken into account but normalized for assessment                               prior working day in case of a São Paulo or US holiday on a 
+          May-July 15                             May                                          purposes.                                                                             Thursday. 
+          July-September 15                       July
+          October-December 15                     October
+          © 2025 by S&P Global Inc. All rights reserved.         4
+          Specifications Guide              Global Sugar: July 2025
+          CFR Asia Sugar Price Arbitrage Matrix 
+          Assessment                                                          Symbol           UOM          Location         Timing                     Size 
+          Asia origin
+          Thai HiPol Sugar Pol Premium                                        SGAAF00          $/mt         Indonesia                                   25,000mt
+          Thai HiPol CFR Indonesia Before Tax                                 SGAAG00          $/mt         Indonesia                                   25,000mt
+          Thai HiPol CFR Indonesia Sugar Tax                                  SGAAH00          $/mt         Indonesia                                   25,000mt
+          Thai HiPol Sugar CFR Indonesia Import Parity                        SGAAI00          $/mt         Indonesia                                   25,000mt
+          Brazil origin
+          Brazil VHP Sugar Pol Premium                                        SGAAJ00          $/mt         Indonesia                                   50,000mt
+          Brazil VHP CFR Indonesia Before Tax                                 SGAAK00          $/mt         Indonesia                                   50,000mt
+          Brazil VHP CFR Indonesia Sugar Tax                                  SGAAL00          $/mt         Indonesia                                   50,000mt
+          Brazil VHP Sugar CFR Indonesia Import Parity                        SGAAM00          $/mt         Indonesia                                   50,000mt
+          CFR Asia price arbitrage matrix and calculations                                     Thailand                                                                              Freight for Brazil to Indonesia is basis a cargo size of 50,000 mt 
+                                                                                               CFR Indonesia before tax and import parity price includes the                         sugar from Santos, Brazil to Cigarding, Indonesia, loading 15-30 
+          The weekly raw sugar price arbitrage matrix compares the                             quality or polarization premium for Thailand raw sugar at 3.75%                       days forward from the date of publication.
+          import parity of Thai and Brazil raw sugar into Indonesia, one                       pol over the Platts FOB Thailand HiPol premium assessment. 
+          of Asia’s largest raw sugar buyers. The matrix calculates Thai                                                                                                             A flat duty of Indonesian Rupiah 550,000/mt for Brazilian raw 
+          Raw HiPol sugar and Brazil VHP for prompt shipment cargoes,                          Freight for Thailand to Indonesia is basis a cargo size of 25,000                     sugar is also applied. The final levy on Brazilian raw sugar into 
+          comprising cash and polarization premiums from both origins,                         mt from Laem Chabang in Thailand to Ciwandan, loading 7-20                            Indonesia is calculated in dollars per metric ton using the 
+          freight and import taxes.                                                            days forward from the date of publication.                                            relevant daily exchange rate published by the Indonesian central 
+                                                                                                                                                                                     bank (IDRUS00) https://www.bi.go.id/id/statistik/informasi-kurs/
+          The CFR Indonesia import parity price for Thai HiPol is published                    Import levy on Thai sugar is 5%.                                                      jisdor/Default.aspx
+          at the 16:30 Singapore market on close and follows Singapore’s 
+          publishing schedule, while the Brazilian VHP reflects the                            The calculation for CFR Indonesia import parity for Thai origin is                    The exchange rate follows the Indonesia holiday schedule, 
+          16:30 London market on close and follows Brazil’s publishing                         basis FOB Thailand spot loading premium plus the polarization                         and on days when there is no daily exchange rate Platts will 
+          schedule. These assessments will be published every Thursday.                        premium plus freight costs and import levy.                                           reference the previous day’s exchange rate.
+          When the publishing day falls on a Singapore, UK, Brazil and US                      Brazil
+          public holidays, the assessments will be published the working                                                                                                             The calculation for CFR Indonesia import parity for Brazil origin 
+          day prior.                                                                           CFR Indonesia before tax and import parity price includes the                         is the sum FOB Brazil VHP spot loading premium plus the 
+                                                                                               quality or polarization premium for Brazil raw sugar at 4.2% pol                      polarization premium plus freight costs and import levy.
+          The import parity calculation is as follows:                                         to the Platts FOB Brazil VHP premium assessment.
+          © 2025 by S&P Global Inc. All rights reserved.         5
+          Specifications Guide               Global Sugar: July 2025
+          White Sugar
+          Assessment                                Currency/UOM       Code          Monthly Avg      Contract basis     Location                                                  Timing                                                        Min size    Max size
+          Brazil 150 ICUMSA
+          Container Brazil 150 outright price       $/mt               SGADA00                        FOB                Santos                                                    Loading in current month                                      10          50
+          Container Brazil 150 premium              $/mt               SGACE00                        FOB                Santos                                                    Loading in current month                                      10          50
+          Europe 45
+          UK Delivered                              Eur/mt             SGAEF04                        Delivered          UK                                                        Contractual delivery up to two full calendar months.          200         5,000
+          North Italy Delivered                     Eur/mt             SGAEL04                        Delivered          North Italy                                               Contractual delivery up to two full calendar months.          200         5,000
+          Northwest Europe                          Eur/mt             SGAEG04                        ExW                NWE, 'beet belt'                                          Contractual loading up to two full calendar months.           1,000       5,000
+          White Sugar Assessments                                                                Notes: Assessments are published as a differential to the                              Frequency: Assessments are published on a weekly basis every 
+          Brazil 150 ICUMSA                                                                      London 16:30 timestamped ICE Sugar No. 11 Futures front-month                          Thursday. When the publishing day falls on a UK public holiday, 
+                                                                                                 contract assessment for   that day, as well as an outright price,                      the assessments will be published the working day prior.
+          Quality: Price assessments reflect Brazil white sugar with a                           effective 16:30 London time.                                                           White sugar EXW Northwest Europe
+          maximum ICUMSA of 150.
+                                                                                                 Europe 45 ICUMSA                                                                       Quality: Price assessments reflect EU 45 ICUMSA white sugar 
+          Quantity: Container assessments reflect between 10 and 50                              UK and North Italy – delivered                                                         of standard quality and a maximum ICUMSA of 45 and meeting 
+          containers.                                                                                                                                                                   EEC No 2 quality.
+                                                                                                 Quality: Price assessments reflect EU 45 ICUMSA white sugar 
+          Basis & location: Container assessments are basis FOB Santos,                          of standard quality and a maximum ICUMSA of 45 and meeting                             Quantity: Bulk sugar, considering 1,000 to 5,000 mt. Other 
+          Brazil. Container cargoes loading from Paranagua, Brazil may be                        EEC No 2 quality.                                                                      volumes can be considered and may be normalized back to the 
+          taken into account but normalized for assessment purposes.                                                                                                                    reference volume range.
+                                                                                                 Quantity: Indications from 200 mt to 5,000 mt may be 
+          Timing: Assessments reflect loading within the current calendar                        considered, with the assessment normalized to reflect                                  Basis & location: ExWorks Northwest Europe, the assessment 
+          month. The assessments roll to the following calendar month on                         breakbulk sugar delivered on a 3,000 to 5,000 mt size.                                 reflects sugar from Germany, France, the Netherlands and 
+          the first publication day after the 5th of the current month.                                                                                                                 Belgium, often referred to as the Beet Belt.
+                                                                                                 Basis & location: Inland deliveries are considered basis country 
+          Unit of measurement: US dollars per mt.                                                of delivery.                                                                           Timing: Contractual loading up to two full calendar months from 
+                                                                                                                                                                                        the day of the assessment.
+          Frequency: Assessments are published on a weekly basis every                           Timing: Contractual delivery up to two full calendar months 
+          Thursday. When the publishing day falls on a Brazil or US public                       from the day of the assessment.                                                        Unit of assessment: Euro per mt.
+          holiday, the assessments will be published on the working day 
+          prior.                                                                                 Unit of assessment: Euro per mt.                                                       Frequency: Weekly, Thursday
+          © 2025 by S&P Global Inc. All rights reserved.          6
+          Specifications Guide               Global Sugar: July 2025
+          Additional price assessments                                                          Platts also publishes this price in US dollars per mt, using a                          SNIIM Estandar GDL $/mt
+          Platts Brazil Ethanol, Raw Sugar Equivalent                                           USD.BRL rate assessed by Platts at 13:30 Central Time.
+                                                                                                                                                                                        SNIIM Estandar PUEBLA Pesos/50kg
+          Platts also publishes Hydrous ANP domestic ex-mill Ribeirao                             CEPEA Esalq domestic crystal sugar $/mt 
+          with taxes (Real/cu m) (SGAEC00) and the Raw sugar equivalent                                                                                                                 SNIIM Estandar PUEBLA $/mt
+          (Brazil ex-mill Ribeirao hydrous) (c/lb) (SGBAC00) basis 16:30 São                    China - ZCE White Sugar Futures
+          Paulo time.                                                                                                                                                                   SNIIM Estandar TOL Pesos/50kg
+                                                                                                  Zhengzhou (ZCE) China White Sugar Futures Mo01 Yuan/mt
+          More information on the methodology underpinning these                                                                                                                        SNIIM Estandar TOL $/mt
+          assessments can be found in the https://www.spglobal.com/                               Zhengzhou (ZCE) China White Sugar Futures Mo02 Yuan/mt
+          content/dam/spglobal/ci/en/documents/platts/en/our-                                                                                                                           SNIIM Refined Average Pesos/50kg
+          methodology/methodology-specifications/biofuels/biofuels-                               Zhengzhou (ZCE) China White Sugar Futures Mo03 Yuan/mt
+          specifications.pdf                                                                                                                                                            SNIIM Refined Average $/mt
+                                                                                                  Zhengzhou (ZCE) China White Sugar Futures Mo01 $/mt
+          Platts European Ethanol, Raw Sugar Equivalent                                                                                                                                 SNIIM Refined DF Pesos/50kg
+          Platts also publishes a conversion reflecting EU Ethanol T2                             Zhengzhou (ZCE) China White Sugar Futures Mo02 $/mt
+          FOB Rotterdam expressed in raw sugar equivalent, taking the                                                                                                                   SNIIM Refined DF $/mt
+          EU Ethanol T2 FOB Rotterdam Euro per metric ton assessment                              Zhengzhou (ZCE) China White Sugar Futures Mo03 $/mt
+          weekly average, calculated from Friday to the following Thursday,                                                                                                             SNIIM Refined GDL Pesos/50kg
+          and converting it to raw sugar equivalent using a conversion rate                     Mexico - SNIIM Mexican Standard & Refined Sugar 
+          of 0.538.                                                                             Prices                                                                                  SNIIM Refined GDL $/mt
+          Third-Party Data                                                                      Platts publishes the following standard and refined sugar                               SNIIM Refined PUEBLA Pesos/50kg
+                                                                                                prices from the Mexico National Information System and 
+          Platts publishes a range of data from third-party providers.                          Market Integration [SNIIM], Ministry of Economy in Pesos/50                             SNIIM Refined PUEBLA $/mt
+          This includes domestic sugar prices for Brazil, China, India and                      kg. Platts also publishes these prices in US dollars per mt, 
+          Mexico, settlement prices and volume and open interest totals                         using a USD.MXN rate assessed by Platts at 13:30 Central                                SNIIM Refined TOL Pesos/50kg
+          for the ICE Sugar No. 11 Futures and ICE White No. 5 Sugar                            Time.
+          Futures, and the weekly Commitments of Traders.                                                                                                                               SNIIM Refined TOL $/mt
+                                                                                                  SNIIM Estandar Average Pesos/50kg
+          Brazil - CEPEA/ESALQ Price                                                                                                                                                  Contract specifications reflected are defined by SNIIM, including 
+                                                                                                  SNIIM Estandar Average $/mt                                                        the locations as follows: 
+          Platts publishes the following third-party data from Brazil’s                                                                                                               Region     Wholesale Distribution Centers        State               Abbrev. 
+          Center for Advanced Studies on Applied Economics (CEPEA)                                SNIIM Estandar DF Pesos/50kg
+          at the Luiz de Queiroz College of Agriculture, University of São                                                                                                            Central    Central de Abasto de Iztapalapa       Mexico City         DF
+          Paulo. Specifications reflected are defined by CEPEA for its                            SNIIM Estandar DF $/mt                                                             Central    Central de Abasto de Toluca           State of Mexico     TOL
+          domestic crystal sugar prices.                                                                                                                                              West       Mercado de Abasto de Guadalajara      Jalisco             GDL
+                                                                                                  SNIIM Estandar GDL Pesos/50kg                                                      Gulf       Central de Abasto de Puebla           Puebla              PUEBLA
+            CEPEA Esalq domestic crystal sugar R$/50kg
+          © 2025 by S&P Global Inc. All rights reserved.         7
+          Specifications Guide              Global Sugar: July 2025
+          Commitments of Traders Update                                                          Sugar No. 11 ICE Futures US COT Report Nonreportable Gross                           White Sugar No. 5 ICE Futures Europe Settlement Price Mo01
+                                                                                                  Short
+          Platts publishes the following data from the US Commodities                                                                                                                  White Sugar No. 5 ICE Futures Europe Settlement Price Mo02  
+          Futures Trading Commission on the ICE sugar No. 11 futures                           The four reported trading categories are described in Platts 
+          contract: long, short and net positions for the four trader                          publications as follows:                                                                White Sugar No. 5 ICE Futures Europe Settlement Price Mo03  
+          categories, as well as the open interest. The net position is 
+          calculated by subtracting the gross shorts from the gross longs.                     CFTC COT Report                    Platts                                               White Sugar No. 5 ICE Futures Europe Settlement Price Mo04  
+            Sugar No. 11 ICE Futures US COT Report Open Interest                              Non-Commercial                     Large Funds                                          White Sugar No. 5 ICE Futures Europe Settlement Price Mo05  
+                                                                                               Commercial                         Commercial
+            Sugar No. 11 ICE Futures US COT Report Index Funds Net                            Index Traders                      Index Funds                                          White Sugar No. 5 ICE Futures Europe Settlement Price Mo06  
+             Position                                                                          Nonreportable                      Nonreportable
+                                                                                                                                                                                       White Sugar No. 5 ICE Futures Europe Settlement Price Mo07   
+            Sugar No. 11 ICE Futures US COT Report Index Funds Gross Long                     ICE Settlements, Open Interest and Volume
+                                                                                                                                                                                       White Sugar No. 5 ICE Futures Europe Settlement Price Mo08  
+            Sugar No. 11 ICE Futures US COT Report Index Funds Gross                          Platts publishes the end of day settlements, spreads, open 
+             Short                                                                             interest and volume data for the ICE Sugar No. 11 and White                             Sugar No. 11 ICE Futures US Settlement Price Mo01
+                                                                                               Sugar futures contracts.
+            Sugar No. 11 ICE Futures US COT Report Commercial Net                                                                                                                     Sugar No. 11 ICE Futures US Settlement Price Mo02  
+             Position                                                                            Sugar No. 11 ICE Futures US Open Interest Mo01*
+                                                                                                                                                                                       Sugar No. 11 ICE Futures US Settlement Price Mo03  
+            Sugar No. 11 ICE Futures US COT Report Commercial Gross Long                        Sugar No. 11 ICE Futures US Open Interest Mo02*
+                                                                                                                                                                                       Sugar No. 11 ICE Futures US Settlement Price Mo04  
+            Sugar No. 11 ICE Futures US COT Report Commercial Gross                             Sugar No. 11 ICE Futures US Volume Mo01
+             Short                                                                                                                                                                     Sugar No. 11 ICE Futures US Settlement Price Mo05  
+                                                                                                 Sugar No. 11 ICE Futures US Volume Mo02
+            Sugar No. 11 ICE Futures US COT Report Large Funds Net                                                                                                                    Sugar No. 11 ICE Futures US Settlement Price Mo06  
+             Position                                                                            White Sugar No. 5 ICE Futures Europe Open Interest Mo01
+                                                                                                                                                                                       Sugar No. 11 ICE Futures US Settlement Price Mo07   
+            Sugar No. 11 ICE Futures US COT Report Large Funds Gross Long                       White Sugar No. 5 ICE Futures Europe Open Interest Mo02
+                                                                                                                                                                                       Sugar No. 11 ICE Futures US Settlement Price Mo08  
+            Sugar No. 11 ICE Futures US COT Report Large Funds Gross                            White Sugar No. 5 ICE Futures Europe Total Open Interest
+             Short                                                                                                                                                                     Sugar No. 11 ICE Futures US Settlement Price Mo09  
+                                                                                                 White Sugar No. 5 ICE Futures Europe Volume Mo01                         
+            Sugar No. 11 ICE Futures US COT Report Nonreportable Net                                                                                                                  Sugar No. 11 ICE Futures US Settlement Price Mo10   
+             Position                                                                            White Sugar No. 5 ICE Futures Europe Volume Mo02
+                                                                                                                                                                                       Sugar No. 11 ICE Futures US Settlement Price Mo11       
+            Sugar No. 11 ICE Futures US COT Report Nonreportable Gross                          White Sugar No. 5 ICE Futures Europe Total Volume
+             Long                                                                                                                                                                    *Open Interest information is updated in the database the next 
+                                                                                                                                                                                     business day, when it is made available by the exchange. 
+          © 2025 by S&P Global Inc. All rights reserved.         8
+          Specifications Guide              Global Sugar: July 2025
+          White Sugar Premium
+          Platts publishes a White Sugar Premium, which is calculated by 
+          subtracting the front-month ICE Sugar No. 11 settlement price, 
+          converted to US dollars per mt, from the front-month ICE White 
+          Sugar No. 5 Futures settlement price. No value is published if 
+          either ICE Europe or ICE US exchange is closed for UK or US 
+          public holidays.
+          © 2025 by S&P Global Inc. All rights reserved.         9
+          Specifications Guide              Global Sugar: July 2025
+          Revision history                                                                     September 2022: Platts discontinued some third-party data                             typos and made minor edits to language. Platts also updated 
+                                                                                               related to ICE futures.                                                               the guide to reflect the discontinuation of the publication of the 
+          July 2025: Platts completed an annual review of this guide,                                                                                                                $/mt values of three Sugar M grade Live Spot Quotes listed on 
+          reviewing all content, and making minor edits to language                            August 2022: Platts completed an annual review of this guide,                         India’s National Commodity and Derivatives Exchange (NCDEX), 
+          throughout for consistency and clarity.                                              reviewing all content, and making minor edits to language                             and the name under which the CEPEA domestic sugar value is 
+                                                                                               throughout for consistency and clarity. Platts discontinued the                       published, effective July 1, 2020.
+          October 2024: Platts adds new European Ethanol Raw Sugar                             publication of third-party IKAR sugar prices effective March 14, 
+          Equivalent price in the Additional Price Assessments section.                        2022. Platts added a table for CFR Asia Sugar Price Arbitrage                         June 2020: Platts discontinued the FOB Thailand J-Spec 
+                                                                                               Matrix.                                                                               raw sugar outright price and related differential, due to 
+          June 2024: Platts completed an annual review of this guide,                                                                                                                changing market dynamics and diminishing liquidity. Platts 
+          reviewing all content, and making minor edits to language                            December 2021: Platts updated this guide to reflect the launch                        also discontinued the World Spot sugar prices (Kingsman 
+          throughout for consistency and clarity. Platts confirms the Thai                     of the CFR Asia Sugar Price Arbitrage Matrix.                                         Daily Prices) to reflect changing trade flow dynamics in the 
+          raw sugar loading period versus ICE No. 11 futures contract                                                                                                                global sugar market. As part of this discontinuation, Platts 
+          month. Platts updates cadence of European sugar assessments                          August 2021: Platts removed the UK country assessment                                 discontinued its weekly Raw Sugar CNF Antwerp price, which 
+          to Thursday.                                                                         from the Western Europe regional assessment, effective July                           was calculated by adding a fixed cost to account for freight, to 
+                                                                                               5; discontinued the ‘IPR – 45ic imports in containers – CFR’                          the Raws C&F World Spots price.
+          March 2024: Platts updated DDP Germany sugar assessment to                           assessment, effective July 16; and revised the freight calculation 
+          ExWorks Northwest Europe.                                                            in the ‘Export price equivalent – ex-works’ assessment, effective                     November 2019: Platts completed an annual review of the 
+                                                                                               July 29.                                                                              methodology guide, making general typographical changes. 
+          August 2023: Platts completed an annual review of this guide,                                                                                                              The description of polarization for Thai sugar was corrected 
+          reviewing all content, and making minor edits to language                            July 2021: Platts completed an annual review of this                                  to reflect degrees as the unit of measurement, while units 
+          throughout for consistency and clarity.                                              specifications guide. Platts updated this guide to clarify that                       of measurement for Thai hi-polarization premiums and 
+                                                                                               the European delivered assessments reflect a breakbulk basis;                         assessments were updated to reflect 0.01 US cents/pound in 
+          June 2023:Platts changed the frequency of Thai raw sugar                             updated the incoterm for IPR (Inward Processing Relief) – 45ic                        the tables. Corrected mention of USD.CNY source as the Bank 
+          assessment from daily to weekly and discontinued the Thai                            imports in containers from CNF to CFR for Brazilian exports to                        of China. Removed mention of NCDEX Mo01 futures which were 
+          45 icumsa white sugar breakbulk and container assessments                            Europe; and amended the shipment periods for Thai Hipol raw                           discontinued.
+          as of June 1. Platts discontinued the Greece, Spain Southern                         sugar forward curves. 
+          Italy, Belgium, Netherlands, and France weekly delivered                                                                                                                   August 2019: Platts discontinued the FOB Paranagua Breakbulk 
+          assessments, as well as the White sugar container EU45IC                             December 2020: Platts launched monthly average assessments                            Brazil 45 white sugar outright price and related differential, due 
+          flat price and premium assessments, the EU Export Price                              based on the calendar month for its FOB Thailand HiPol and 45i                        to changing market dynamics and diminishing liquidity.
+          Equivalent Ex-Works Weekly Flat Price, the continental Europe                        sugar assessments effective Dec. 1, 2020.  
+          to Antwerp assessment and the delivered Med Europe and                                                                                                                     January 2019: Platts made minor revisions as part of the annual 
+          delivered NWE Europe weekly assessments. All were removed                            November 2020: Platts updated this guide to reflect                                   methodology review. 
+          from the guide. Platts also changed the frequency of Brazilian                       discontinuation of North Northeast Brazil raw sugar 
+          sugar assessments from daily to weekly and discontinued the                          assessments effective Nov. 3, 2020 and corrected typo in Brazil                       November 2017: Revisions made as part of the annual review. 
+          Brazil white sugar 45 icumsa assessment, Brazil white sugar 150                      45 white sugar containers assessment symbol in table.                                 Updated Loading rate, dates, timing and locations, adding 
+          icumsa in Breakbulk assessment and Raw sugar third month                                                                                                                   normalization. In addition, ICE Settlements, Open Interest 
+          loading. There were updates on the calendar schedule to reflect                      July 2020: Platts completed an annual review of this                                  and Volumes were also updated with correct contract 
+          Brazil assessing sugar future contracts.                                             specifications guide. Platts reviewed all content, corrected                          references. 
+          © 2025 by S&P Global Inc. All rights reserved.         10
+          Specifications Guide              Global Sugar: July 2025
+          October 2017: Platts specifies freight calculations for IPR                          July 2016: Platts adds two additional Brazil CS VHP forward                           Antwerp. This change was also applied to the Export (Premium 
+          45icImports in Containers CNF and Raw sugar delivered CNF                            month assessments. Platts launched EU country delivered                               to Ldn 5) - FAS Antwerp, pending discontinuation of that 
+          Antwerp assessments.                                                                 assessments (UK, Germany, France, Netherlands, Belgium,                               assessment March 2, 2016.
+                                                                                               Northern Italy, Southern Italy, Spain, Greece) from July 1, 2016. 
+          February 2017: Thai sugar assessments: Platts changed the                            These new assessments are an accompaniment to the existing                            October 2015: Platts updated the Thai Raw Sugar Assessments 
+          timestamp to 16:30 Singapore time, from 16:30 London. In                             Western and Mediterranean Delivered assessments.                                      to include the new Thai Hi-Pol Forward Physical Curve, which 
+          addition, the underlying futures used to calculate outright                                                                                                                launched October 5, 2015. 
+          price assessments for Thai sugar became the prior day                                May 2016: Brazil white sugar breakbulk basis port updated to 
+          settlement of the ICE No. 11 Futures and ICE White Sugar                             FOB Paranagua from Santos.                                                            April 2015: Platts updated the Export (Premium to Ldn 5) - FOB 
+          Futures.                                                                                                                                                                   Antwerp and Export price equivalent - Ex works assessments to 
+                                                                                               April 2016: Codes updated for Brazil Breakbulk 45 ICUMSA                              reflect new weekly frequency. The notes on timing reflected for 
+          December 2016: Annual Review. Sections I-VI have been                                assessments.                                                                          raws and whites were also clarified.
+          updated to reflect house style. ‘with standard terms’ removed 
+          from the ‘What to Report’ section on p.2. ‘Market-maker’                             March 2016: Platts removed references to EU Export (Premium                           December 2014: Platts updated the website links for the sugar 
+          has been updated to ‘market participant’. ‘Quality & Risk                            to Ldn 5) – FAS Antwerp after the discontinuation of the                              futures after new versions were published by ICE.
+          Management’ is now known as ‘Compliance’. On p.7, ‘current                           assessment effective March 2, 2016. A methodology was also 
+          crop’ was updated to ‘available crop’. Roll Schedules have been                      added for the range of third-party data published on a daily and                      October 2014: Platts added specifications and methodology 
+          removed from p. 7. ‘Contractual delivery’ has been amended                           weekly basis by Platts.                                                               details for new weekly EU sugar assessments.
+          to ‘contractual loading’ throughout this guide. On p.11, under 
+          Western Europe – delivered, ‘United Kingdom’ has been added                          December 2015: Platts added methodology for its World                                 August 2014: Platts revamped all Agriculture Methodology and 
+          to Location. ‘Notes’ have been removed from the EU Sugar                             Spots (aka Kingsman Daily Prices), as well as providing                               Specification guides, including its Sugar guide, in August 2014. This 
+          assessments section. Links to external websites have been                            notes on Platts Brazil Ethanol, Raw Sugar Equivalent Price                            revamp was completed to enhance the clarity and usefulness 
+          removed.                                                                             Assessments.                                                                          of all guides, and to introduce greater consistency of layout and 
+                                                                                                                                                                                     structure across all published methodology guides. Methodologies 
+          October 2016: Platts clarified its methodology for the conversion                    October 2015: Effective October 28, 2015, Platts changed the                          for market coverage were not changed through this revamp, 
+          to US dollars of China ZCE White Futures third-party data.                           basis of its Containers EU 45 assessment to reflect basis FAS                         unless specifically noted in the methodology guide itself.
+          © 2025 by S&P Global Inc. All rights reserved.         11

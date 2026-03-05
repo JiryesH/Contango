@@ -1,0 +1,819 @@
+    Specifications Guide
+    European Electricity
+    Latest update: November 2025
+                 ............................................. 2
+    Detailed specifications
+    Electricity price assessments ....................................... 3
+    UK ........................................................................... 3
+    Netherlands .............................................................. 5
+    Other European countries ............................................ 5
+    Renewable Capture price indices ...................................7
+    Platts battery spreads and duration ratios ..................... 10
+    Spark and dark spreads .............................................. 12
+    Spark spreads .......................................................... 14
+    Dark spreads ............................................................ 16
+                    .................................. 18
+    Electricity generation economics
+    Coal switching price indicator (CSPI) ............................. 18
+    Cross-fuel comparisons .............................................. 18
+    Bitcoin Quarq spreads ................................................ 21
+                     ................................ 21
+    Bitcoin Energy Consumption Index
+                            ..............22
+    S&P Platts Power Purchase Agreement Indices 
+                  .........................................23
+    Solar module assessments
+    Revision history ..................................................... 25
+    www.spglobal.com/energy
+          Specifications Guide             European Electricity: November 2025
+          Detailed specifications
+          All the assessments listed here employ S&P Global Energy, Platts Assessments Methodology, as published at https://www.spglobal.com/content/dam/spglobal/ci/en/documents/platts/en/our-
+          methodology/methodology-specifications/platts-assessments-methodology-guide.pdf 
+          These guides are designed to give Platts subscribers as much information as possible about a wide range of methodology and specification questions.
+          This guide is current at the time of publication. Platts may issue further updates and enhancements to this guide and will announce these to subscribers through its usual publications of record.  
+          Such updates will be included in the next version of this guide. Platts editorial staff and managers are available to provide guidance when assessment issues require clarification.
+          All price assessments are published according to the publication schedule which can be found here https://www.spglobal.com/platts/en/our-methodology/holiday.
+          Platts UK Assessments (GTMA)
+          Assessment                    Contract       GBP/MWh MAvg GBP/MWh Eur/MWh                  MAvg Eur/MWh        Eur/Gj     USD/MMBtu        p/therm     Date          Min Volume      Max Volume       Frequency                Time Stamp
+          Day ahead                      Baseload      AADET00      AADET03           AADEY00        AADEZ03                                                     Trade date    50 MW           100 MW           Daily                    9.20 London time
+          Day ahead                      Peakload      AADFC00      AADFC03           AADFE00        AADFE03                                                     Trade date    50 MW           100 MW           Daily                    9.20 London time
+          Day ahead                      Baseload      AADET21      AADET20           AADEY21        AADEY03                                                     Flow date     50 MW           100 MW           Daily                    9.20 London time
+          Day ahead                      Peakload      AADFC21                        AADFE21                                                                    Flow date     50 MW           100 MW           Daily                    9.20 London time
+          Day ahead Block 1+2            Block 1+2     ABLOA00      ABLOA03           ABLOB00        ABLOB03                                                     Trade date    50 MW           100 MW           Daily                    9.20 London time
+          Day ahead Block 5              Block 5       GTB5G00      GTB5G03           GTB5E00        GTB5E03                                                     Trade date    50 MW           100 MW           Daily                    9.20 London time
+          Day ahead + 1                  Baseload      AADET27                        AADEY27                                                                    Trade date    50 MW           100 MW           Before public holidays   9.20 London time
+          Day ahead + 1                  Peakload      AADFC27                        AADFE27                                                                    Trade date    50 MW           100 MW           Before public holidays   9.20 London time
+          Day ahead + 2                  Baseload      AADET28                        AADEY28                                                                    Trade date    50 MW           100 MW           Before public holidays   9.20 London time
+          Day ahead + 2                  Peakload      AADFC28                        AADFE28                                                                    Trade date    50 MW           100 MW           Before public holidays   9.20 London time
+          Day ahead + 3                  Baseload      AADET29                        AADEY29                                                                    Trade date    50 MW           100 MW           Before public holidays   9.20 London time
+          Day ahead + 3                  Peakload      AADFC29                        AADFE29                                                                    Trade date    50 MW           100 MW           Before public holidays   9.20 London time
+          Day ahead + 4                  Baseload      AADET30                        AADEY30                                                                    Trade date    50 MW           100 MW           Before public holidays   9.20 London time
+          Day ahead + 4                  Peakload      AADFC30                        AADFE30                                                                    Trade date    50 MW           100 MW           Before public holidays   9.20 London time
+          Weekend                        Baseload      AADNN00                        AADNP00                                                                    Trade date    50 MW           100 MW           Daily                    16.30 London time
+          Month ahead                    Baseload      AADGP00      AADGP03           AADGT00        AADGT03             AANEK00    AANEL00          AANEJ00     Trade date    5 MW            20 MW            Daily                    16.30 London time
+          Month ahead                    Peakload      AADGV00                        AADIJ00                                                                    Trade date    5 MW            20 MW            Daily                    16.30 London time
+          Month ahead + 1                Baseload      AADNS00                        AADNU00                            AANEE00    AANEF00          AANED00     Trade date    5 MW            20 MW            Daily                    16.30 London time
+          Month ahead + 1                Peakload      AADXH00                        AADXJ00                                                                    Trade date    5 MW            20 MW            Daily                    16.30 London time
+          Month ahead + 2                Baseload      AADXL00                        AADXN00                                                                    Trade date    5 MW            20 MW            Daily                    16.30 London time
+          Month ahead + 2                Peakload      AADXP00                        AADXR00                                                                    Trade date    5 MW            20 MW            Daily                    16.30 London time
+          Quarter ahead                  Baseload      AADXU00                        AADXW00                            AANEH00    AANEI00          AANEG00     Trade date    5 MW            20 MW            Daily                    16.30 London time
+          Quarter ahead                  Peakload      AADXZ00                        AADYB00                                                                    Trade date    5 MW            20 MW            Daily                    16.30 London time
+          Quarter ahead + 1              Baseload      AADYD00                        AADYF00                                                                    Trade date    5 MW            20 MW            Daily                    16.30 London time
+          © 2025 by S&P Global Inc. All rights reserved.
+                                                                2
+        Specifications Guide         European Electricity: November 2025
+        Platts UK Assessments (GTMA)
+        Assessment                 Contract    GBP/MWh MAvg GBP/MWh Eur/MWh           MAvg Eur/MWh     Eur/Gj   USD/MMBtu      p/therm   Date        Min Volume    Max Volume    Frequency            Time Stamp
+        Quarter ahead + 1          Peakload    AADYK00                   AADZP00                                                         Trade date  5 MW          20 MW         Daily                16.30 London time
+        Season ahead               Baseload    AADZS00                   AAESW00                                                         Trade date  5 MW          20 MW         Daily                16.30 London time
+        Season ahead               Peakload    AAEYV00                   AAEZB00                                                         Trade date  5 MW          20 MW         Daily                16.30 London time
+        Season 2                   Baseload    AAEZD00                   AAFPL00                                                         Trade date  5 MW          20 MW         Daily                16.30 London time
+        Season 2                   Peakload    AAFPM00                   AAFPN00                                                         Trade date  5 MW          20 MW         Daily                16.30 London time
+        Season 3                   Baseload    AAIJX00                   AAIKB00                                                         Trade date  5 MW          20 MW         Daily                16.30 London time
+        Season 3                   Peakload    AAIJY00                   AAIKC00                                                         Trade date  5 MW          20 MW         Daily                16.30 London time
+        Season 4                   Baseload    AAIJZ00                   AAIKD00                                                         Trade date  5 MW          20 MW         Daily                16.30 London time
+        Season 4                   Peakload    AAIKA00                   AAIKE00                                                         Trade date  5 MW          20 MW         Daily                16.30 London time
+        Season 5                   Baseload    AASTR00                   AASTQ00                                                         Trade date  5 MW          20 MW         Daily                16.30 London time
+        Season 5                   Peakload    AASTT00                   AASTS00                                                         Trade date  5 MW          20 MW         Daily                16.30 London time
+        Year ahead                 Baseload    FUKZY01                   FUKXY01                                                         Trade date  5 MW          20 MW         Daily                16.30 London time
+        Year ahead                 Peakload    FUKYY01                   FUKWY01                                                         Trade date  5 MW          20 MW         Daily                16.30 London time
+        Electricity price assessments                                          Platts publishes DA power market assessments for Monday                definitions (London time):
+                                                                               to Friday and a single weekend assessment for Saturday and 
+        In Europe Platts publishes electricity assessments for the UK          Sunday. On Fridays, the day-ahead price reflects following             Block 1 = 23:00-03:00
+        and the Netherlands markets. Platts assessments are based on           Monday’s delivery date.
+        standard contract definitions and volumes.                                                                                                    Block 2 = 03:00-07:00
+                                                                               Seasons are defined as follows: Winter = October-March; 
+        In addition to its own assessments, Platts also publishes              Summer = April-September.                                              Block 3 = 07:00-11:00
+        settlement values, based on the data from relevant exchanges 
+        which includes France, Germany, Spain and Italy.                       Contract definitions: Baseload = 23:00-23:00, Peakload = 07:00-        Block 4 = 11:00-15:00
+                                                                               19:00 (London time). Platts does not assess the UK off-peak 
+        UK                                                                     contracts (19:00-07:00 London time).                                   Block 5 – 15:00-19:00
+        Assessments: Platts assesses over-the-counter (OTC) trade              Day-ahead baseload delivery is from 23:00 the day of trade until       Block 6 – 19:00-23:00.
+        under the Grid Trade Master Agreement contract for the day-            23:00 the day after; peakload delivery is 07:00-19:00 the day 
+        ahead (DA), weekend, next three months, next two quarters,             following trade.                                                       All forward months, quarters and years are calendar months, 
+        next five seasons and the year ahead. During holiday periods                                                                                  quarters and years.
+        Platts may assess prices for DA+1, DA+2, DA+3 and DA+4. Platts         Weekend baseload delivery is from 23:00 Friday until 23:00 on 
+        also assesses day-ahead, peakload, baseload, and prices for            Sunday.                                                                Delivery: Prices are for firm delivery on the high-voltage grid 
+        Block 5 and Block 1+2.                                                                                                                        network of England, Wales and/or Scotland. This includes the 
+                                                                               In the event of no confirmed peakload UK day-ahead trades              Scotland-Northern Ireland interconnector but not Northern 
+        Platts DA assessments are databased both by trade date and             before the market close, Platts assesses the implied value of          Ireland itself. Distribution network costs are not included. All 
+        by flow date.                                                          the day-ahead peakload contract using OTC prices for individual        prices are for physically delivered trades.
+                                                                               intra-day Blocks. Electricity Forward Agreements (EFA) Block 
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                       3
+        Specifications Guide         European Electricity: November 2025
+        Assessment range: Platts publishes a single value for its              the Block 5 assessments refer to Tuesday’s Block 5 contract.           calculated on a flow-date and trade-date basis.
+        UK electricity assessments in European Power Daily and on 
+        European Power Alert.                                                  Timestamp:                                                             For flow date: monthly averages include all assessments 
+                                                                                                                                                      reflecting delivery within a given month. For example, an August 
+        Platts also publishes a low-high range around its assessments          Day-ahead contracts, including Block 5, and Block 1+2 – 9:20 am        1 day-ahead assessment would be included in the August 
+        for UK electricity symbols in Market Data categories EE and PE,        London time.                                                           average, although the contract traded on July 31. UK flow-date 
+        unless otherwise stated. The low and high reflect a fixed value                                                                               averages calculate Saturday and Sunday values based on Friday 
+        on either side of the assessment. Low-high ranges for primary          Weekend and forward contracts – 16:30 London time.                     assessments of weekend delivery.
+        assessments in GBP/MWh are standardized to +/-15 pence.
+                                                                               On certain days ahead of some UK Public Holidays, such as              For trade date: monthly averages include Friday assessments of 
+        Publication schedule: Platts publishes forward power                   Christmas Eve and New Year’s Eve, Platts publishes prompt and          Monday delivery, but do not include weekends. The trade-date 
+        assessments for the UK on all UK working days. Assessments             forward assessments at 12:30 pm London time. This is to take           calculations do not include DA+1, DA+2, DA+3, orDA+4 prices 
+        for UK public holidays and the first working day following a UK        account of typically much lower liquidity and the earlier end of       assessed ahead of UK public holidays.
+        public holiday weekend are published on the last working day           trade.
+        before the public holiday. Ahead of public holidays, Block 5                                                                                  Rolling logic: All monthly, quarterly, seasonal and annual power 
+        assessments reflect the value of the Block 5 contract for the          Monthly averages: Platts publishes monthly averages for day-           contracts roll on the first working day of each new calendar 
+        next working day. Eg. On Friday, ahead of a bank holiday Monday,       ahead and month-ahead. For day-ahead, monthly averages are             period.
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                       4
+        Specifications Guide         European Electricity: November 2025
+        Platts Dutch Assessments
+        Assessment                                         Contract          Code                Date            Min Volume        Max Volume       Currency     UOM      Frequency    Timestamp
+        Month ahead                                        Baseload          AADMN00             Trade date      5 MW              20 MW            Eur          MWh      Daily        16:30 London time
+        Month ahead                                        Peakload          AADMP00             Trade date      5 MW              20 MW            Eur          MWh      Daily        16:30 London time
+        Germany Baseload Unit Conversions
+                                                                   p/th                                    Eur/GJ                                                 $/MMBtu
+        Germany Baseload Month Ahead                               AANFA00                                 AANFB00                                                AANFC00
+        Germany Baseload Month Ahead +1                            AANFD00                                 AANFE00                                                AANFF00
+        Germany Baseload Quarter Ahead                             AANFG00                                 AANFH00                                                AANFI00
+        Netherlands                                                            Publication schedule: Platts publishes forward power                   Rolling logic: Platts rolls power contracts on the first day 
+                                                                               assessments for the Netherlands on all UK working days.                of each new calendar period. Platts rolling schedule differs 
+        Assessments: Platts assesses over-the-counter trade for the                                                                                   from EEX’s rolling schedule. Platts assesses quarterly and 
+        Netherlands power grid for only month-ahead baseload and               Timestamp: 16:30 London time. On certain days ahead of some            annual power contracts when it observes a mismatch 
+        peak prices.                                                           UK Public Holidays, such as Christmas Eve and New Year’s Eve,          between Platts and EEX power contracts’ rolling dates. Roll 
+                                                                               Platts publishes assessments at 12:30 pm London time. This is          dates for Spanish contracts correspond to those listed on 
+        Contract definitions: Baseload = 24:00-24:00, Peak = 08:00-            to take account of typically much lower liquidity and the earlier      OMIP.
+        20:00 (Central European time).                                         end of trade.
+                                                                                                                                                      Platts fuel spread calculations incorporate these power 
+        Delivery: Prices are for firm delivery on the high-voltage grid        Other European countries                                               settlement prices.
+        network of the Netherlands. Distribution network costs are not 
+        included. All prices are for physically delivered trades.              Assessments: Platts publishes power settlement prices from             Codes for these third-party data are not included in this guide 
+                                                                               the European Energy Exchange (EEX) for Germany, France,                and can be found in the Symbols Directory https://www.
+        Assessment range: +/- 5 euro cents for primary assessments in          Italy and Hungary from OMIP for Spain. Energy Exchange                 spglobal.com/platts/en/our-methodology/symbol-page-
+        Eur/MWh.                                                               Austria (EXAA), European Power Exchange (EPEX) for Germany,            directories.
+                                                                               France, Switzerland, Belgium, the Netherlands. NordPool, 
+                                                                               N2EX, ENDEX, TGE.
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                       5
+          Specifications Guide             European Electricity: November 2025
+          Platts Renewable Capture prices and rates
+          Index                                            Daily price symbol    Monthly price symbol        Quarterly price symbol       Currency           UOM                 Monthly rate symbol         Quarterly rate symbol        UOM
+          Belgium Offshore Wind                            ACPAX00               ACPAX03                     ACPAX05                      Eur                MWh                 ACPAX04                     ACPAX06                      PRC
+          Belgium Onshore Wind                             ACPAI00               ACPAI03                     ACPAI05                      Eur                MWh                 ACPAI04                     ACPAI06                      PRC
+          Belgium Solar                                    ACPAB00               ACPAB03                     ACPAB05                      Eur                MWh                 ACPAB04                     ACPAB06                      PRC
+          Denmark - DK1 Offshore Wind                      ACPAY00               ACPAY03                     ACPAY05                      Eur                MWh                 ACPAY04                     ACPAY06                      PRC
+          Denmark - DK1 Onshore Wind                       ACPAJ00               ACPAJ03                     ACPAJ05                      Eur                MWh                 ACPAJ04                     ACPAJ06                      PRC
+          Denmark - DK1 Solar                              ACPAC00               ACPAC03                     ACPAC05                      Eur                MWh                 ACPAC04                     ACPAC06                      PRC
+          Denmark - DK2 Offshore Wind                      ACPAZ00               ACPAZ03                     ACPAZ05                      Eur                MWh                 ACPAZ04                     ACPAZ06                      PRC
+          Denmark - DK2 Onshore Wind                       ACPAK00               ACPAK03                     ACPAK05                      Eur                MWh                 ACPAK04                     ACPAK06                      PRC
+          Denmark - DK2 Solar                              ACPAD00               ACPAD03                     ACPAD05                      Eur                MWh                 ACPAD04                     ACPAD06                      PRC
+          Finland Onshore Wind                             ACPAL00               ACPAL03                     ACPAL05                      Eur                MWh                 ACPAL04                     ACPAL06                      PRC
+          French Onshore Wind                              WFRTN00               WFRTN03                     WFRTN05                      Eur                MWh                 WFRTN04                     WFRTN06                      PRC
+          French Offshore Wind                             ACPBB00               ACPBB03                     ACPBB05                      Eur                MWh                 ACPBB04                     ACPBB06                      PRC
+          French Solar                                     SFRTA00               SFRTA03                     SFRTA05                      Eur                MWh                 SFRTA04                     SFRTA06                      PRC
+          German Onshore Wind                              WDETN00               WDETN03                     WDETN05                      Eur                MWh                 WDETN04                     WDETN06                      PRC
+          German Offshore Wind                             WDETF00               WDETF03                     WDETF05                      Eur                MWh                 WDETF04                     WDETF06                      PRC
+          German Solar                                     SDETA00               SDETA03                     SDETA05                      Eur                MWh                 SDETA04                     SDETA06                      PRC
+          Italian Onshore Wind                             WITTN00               WITTN03                     WITTN05                      Eur                MWh                 WITTN04                     WITTN06                      PRC
+          Italian Solar                                    SITTA00               SITTA03                     SITTA05                      Eur                MWh                 SITTA04                     SITTA06                      PRC
+          Netherlands Offshore Wind                        ACPBA00               ACPBA03                     ACPBA05                      Eur                MWh                 ACPBA04                     ACPBA06                      PRC
+          Netherlands Onshore Wind                         ACPAM00               ACPAM03                     ACPAM05                      Eur                MWh                 ACPAM04                     ACPAM06                      PRC
+          Netherlands Solar                                ACPAE00               ACPAE03                     ACPAE05                      Eur                MWh                 ACPAE04                     ACPAE06                      PRC
+          Norway - NO1 Onshore Wind                        ACPAN00               ACPAN03                     ACPAN05                      Eur                MWh                 ACPAN04                     ACPAN06                      PRC
+          Norway - NO2 Onshore Wind                        ACPAO00               ACPAO03                     ACPAO05                      Eur                MWh                 ACPAO04                     ACPAO06                      PRC
+          Norway - NO3 Onshore Wind                        ACPAP00               ACPAP03                     ACPAP05                      Eur                MWh                 ACPAP04                     ACPAP06                      PRC
+          Norway - NO4 Onshore Wind                        ACPAQ00               ACPAQ03                     ACPAQ05                      Eur                MWh                 ACPAQ04                     ACPAQ06                      PRC
+          Spanish Onshore Wind                             WESTN00               WESTN03                     WESTN05                      Eur                MWh                 WESTN04                     WESTN06                      PRC
+          Spanish Solar                                    SESTA00               SESTA03                     SESTA05                      Eur                MWh                 SESTA04                     SESTA06                      PRC
+          Sweden - SE1 Onshore Wind                        ACPAT00               ACPAT03                     ACPAT05                      Eur                MWh                 ACPAT04                     ACPAT06                      PRC
+          Sweden - SE2 Onshore Wind                        ACPAU00               ACPAU03                     ACPAU05                      Eur                MWh                 ACPAU04                     ACPAU06                      PRC
+          Sweden - SE3 Onshore Wind                        ACPAV00               ACPAV03                     ACPAV05                      Eur                MWh                 ACPAV04                     ACPAV06                      PRC
+          Sweden - SE4 Onshore Wind                        ACPAW00               ACPAW03                     ACPAW05                      Eur                MWh                 ACPAW04                     ACPAW06                      PRC
+          GB Onshore Wind                                  WGBYN00               WGBYN03                     WGBYN05                      GBP                MWh                 WGBYN04                     WGBYN06                      PRC
+          GB Offshore Wind                                 WGBYF00               WGBYF03                     WGBYF05                      GBP                MWh                 WGBYF04                     WGBYF06                      PRC
+          GB Solar                                         SGBYA00               SGBYA03                     SGBYA05                      GBP                MWh                 SGBYA04                     SGBYA06                      PRC
+          © 2025 by S&P Global Inc. All rights reserved.
+                                                                6
+        Specifications Guide         European Electricity: November 2025
+        Renewable Capture price indices                                        Germany: Third-party EPEX spot day-ahead hourly price, third-          Onshore wind and solar: Italy and Spain
+                                                                               party Entso-E data 
+        Platts Renewable Capture Price Indices track weighted average                                                                                 Onshore wind: Finland, Norway - NO1, NO2, NO3, NO4, Sweden - 
+        prices that renewable energy generators receive for the                Italy: Third-party GME PUN spot day-ahead hourly price, third-         SE1, SE2, SE3, SE4.  
+        electricity they produce across a daily period, based on hourly        party Entso-E data
+        generation and pricing data.                                                                                                                  Units: Eur/MWh for Belgium, Denmark, Finland, France, 
+                                                                               Netherlands: Third-party EPEX spot day-ahead hourly price,             Germany, Italy, Norway, the Netherlands, Spain, Sweden. GBP/
+        Formula:                                                               third-party Entso-E data                                               MWh for the UK.
+        Sum of actual hourly generation * previous day’s day-ahead             Norway – NO1, NO2, NO3, NO4: Third-party NordPool spot day-            Publication schedule: Platts publishes Renewable Capture 
+        hourly prices, divided by total generation across the day.             ahead hourly price, third-party Entso-E data                           Price Indices on all UK working days. 
+        Inputs:                                                                Spain: Third-party OMIE spot day-ahead hourly price, third-party       Timestamp: The indices have a 1-working-day lag to account 
+                                                                               Entso-E data                                                           for operational generation data, and are published on the next 
+        Belgium: Third-party EPEX spot day-ahead hourly price, third-                                                                                 working day. Data for Fridays and the weekend are published 
+        party Entso-E data                                                     Sweden – SE1, SE2, SE3, SE4: Third-party NordPool spot day-            the next working-day.
+                                                                               ahead hourly price, third-party Entso-E data
+        Denmark, DK1, DK2: Third-party NordPool spot day-ahead hourly                                                                                 In addition to the daily capture prices, Platts also publishes 
+        price, third-party Entso-E data                                        UK: Third-party N2EX spot day-ahead hourly price, third-party          the monthly and quarterly volume-weighted capture 
+                                                                               ELEXON data                                                            prices and capture rates for the respective markets and 
+        Finland: Third-party NordPool spot day-ahead hourly price,                                                                                    technologies.
+        third-party Entso-E data                                               Locations and Technologies:
+        France: Third-party EPEX spot day-ahead hourly price, third-           Onshore, off-shore wind and solar: Belgium, Denmark - DK1, 
+        party Entso-E data                                                     DK2, France, Germany, the Netherlands, UK.
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                       7
+        Specifications Guide         European Electricity: November 2025
+        Platts Battery Spreads assessments
+        Assessment                                          Code                    Currency                        UOM                             Frequency               Time Stamp
+        Daily battery spreads GB 1h                         BASCS00                 GBP                             MGW                             DW                      16:30 London Time
+        Daily battery spreads GB 1h                         BESPU00                 USD                             MGW                             DW                      16:30 London Time
+        Daily battery spreads GB 1h                         BESPE00                 EUR                             MGW                             DW                      16:30 London Time
+        Monthly battery spreads GB 1h                       BASCS03                 GBP                             MGW                             MA                      16:30 London Time
+        Monthly battery spreads GB 1h                       BESPU03                 USD                             MGW                             MA                      16:30 London Time
+        Monthly battery spreads GB 1h                       BESPE03                 EUR                             MGW                             MA                      16:30 London Time
+        Daily battery spreads GB 2h                         BASDS00                 GBP                             MGW                             DW                      16:30 London Time
+        Daily battery spreads GB 2h                         BESGG00                 USD                             MGW                             DW                      16:30 London Time
+        Daily battery spreads GB 2h                         BESGE00                 EUR                             MGW                             DW                      16:30 London Time
+        Monthly battery spreads GB 2h                       BASDS03                 GBP                             MGW                             MA                      16:30 London Time
+        Monthly battery spreads GB 2h                       BESGG03                 USD                             MGW                             MA                      16:30 London Time
+        Monthly battery spreads GB 2h                       BESGE03                 EUR                             MGW                             MA                      16:30 London Time
+        Daily battery spreads GB 4h                         BASES00                 GBP                             MGW                             DW                      16:30 London Time
+        Daily battery spreads GB 4h                         BDBSU00                 USD                             MGW                             DW                      16:30 London Time
+        Daily battery spreads GB 4h                         BDBSE00                 EUR                             MGW                             DW                      16:30 London Time
+        Monthly battery spreads GB 4h                       BASES03                 GBP                             MGW                             MA                      16:30 London Time
+        Monthly battery spreads GB 4h                       BDBSU03                 USD                             MGW                             MA                      16:30 London Time
+        Monthly battery spreads GB 4h                       BDBSE00                 EUR                             MGW                             MA                      16:30 London Time
+        Daily battery spreads Germany 1h                    BASFS00                 EUR                             MGW                             DW                      16:30 London Time
+        Daily battery spreads Germany 1h                    BTSGR00                 USD                             MGW                             DW                      16:30 London Time
+        Monthly battery spreads Germany 1h                  BASFS03                 EUR                             MGW                             MA                      16:30 London Time
+        Monthly battery spreads Germany 1h                  BTSGR03                 USD                             MGW                             MA                      16:30 London Time
+        Daily battery spreads Germany 2h                    BASGS00                 EUR                             MGW                             DW                      16:30 London Time
+        Daily battery spreads Germany 2h                    BTSGS00                 USD                             MGW                             DW                      16:30 London Time
+        Monthly battery spreads Germany 2h                  BASGS03                 EUR                             MGW                             MA                      16:30 London Time
+        Monthly battery spreads Germany 2h                  BTSGS03                 USD                             MGW                             MA                      16:30 London Time
+        Daily battery spreads Germany 4h                    BASHS00                 EUR                             MGW                             DW                      16:30 London Time
+        Daily battery spreads Germany 4h                    BTSGT00                 USD                             MGW                             DW                      16:30 London Time
+        Monthly battery spreads Germany 4h                  BASHS03                 EUR                             MGW                             MA                      16:30 London Time
+        Monthly battery spreads Germany 4h                  BTSGT03                 USD                             MGW                             MA                      16:30 London Time
+        Daily battery spreads Spain 1h                      BASIS00                 EUR                             MGW                             DW                      16:30 London Time
+        Daily battery spreads Spain 1h                      BTSGU00                 USD                             MGW                             DW                      16:30 London Time
+        Monthly battery spreads Spain 1h                    BASIS03                 EUR                             MGW                             MA                      16:30 London Time
+        Monthly battery spreads Spain 1h                    BTSGU03                 USD                             MGW                             MA                      16:30 London Time
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                       8
+        Specifications Guide         European Electricity: November 2025
+        Platts Battery Spreads assessments
+        Daily battery spreads Spain 2h                      BASJS00                 EUR                             MGW                             DW                      16:30 London Time
+        Daily battery spreads Spain 2h                      BTGSV00                 USD                             MGW                             DW                      16:30 London Time
+        Monthly battery spreads Spain 2h                    BASJS03                 EUR                             MGW                             MA                      16:30 London Time
+        Monthly battery spreads Spain 2h                    BTGSV03                 USD                             MGW                             MA                      16:30 London Time
+        Daily battery spreads Spain 4h                      BASKS00                 EUR                             MGW                             DW                      16:30 London Time
+        Daily battery spreads Spain 4h                      BTGSW00                 USD                             MGW                             DW                      16:30 London Time
+        Monthly battery spreads Spain 4h                    BASKS03                 EUR                             MGW                             MA                      16:30 London Time
+        Monthly battery spreads Spain 4h                    BTGSW03                 USD                             MGW                             MA                      16:30 London Time
+        Platts Battery Duration Ratios assessments
+        Assessment                                          Code                    Currency                        UOM                             Frequency               Time Stamp
+        Daily battery duration ratio GB 1h vs 2h            BASLS00                 N/A                             PCT                             DW                      16:30 London Time
+        Monthly battery duration ratio GB 1h vs 2h          BASLS03                 N/A                             PCT                             MA                      16:30 London Time
+        Daily battery duration ratio GB 1h vs 4h            BASMS00                 N/A                             PCT                             DW                      16:30 London Time
+        Monthly battery duration ratio GB 1h vs 4h          BASMS03                 N/A                             PCT                             MA                      16:30 London Time
+        Daily battery duration ratio GB 2h vs 4h            BASNS00                 N/A                             PCT                             DW                      16:30 London Time
+        Monthly battery duration ratio GB 2h vs 4h          BASNS03                 N/A                             PCT                             MA                      16:30 London Time
+        Daily battery duration ratio Germany 1h vs 2h       BASOS00                 N/A                             PCT                             DW                      16:30 London Time
+        Monthly battery duration ratio Germany 1h vs 2h     BASOS03                 N/A                             PCT                             MA                      16:30 London Time
+        Daily battery duration ratio Germany 1h vs 4h       BASPS00                 N/A                             PCT                             DW                      16:30 London Time
+        Monthly battery duration ratio Germany 1h vs 4h     BASPS03                 N/A                             PCT                             MA                      16:30 London Time
+        Daily battery duration ratio Germany 2h vs 4h       BASQS00                 N/A                             PCT                             DW                      16:30 London Time
+        Monthly battery duration ratio Germany 2h vs 4h     BASQS03                 N/A                             PCT                             MA                      16:30 London Time
+        Daily battery duration ratio Spain 1h vs 2h         BASRS00                 N/A                             PCT                             DW                      16:30 London Time
+        Monthly battery duration ratio Spain 1h vs 2h       BASRS03                 N/A                             PCT                             MA                      16:30 London Time
+        Daily battery duration ratio Spain 1h vs 4h         BASSS00                 N/A                             PCT                             DW                      16:30 London Time
+        Monthly battery duration ratio Spain 1h vs 4h       BASSS03                 N/A                             PCT                             MA                      16:30 London Time
+        Daily battery duration ratio Spain 2h vs 4h         BASTS00                 N/A                             PCT                             DW                      16:30 London Time
+        Monthly battery duration ratio Spain 2h vs 4h       BASTS03                 N/A                             PCT                             MA                      16:30 London Time
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                       9
+        Specifications Guide         European Electricity: November 2025
+        Platts battery spreads and duration ratios                             UK. The index charge and discharge basis are one cycle a               The index is based on the German, Spanish and UK 
+                                                                               day, over one hour, two hours, and four hours. The duration            wholesale hourly electricity prices for the day of delivery. 
+        Platts Battery Spreads represent the arbitrage opportunity             ratios compare the one-hour cycle with two hours and four              The data is published daily from Monday to Sunday, and the 
+        in the wholesale electricity market between the charge of              hours, and two hours versus four hours, which represents               conversions to EUR and USD for the weekend include the 
+        the Battery Energy Storage Systems (BESS) when the hourly              the duration ratio arbitrage. The data used from Nordpool,             foreign exchange conversion assessed by Platts at 4.30 pm 
+        electricity prices are lowest and the discharge when the               EPEX and OMIE is the delivered data prices for the day-ahead           London time on a Friday or the last working day before a 
+        electricity prices are highest for Germany, Spain and the              settled electricity contracts.                                         weekend.
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                       10
+        Specifications Guide         European Electricity: November 2025
+        Platts Daily Baseload Spark Spreads
+                                              Spark Spread                                                    Clean Spark Spread                                              Clean Spark Spread (CPS)
+                                              45% Efficiency       50% Efficiency       60% Efficiency        45% Efficiency       50% Efficiency       60% Efficiency        45% Efficiency       50% Efficiency
+        UK (GBP/MWh)
+        Day ahead                             UKHDA00              AAKBA00              AAKBB00               UEIDA00              CKFDA00              CKSDA00               CKHDA00              CKGDA00
+        Month ahead                           UKHMA00              AAKBC00              AAKBD00               UEIMA00              CKFMA00              CKSMA00               CKHMA00              CKGMA00
+        Month ahead + 1                       UKHM200              UKFM200              UKSM200               UEIM200              CKFM200              CKSM200               CKHM200              CKGM200
+        Quarter ahead                         UKHQ100              UKFQ100              UKSQ100               UEIQ100              CKFQ100              CKSQ100               CKHQ100              CKGQ100
+        Quarter ahead + 1                     UKHQ200              UKFQ200              UKSQ200               UKIM200              CKFQ200              CKSQ200               CKHQ200              CKGQ200
+        Season ahead                          UKHS100              UKFS100              UKSS100               UKIQ100              CKFS100              CKSS100               CKHS100              CKGS100
+        Season ahead + 1                      UKHS200              UKFS200              UKSS200               UEIQ200              CKFS200              CKSS200               CKHS200              CKGS200
+        Season ahead + 2                      UKHS300              UKFS300              UKSS300               UKIM300              CKFS300              CKSS300               CKHS300              CKGS300
+        Season ahead + 3                      UKHS400              UKFS400              UKSS400               UEIS400              CKFS400              CKSS400               CKHS400              CKGS400
+        UK (Eur/MWh)
+        Day ahead                             UEHDA00              UEFDA00              UESDA00               UKIDA00              CEFDA00              CESDA00               CEHDA00              CEGDA00
+        Month ahead                           UEHMA00              UEFMA00              UESMA00               UKIMA00              CEFMA00              CESMA00               CEHMA00              CEGMA00
+        Month ahead + 1                       UEHM200              UEFM200              UESM200               UKIQ200              CEFM200              CESM200               CEHM200              CEGM200
+        Quarter ahead                         UEHQ100              UEFQ100              UESQ100               UEIS100              CEFQ100              CESQ100               CEHQ100              CEGQ100
+        Quarter ahead + 1                     UEHQ200              UEFQ200              UESQ200               UEIS200              CEFQ200              CESQ200               CEHQ200              CEGQ200
+        Season ahead                          UEHS100              UEFS100              UESS100               UKIS100              CEFS100              CESS100               CEHS100              CEGS100
+        Season ahead + 1                      UEHS200              UEFS200              UESS200               UKIS200              CEFS200              CESS200               CEHS200              CEGS200
+        Season ahead + 2                      UEHS300              UEFS300              UESS300               UKIS300              CEFS300              CESS300               CEHS300              CEGS300
+        Season ahead + 3                      UEHS400              UEFS400              UESS400               UKIS400              CEFS400              CESS400               CEHS400              CEGS400
+        German (Eur/MWh)
+        Day ahead                             GEHDA00              AAKBI00              AAKBJ00               GEIDA00              CGFDA00              CGSDA00
+        Month ahead                           GEHMA00              AAKBK00              AAKBL00               GEIMA00              CGFMA00              CGSMA00
+        Month ahead + 1                       GEHM200              GEFM200              GESM200               GEIM200              CGFM200              CGSM200
+        Quarter ahead                         GEHQ100              GEFQ100              GESQ100               GEIQ100              CGFQ100              CGSQ100
+        Quarter ahead + 1                     GEHQ200              GEFQ200              GESQ200               GEIQ200              CGFQ200              CGSQ200
+        Year ahead                            GEHYA00              GEFYA00              GESYA00               GEIYA00              CGFYA00              CGSYA00
+        Italian (Eur/MWh)
+        Month ahead                           ITKMA00              ITFMA00              ITSMA00               ITIQA00              CIFMA00              CISYM00
+        Quarter ahead                         ITKQA00              ITFQA00              ITSQA00               ITIMA00              CIFQA00              CISQA00
+                                                                   ITSYB00                                    CIFYA00              CIFYB00
+        Year ahead                            ITSYA00                                                                 
+        Spanish (Eur/MWh)
+        Day ahead                                                                                             PVCSA00              PVCSB00
+                                              PVSPA00              PVSPB00                                                                
+        Month ahead                           SPHMA00              SPFMA00                                    SPGMA00              SPIMA00
+        Month ahead + 1                       GAPDE00              GAPDF00                                    GAPDG00              GAPDF00 
+        Quarter ahead                         GAPDA00              GAPDB00                                    GAPDC00              GAPDD00
+        Quarter ahead + 1                     GAPEA00              GAPEB00                                    GAPEC00              GAPED00
+        Year ahead                            GAPFA00              GAPFB00                                    GAPFC00              GAPFD00 
+        Year ahead+1                          GAPFE00              GAPFF00                                    GAPFG00              GAPFH00  
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                       11
+        Specifications Guide         European Electricity: November 2025
+        Platts Daily Baseload Spark Spreads
+                                              Spark Spread                                                    Clean Spark Spread                                              Clean Spark Spread (CPS)
+                                              45% Efficiency       50% Efficiency       60% Efficiency        45% Efficiency       50% Efficiency       60% Efficiency        45% Efficiency       50% Efficiency
+        Dutch (Eur/MWh)
+        Month ahead                           DPSSS00              DPSST00              DPSSU00               DPSSV00              DPSSW00              DPSSW00
+        French (Eur/MWh)
+        Month ahead                           FPSSG00              FPSSH00              FPSSI00               FPSSJ00              FPSSK00              FPSSL00
+        Spark and dark spreads                                                 the delivery period for the fuel legs of the spread. In the UK,        UKAs https://www.spglobal.com/content/dam/spglobal/ci/
+                                                                               seasonal clean fuel spreads that include delivery during winter        en/documents/platts/en/our-methodology/methodology-
+        In addition to spark and dark spreads, Platts publishes                periods which touch on two calendar years use an average               specifications/energy-transition/carbon-markets-
+        their clean equivalents, which factor in relevant emissions            of two emissions contracts for the ‘clean’ component of the            specifications.pdf.
+        costs: Platts EU emissions Allowance (EUA) assessments                 spread.
+        for continental European countries and Platts UK Allowance                                                                                    For UK only Platts also publishes UK CPS clean spreads that 
+        (UKA) assessments for the UK. EUA and UKA prices reflect               Platts clean fuel spread calculations incorporate three                incorporate the cost of the UK government’s Carbon Price 
+        the nearest December annual expiry date. The calculation               emissions contracts ahead with specifications and roll dates           Support (CPS) levy at the confirmed rates for April 1, 2024 - 
+        typically references the emissions contract most relevant to           as listed on Platts Carbon methodology for both EUAs and               March 31, 2025, and will remain until 2027, at GBP18/MWh.
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                       12
+        Specifications Guide         European Electricity: November 2025
+        Platts Daily Peakload Spark spreads
+                               Spark Spread                                                                    Clean Spark Spread                                             Clean Spark Spread (CPS)
+                               45% Efficiency       50% Efficiency       60% Efficiency                        45% Efficiency       50% Efficiency       60% Efficiency       45% Efficiency       50% Efficiency
+        UK (GBP/MWh)                                                                      UK (GBP/MWh)
+        Day ahead              UKSSA00              UKSSB00              UKSSC00          Day ahead            UKSSD00              UKSSE00              UKSSF00              UKSDR00              UKSDS00
+        Month ahead            UKSSG00              UKSSH00              UKSSI00          Month ahead          UKSSJ00              UKSSK00              UKSSL00              UKSEV00              UKSDV00
+        Month ahead + 1        UKSSM00              UKSSN00              UKSSO00          Month ahead + 1      UKSSP00              UKSSQ00              UKSSR00              UKSDX00              UKSDY00
+        Quarter ahead          UKSSS00              UKSST00              UKSSU00          Quarter ahead        UKSSV00              UKSSW00              UKSSX00              UKSEA00              UKSEB00
+        Quarter ahead + 1      UKSSY00              UKSSZ00              UKSCC00          Quarter ahead + 1    UKSAB00              UKSAC00              UKSAD00              UKSED00              UKSEE00
+        Season ahead           UKSAE00              UKSAF00              UKSAG00          Season ahead         UKEAH00              UKSAI00              UKEAJ00              UKSEG00              UKSEH00
+        Season ahead + 1       UKSAK00              UKSAL00              UKSAM00          Season ahead + 1     UKSAN00              UKSAO00              UKSAP00              UKSEJ00              UKSEK00
+        Season ahead + 2       UKSAQ00              UKSAR00              UKSAS00          Season ahead + 2     UKSAT00              UKSAU00              UKSAV00              UKSEM00              UKSEN00
+        Season ahead + 3       UKSAW00              UKSAX00              UKSAY00          Season ahead + 3     UKSAZ00              UKSBA00              UKSBB00              UKSEP00              UKSEQ00
+        UK (Eur/MWh)                                                                      UK (Eur/MWh)
+        Day ahead              UKSBC00              UKSBD00              UKSBE00          Day ahead            UKSBF00              UKSBG00              UKSBH00              UKSES00              UKSET00
+        Month ahead            UKSBI00              UKSBJ00              UKSBK00          Month ahead          UKSBL00              UKSBM00              UKSBN00              UKSEV00              UKSEW00
+        Month ahead + 1        UKSBO00              UKSBP00              UKSBQ00          Month ahead + 1      UKSBR00              UKSBS00              UKSBT00              UKSEY00              UKSEZ00
+        Quarter ahead          UKSBU00              UKSBV00              UKSBW00          Quarter ahead        UKSBX00              UKSBY00              UKSBZ00              UKSFB00              UKSFC00
+        Quarter ahead + 1      UKSCA00              UKSCB00              UKSCC00          Quarter ahead + 1    UKSCD00              UKSCE00              UKSCF00              UKSFE00              UKSFF00
+        Season ahead           UKSCG00              UKSCH00              UKSCI00          Season ahead         UKSAH00              UKSCJ00              UKSAJ00              UKSFH00              UKSFI00
+        Season ahead + 1       UKSCK00              UKSCL00              UKSCM00          Season ahead + 1     UKSCN00              UKSCO00              UKSCP00              UKSFK00              UKSFL00
+        Season ahead + 2       UKSCQ00              UKSCR00              UKSCS00          Season ahead + 2     UKSCT00              UKSCU00              UKSCV00              UKSFN00              UKSFO00
+        Season ahead + 3       UKSCW00              UKSCX00              UKSCY00          Season ahead + 3     UKSCZ00              UKSBA00              UKSDA00              UKSFQ00              UKSFR00
+        German (Eur/MWh)                                                                  German (Eur/MWh)
+        Day ahead              GDASA00              GDASB00              GDASC00          Day ahead            GDASD00              GDASE00              GDASF00
+        Month ahead            GDASG00              GDASH00              GDASI00          Month ahead          GDASJ00              GDASK00              GDASL00
+        Month ahead + 1        GDASM00              GDASN00              GDASO00          Month ahead + 1      GDASP00              GDASQ00              GDASR00
+        Quarter ahead          GDASS00              GDAST00              GDASU00          Quarter ahead        GDASV00              GDASW00              GDASX00
+        Quarter ahead + 1      GDASY00              GDASZ00              GDABA00          Quarter ahead + 1    GDABB00              GDABC00              GDABD00
+        Year ahead             GDABE00              GDABF00              GDABG00          Year ahead           GDABH00              GDABI00              GDABJ00
+        Dutch (Eur/MWh)                                                                   Dutch (Eur/MWh)
+        Month ahead            DPSSG00              DPSSH00              DPSSI00          Month ahead          DPSSJ00              DPSSK00              DPSSL00
+        French (Eur/MWh)                                                                  French (Eur/MWh)
+        Month ahead            FPSSS00              FPSST00              FPSSU00          Month ahead          FPSSV00              FPSSW00              FPSSX00
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                       13
+        Specifications Guide         European Electricity: November 2025
+        Spark spreads                                                          Formulas:                                                              Inputs:
+        Platts spark spreads measure the difference between the cost           Baseload spark spread: Baseload power price – Gas price ÷ fuel         Germany: Platts TTF gas assessments and third-party power 
+        of feedstock gas and the equivalent price of electricity on a High     efficiency.                                                            price settlements, Platts EUA assessments;
+        Heating Value (HHV) basis.
+                                                                               Baseload clean spark spread: Platts spark spread – Relevant            Italy and Spain: Platts assessments of relevant national gas 
+        Locations: Platts publishes all simple spark spreads and clean         emissions price * emissions intensity factor ÷ fuel efficiency.        contracts and third-party power price settlements, Platts EUA 
+        spark spreads in the UK, Germany, Italy and Spain and CPS                                                                                     assessments;
+        clean spark spreads in the UK only.                                    Baseload CPS clean spark spread (UK only): Platts baseload 
+                                                                               spark spread - (UKA emissions price + CPS levy) * emissions            UK: Platts assessments of power and gas contracts, Platts UKA 
+        Assumptions: Gas-to-power energy conversion factor is as               intensity factor ÷ fuel efficiency                                     assessments, relevant CPS levy as mentioned above;
+        per the conversion factor methodology link spglobal.com/
+        commodityinsights/PlattsContent/_assets/_files/en/                     Peakload spark spread: Peakload power price – Gas price ÷ fuel         Netherlands: Platts TTF gas assessments and Platts power 
+        conversiontables/conversion_factors.pdf                                efficiency.                                                            price assessments, Platts EUA assessments;
+        All spark spreads are published for gas-fired plants with              Peakload clean spark spread: Platts peakload spark spread              France: Platts PEG gas assessments and third-party power 
+        efficiencies of 45% and 50% for all locations, and 60% for UK,         – Relevant emissions price * emissions intensity factor ÷ fuel         price settlements, Platts EUA assessments;
+        Germany, and Italy.                                                    efficiency. 
+                                                                                                                                                      The day-ahead gas assessments reflect the next UK working 
+        Clean spark spreads are based on emissions intensity                   Peakload CPS clean spark spread (UK only): Platts peakload             day.
+        of 0.053942 tCO2e/MMBtu HHV (thermal basis, before                     spark spread - (UKA emissions price + CPS levy) * emissions 
+        combustion).                                                           intensity factor ÷ fuel efficiency.
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                       14
+        Specifications Guide         European Electricity: November 2025
+        Platts Dark Spreads
+                                                           Dark Spread                                                    Clean Spark Spread                                             Clean dark spread (cps)
+                                                           35% Efficiency                 45% Efficiency                  35% Efficiency                 45% Efficiency                  35% Efficiency
+        UK (Eur/MWh)
+        Month ahead                                        CDUTM00                                                        CCUTM00                                                        CCHTM00
+        Month ahead + 1                                    CDUTM27                                                        CCUTM27                                                        CCHTM27
+        Quarter ahead                                      CDUTQ00                                                        CCUTQ00                                                        CCHTQ00
+        Quarter ahead + 1                                  CDUTQ27                                                        CCUTQ27                                                        CCHTQ27
+        Season ahead                                       CDUTS00                                                        CCUTS00                                                        CCHTS00
+        UK (GBP/MWh)
+        Month ahead                                        CDUZM00                                                        CCUZM00                                                        CCHZM00
+        Month ahead + 1                                    CDUZM27                                                        CCUZM27                                                        CCHZM27
+        Quarter ahead                                      CDUZQ00                                                        CCUZQ00                                                        CCHZQ00
+        Quarter ahead + 1                                  CDUZQ27                                                        CCUZQ27                                                        CCHZQ27
+        Season ahead                                       CDUZS00                                                        CCUZS00                                                        CCHZS00
+        UK ($/MWh)
+        Month ahead                                        CDUXM00                                                        CCUXM00                                                        CCHXM00
+        Month ahead + 1                                    CDUXM27                                                        CCUXM27                                                        CCHXM27
+        Quarter ahead                                      CDUXQ00                                                        CCUXQ00                                                        CCHXQ00
+        Quarter ahead + 1                                  CDUXQ27                                                        CCUXQ27                                                        CCHXQ27
+        Season ahead                                       CDUXS00                                                        CCUXS00                                                        CCHXS00
+        German (Eur/MWh)
+        Month ahead                                        CDGTM00                        CDGUM00                         CCGTM00                        CCGUM00
+        Month ahead + 1                                    CDGTM27                        CDGUM27                         CCGTM27                        CCGUM27
+        Quarter ahead                                      CDGTQ00                        CDGUQ00                         CCGTQ00                        CCGUQ00
+        Quarter ahead + 1                                  CDGTQ27                        CDGUQ27                         CCGTQ27                        CCGUQ27
+        Year ahead                                         CDGTY00                        CDGUY00                         CCGTY00                        CCGUY00
+        Year ahead + 1                                     CDGTY27                        CDGUY27                         CCGTY27                        CCGUY27
+        Year ahead + 2                                     CDGTY28                        CDGUY28                         CCGTY28                        CCGUY28
+        German ($/MWh)
+        Month ahead                                        CDGXM00                        CDGYM00                         CCGXM00                        CCGYM00
+        Month ahead + 1                                    CDGXM27                        CDGYM27                         CCGXM27                        CCGYM27
+        Quarter ahead                                      CDGXQ00                        CDGYQ00                         CCGXQ00                        CCGYQ00
+        Quarter ahead + 1                                  CDGXQ27                        CDGYQ27                         CCGXQ27                        CCGYQ27
+        Year ahead                                         CDGXY00                        CDGYY00                         CCGXY00                        CCGYY00
+        Year ahead + 1                                     CDGXY27                        CDGYY27                         CCGXY27                        CCGYY27
+        Year ahead + 2                                     CDGTX28                        CDGUX28                         CCGTX28                        CCGUX28
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                       15
+        Specifications Guide         European Electricity: November 2025
+        Dark spreads                                                           Dark spreads are published for coal-fired plants with                  Clean dark spread: Platts dark spread – Relevant emissions 
+                                                                               efficiencies of 45% for Germany.                                       price * emissions intensity factor ÷ fuel efficiency.
+        Platts dark spreads measure the difference between the cost of 
+        feedstock coal and the equivalent price of electricity.                Clean dark spreads are based on emissions intensity of 0.757           Inputs:
+                                                                               mtCO2/MWh for 45% efficiency.
+        Locations: Platts publishes dark and clean dark spreads in                                                                                    Germany: Platts CIF ARA coal assessments, third-party EEX 
+        Germany.                                                               Formulas:                                                              German electricity settlement prices, Platts EUA assessments.
+        Assumptions: Coal-to-power energy conversion is 6.978                  Dark spread: Baseload power price – Coal price ÷ energy 
+        (converting 1 metric ton of coal into MWh).                            conversion factor ÷ fuel efficiency.
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                       16
+        Specifications Guide         European Electricity: November 2025
+        Generating fuel cost comparisons
+        Assessment                          Contract        GBP/MWh         Eur/MWh        $/MWh           $/MMBtu         Eur/Gj         p/therm         Feedstock       Location       Frequency       Timestamp
+        UK
+        Gas
+        Cost of CO2                                         AANFK00                                                                                       Gas             UK             Daily           16.30 London time
+        Balance month cost                                                  AANCI00                        AANCL00         AANCK00        AANCJ00         Gas             UK             Daily           16.30 London time
+        Month ahead cost                                    AANFJ00         AANCM00                        AANCP00         AANCO00        AANCN00         Gas             UK             Daily           16.30 London time
+        Month ahead Total cost                              AANFL00                                                                                       Gas             UK             Daily           16.30 London time
+        Month 2 cost                                                        AANCQ00                        AANCT00         AANCS00        AANCR00                         UK             Daily           16.30 London time
+        Quater ahead cost                                   AANFW00         AANCU00                        AANCX00         AANCW00        AANCV00         Gas             UK             Daily           16.30 London time
+        Quater ahead Total cost                             AANFX00                                                                                       Gas             UK             Daily           16.30 London time
+        Coal
+        Cost of CO2                                         AANGH00                                                                                       Coal            UK             Daily           16.30 London time
+        Month ahead cost                                    AANGG00                                                                                       Coal            UK             Daily           16.30 London time
+        Month ahead Total cost                              AANGJ00                                                                                       Coal            UK             Daily           16.30 London time
+        Quater ahead cost                                   AANGU00                                                                                       Coal            UK             Daily           16.30 London time
+        Quater ahead Total cost                             AANGV00                                                                                       Coal            UK             Daily           16.30 London time
+        NWE 
+        Gas
+        Cost of CO2                                                         AANFR00                                                                       Gas             NWE            Daily           16.30 London time
+        Month ahead cost                                                    AANFQ00, AANDA00               AANDD00         AANDC00        AANDB00         Gas             NWE            Daily           16.30 London time
+        Month ahead Total cost                                              AANFS00                                                                       Gas             NWE            Daily           16.30 London time
+        Month 2 cost                                                        AANDE00                        AANDH00         AANDG00        AANDF00         Gas             NWE            Daily           16.30 London time
+        Quater ahead cost                                                   AANGB00, AANDI00               AANDL00         AANDK00        AANDJ00         Gas             NWE            Daily           16.30 London time
+        Quater ahead Total cost                                             AANGC00                                                                       Gas             NWE            Daily           16.30 London time
+        Coal
+        Cost of CO2                                                         AANGP00                                                                       Coal            NWE            Daily           16.30 London time
+        Month ahead cost                                                    AANGN00, AANCA00               AANCD00         AANCC00        AANCB00         Coal            NWE            Daily           16.30 London time
+        Month ahead Total cost                                              AANGQ00                                                                       Coal            NWE            Daily           16.30 London time
+        Quater ahead cost                                                   AANGZ00, AANCE00               AANCH00         AANCG00        AANCF00         Coal            NWE            Daily           16.30 London time
+        Quater ahead Total cost                                             AANHA00                                                                       Coal            NWE            Daily           16.30 London time
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                       17
+          Specifications Guide               European Electricity: November 2025
+          Platts Coal Switching Price indicator (CSPI)
+                                                             45% Efficiency                                                                                         50% Efficiency
+                                                             p/th                                               Eur/MWh                                             p/th                                               Eur/MWh
+          UK
+          Month ahead                                        EUCVM00                                            EUCTM00                                             EUKVM00                                            EUKTM00
+          Quarter ahead                                      EUCVQ00                                            EUCTQ00                                             EUKVQ00                                            EUKTQ00
+          Year ahead                                         EUCVY00                                            EUCTY00                                             EUKVY00                                            EUKTY00
+                                                             45% Efficiency                                                                                         50% Efficiency
+          Netherlands
+          Month ahead                                        EDCTM00                                                                                                EDUTM00
+          Quarter ahead                                      EDCTQ00                                                                                                EDUTQ00
+          Year ahead                                         EDCTY00                                                                                                EDUTY00
+          Electricity generation economics                                                       Formulas:                                                                              Indicative natural gas and coal costs are compared with 
+                                                                                                                                                                                        baseload power prices.
+          Platts publishes coal switching indicators and cross-fuel                              Netherlands: Gas efficiency * (coal price ÷ coal efficiency + 
+          comparisons which aim at providing transparency into the                               (emissions factor for coal ÷ coal efficiency - emissions factor for                    Assumptions:
+          electricity generation economics.                                                      CCGT ÷ gas efficiency) * (EUA emissions price + coal tax ÷ coal                                               Plant efficiency, %  Emissions intensity, kg CO2/MMBtu
+                                                                                                 efficiency))
+          Coal switching price indicator (CSPI)                                                                                                                                         Natural Gas            50                   53.937
+                                                                                                 Inputs: Coal price = Platts CIF ARA coal price assessment as                           Coal                   35                   99.64
+          Platts CSPIs calculate the threshold at which gas is more                              quoted in USD/mt and converted into Eur/MWh;
+          competitive than coal as input fuel in power generation. When                                                                                                                                        Plant efficiency, %  Emissions intensity, kg CO2/MMBtu
+          the gas price is higher than the CSPI, CCGT generation is more                         Netherlands: Power generators are currently exempt from coal                           UK+CPS Natural Gas 50                       6.62544
+          expensive than coal-fired generation and vice versa. The indicators                    tax. Previous Dutch coal tax rates were Eur14.40/mt for calendar                       Coal                   35                   17.514
+          are published for month-ahead, quarter-ahead and year-ahead.                           year 2015 and Eur14.27/mt for calendar year 2014. From 2016 all 
+                                                                                                 coal plants with an efficiency of 40% or higher are exempt from                        Inputs: Coal is priced at ARA. The standard specifications 
+          Locations: the Netherlands.                                                            the coal tax.                                                                          and sources of each fuel type can be found in the following 
+                                                                                                                                                                                        documents published on https://www.spglobal.com/platts/en/
+          Units: Eur/MWh.                                                                        Cross-fuel comparisons                                                                 our-methodology/methodology-specifications:
+          Assumptions:                                                                           Platts cross-fuel comparisons represent indicative costs of                            Natural gas - Platts European Natural Gas Specifications
+                     Carbon emissions factor                      Dutch plant efficiency         burning gas and coal in power stations. In each case, the price 
+                                                                                                 of the fuel is converted into an equivalent electricity price.                         Coal - Platts Coal Specifications
+          Gas        0.18404 mtCO2/MWh                            45% and 50% HHV
+          Coal       0.34056 mtCO2/MWh                            40% LHV                        Platts also publishes costs of offsetting equivalent CO2 
+                     (thermal basis, before combustion)                                          emissions and total costs, which aggregate these two elements 
+                                                                                                 (CO2 emissions costs and generating costs).
+          © 2025 by S&P Global Inc. All rights reserved.
+                                                                   18
+         Specifications Guide          European Electricity: November 2025
+         Bitcoin Quarq spreads
+         Europe ($/MWh)                                                                                                     Europe (Eur/MWh)
+                                                                                          Symbols                                                                                                            Symbols
+         Nordics Description                                             Spread    Hydro      Wind      Solar               Nordics Description                                              Spread    Hydro     Wind       Solar
+         DK1 West Denmark Spot Baseload Bitcoin Quarq Spread $/MWh       ABIDQ00   ABIDR00    ABIDX00   ABIDS00             DK1 West Denmark Spot Baseload Bitcoin Quarq Spread Eur/MWh      ABIDU00   ABIDV00   ABIDT00    ABIDW00
+         DK2 East Denmark Spot Baseload Bitcoin Quarq Spread $/MWh       ABIDY00   ABIDZ00    ABIEF00   ABIEA00             DK2 East Denmark Spot Baseload Bitcoin Quarq Spread Eur/MWh      ABIEC00   ABIED00   ABIEB00    ABIEE00
+         FI Finland Spot Baseload Bitcoin Quarq Spread $/MWh             ABIDM00   ABIDN00    ABIDP00   ABIDO00             FI Finland Spot Baseload Bitcoin Quarq Spread Eur/MWh            ABIDI00   ABIDJ00   ABIDL00    ABIDK00
+         NO1 Oslo Spot Baseload Bitcoin Quarq Spread $/MWh               ABIAS00   ABIAT00    ABIAV00   ABIAU00             NO1 Oslo Spot Baseload Bitcoin Quarq Spread Eur/MWh              ABIAO00   ABIAP00   ABIAR00    ABIAQ00
+         NO2 Kristiansand Spot Baseload Bitcoin Quarq Spread $/MWh       ABIBA00   ABIBB00    ABIBD00   ABIBC00             NO2 Kristiansand Spot Baseload Bitcoin Quarq Spread Eur/MWh      ABIAW00   ABIAX00   ABIAZ00    ABIAY00
+         NO3 Molde Trondheim Spot Baseload Bitcoin Quarq Spread $/MWh    ABIBE00   ABIBJ00    ABIBL00   ABIBK00             NO3 Molde Trondheim Spot Baseload Bitcoin Quarq Spread Eur/MWh   ABIBF00   ABIBF00   ABIBH00    ABIBG00
+         NO4 Tromso Spot Baseload Bitcoin Quarq Spread $/MWh             ABIBQ00   ABIBN00    ABIBT00   ABIBS00             NO4 Tromso Spot Baseload Bitcoin Quarq Spread Eur/MWh            ABIBM00   ABIBR00   ABIBP00    ABIBO00
+         NO5 Bergen Spot Baseload Bitcoin Quarq Spread $/MWh             ABIBY00   ABIBZ00    ABICB00   ABICA00             NO5 Bergen Spot Baseload Bitcoin Quarq Spread Eur/MWh            ABIBU00   ABIBV00   ABIBX00    ABIBW00
+         Nord Pool systemwide Spot Baseload Bitcoin Quarq Spread $/MWh   ABIEK00   ABIEL00    ABIEN00   ABIEM00             Nord Pool systemwide Spot Baseload Bitcoin Quarq Spread Eur/MWh  ABIEG00   ABIEH00   ABIEJ00    ABIEI00
+         SE1 Lulea Spot Baseload Bitcoin Quarq Spread $/MWh              ABICG00   ABICH00    ABICJ00   ABICI00             SE1 Lulea Spot Baseload Bitcoin Quarq Spread Eur/MWh             ABICC00   ABICD00   ABICF00    ABICE00
+         SE2 Sundsvall Spot Baseload Bitcoin Quarq Spread $/MWh          ABICO00   ABICP00    ABICR00   ABICQ00             SE2 Sundsvall Spot Baseload Bitcoin Quarq Spread Eur/MWh         ABICK00   ABICL00   ABICN00    ABICM00
+         SE3 Stockholm Spot Baseload Bitcoin Quarq Spread $/MWh          ABICW00   ABICX00    ABICZ00   ABICY00             SE3 Stockholm Spot Baseload Bitcoin Quarq Spread Eur/MWh         ABICS00   ABICT00   ABICV00    ABICU00
+         SE4 Malmo Spot Baseload Bitcoin Quarq Spread $/MWh              ABIDE00   ABIDF00    ABIDH00   ABIDG00             SE4 Malmo Spot Baseload Bitcoin Quarq Spread Eur/MWh             ABIDA00   ABIDB00   ABIDD00    ABIDC00
+         Central Europe                                                                                                     Central Europe
+         Germany                                                         ABIAE00   ABIAF00    ABIAH00   ABIAG00             Germany                                                          ABIAA00   ABIAB00   ABIAD00    ABIAC00
+         France                                                          ABIAE00   ABIAF00    ABIAH00   ABIAG00             France                                                           AQSAA00   AQSAB00   AQSAD00    AQSAC00
+         Spain                                                           AQSAM00   AQSAN00    AQSAP00   AQSAO00             Spain                                                            AQSAI00   AQSAJ00   AQSAL00    AQSAK00
+                                                                         Spread    Biomass    Non-                                                                                           Spread    Biomass   Non-
+                                                                                              biomass                                                                                                            biomass
+         United Kingdom                                                  ABIAL00   ABIAN00    ABIAM00                       United Kingdom                                                   ABIAI00   ABIAK00   ABIAJ00
+                                                                         Global 
+                                                                         Network 
+                                                                         Value
+         Bitcoin Energy Consumption Index (MWh)                          ABECA00
+         © 2025 by S&P Global Inc. All rights reserved.
+                                                          19
+          Specifications Guide            European Electricity: November 2025
+          North America ($/MWh)                                                                                                    North America ($/MWh)
+                                                                                                    Symbols                                                                                                                   Symbols
+          Description                                                             Spread         Renewable      Solar              Description                                                              Spread         Renewable      Solar
+                                                                                                 Any Tech                                                                                                                  Any Tech
+          ERCOT AEN Zone Spot Baseload Bitcoin Quarq Spread $/MWh                 ABIEO00        ABIEP00        ABIEQ00            ERCOT West Zone Spot Baseload Bitcoin Quarq Spread $/MWh                 ABIFY00        ABIFZ00        ABIGA00
+          ERCOT Bus Average Spot Baseload Bitcoin Quarq Spread $/MWh              ABIER00        ABIES00        ABIET00            SPP North Hub Spot Baseload Bitcoin Quarq Spread $/MWh                   ABIGE00        ABIGF00        ABIGG00
+          ERCOT CPS Zone Spot Baseload Bitcoin Quarq Spread $/MWh                 ABIEU00        ABIEV00        ABIEW00            SPP South Hub Spot Baseload Bitcoin Quarq Spread $/MWh                   ABIGH00        ABIGI00        ABIGJ00
+          ERCOT Houston Hub Spot Baseload Bitcoin Quarq Spread $/MWh              ABIEX00        ABIEY00        ABIEZ00            Into Georgia Transmission Corp Spot Baseload Bitcoin Quarq Spread        AQSMA00        AQSNA00        AQSOA00
+          ERCOT Houston Zone Spot Baseload Bitcoin Quarq Spread $/MWh             ABIFA00        ABIFB00        ABIFC00            $/MWh
+          ERCOT Hub Average Spot Baseload Bitcoin Quarq Spread $/MWh              ABIFD00        ABIFE00        ABIFF00            Into Tenn Valley Authority Spot Baseload Bitcoin Quarq Spread $/MWh      AQSPA00        AQSQA00        AQSRA00
+          ERCOT LCRA Zone Spot Baseload Bitcoin Quarq Spread $/MWh                ABIFG00        ABIFH00        ABIFI00            Indiana Hub Spot Baseload Bitcoin Quarq Spread $/MWh                     AQSSA00        AQSTA00        AQSUA00
+          ERCOT North Hub Spot Baseload Bitcoin Quarq Spread $/MWh                ABIFJ00        ABIFK00        ABIFL00            NYISO Central Zone C Spot Baseload Bitcoin Quarq Spread $/MWh            AQSAQ00        AQSAR00        AQSAS00
+          ERCOT North Zone Spot Baseload Bitcoin Quarq Spread $/MWh               ABIFM00        ABIFN00        ABIFO00            NYISO Mohawk Valley Zone E Spot Baseload Bitcoin Quarq Spread $/MWh AQSAZ00             AQSBA00        AQSCA00
+          ERCOT Rayburn Zone Spot Baseload Bitcoin Quarq Spread $/MWh             ABIFP00        ABIFQ00        ABIFR00            NYISO North Zone D Spot Baseload Bitcoin Quarq Spread $/MWh              AQSAT00        AQSAU00        AQSAV00
+          ERCOT South Hub Spot Baseload Bitcoin Quarq Spread $/MWh                ABIFS00        ABIFT00        ABIFU00            NYISO West Zone A Spot Baseload Bitcoin Quarq Spread $/MWh               AQSAW00        AQSAX00        AQSAY00
+          ERCOT South Zone Spot Baseload Bitcoin Quarq Spread $/MWh               ABIFV00        ABIFW00        ABIFX00            CAISO NP16 Gen Hub Spot Baseload Bitcoin Quarq Spread $/MWh              AQSDA00        AQSEA00        AQSFA00
+          ERCOT West Hub Spot Baseload Bitcoin Quarq Spread $/MWh                 ABIGB00        ABIGC00        ABIGD00            CAISO SP15 Gen Hub Spot Baseload Bitcoin Quarq Spread $/MWh              AQSGA00        AQSHA00        AQSIA00
+                                                                                                                                   Washington Mid-Columbia Spot Baseload Bitcoin Quarq Spread $/MWh         AQSJA00        AQSKA00        AQSLA00
+          © 2025 by S&P Global Inc. All rights reserved.
+                                                               20
+        Specifications Guide         European Electricity: November 2025
+        Bitcoin Quarq spreads                                                  In addition to the Bitcoin Quarq spreads, Platts publishes             match the rest of the certificates that run on a 12-month rolling 
+                                                                               Renewable Quarq spreads that use renewable sourced market-             calendar basis. 
+        Platts Bitcoin Quarq spreads are daily values calculated for 43        based attribute equivalents. The cost of relevant Renewable 
+        locations using the local day-ahead electricity cost and Bitcoin       Energy Certificates (RECs) or Guarantee of Origin Certificates         All calculations are converted to USD per MWh to have a like for 
+        price for the same day. The daily Bitcoin price is the simple          (GOs) are subtracted from the spread to calculate the mining           like comparison across the world. 
+        average of Bitcoin prices from the day of power delivery. The          profitability using renewable electricity. The references to 
+        electricity consumed to mine one Bitcoin is calculated using the       the Platts assessed Renewable Energy Certificates (RECs) or            Bitcoin Energy Consumption Index
+        hashrate required on the day as well as the average electricity        Guarantee of Origin Certificates (GOs) can be found in the Global 
+        usage of a standard graphic card Antminer S19 Pro, which               Renewables Certificates Guide: https://www.spglobal.com/               The Daily Bitcoin Energy Consumption Index represents the 
+        has an average 110 TeraHashes per second (TH/s) using 3.25             commodity-insights/en/pricing-benchmarks/our-methodology/              energy intensity to mine one Bitcoin in MWh per day, bringing 
+        Kilowatts. The corresponding day-ahead power price of each             methodology-specifications/energy-transition                           transparency to the global bitcoin network energy consumption. 
+        location is then used to calculate the cost of power to mine                                                                                  The index accounts for the global bitcoin network hashrate in 
+        Bitcoin. Platts power price assessments are used for Into TVA          The calculation typically references the REC or GO contract            TeraHash per second, divided by the total amount of bitcoin 
+        (Tennessee Valley Authority), Into GTC (Georgia Transmission           most relevant to the production period for the spread. In the          mined per day to find the TeraHash per second for one bitcoin. 
+        Corporation) and Mid-Columbia (Mid-C) and the UK, while, third         UK, the production period takes into account REGOs produced            Antiminer S19Pro graphic card is considered as a standard 
+        party data is used in France and Spain, New York, California,          from April 1 of the current year to March 31 of the following          assumption, with 110 TH/s, and 3.25 Kilowatts used, to find 
+        Indiana Hub and Texas. The Platts Bitcoin Quarq Spreads are            year, but the compliance period goes from July 2 of the current        the number of graphic cards needed to mine one bitcoin. The 
+        derived from the difference between the Bitcoin price and the          year to July 1 of the following year. In all the US states for solar   energy consumed by the total amount of graphic cards to mine 
+        electricity cost.                                                      generation the production period is matched by rolling with            one bitcoin, and constitutes the energy consumption in MWh 
+                                                                               the compliance period (April of year 1 to March of year 2), to         the Bitcoin Energy Consumption Index represents.  
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                       21
+         Specifications Guide           European Electricity: November 2025
+         Platts Solar Module assessments
+         Assessment                                     Code           Currency          UOM        Output         Wafer Size        Efficiency                    Min Volume         Max Volume         Frequency         Time Stamp
+         Global Solar Marker                            AMOGA00        $ cents           Watt       570-720W       182-210 mm        Topcon-specification          5MW                50MW               Weekly            16:30 London Time
+         Solar Module Delivered US 5-50MW               AMODA00        $ cents           Watt       570-720W       182-210 mm        Topcon-specification          5MW                50MW               Daily             16:30 London Time
+         Solar Module Delivered US 5-50MW MAvg          AMODA03        $ cents           Watt       570-720W       182-210 mm        Topcon-specification          5MW                50MW               Monthly           16:30 London Time
+         Solar Module Delivered US 50-100MW             AMODD00        $ cents           Watt       570-720W       182-210 mm        Topcon-specification          50MW               100MW              Daily             16:30 London Time
+         Solar Module Delivered US 50-100MW MAvg        AMODD03        $ cents           Watt       570-720W       182-210 mm        Topcon-specification          50MW               100MW              Monthly           16:30 London Time
+         Solar Module Delivered Europe 5-50MW           AMODB00        $ cents           Watt       570-720W       182-210 mm        Topcon-specification          5MW                50MW               Daily             16:30 London Time
+         Solar Module Delivered Europe 5-50MW MAvg      AMODB03        $ cents           Watt       570-720W       182-210 mm        Topcon-specification          5MW                50MW               Monthly           16:30 London Time
+         Solar Module Delivered Europe 50-100MW         AMODE00        $ cents           Watt       570-720W       182-210 mm        Topcon-specification          50MW               100MW              Daily             16:30 London Time
+         Solar Module Delivered Europe 50-100MW MAvg    AMODE03        $ cents           Watt       570-720W       182-210 mm        Topcon-specification          50MW               100MW              Monthly           16:30 London Time
+         Solar Module FOB China 5-50MW                  AMODC00        $ cents           Watt       570-720W       182-210 mm        Topcon-specification          5MW                50MW               Daily             16:30 London Time
+         Solar Module FOB China 5-50MW MAvg             AMODC03        $ cents           Watt       570-720W       182-210 mm        Topcon-specification          5MW                50MW               Monthly           16:30 London Time
+         Solar Module FOB China 50-100MW                AMODF00        $ cents           Watt       570-720W       182-210 mm        Topcon-specification          50MW               100MW              Daily             16:30 London Time
+         Solar Module FOB China 50-100MW MAvg           AMODF03        $ cents           Watt       570-720W       182-210 mm        Topcon-specification          50MW               100MW              Monthly           16:30 London Time
+         Solar Module TOPCon FOB India 5-50MW           AMOEA00        $ cents           Watt       570-720W       182-210 mm        Topcon-specification          5MW                50MW               Daily             16.30 India time
+         Solar Module TOPCon FOB India  5-50MW Mavg     AMOEA03        $ cents           Watt       570-720W       182-210 mm        Topcon-specification          5MW                50MW               Monthly           16.30 India time
+         Solar Module TOPCon FOB India 5-50MW           AMOEB00        INR cents         Watt       570-720W       182-210 mm        Topcon-specification          5MW                50MW               Daily             16.30 India time
+         Solar Module TOPCon FOB India 5-50MW Mavg      AMOEB03        INR cents         Watt       570-720W       182-210 mm        Topcon-specification          5MW                50MW               Monthly           16.30 India time
+         Solar Module Perc FOB India 5-50MW             AMOEC00        $ cents           Watt       520-680W       182-210 mm        Perc-specification            5MW                50MW               Daily             16.30 India time
+         Solar Module Perc FOB India 5-50MW Mavg        AMOEC03        $ cents           Watt       520-680W       182-210 mm        Perc-specification            5MW                50MW               Monthly           16.30 India time
+         Solar Module Perc FOB India 5-50MW             AMOED00        INR cents         Watt       520-680W       182-210 mm        Perc-specification            5MW                50MW               Daily             16.30 India time
+         Solar Module Perc FOB India 5-50MW Mavg        AMOED03        INR cents         Watt       520-680W       182-210 mm        Perc-specification            5MW                50MW               Monthly           16.30 India time
+         S&P Platts Power Purchase Agreement Indices                                   developed by Platts to reflect PPAs based on location,                        electricity that gets delivered by the renewable project. 
+                                                                                       technology and tenor, using Platts’ research and primary                      When the PPA indexes are assessed between January and 
+         Platts Energybegan publishing daily Power Purchase                            sub-data.                                                                     June, the tenor is assumed to start on Jan. 1 of the front 
+         Agreements (PPA) indices on June 2, 2025.                                                                                                                   year. When the PPA indexes are assessed between July and 
+                                                                                       Each index is calculated daily using in-house Platts pricing                  December, the tenor is assumed to start on Jan. 1 of the 
+         Platts PPA indices reflect pay-as-produced PPA contracts for                  models, which are regularly calibrated against market-                        second-year ahead.
+         a duration of 10 years, with guarantees of origin (GOs) included.             transacted PPA prices. Platts’ pay-as-produced PPA price 
+         Such indices cover solar and onshore wind power purchase                      reference takes into consideration forward power prices,                      Locations: Germany and Spain
+         agreements in Germany and Spain.                                              production volumes, price capture rates, risk factors and 
+                                                                                       forward GO price calculations.                                                Technologies: Solar and onshore wind
+         Specifications of the Platts PPA indices                                      The indices are published in euros per megawatt-hour                          Tenors: 10-year tenor
+         The following guide contains the specifications for                           (Eur/ MWh), published for Pay-as-Produced (PaP) contracts, 
+         Platts PPA indices. All indices are based on methodology                      meaning a fixed price for an intermittent quantity of                         Units: Eur/MWh for Germany and Spain
+         © 2025 by S&P Global Inc. All rights reserved.
+                                                            22
+        Specifications Guide         European Electricity: November 2025
+        Publication schedule: Platts publishes the PPA indexes on all          of 182-210 mm. Other specifications are considered for                 USA
+        UK working days.                                                       normalization.
+                                                                                                                                                      The prices reflect modules for delivery on a DDP basis 28-60 
+        Timestamp: Each Index reflects a weighted average of price             Volume: Platts assesses volumes of 5 MW up to 50 MW,                   days forward with a basis of the US East Coast. Other locations 
+        references which is published the following business day.              and 50 MW up to 100 MW. Other volumes are considered for               are considered for normalization. 
+                                                                               normalization. 
+        Indices                                                                Publication schedule: The assessments reflect a 4:30 pm                India
+        Code      Index name                                                   London time market close and follow the Platts European                The price assessments reflect modules with 520-680 W output 
+        CESJA00   Germany Solar 10-Year Pay-As-Produced PPA Index              publishing schedule. On certain days ahead of some UK                  for PERC specification and 570-720 W output for TOPCon 
+        CESJB00   Germany Onshore Wind 10-Year Pay-As-Produced PPA Index       Public Holidays, such as Christmas Eve and New Year’s Eve,             specification, with wafer sizes ranging from 182-210 mm, 
+        CESJC00   Spain Solar 10-Year Pay-As-Produced PPA Index                Platts has an earlier assessment timestamp. This is to take            applicable for contract volumes between 5-50 MW.
+        CESJD00   Spain Onshore Wind 10-Year Pay-As-Produced PPA Index         account of typically much lower liquidity and the earlier end 
+                                                                               of trade.                                                              The assessments are published as outright prices on a FOB 
+        Solar module assessments                                                                                                                      India basis and reflect modules scheduled for shipment seven 
+                                                                               China                                                                  to 30 days forward from the basis location, Mundra. The prices 
+        Platts publishes a daily, timestamped spot tradable value                                                                                     are published in US cents per watt and in Indian rupees per 
+        for solar modules in China, Europe and the USA. Prices are             The prices reflect FOB loadings 10-30 days forward basis               watt.
+        published as an outright price in US dollar cents per watt. The        Shanghai. Other locations are considered for normalization.
+        assessments consider market information reported to Platts                                                                                    The assessments reflect an Indian time stamp (1630 IST) and 
+        and published throughout the day, including firm bids and              Europe                                                                 follow the Platts India publishing schedule.
+        offers, trades and indicative values, as well as any other data 
+        deemed relevant to the assessment process.                             The prices reflect modules for delivery on a DDP basis 28-70           Platts Solar Marker
+                                                                               days forward with a basis of Rotterdam. Other locations are 
+        Specification: The price assessments reflect modules with              considered for normalization.                                          Platts Global solar marker is a daily arithmetic average of the 
+        570-720 W of output, TOPCon specification and wafer sizes                                                                                     individual TOPCon 5-50MW solar module assessments.
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                       23
+         Specifications Guide            European Electricity: November 2025
+         Global Bitcoin Qa Sa In 
+           Calclat ­a­ b ion
+               Base, Renewable Any Tech, Solar             Base, Hydro, Wind, Solar             Base, Biomass, Non-Biomass
+                                                             CANADA
+                           W
+                             ashint
+                         MiCol   on
+                                uia                                                                                                                                                                                  N    SE1
+                            W
+                              A                                                                                                                                                                                   Norway
+                                                                                                                                       North Zone D  ISO NE                                                                SE        inlan
+                                                                                                                                Mohawk Valley                                                                     N                  1
+                                                                                                                                       Zone E                                                                            Sween
+                                                                                                                               Central Zone C NYISO                                                          N
+                                                                                                      MISO                  West Zone A           NY                                                                N1
+                                                                                                                                                                                                                N      SE
+               NP1                     WECC                                    SPP North                                            PJM
+            en Hu                                                             NE                                 IN                                                                                         Denark     SE
+                                             UN                                                                                                                                                                   D1D
+                      CA                          ITED STATES                                                    niana
+                                                                                  SPP                                                                                                         nite
+                     CAISO                                                                                                                                                                   ino
+                                                                                                                       nto enn                                                                                 erany
+                    SP1                                                 TX       SPP South                     TN     Valley Authority
+                en Hu                                                                   OK                                         SERC
+                                                                                    ayurn Zone                                                      Atlantic
+                                                                               North Hu                                nto eoria                   Ocean                                        rance      EUROPE
+                                                                           North Zone                                ransission Corp
+                                                                West Zone                                                       GA
+                                                                         West Hu AEN Zone
+                Paciﬁc                                            ERCOT
+                 Ocean                                                 CA Zone                                                                                                       Spain
+                                                                        CPS Zone           Houston Hu                               FRCC
+                                                                                         Houston Zone
+                                                                     South Hu          South Zone              Gulf of Mexico
+                                                           ME                            No specific location
+                                                               XICO                         EC  us
+                                                                                            EC Hu A­erae 
+             250km                                                                                                                                                        250km
+             250mi                                                                                                                                                        250mi
+         Credi Conen esin
+         Sorce S  ­lobal nery
+         © 2025 by S&P Global Inc. All rights reserved.
+                                                              24
+        Specifications Guide         European Electricity: November 2025
+        Revision history                                                       In May 2023, Platts launched UK power day-ahead Block 1+2              Specifications Guide European Electricity. Platts reviewed all 
+                                                                               assessment.                                                            content, corrected typos and made minor edits to language.
+        November 2025: Platts completed an annual review of the 
+        Specifications Guide European Electricity and made minor edits         October 2022: Platts completed an annual review of this                October 2019: Platts completed an annual update to the 
+        to the language for greater clarity. Platts discontinued the UK        methodology guide in October and made minor edits to the               European Electricity methodology and specifications guide. 
+        Coal Price Switching Indicator and the UK Generating Fuel Cost         language for greater clarity. Platts added the cost of the UK          Platts reviewed all content and made minor edits throughout.
+        Comparison.                                                            government’s Carbon Price Support (CPS) levy for 2022 - 2023, 
+                                                                               2023 - 2024 fiscal years. Platts specified which contracts are         September 2019: Platts launched European Guarantee of Origin 
+        August 2025: Platts adds monthly and quarterly volume-                 assessed, contract definitions, assessment ranges, units,              (EuGO) for current year and year-ahead vintage.
+        weighted capture prices and rates.                                     publication schedule and time stamps for GOs and REGOs. 
+                                                                               Platts, part of S&P Global Energy, launched new locations for          April 2019: Platts completed an annual update to sections 1 
+        July 2025: Platts adds daily India PERC and TOPCon solar               Bitcoin Quarq Spreads on September 1, 2022.                            to 6 of Platts Methodology and Specifications Guides in April 
+        module assessments. Platts Global solar maker has been                                                                                        2019, and moved these sections into a standalone Methodology 
+        updated to only include TOPCon volumes 5-50MW.                         July 2022: Platts launched peakload spark spreads for the UK,          Guide.
+                                                                               Germany, France and the Netherlands and new baseload spark 
+        In June 2025, Platts adds daily German and Spanish PPA                 spreads for France and the Netherlands.                                April 2019: Platts clarified the emissions intensity factor used in 
+        assessments.                                                                                                                                  its German clean dark spreads with 45% efficiency.
+                                                                               May 2022: Platts launched Bitcoin Quarq spread on May 19, 
+        April 2025: Platts adds battery spreads and duration ratios.           2022.                                                                  October 2018: Platts has replaced the use of EEX German/
+                                                                                                                                                      Austrian (DE/AT) power price component in with Germany-only 
+        October 2024: Platts completed an annual review of the                 December 2021: Platts launched Renewable Capture price                 (DE-only Phelix) settlement prices. Platts also launched Spanish 
+        Specifications Guide European Electricity. Platts includes             indices on December 16, 2021.                                          day-ahead spark spread and clean spark spreads with both 45% 
+        language on contract definitions and flow date pricing.                                                                                       and 50% efficiency.
+                                                                               October 2021: Platts conducted an annual review of the 
+        August 2024: Platts adds solar module assessments.                     guide. As part of the review Platts added missing codes for            July 2018: Platts launched Spanish spark and clean spark 
+                                                                               conversions and additional contracts throughout. Platts also           spreads for the Month-ahead, +1, Year-Ahead +1 and Italian Year-
+        March 2024: Platts updates the Generating Fuel Cost                    clarified calculations and amended the descriptions of symbols         ahead, with both 45% and 50% efficiency.
+        Comparison table, and includes new locations for Renewable             to make them more explicit of what they reflect.
+        Capture Price Indices.                                                                                                                        May 2018: Platts removed references to German, French, Italian 
+                                                                               June 2021: Platts launched UK Power day-ahead Block 5 in June          and Spanish prompt and forward price assessments following 
+        October 2023: Platts adds Bitcoin Energy Consumption Index.            30,2021 and started using EUA and UKA Platts assessments for           the discontinuation of these markets on May 29, 2018. Platts 
+        Updates the efficiency rate in the table header to correspond to       corresponding clean spark and dark from June 18, 2021.                 also updated the fuel spread sections of this methodology guide 
+        their description for Dark spreads.                                                                                                           to change the source of European power prices from Platts 
+                                                                               March 2021: Platts added REGO methodology in February 2021             assessments to third-party exchanges.
+        September 20223: Platts completed an annual review of this             and Netherlands month-ahead assessment in January 2021.
+        methodology guide in October and made minor edits to the                                                                                      May 2018: Platts completed an annual update to the European 
+        language for greater clarity.                                          December 2020: Platts to amend UK day-ahead assessments                Electricity methodology and specifications guide. In this update, 
+                                                                               timing to 9:20 am London time, effective January 1, 2021.              Platts revamped the guide to introduce greater consistency 
+        June 2023: In March 2023, Platts launched Platts-Pexapark                                                                                     of layout and structure across Platts’ published methodology 
+        Power Purchase Agreement indices (3Pi).                                October 2020: Platts completed an annual review of the                 guides. Platts also reviewed all content during this update.
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                       25
+        Specifications Guide         European Electricity: November 2025
+        March 2018: Platts removed references to Belgian and Dutch             and associated spark and clean spark spreads. Platts                   March 2015: Platts discontinued publishing cross-fuel 
+        weekly power assessments and spark spreads following the               discontinued the following calculated indices: Platts Power            comparisons containing Gasoil 0.1% sulfur content and Fuel Oil 
+        discontinuation of these markets on March 5, 2018.                     Index (German PPI); Continental European Forward Power Price           3.5% sulfur content.
+                                                                               indices; PEP and CONTI indices.
+        October 2017: Platts launched Spanish spark and clean spark                                                                                   December 2014: Platts updated the plant efficiencies and 
+        spreads for the Quarter-ahead, Quarter-Ahead +1 and Year-              November 2016: Platts clarified the day-ahead definition for           rates in its cross-fuel comparisons on December 16, 2014. 
+        ahead, with both 45% and 50% efficiency.                               European spark spreads.                                                Previous plant efficiencies were: Gas 49% (UK) and 54% 
+                                                                                                                                                      (western Europe), Fuel Oil: 32%, Gasoil: 32%, Coal: 34%. 
+        October 2017: Platts discontinued French Month-ahead+1,                October 2016: Platts discontinued UK week-ahead and week-              Previous kg CO2/MMBtu rates were 101.5 for coal, 55 for 
+        Month ahead+2, Year ahead+1, and Year ahead+2 base and peak            ahead+1 base and peak power assessments.                               natural gas and 72.5 for oil.
+        power assessments. Platts also replaced French Saturday and 
+        Sunday power prices with the Weekend assessment for the flow           October 2016: Platts updated the Spark Spreads section of this         April 2014: Platts revised the emissions intensity factor used in 
+        date price data set. In addition, Spanish Day-ahead, Weekend,          guide to reflect the renaming of its Spanish gas assessments to        its spark spreads to 0.053942 tCO2e/MMBtu HHV from 0.055 
+        Month-ahead+1 and Quarter-ahead +2 baseload assessments                PVB (formerly AOC).                                                    with effect from April 1, 2014. The energy conversion factor 
+        were also discontinued. From October 2, French and Spanish                                                                                    (coal) used in dark spreads was revised to 6.978 from 7.1 and 
+        Week-ahead contracts are only assessed on the last working             September 2016: Platts updated the Currency conversions                the emissions intensity factor used in clean dark spreads was 
+        day of the week.                                                       section of this guide. The source and timestamp for the foreign        revised to 0.973 mtCO2/MWh from 0.96.
+                                                                               exchange data used to convert Platts European electricity 
+        May 2017: Platts updated the clean fuel spread sections of this        assessments to foreign currency equivalents was revised from           March 2014: Platts discontinued its assessment of the UK April 
+        methodology guide to change the source of European emissions           Tullett Prebon at 16:00 London time to Platts 16:30 London time        Annual contract.
+        prices from Platts assessments to third-party exchange.                assessment. Platts also removed references to the previous 
+                                                                               calculations for exchange rates. Prior to June 2014, exchange          January 2014: Platts moved its day-ahead timestamp to 11:00 
+        February 2017: Platts removed references to duplicate UK index         rates were published with a working-day time lag, with the             am from midday as of January 2, 2014.
+        symbols which were discontinued on February 3, 2017.                   previous day’s exchange rate close used in calculations.
+                                                                                                                                                      November 2013 – September 2014: Platts transitioned 
+        January 2017: Platts completed an annual update to the                 August 2016: Platts updated this guide to remove references            its UK forward power assessments to the Gregorian 
+        European Electricity methodology and specifications guide. In          to CEE and Turkish power assessments and to Turkish dark and           calendar from the EFA calendar. The last EFA roll date was 
+        this update, Platts revamped the guide to introduce greater            spark spreads. Platts discontinued assessments of the Czech,           September 29, 2014, and the first Gregorian roll date was 
+        consistency of layout and structure across Platts’ published           Hungarian, Polish and Turkish power markets. Turkish dark and          November 3, 2014.
+        methodology guides. Platts also reviewed all content during this       spark spreads were also discontinued. Price history remains 
+        update and introduced code lists. Methodologies for market             available in Market Data categories EE, PE and EM.                     November 2013: Platts launched assessments of EFA-Gregorian 
+        coverage were not changed.                                                                                                                    “gap” products covering the following dates: September 29-30, 
+                                                                               November 2015: Platts introduced additional German dark                2014 and March 30/31, 2015. Assessments were only published 
+        January 2017: Platts discontinued prompt power assessments             spread indicators, with a fuel efficiency factor of 45%.               in the event of trade or firm and verifiable indications of market 
+        for Switzerland, the Netherlands and Belgium. Platts also                                                                                     value.
+        discontinued forward assessments of Dutch peakload contracts           September 2015: Platts discontinued its assessments of 
+        and Dutch quarter-ahead + 1 baseload and moved to weekly               German month-ahead+4 and month-ahead+5 baseload and                    November 2009: Forward time stamp alignment to 16:30 
+        reporting for remaining Dutch and Belgian power assessments            peakload electricity contracts.                                        London time as of November 1.
+        © 2025 by S&P Global Inc. All rights reserved.
+                                                       26

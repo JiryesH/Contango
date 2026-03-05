@@ -1,0 +1,224 @@
+    Specifications Guide
+    Global Proteins
+    Latest update: November 2025
+    Definitions of the trading locations for which Platts 
+    publishes price assessments..................................... 2
+    Beef ........................................................................ 3
+    Poultry .................................................................... 5
+    Seafood .................................................................. 7
+        ........................................................................ 9
+    Pork
+    Animal Feed   ..........................................................10
+             ...................................................... 11
+    Revision history
+    www.spglobal.com/commodityinsights
+          Specifications Guide              Global Proteins: November 2025
+          Definitions of the trading locations for which Platts publishes price assessments
+          All the price assessments listed here employ S&P Global Commodity Insights’ Platts Assessments Methodology, as published at https://www.spglobal.com/commodityinsights/plattscontent/_assets/_
+          files/en/our-methodology/methodology-specifications/platts-assessments-methodology-guide.pdf .
+          These guides are designed to give Platts subscribers as much information as possible about a wide range of methodology and specification questions.
+          This guide is current at the time of publication. Platts may issue further updates and enhancements to this guide and will announce these to subscribers through its usual publications of record.  
+          Such updates will be included in the next version of this guide. Platts editorial staff and managers are available to provide guidance when assessment issues require clarification.
+          The price assessments listed in this guide reflect the prevailing market value of the specified product on a daily basis, according to the timestamps listed below.
+          © 2025 by S&P Global Inc. All rights reserved.         2
+            Specifications Guide                    Global Proteins: November 2025
+            Beef
+            Assessment                            UOM                   Code                      Mavg                   Wavg                   Incoterm               Location                                   Timing                                            Min size         Typical size      Max size
+            Brazil Beef Marker (BBM)              $/mt                  ATALC00                   ATALC03                                       FCA                    Santos, Brazil                             Shipment in third half-month laycan               1 container      25-27 mt          27
+            85CL Beef CIF US                      $/mt                  ATALG00                   ATALG03                                       CIF                    Philadelphia, US                           Shipping 30-60 days forward                       1 container      27 mt
+            90CL Beef CIF US                      $/mt                  ATALB00                   ATALB03                                       CIF                    Philadelphia, US                           Shipping 30-60 days forward                       1 container      27 mt
+            95CL Beef CIF US                      $/mt                  ATALH00                   ATALH03                                       CIF                    Philadelphia, US                           Shipping 30-60 days forward                       1 container      27 mt
+            90CL FCA Australia                    $/mt                  ATALD00                   ATALD03                                       FCA                    Brisbane, Australia                        Shipping 30-60 days forward                       1 container      27 mt
+            Beef                                                                                                Notes: In addition to the standard phytosanitary rules, the                                          Market Close: 13:30 Houston
+                                                                                                                assessment considers product from cattle no older than 30 
+            Brazil Beef Marker                                                                                  months and with a maximum of 4 permanent incisors.                                                   90CL Beef CIF US
+            Quality: Front forequarter, eight cut, basis min. 90% visual lean                                   Market Close: 17:30 Sao Paulo                                                                        Quality: Manufacturing beef, basis min. 90% chemical lean 
+            (90VL), deboned, boxed and frozen. The front forequarter is                                                                                                                                              (90CL), deboned, boxed and frozen.
+            defined as the natural proportion +/- 10% of the following cuts:                                    85CL Beef CIF US
+            chuck ribs, chuck roll, chuck tender, neck, oyster blade, shoulder                                                                                                                                       Quantity: Assessment reflects one 40-foot refrigerated shipping 
+            blade, brisket, and shin.                                                                           Quality: Manufacturing beef, basis min. 85% chemical lean                                            container of 27 mt net weight.
+                                                                                                                (85CL), deboned, boxed and frozen.
+            Quantity: Assessment reflects one 40-foot refrigerated                                                                                                                                                   Basis and Location: CIF Philadelphia, US, terminal handling 
+            container of 25-27 mt net weight.                                                                   Quantity: Assessment reflects one 40-foot refrigerated shipping                                      charges excluded, stuffed in one 40-ft refrigerated 
+                                                                                                                container of 27 mt net weight.                                                                       container.
+            Basis and location: FCA Santos, Brazil, terminal handling 
+            charges included, stuffed in one 40-ft refrigerated container.                                      Basis and Location: CIF Philadelphia, US, terminal handling                                          Timing: Assessment reflects product to be shipped 30-60 days 
+                                                                                                                charges excluded, stuffed in one 40-ft refrigerated container.                                       from date of publication.
+            Timing: FCA Santos, considering shipment for loading in the 
+            third half-month laycan from the date of publication. Platts does                                   Timing: assessment reflects product to be shipped 30-60 days                                         Payment terms: Cash against documents
+            not assess the prompt first and second half-month laycan. The                                       from date of publication.
+            half-month laycan is rolled forward on the 1st and 16th day of                                                                                                                                           Unit of assessment: US dollars per mt
+            each calendar month. For example, on March 1, the half-month                                        Payment terms: Cash against documents
+            laycan assessed would be H1 April.                                                                                                                                                                       Notes: Assessment excludes costs of US Customs and Bureau 
+                                                                                                                Unit of assessment: US dollars per mt                                                                Protection entry form and US Department of Agriculture 
+            Payment terms: Cash against documents (30% against invoice;                                                                                                                                              inspection.
+            balance against bill of lading)                                                                     Notes: Assessment excludes costs of US Customs and Bureau 
+                                                                                                                Protection entry form and US Department of Agriculture                                               Market Close: 13:30 Houston
+            Unit of assessment: US dollars per mt                                                               inspection.
+            © 2025 by S&P Global Inc. All rights reserved.                  3
+          Specifications Guide              Global Proteins: November 2025
+          95CL Beef CIF US                                                                     Payment terms: Cash against documents                                                 Quantity: Assessment reflects one 40-foot refrigerated shipping 
+                                                                                                                                                                                     container of 25-27 mt net weight
+          Quality: Manufacturing beef, basis min. 95% chemical lean                            Unit of assessment: US dollars per mt
+          (95CL), deboned, boxed and frozen.                                                                                                                                         Basis and Location: FCA Brisbane, terminal handling charges 
+                                                                                               Notes: Assessment excludes costs of US Customs and Bureau                             included
+          Quantity: Assessment reflects one 40-foot refrigerated shipping                      Protection entry form and US Department of Agriculture 
+          container of 27 mt net weight.                                                       inspection.                                                                           Timing: Assessment reflects product to be shipped 30-60 days 
+                                                                                                                                                                                     from date of publication
+          Basis and Location: CIF Philadelphia, US, terminal handling                          Market Close: 13:30 Houston
+          charges excluded, stuffed in one 40-ft refrigerated container.                                                                                                             Payment terms: Cash against documents
+          Timing: Assessment reflects product to be shipped 30-60 days                         90 CL Beef FCA Australia                                                              Unit of assessment: US dollars per mt
+          from date of publication.                                                            Quality: Manufacturing beef, 90% chemical lean (90CL), 
+                                                                                               deboned, boxed and frozen.                                                            Market Close: 16:30 Singapore
+          © 2025 by S&P Global Inc. All rights reserved.         4
+            Specifications Guide                    Global Proteins: November 2025
+            Chicken
+            Assessment                            UOM                   Code                      Mavg                   Wavg                   Incoterm               Location                                   Timing                                            Min size         Typical size      Max size
+            US Chicken Marker (USCM)              $/mt                  ATALI00                   ATALI03                                       FCA                    Savannah, US                               15-45 days forward                                5 containers 25-27 mt              27
+            Chicken Jumbo Breast EXW US $/lb                            UCFBS00                   UCFBS03                                       EXW                    Southeast US                               Loading 7 days from publication                   1 Truckload      40,000 lb
+            Chicken Leg FCA Brazil                $/mt                  ATALJ00                   ATALJ03                                       FCA                    Paranagua, Brazil                          3rd half month laycan                             5 containers 24-27 mt
+            Chicken Leg CFR North Asia            $/mt                  ATALK00                   ATALK03                                       CFR                    Tokyo, Japan                               Shipping 30-60 days forward                       10 containers 24-27 mt
+            Chicken Breast CIF Middle East$/mt                          ATALL00                   ATALL03                                       CIF                    Jebel Ali, UAE                             Shipping 30-60 days forward                       1 container      24-27 mt
+            Poultry                                                                                             in North Carolina, South Carolina, Georgia, Alabama, Arkansas,                                       Market Close: 17:30 Sao Paulo
+                                                                                                                Tennessee, Mississippi, Texas 
+            US Chicken Marker USCM                                                                              Timing: Loading within 7 days from date of publication                                               Chicken Leg CFR North Asia 
+            Quality: Frozen Chicken Leg Quarters minimum 200 grams                                                                                                                                                   Quality: Frozen boneless skin-on legs minimum 200 grams
+            bone-in, skin-on.                                                                                   Payment terms: Cash against documents 
+                                                                                                                                                                                                                     Quantity: Assessment reflects minimum ten 40 foot refrigerated 
+            Quantity: Assessment reflects minimum five 40-foot                                                  Unit of assessment: US dollars per lb and a conversion to $/MT                                       shipping containers of 24-27 mt net weight each
+            refrigerated shipping container of 25-27 mt net weight each
+                                                                                                                Market Close: 13:30 Houston                                                                          Basis and Location: CFR Tokyo, Japan, terminal handling 
+            Basis and Location: FCA Savannah, terminal handling charges                                                                                                                                              charges excluded 
+            included                                                                                            Chicken Leg FCA Brazil 
+                                                                                                                                                                                                                     Timing: Assessment reflects product to be shipped 30-60 days 
+            Timing: Assessment reflects product to be shipped 15-45 days                                        Quality: Frozen boneless skin-on legs minimum 200 grams, halal                                       from date of publication
+            from date of publication                                                                            certification not required.
+                                                                                                                                                                                                                     Payment terms: Cash against documents
+            Payment terms: Cash against documents                                                               Quantity: Assessment reflects minimum five shipping 40-foot 
+                                                                                                                refrigerated container of 24-27 mt net weight each                                                   Unit of assessment: US dollars per mt
+            Unit of assessment: US dollars per mt
+                                                                                                                Basis and Location: FCA Paranagua, terminal handling charges                                         Market Close: 16:30 Penang
+            Market Close: 13:30 Houston                                                                         included 
+                                                                                                                Timing: Assessment reflects product to be shipped third half                                         Chicken Breast CIF Middle East
+            Chicken Jumbo Breast EXW US Southeast                                                               month forward from date of publication. Platts does not assess                                       Quality: Frozen Chicken Breast boneless, skinless single fillet 
+            Quality: Fresh Jumbo Boneless Skinless Chicken breast, Tender                                       the prompt first and second half-month laycan. The half-month                                        with halal certification.
+            out, from birds with live weight above 7.75 lbs                                                     laycan is rolled forward on the 1st and 16th day of each calendar 
+                                                                                                                month.                                                                                               Quantity: Assessment reflects 12.5 kg cartons in minimum one 
+            Quantity: Minimum 1 Truckload defined by 40,000 lbs of product                                                                                                                                           40-foot refrigerated shipping container of 25-27mt net weight 
+                                                                                                                Payment terms: Cash against documents                                                                each
+            Basis and Location: Ex-works US Southeast defined as facilities 
+                                                                                                                Unit of assessment: US dollars per mt
+            © 2025 by S&P Global Inc. All rights reserved.                  5
+          Specifications Guide              Global Proteins: November 2025
+          Basis and Location: CIF Jebel Ali Port, UAE, terminal handling 
+          charges excluded
+          Timing: Assessment reflects product to be shipped 30-60 days 
+          from date of publication
+          Payment terms: Cash against documents
+          Unit of assessment: US dollars per mt
+          Market Close: 16:30 London
+          © 2025 by S&P Global Inc. All rights reserved.         6
+            Specifications Guide                    Global Proteins: November 2025
+            Shrimp
+            Assessment                            UOM                   Code                      Mavg                   Wavg                   Incoterm               Location                                   Timing                                            Min size         Typical size      Max size
+            Ecuador Shrimp Marker                 $/mt                  VSFEA00                   VSFEA03                                       FCA                    Guayaquil, Ecuador                         15-30 days forward                                1 container      20-23 mt
+            HOSO Shrimp CIF EU                    $/mt                  VNMSE00                   VNMSE03                                       CIF                    Le Havre, France                           15-45 days forward                                1 container      20 mt
+            PDTO Shrimp CIF US                    $/mt                  ISFDA00                   ISFDA03                                       CIF                    New York, US                               30-60 days forward                                1 container      15-17 mt
+            PDTO Shrimp FCA India                 $/mt                  ISFCA00                   ISFCA03                                       FCA                    Visakhapatnam, India                       30-60 days forward                                1 container      15-20 mt
+            HOSO Shrimp Farmgate India            INR/kg                HSEFI00                   HSEFI03                                       EXW                    West Godavari, India                       Loading up to 5 days forward                      1 truckload      min 5mt
+            HOSO Shrimp Farmgate India            $/mt                  HSEFJ00                   HSEFJ03                                       EXW                    West Godavari, India                       Loading up to 5 days forward                      1 truckload      min 5mt
+            Seafood                                                                                             Quantity: Assessment reflects boxes of 10 kg stuffed in minimum                                      from date of publication
+                                                                                                                one 40-foot refrigerated shipping container of 20 mt net weight
+            Ecuador Shrimp Marker (ESM)                                                                                                                                                                              Payment terms: Cash against documents
+                                                                                                                Basis and Location: CIF Le Havre, France, terminal handling 
+            Quality: farm-raised Vannamei shrimp, head-on, shell-on , semi-                                     charges excluded                                                                                     Unit of assessment: US dollars per mt
+            Individually Quick Frozen (semi-IQF),30 to 40 pieces per kg.
+                                                                                                                Timing: Assessment reflects product to be shipped 15-45 days                                         Market Close: 13:30 Houston
+            Quantity: Assessment reflects boxes of 10 kg or 20 kg in                                            from date of publication
+            minimum one 40-foot refrigerated shipping container of 20 to                                                                                                                                             PDTO Shrimp FCA India
+            23 mt net weight                                                                                    Payment terms: Cash against documents
+                                                                                                                                                                                                                     Quality: Farm-raised, Vannamei shrimp, peeled deveined tail-on, 
+            Basis and Location: FCA Guayaquil, terminal handling charges                                        Unit of assessment: US dollars per mt                                                                IQF,31-40 pieces per lb.
+            included
+                                                                                                                Market Close: 16:30 London                                                                           Quantity: Assessment reflects boxes of 10 to 40 lb stuffed in 
+            Timing: Assessment reflects product to be shipped 15-30 days                                                                                                                                             minimum one 40-foot refrigerated shipping container of 15 to 
+            from date of publication                                                                            PDTO Shrimp CIF US                                                                                   20 mt net weight
+            Payment terms: Cash against documents                                                               Quality: Vannamei shrimp, peeled, deveined, tail-on (PDTO),                                          Basis and Location: FCA Visakhapatnam, terminal handling 
+                                                                                                                individually quick frozen (IQF),16-20 pieces per lb.                                                 charges included
+            Unit of assessment: US dollars per mt
+                                                                                                                Quantity: Assessment reflects boxes of 20 lb stuffed in                                              Timing: Assessment reflects product to be shipped 30-60 days 
+            Market Close: 17:30 Sao Paulo                                                                       minimum one 40-foot refrigerated shipping container of 15 to                                         from date of publication
+                                                                                                                17 mt net weight
+            HOSO Shrimp CIF EU                                                                                                                                                                                       Payment terms: Cash against documents
+                                                                                                                Basis and Location: CIF New York, terminal handling charges 
+            Quality: Vannamei shrimp, head-on, shell-on, semi-IQF, 30-40                                        excluded                                                                                             Unit of assessment: US dollars per mt
+            pieces per kg.
+                                                                                                                Timing: Assessment reflects product to be shipped 30-60 days                                         Market Close: 16:30 New Delhi
+            © 2025 by S&P Global Inc. All rights reserved.                  7
+          Specifications Guide              Global Proteins: November 2025
+          HOSO Shrimp Farmgate India                                                           Timing: Loading up to 5 days forward from the date of 
+                                                                                               publication
+          Quality: Farm-raised L. Vannamei shrimp, head-on shell-on, 
+          40 count/kg, packed in transport tubs (insulated boxes) with                         Payment terms: Cash against documents
+          crushed ice to shrimp ratio of 2:1, loaded in reefer truck
+                                                                                               Unit of assessment: Indian rupees per kg and a conversion to 
+          Quantity: Minimum 5 mt                                                               US dollars per mt
+          Basis and location: Ex-Works West Godavari, Andhra Pradesh                           Market Close: 16:30 New Delhi
+          © 2025 by S&P Global Inc. All rights reserved.         8
+            Specifications Guide                    Global Proteins: November 2025
+            Pork
+            Assessment                            UOM                   Code                      Mavg                   Wavg                   Incoterm               Location                                   Timing                                            Min size         Typical size      Max size
+            EU Pork Marker (EUPM)                 Eur/mt                EUPML00                   EUPML03                                       FCA                    Barcelona, Spain                           Shipping 60-90 days forward                       1 container      25-27 mt
+            EU Pork Marker                        $/mt                  EUPMK00                   EUPMK03                                       FCA                    Barcelona, Spain                           Shipping 60-90 days forward                       1 container      25-27 mt
+            Pork Belly CFR North Asia             $/mt                  GPSEB00                   GPSEB03                                       CFR                    Busan, South Korea                         Shipping 60-90 days forward                       1 container      25-27 mt
+            Pork Loin EXW-US Midwest              $/lb                  USPLL00                   USPLL03                                       EXW                    US Midwest                                 15-30 days forward                                1 load           40,000 lb
+            Pork                                                                                                Pork Belly CFR North Asia                                                                            Pork Loin EXW-US Midwest
+            EU Pork Marker (EUPM)                                                                               Quality: Frozen pork belly, skinless and single-ribbed with 5-6cm                                    Quality: ¼” trimmed boneless pork loin, vacuum-packed, 
+                                                                                                                belly thickness.                                                                                     frozen
+            Quality: Frozen pork belly, boneless and skinless.
+                                                                                                                Quantity: Assessment reflects minimum one 40-foot                                                    Quantity: Assessment reflects minimum one load defined as 
+            Quantity: Assessment reflects minimum one 40-foot                                                   refrigerated shipping container of 25-27 mt net weight                                               40,000 lb of product
+            refrigerated shipping container of 25-27 mt net weight 
+                                                                                                                Basis and Location: CFR Busan, South Korea, terminal handling                                        Basis and Location: EXW-US Midwest
+            Basis and Location: FCA Barcelona, Spain, terminal handling                                         charges excluded
+            charges included                                                                                                                                                                                         Timing: Assessment reflects product to be shipped 15-30 days 
+                                                                                                                Timing: Assessment reflects product to be shipped 60-90 days                                         from date of publication
+            Timing: Assessment reflects product to be shipped 60-90 days                                        from date of publication
+            from date of publication                                                                                                                                                                                 Payment terms: Cash against documents
+                                                                                                                Payment terms: Cash against documents
+            Payment terms: Cash against documents                                                                                                                                                                    Unit of assessment: US dollars per lb and a conversion to $/MT
+                                                                                                                Unit of assessment: US dollars per mt
+            Unit of assessment: Euros per mt                                                                                                                                                                         Market Close: 13:30 Houston
+                                                                                                                Market Close: 16:30 Penang
+            Market Close: 16:30 London
+            © 2025 by S&P Global Inc. All rights reserved.                  9
+          Specifications Guide              Global Proteins: November 2025
+          Animal Feed  
+          Platts publishes daily assessments for US Dried Distillers 
+          Grains. For the Methodology specifications for the Platts 
+          DDGS assessments, please refer to the Global Grains and 
+          Oilseeds Specifications guide: https://www.spglobal.com/
+          commodityinsights/PlattsContent/_assets/_files/en/our-
+          methodology/methodology-specifications/global-grains-
+          oilseeds.pdf   
+          Platts also publishes daily assessments for Soybean Meal. 
+          For the methodology and specifications for Platts Soybean 
+          Meal coverage, please refer to the Global Grains and 
+          Oilseeds Specifications guide: https://www.spglobal.com/
+          commodityinsights/PlattsContent/_assets/_files/en/our-
+          methodology/methodology-specifications/global-grains-
+          oilseeds.pdf
+          © 2025 by S&P Global Inc. All rights reserved.         10
+          Specifications Guide              Global Proteins: November 2025
+          Revision history                                                                     February 2025: Platts conducted an annual review of this guide                        was also made to show with the basis and quality for the PDTO 
+                                                                                               with minor changes to language for clarity. Details added around                      Shrimp FCA India assessment. 
+          November 2025: New assessment for HOSO Shrimp Farmgate                               frequency of assessments, and clarified inclusion of THCs 
+          India launched Nov. 3, 2025.                                                         for all FCA assessments, exclusion for all CIF and CFR price                          June 2024: New assessments added for US and Australia beef 
+                                                                                               assessments.                                                                          and global chicken price assessments launched on Jun 3, 
+          July 2025: New assessment added for US pork assessment                                                                                                                     2024.
+          launched on July 1, 2025                                                             November 2024: New assessments added for global pork 
+                                                                                               assessments launched on Nov 1, 2024.                                                  April 2024: Guide created following the launch of the Brazil Beef 
+          June 2025: New assessment added for US Chicken Jumbo Breast                                                                                                                Marker and 90CL Beef CIF US in March 2024. 
+          EXW US Southeast launched May 1, 2025., and minor changes to                         September 2024: New assessments added for global shrimp 
+          language and details for Animal Feed assessments.                                    price assessments launched on Sep 2, 2024. A clarification 
+          © 2025 by S&P Global Inc. All rights reserved.         11

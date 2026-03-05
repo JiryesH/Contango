@@ -1,0 +1,1743 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contango</title>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@400;600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400&display=swap" rel="stylesheet">
+<!--
+  USAGE:
+    1. python rss_scraper.py           (populate data/feed.json)
+    2. python -m http.server 8000      (serve this directory)
+    3. open http://localhost:8000/
+
+  Or to run both together:
+    python rss_scraper.py --daemon --serve
+-->
+<style>
+:root {
+  --color-bg:        #F0EFE9;
+  --color-surface:   #FFFFFF;
+  --color-primary:   #0F1923;
+  --color-amber:     #E8A020;
+  --color-subtext:   #6B7280;
+  --color-border:    #D1CEC8;
+  --color-up:        #3A8F64;
+  --color-down:      #E74C3C;
+  --color-energy:    #E8A020;
+  --color-metals:    #4A90D9;
+  --color-agri:      #5BA85C;
+  --nav-height:      52px;
+  --filter-height:   52px;
+  --feed-max:        680px;
+  --header-text-case: lowercase; /* options: none (use typed text), lowercase, capitalize */
+}
+
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: 'IBM Plex Sans', sans-serif;
+  background: var(--color-bg);
+  color: var(--color-primary);
+  line-height: 1.5;
+}
+
+/* ── NAV ── */
+.nav {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  height: var(--nav-height);
+  background: var(--color-primary);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 24px;
+}
+
+.nav-logo {
+  font-family: 'IBM Plex Serif', serif;
+  font-weight: 200;
+  font-size: 19px;
+  color: #fff;
+  letter-spacing: 0.02em;
+  text-transform: var(--header-text-case);
+  white-space: nowrap;
+  user-select: none;
+}
+
+.nav-logo .dot {
+  display: inline-block;
+  width: 5px;
+  height: 5px;
+  background: var(--color-amber);
+  border-radius: 50%;
+  margin-left: 3px;
+  vertical-align: middle;
+  position: relative;
+  top: -1px;
+}
+
+.nav-right {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+}
+
+.nav-search {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.nav-search-toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 4px 2px;
+  display: flex;
+  align-items: center;
+  color: rgba(255,255,255,0.72);
+  transition: color 0.15s ease;
+  flex-shrink: 0;
+}
+
+.nav-search-toggle:hover {
+  color: #fff;
+}
+
+.nav-search.open .nav-search-toggle {
+  color: var(--color-amber);
+}
+
+.nav-search-panel {
+  position: absolute;
+  top: calc(100% + 10px);
+  right: 0;
+  width: min(420px, calc(100vw - 32px));
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  padding: 8px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.18);
+  z-index: 130;
+  opacity: 0;
+  transform: translateY(-4px);
+  pointer-events: none;
+  transition: opacity 150ms ease, transform 150ms ease;
+}
+
+.nav-search.open .nav-search-panel {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+.nav-live {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 0.08em;
+  text-transform: var(--header-text-case);
+  color: var(--color-primary);
+  background: var(--color-amber);
+  padding: 3px 10px 3px 8px;
+  border-radius: 3px;
+  line-height: 1;
+}
+
+.nav-live-dot {
+  width: 6px;
+  height: 6px;
+  background: var(--color-primary);
+  border-radius: 50%;
+  animation: livePulse 2s ease-in-out infinite;
+}
+
+@keyframes livePulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.35; }
+}
+
+.nav-bell {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 4px 2px;
+  display: flex;
+  align-items: center;
+  color: var(--color-primary);
+  opacity: 0.4;
+  transition: opacity 0.15s, color 0.15s;
+  flex-shrink: 0;
+}
+.nav-bell:hover { opacity: 0.75; }
+.nav-bell.enabled { opacity: 1; color: var(--color-amber); }
+.nav-bell.denied  { opacity: 0.25; cursor: not-allowed; }
+
+/* ── FILTER WRAP ── */
+.filter-wrap {
+  position: sticky;
+  top: var(--nav-height);
+  z-index: 90;
+  background: var(--color-bg);
+  border-bottom: 1px solid var(--color-border);
+}
+
+/* ── FILTER BAR ── */
+.filter-bar {
+  padding: 0 24px;
+  height: var(--filter-height);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  overflow-x: auto;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.filter-bar::-webkit-scrollbar {
+  display: none;
+}
+
+.filter-pill {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  text-transform: none;
+  padding: 9px 2px 8px;
+  border: none;
+  border-bottom: 2px solid transparent;
+  background: transparent;
+  color: var(--color-subtext);
+  cursor: pointer;
+  white-space: nowrap;
+  transition: color 150ms ease, border-color 150ms ease, opacity 150ms ease;
+  user-select: none;
+  line-height: 1;
+}
+
+.filter-pill:hover {
+  color: var(--color-primary);
+}
+
+/* Default active: amber (All, ICIS, energy-related, others) */
+.filter-pill.active {
+  color: var(--color-primary);
+  border-bottom-color: var(--color-amber);
+}
+
+/* Metals: steel blue when active */
+.filter-pill[data-group="metals"].active {
+  color: var(--color-metals);
+  border-bottom-color: var(--color-metals);
+}
+
+/* Agriculture + Fertilizers: green when active */
+.filter-pill[data-group="agri"].active {
+  color: var(--color-agri);
+  border-bottom-color: var(--color-agri);
+}
+
+.filter-pill[data-filter-group="energy"].partial {
+  border-bottom-color: rgba(232,160,32,0.55);
+  color: var(--color-primary);
+}
+
+/* Divider between pill groups */
+.filter-divider {
+  width: 1px;
+  height: 22px;
+  background: var(--color-border);
+  flex-shrink: 0;
+  margin: 0 2px;
+}
+
+/* Expandable energy sub-filters */
+.energy-layer {
+  max-height: 0;
+  overflow: hidden;
+  opacity: 0;
+  transform: translateY(-4px);
+  transition: max-height 220ms ease, opacity 180ms ease, transform 180ms ease, padding 220ms ease;
+  padding: 0 24px;
+  border-top: 1px solid transparent;
+}
+
+.energy-layer.open {
+  max-height: 120px;
+  opacity: 1;
+  transform: translateY(0);
+  padding: 10px 24px 12px;
+  border-top-color: var(--color-border);
+}
+
+.energy-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.energy-chip {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  border: none;
+  border-bottom: 2px solid transparent;
+  border-radius: 0;
+  padding: 7px 2px 6px;
+  background: transparent;
+  color: var(--color-subtext);
+  cursor: pointer;
+  transition: color 150ms ease, border-color 150ms ease;
+}
+
+.energy-chip:hover {
+  color: var(--color-primary);
+}
+
+.energy-chip.active {
+  color: var(--color-primary);
+  border-bottom-color: var(--color-amber);
+}
+
+.country-layer {
+  max-height: 0;
+  overflow: hidden;
+  opacity: 0;
+  transform: translateY(-4px);
+  transition: max-height 220ms ease, opacity 180ms ease, transform 180ms ease, padding 220ms ease;
+  padding: 0 24px;
+  border-top: 1px solid transparent;
+}
+
+.country-layer.open {
+  max-height: 230px;
+  opacity: 1;
+  transform: translateY(0);
+  padding: 10px 24px 12px;
+  border-top-color: var(--color-border);
+}
+
+.country-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.country-chip {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  border: none;
+  border-bottom: 2px solid transparent;
+  border-radius: 0;
+  padding: 7px 2px 6px;
+  background: transparent;
+  color: var(--color-subtext);
+  cursor: pointer;
+  transition: color 150ms ease, border-color 150ms ease;
+  white-space: nowrap;
+}
+
+.country-chip:hover {
+  color: var(--color-primary);
+}
+
+.country-chip.active {
+  color: var(--color-primary);
+  border-bottom-color: var(--color-amber);
+}
+
+.country-chip.disabled {
+  opacity: 0.38;
+  cursor: default;
+  color: var(--color-subtext);
+  border-bottom-color: transparent;
+  pointer-events: none;
+}
+
+.country-empty {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 10px;
+  color: var(--color-subtext);
+  letter-spacing: 0.03em;
+  padding-top: 4px;
+}
+
+/* ── STATUS BAR ── */
+.status-bar {
+  background: var(--color-bg);
+  border-bottom: 1px solid var(--color-border);
+  padding: 0 24px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+}
+
+#status-line {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 10px;
+  color: var(--color-subtext);
+  letter-spacing: 0.03em;
+  max-width: var(--feed-max);
+  width: 100%;
+}
+
+.headline-search {
+  width: 100%;
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+  background: #fff;
+  color: var(--color-primary);
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 14px;
+  line-height: 1.2;
+  padding: 9px 11px;
+}
+
+.headline-search::placeholder {
+  color: #7a7672;
+}
+
+.headline-search:focus {
+  outline: none;
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 2px rgba(22, 22, 22, 0.09);
+}
+
+/* ── NEW BADGE ── */
+.feed-new-badge {
+  display: inline-block;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 9px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  background: var(--color-amber);
+  color: var(--color-primary);
+  padding: 2px 5px;
+  border-radius: 2px;
+  margin-left: 8px;
+  vertical-align: middle;
+  position: relative;
+  top: -1px;
+}
+
+/* ── NEW ARTICLE TOAST ── */
+.new-toast {
+  position: fixed;
+  top: calc(var(--nav-height) + var(--filter-height) + 10px);
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--color-primary);
+  color: #fff;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.03em;
+  padding: 9px 18px;
+  border-radius: 4px;
+  border-left: 3px solid var(--color-amber);
+  cursor: pointer;
+  z-index: 80;
+  display: none;
+  align-items: center;
+  white-space: nowrap;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+  transition: opacity 300ms ease;
+}
+
+/* ── BACK TO TOP ── */
+.to-top-btn {
+  position: fixed;
+  right: 24px;
+  bottom: 24px;
+  z-index: 85;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  border: 1px solid var(--color-primary);
+  background: var(--color-amber);
+  color: var(--color-primary);
+  border-radius: 20px;
+  padding: 7px 10px;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.02em;
+  line-height: 1;
+  cursor: pointer;
+  box-shadow: 0 3px 12px rgba(15, 25, 35, 0.22);
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(10px);
+  transition: opacity 170ms ease, transform 170ms ease, background 150ms ease;
+}
+
+.to-top-btn.visible {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateY(0);
+}
+
+.to-top-btn:hover {
+  background: #f0ab2d;
+}
+
+.to-top-btn svg {
+  display: block;
+}
+
+/* ── MASTHEAD ── */
+.masthead {
+  max-width: var(--feed-max);
+  margin: 0 auto;
+  padding: 32px 24px 24px;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.masthead-headline {
+  font-family: 'IBM Plex Serif', serif;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.25;
+  color: var(--color-primary);
+  margin-bottom: 0;
+  letter-spacing: -0.01em;
+}
+
+.masthead-sub {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  color: var(--color-subtext);
+  line-height: 1.45;
+  margin-bottom: 10px;
+  max-width: 480px;
+}
+
+.masthead-tag {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 11px;
+  color: var(--color-amber);
+  letter-spacing: 0.04em;
+}
+
+/* ── FEED ── */
+.feed {
+  max-width: var(--feed-max);
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.feed-item {
+  padding: 18px 0 16px;
+  border-bottom: 1px solid var(--color-border);
+  opacity: 0;
+  transform: translateY(6px);
+  animation: cardIn 300ms ease forwards;
+}
+
+.feed-item.hidden {
+  display: none;
+}
+
+@keyframes cardIn {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.feed-cat {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 6px;
+}
+
+.feed-cat-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.feed-cat-dot.energy { background: var(--color-energy); }
+.feed-cat-dot.metals { background: var(--color-metals); }
+.feed-cat-dot.agri   { background: var(--color-agri); }
+.feed-cat-dot.other  { background: var(--color-border); }
+
+.feed-cat-label {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--color-subtext);
+}
+
+.feed-headline {
+  font-family: 'IBM Plex Serif', serif;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 1.42;
+  color: var(--color-primary);
+  margin-bottom: 6px;
+  letter-spacing: -0.005em;
+}
+
+.feed-headline a {
+  color: inherit;
+  text-decoration: none;
+  transition: color 150ms ease;
+}
+
+.feed-headline a:hover {
+  color: var(--color-amber);
+}
+
+.feed-meta {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 11px;
+  color: var(--color-subtext);
+  letter-spacing: 0.02em;
+}
+
+.feed-meta .sep {
+  margin: 0 5px;
+  opacity: 0.4;
+}
+
+.feed-sent {
+  font-weight: 500;
+}
+
+.feed-sent-label {
+  color: var(--color-subtext);
+  font-weight: 400;
+}
+
+.feed-sent.positive {
+  color: var(--color-up);
+}
+
+.feed-sent.negative {
+  color: var(--color-down);
+}
+
+.feed-sent.neutral {
+  color: var(--color-primary);
+}
+
+/* ── LOADING / ERROR / EMPTY ── */
+.feed-loading,
+.feed-error,
+.feed-empty {
+  padding: 48px 0 32px;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 12px;
+  color: var(--color-subtext);
+  letter-spacing: 0.04em;
+  line-height: 2;
+}
+
+.feed-error code {
+  background: rgba(0,0,0,0.06);
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-size: 11px;
+  color: var(--color-primary);
+}
+
+/* ── LOAD MORE ── */
+.load-more-wrap {
+  max-width: var(--feed-max);
+  margin: 0 auto;
+  padding: 20px 24px 28px;
+  text-align: left;
+}
+
+.load-more-btn {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 12px;
+  color: var(--color-subtext);
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  letter-spacing: 0.02em;
+  transition: color 150ms ease;
+}
+
+.load-more-btn:hover {
+  color: var(--color-primary);
+}
+
+.load-more-btn.exhausted {
+  pointer-events: none;
+  opacity: 0.4;
+}
+
+/* ── FOOTER ── */
+.footer {
+  background: var(--color-primary);
+  padding: 16px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 32px;
+}
+
+.footer-left {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 11px;
+  color: rgba(255,255,255,0.45);
+}
+
+.footer-right {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 11px;
+  color: var(--color-amber);
+  letter-spacing: 0.02em;
+}
+
+/* ── MOBILE ── */
+@media (max-width: 640px) {
+  .nav {
+    padding: 0 16px;
+  }
+
+  .filter-wrap {
+    top: var(--nav-height);
+  }
+
+  .filter-bar {
+    padding: 0 16px;
+  }
+
+  .energy-layer {
+    padding: 0 16px;
+  }
+
+  .energy-layer.open {
+    padding: 10px 16px 12px;
+    max-height: 220px;
+  }
+
+  .country-layer {
+    padding: 0 16px;
+  }
+
+  .country-layer.open {
+    padding: 10px 16px 12px;
+    max-height: 260px;
+  }
+
+  .status-bar {
+    padding: 0 16px;
+  }
+
+  .nav-right {
+    gap: 8px;
+  }
+
+  .nav-search-panel {
+    width: calc(100vw - 32px);
+  }
+
+  .masthead {
+    padding: 24px 16px 20px;
+  }
+
+  .masthead-headline {
+    font-size: 21px;
+  }
+
+  .feed {
+    padding: 0 16px;
+  }
+
+  .feed-headline {
+    font-size: 16px;
+    line-height: 1.4;
+  }
+
+  .load-more-wrap {
+    padding: 18px 16px 24px;
+  }
+
+  .footer {
+    flex-direction: column;
+    gap: 4px;
+    padding: 14px 16px;
+    align-items: flex-start;
+  }
+
+  .new-toast {
+    width: calc(100% - 32px);
+    justify-content: center;
+  }
+
+  .to-top-btn {
+    right: 16px;
+    bottom: 16px;
+  }
+}
+</style>
+</head>
+<body>
+
+<nav class="nav" role="navigation">
+  <div class="nav-logo">Contango<span class="dot"></span></div>
+  <div class="nav-right">
+    <div class="nav-search" id="nav-search">
+      <button
+        class="nav-search-toggle"
+        id="search-toggle"
+        title="Search headlines"
+        aria-label="Search headlines"
+        aria-expanded="false"
+        aria-controls="headline-search"
+      >
+        <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="11" cy="11" r="8"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+      </button>
+      <div class="nav-search-panel">
+        <input
+          id="headline-search"
+          class="headline-search"
+          type="search"
+          placeholder="Search headlines"
+          aria-label="Search headlines"
+          autocomplete="off"
+          spellcheck="false"
+        >
+      </div>
+    </div>
+    <button class="nav-bell" id="notif-bell" title="Enable notifications" aria-label="Enable notifications">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/>
+        <path d="M13.73 21a2 2 0 0 1-3.46 0"/>
+      </svg>
+    </button>
+    <div class="nav-live"><span class="nav-live-dot"></span>Live</div>
+  </div>
+</nav>
+
+<div class="filter-wrap">
+  <div class="filter-bar" role="toolbar" aria-label="Category filter">
+    <button class="filter-pill active" data-filter="ALL">All</button>
+    <div class="filter-divider"></div>
+    <button class="filter-pill" data-filter-group="energy" data-group="energy" id="energy-group-toggle" aria-expanded="false" aria-controls="energy-layer">Energy</button>
+    <button class="filter-pill" data-filter="Chemicals"              data-group="energy">Chemicals</button>
+    <button class="filter-pill" data-filter="Metals"                data-group="metals">Metals</button>
+    <button class="filter-pill" data-filter="Agriculture"           data-group="agri">Agriculture</button>
+    <button class="filter-pill" data-filter="Fertilizers"           data-group="agri">Fertilizers</button>
+    <button class="filter-pill" data-filter="Shipping"              data-group="other">Shipping</button>
+    <div class="filter-divider"></div>
+    <button class="filter-pill" data-filter-group="country" data-group="other" id="country-group-toggle" aria-expanded="false" aria-controls="country-layer">Country</button>
+  </div>
+  <div class="energy-layer" id="energy-layer" aria-hidden="true">
+    <div class="energy-list" role="group" aria-label="Energy subfilters">
+      <button class="energy-chip" data-energy-filter="Oil - Crude">Crude</button>
+      <button class="energy-chip" data-energy-filter="Oil - Refined Products">Refined products</button>
+      <button class="energy-chip" data-energy-filter="Natural Gas">Natural gas</button>
+      <button class="energy-chip" data-energy-filter="LNG">LNG</button>
+      <button class="energy-chip" data-energy-filter="Coal">Coal</button>
+      <button class="energy-chip" data-energy-filter="Electric Power">Electric power</button>
+      <button class="energy-chip" data-energy-filter="Energy Transition">Energy transition</button>
+    </div>
+  </div>
+  <div class="country-layer" id="country-layer" aria-hidden="true">
+    <div class="country-list" id="country-list" role="group" aria-label="Country filters"></div>
+  </div>
+</div>
+
+<div class="status-bar">
+  <span id="status-line">Connecting…</span>
+</div>
+
+<main class="feed" id="feed"></main>
+
+<div class="load-more-wrap">
+  <button class="load-more-btn exhausted" id="loadMore">Loading…</button>
+</div>
+
+<footer class="footer">
+  <div class="footer-left">© 2026 Contango</div>
+  <div class="footer-right">contango.news</div>
+</footer>
+
+<div id="new-toast" class="new-toast"></div>
+<button id="to-top-btn" class="to-top-btn" aria-label="Back to top" title="Back to top">
+  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+    <path d="M12 19V5"/>
+    <path d="M5 12l7-7 7 7"/>
+  </svg>
+  Top
+</button>
+
+<script>
+(function () {
+  'use strict';
+
+  // ─── CONFIG ─────────────────────────────────────────────────────────────
+  var FEED_URL   = 'data/feed.json';
+  var PAGE_SIZE  = 25;
+  var POLL_MS    = 90 * 1000; // poll every 90 seconds
+
+  // Maps raw feed category → dot color group (for visual treatment only)
+  var CAT_COLOR = {
+    'Oil - Crude':           'energy',
+    'Oil - Refined Products': 'energy',
+    'Natural Gas':           'energy',
+    'LNG':                   'energy',
+    'Coal':                  'energy',
+    'Electric Power':        'energy',
+    'Energy Transition':     'energy',
+    'Chemicals':             'energy',
+    'Metals':                'metals',
+    'Agriculture':           'agri',
+    'Fertilizers':           'agri',
+    'Shipping':              'other',
+    'General':               'other',
+  };
+
+  // Short display labels for category tags inside cards
+  var CAT_LABEL = {
+    'General':               'ICIS',
+    'Oil - Crude':           'Crude',
+    'Oil - Refined Products': 'Refined',
+    'Natural Gas':           'Nat Gas',
+    'Electric Power':        'Power',
+    'Energy Transition':     'Energy Trans',
+  };
+
+  var ENERGY_CATS = [
+    'Oil - Crude',
+    'Oil - Refined Products',
+    'Natural Gas',
+    'LNG',
+    'Coal',
+    'Electric Power',
+    'Energy Transition'
+  ];
+
+  var COUNTRY_NAME_OVERRIDES = {
+    'Iran, Islamic Republic of': 'Iran',
+    'Korea, Republic of': 'South Korea',
+    'Korea, Democratic People\'s Republic of': 'North Korea',
+    'Russian Federation': 'Russia',
+    'Syrian Arab Republic': 'Syria',
+    'Venezuela, Bolivarian Republic of': 'Venezuela',
+    'Bolivia, Plurinational State of': 'Bolivia',
+    'Moldova, Republic of': 'Moldova',
+    'Tanzania, United Republic of': 'Tanzania',
+    'Taiwan, Province of China': 'Taiwan',
+    'Viet Nam': 'Vietnam',
+    'Lao People\'s Democratic Republic': 'Laos',
+    'Brunei Darussalam': 'Brunei',
+    'Libyan Arab Jamahiriya': 'Libya'
+  };
+
+  // ─── STATE ──────────────────────────────────────────────────────────────
+  var allArticles      = [];        // full sorted list from feed.json
+  var filteredArticles = [];        // current filter view
+  var renderedCount    = 0;         // pagination cursor
+  var activeFilters    = new Set(); // empty = "All" mode; otherwise raw category strings
+  var searchQuery      = '';        // lowercase text search on headline titles
+  var selectedCountries = new Set(); // selected country keys (cleaned + lowercase)
+  var displayedIds     = new Set(); // IDs currently in the DOM
+  var lastUpdated      = '';        // metadata.last_updated from last fetch
+  var toastTimer       = null;
+
+  // ─── DOM ────────────────────────────────────────────────────────────────
+  var feed       = document.getElementById('feed');
+  var loadBtn    = document.getElementById('loadMore');
+  var statusLine = document.getElementById('status-line');
+  var navSearch   = document.getElementById('nav-search');
+  var searchToggle = document.getElementById('search-toggle');
+  var searchInput = document.getElementById('headline-search');
+  var energyLayer = document.getElementById('energy-layer');
+  var energyGroupToggle = document.getElementById('energy-group-toggle');
+  var countryLayer = document.getElementById('country-layer');
+  var countryList = document.getElementById('country-list');
+  var countryGroupToggle = document.getElementById('country-group-toggle');
+  var newToast   = document.getElementById('new-toast');
+  var toTopBtn   = document.getElementById('to-top-btn');
+
+  // ─── UTILS ──────────────────────────────────────────────────────────────
+
+  // Safe HTML escaping for any user-supplied string
+  function esc(str) {
+    var d = document.createElement('div');
+    d.textContent = str || '';
+    return d.innerHTML;
+  }
+
+  // Dot color class from a (possibly merged) raw category string
+  function dotClass(rawCat) {
+    if (!rawCat) return 'other';
+    var priority = { energy: 3, metals: 2, agri: 1, other: 0 };
+    var best = 'other';
+    rawCat.split(',').forEach(function (c) {
+      var color = CAT_COLOR[c.trim()] || 'other';
+      if (priority[color] > priority[best]) best = color;
+    });
+    return best;
+  }
+
+  // Short label shown next to the dot in a card
+  function dotLabel(rawCat) {
+    if (!rawCat) return 'COMMODITY';
+    var cats = rawCat.split(',').slice(0, 2);
+    var labels = cats.map(function (c) {
+      var t = c.trim();
+      return CAT_LABEL[t] || t;
+    });
+    return esc(labels.join(' / '));
+  }
+
+  // Does this article match the current active filter selection?
+  function matchesFilters(rawCat) {
+    if (activeFilters.size === 0) return true; // "All" mode
+    if (!rawCat) return false;
+    var cats = rawCat.split(',');
+    for (var i = 0; i < cats.length; i++) {
+      if (activeFilters.has(cats[i].trim())) return true;
+    }
+    return false;
+  }
+
+  // Title search (case-insensitive, headline text only)
+  function matchesSearch(title) {
+    if (!searchQuery) return true;
+    return (title || '').toLowerCase().indexOf(searchQuery) !== -1;
+  }
+
+  function matchesCategoryAndSearch(article) {
+    return matchesFilters(article.category) && matchesSearch(article.title);
+  }
+
+  function matchesCountry(article) {
+    if (selectedCountries.size === 0) return true;
+    var ner = article && article.ner;
+    var countries = (ner && Array.isArray(ner.countries)) ? ner.countries : [];
+    for (var i = 0; i < countries.length; i++) {
+      var key = cleanCountryName(countries[i]).toLowerCase();
+      if (selectedCountries.has(key)) {
+        return true;
+      }
+    }
+    return false;
+  }
+
+  function matchesArticle(article) {
+    return (
+      matchesCategoryAndSearch(article) &&
+      matchesCountry(article)
+    );
+  }
+
+  // Relative time: "3m ago", "2h ago", "1d ago"
+  function relTime(iso) {
+    if (!iso) return '—';
+    var d = Math.round((Date.now() - new Date(iso).getTime()) / 1000);
+    if (d <    60) return 'just now';
+    if (d <  3600) return Math.floor(d / 60)   + 'm ago';
+    if (d < 86400) return Math.floor(d / 3600)  + 'h ago';
+    return Math.floor(d / 86400) + 'd ago';
+  }
+
+  function sep() { return '<span class="sep">·</span>'; }
+
+  function sentimentMeta(article) {
+    var sentiment = article && article.sentiment;
+    if (!sentiment || typeof sentiment !== 'object') return '';
+
+    var label = String(sentiment.label || '').toLowerCase();
+    if (label !== 'positive' && label !== 'negative' && label !== 'neutral') return '';
+
+    var title = label.charAt(0).toUpperCase() + label.slice(1);
+    return (
+      '<span class="feed-sent ' + label + '">' +
+      '<span class="feed-sent-label">Sentiment:</span> ' + esc(title) +
+      '</span>'
+    );
+  }
+
+  function cleanCountryName(country) {
+    var raw = String(country || '').trim();
+    if (!raw) return '';
+    if (COUNTRY_NAME_OVERRIDES[raw]) return COUNTRY_NAME_OVERRIDES[raw];
+    return raw;
+  }
+
+  function countryKey(country) {
+    return cleanCountryName(country).toLowerCase();
+  }
+
+  function collectCountries(articles) {
+    var seenKey = new Set();
+    var out = [];
+    (articles || []).forEach(function (article) {
+      var ner = article && article.ner;
+      var countries = (ner && Array.isArray(ner.countries)) ? ner.countries : [];
+      countries.forEach(function (country) {
+        var label = cleanCountryName(country);
+        var key = countryKey(country);
+        if (!label || !key || seenKey.has(key)) return;
+        seenKey.add(key);
+        out.push({ key: key, label: label });
+      });
+    });
+    out.sort(function (a, b) { return a.label.localeCompare(b.label); });
+    return out;
+  }
+
+  function buildCountryAvailability(articles) {
+    var counts = new Map();
+    (articles || []).forEach(function (article) {
+      if (!matchesCategoryAndSearch(article)) return;
+      var ner = article && article.ner;
+      var countries = (ner && Array.isArray(ner.countries)) ? ner.countries : [];
+      countries.forEach(function (country) {
+        var key = countryKey(country);
+        if (!key) return;
+        counts.set(key, (counts.get(key) || 0) + 1);
+      });
+    });
+    return counts;
+  }
+
+  function areSetsEqual(a, b) {
+    if (a.size !== b.size) return false;
+    var equal = true;
+    a.forEach(function (value) {
+      if (!b.has(value)) equal = false;
+    });
+    return equal;
+  }
+
+  function setCountryLayer(open) {
+    if (!countryLayer || !countryGroupToggle) return;
+    countryLayer.classList.toggle('open', open);
+    countryLayer.setAttribute('aria-hidden', open ? 'false' : 'true');
+    countryGroupToggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+  }
+
+  function syncCountryUi() {
+    if (countryGroupToggle) {
+      countryGroupToggle.classList.toggle('active', selectedCountries.size > 0);
+    }
+    if (!countryList) return;
+    var noCountrySelected = selectedCountries.size === 0;
+    countryList.querySelectorAll('.country-chip').forEach(function (chip) {
+      var key = chip.dataset.countryKey || '';
+      var available = chip.dataset.available !== 'false';
+      chip.classList.toggle('disabled', !available);
+      chip.disabled = !available;
+
+      if (!key) {
+        chip.classList.toggle('active', noCountrySelected);
+      } else {
+        chip.classList.toggle('active', selectedCountries.has(key));
+      }
+    });
+  }
+
+  function clearCountrySelection() {
+    if (selectedCountries.size === 0) return;
+    selectedCountries.clear();
+    syncCountryUi();
+    refreshFeed();
+    setStatus(_lastMeta);
+  }
+
+  function toggleCountrySelection(key) {
+    if (!key) {
+      clearCountrySelection();
+      return;
+    }
+    if (selectedCountries.has(key)) {
+      selectedCountries.delete(key);
+    } else {
+      selectedCountries.add(key);
+    }
+    syncCountryUi();
+    refreshFeed();
+    setStatus(_lastMeta);
+  }
+
+  function updateCountryOptions(articles) {
+    if (!countryList) return false;
+
+    var previous = new Set(selectedCountries);
+    var countries = collectCountries(articles);
+    var availability = buildCountryAvailability(articles);
+    countryList.innerHTML = '';
+
+    var allBtn = document.createElement('button');
+    allBtn.type = 'button';
+    allBtn.className = 'country-chip';
+    allBtn.dataset.countryKey = '';
+    allBtn.dataset.available = 'true';
+    allBtn.textContent = 'All countries';
+    allBtn.addEventListener('click', function () { clearCountrySelection(); });
+    countryList.appendChild(allBtn);
+
+    countries.forEach(function (country) {
+      var available = (availability.get(country.key) || 0) > 0;
+      var btn = document.createElement('button');
+      btn.type = 'button';
+      btn.className = 'country-chip';
+      btn.dataset.countryKey = country.key;
+      btn.dataset.available = available ? 'true' : 'false';
+      btn.textContent = country.label;
+      if (available) {
+        btn.addEventListener('click', function () {
+          toggleCountrySelection(country.key);
+        });
+      }
+      countryList.appendChild(btn);
+    });
+
+    if (countries.length === 0) {
+      var hint = document.createElement('div');
+      hint.className = 'country-empty';
+      hint.textContent = 'Country tags will appear as NER data is processed.';
+      countryList.appendChild(hint);
+    }
+
+    var availableKeys = new Set(
+      countries
+        .filter(function (c) { return (availability.get(c.key) || 0) > 0; })
+        .map(function (c) { return c.key; })
+    );
+
+    selectedCountries.forEach(function (key) {
+      if (!availableKeys.has(key)) selectedCountries.delete(key);
+    });
+
+    syncCountryUi();
+    return !areSetsEqual(previous, selectedCountries);
+  }
+
+  function toggleCountryLayer() {
+    var open = countryLayer && countryLayer.classList.contains('open');
+    if (!open && energyLayer && energyLayer.classList.contains('open')) setEnergyLayer(false);
+    setCountryLayer(!open);
+  }
+
+  // ─── CARD ───────────────────────────────────────────────────────────────
+
+  function makeCard(article, delay, isNew) {
+    var hidden = !matchesArticle(article);
+    var dc     = dotClass(article.category);
+
+    var el = document.createElement('article');
+    el.className = 'feed-item' + (hidden ? ' hidden' : '');
+    el.dataset.id = article.id || '';
+    el.style.animationDelay = (hidden ? 0 : delay) + 'ms';
+
+    // Meta line: "ICIS · 3m ago" or "S&P Global · Crude / Shipping · 14m ago"
+    var metaParts = [esc(article.source || '')];
+    if (article.category && article.category !== 'General') {
+      var cats = article.category.split(',').slice(0, 2);
+      var catLabels = cats.map(function (c) {
+        var t = c.trim();
+        return CAT_LABEL[t] || t;
+      });
+      metaParts.push(esc(catLabels.join(' / ')));
+    }
+    metaParts.push(relTime(article.published));
+    var sentimentHTML = sentimentMeta(article);
+    if (sentimentHTML) metaParts.push(sentimentHTML);
+    var metaHTML = metaParts.join(sep());
+
+    el.innerHTML =
+      '<div class="feed-cat">' +
+        '<span class="feed-cat-dot ' + dc + '"></span>' +
+        '<span class="feed-cat-label">' + dotLabel(article.category) + '</span>' +
+        (isNew ? '<span class="feed-new-badge">New</span>' : '') +
+      '</div>' +
+      '<h3 class="feed-headline">' +
+        '<a href="' + esc(article.link || '#') + '" target="_blank" rel="noopener noreferrer">' +
+          esc(article.title || '(no title)') +
+        '</a>' +
+      '</h3>' +
+      '<div class="feed-meta">' + metaHTML + '</div>';
+
+    return el;
+  }
+
+  // ─── RENDER ─────────────────────────────────────────────────────────────
+
+  function renderPage() {
+    var batch = filteredArticles.slice(renderedCount, renderedCount + PAGE_SIZE);
+    if (batch.length === 0) { syncLoadBtn(); return; }
+
+    var frag = document.createDocumentFragment();
+    batch.forEach(function (a, i) {
+      var el = makeCard(a, i * 25, false);
+      displayedIds.add(a.id);
+      frag.appendChild(el);
+    });
+    feed.appendChild(frag);
+    renderedCount += batch.length;
+    syncLoadBtn();
+  }
+
+  function syncLoadBtn() {
+    var remaining = filteredArticles.length - renderedCount;
+    if (remaining <= 0) {
+      loadBtn.textContent = filteredArticles.length
+        ? 'All ' + filteredArticles.length + ' headlines loaded'
+        : 'No matching headlines';
+      loadBtn.classList.add('exhausted');
+    } else {
+      loadBtn.textContent = 'Load ' + Math.min(remaining, PAGE_SIZE) + ' more ↓';
+      loadBtn.classList.remove('exhausted');
+    }
+  }
+
+  function refreshFeed() {
+    updateCountryOptions(allArticles);
+    filteredArticles = allArticles.filter(function (a) { return matchesArticle(a); });
+
+    renderedCount = 0;
+    feed.innerHTML = '';
+
+    if (filteredArticles.length === 0 && allArticles.length > 0) {
+      feed.innerHTML = '<div class="feed-empty">No headlines match your current filters.</div>';
+      syncLoadBtn();
+    } else {
+      renderPage();
+    }
+  }
+
+  function hasAnyEnergySelected() {
+    for (var i = 0; i < ENERGY_CATS.length; i++) {
+      if (activeFilters.has(ENERGY_CATS[i])) return true;
+    }
+    return false;
+  }
+
+  function areAllEnergySelected() {
+    for (var i = 0; i < ENERGY_CATS.length; i++) {
+      if (!activeFilters.has(ENERGY_CATS[i])) return false;
+    }
+    return true;
+  }
+
+  function setEnergyLayer(open) {
+    if (!energyLayer || !energyGroupToggle) return;
+    energyLayer.classList.toggle('open', open);
+    energyLayer.setAttribute('aria-hidden', open ? 'false' : 'true');
+    energyGroupToggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+  }
+
+  // Toggle a category in/out of the active set and re-render
+  function toggleCategory(cat) {
+    if (cat === 'ALL') {
+      activeFilters.clear();
+      setEnergyLayer(false);
+      setCountryLayer(false);
+    } else {
+      if (activeFilters.has(cat)) {
+        activeFilters.delete(cat);
+      } else {
+        activeFilters.add(cat);
+      }
+    }
+    syncPills();
+    refreshFeed();
+    setStatus(_lastMeta); // update "X of Y" count in status bar
+  }
+
+  // Sync pill active states to match activeFilters
+  function syncPills() {
+    var allBtn = document.querySelector('[data-filter="ALL"]');
+    var isEmpty = activeFilters.size === 0;
+    allBtn.classList.toggle('active', isEmpty);
+    document.querySelectorAll('.filter-pill[data-filter]:not([data-filter="ALL"])').forEach(function (p) {
+      p.classList.toggle('active', activeFilters.has(p.dataset.filter));
+    });
+
+    var anyEnergy = hasAnyEnergySelected();
+    var allEnergy = areAllEnergySelected();
+    if (energyGroupToggle) {
+      energyGroupToggle.classList.toggle('active', anyEnergy);
+      energyGroupToggle.classList.toggle('partial', anyEnergy && !allEnergy);
+    }
+
+    if (energyLayer) {
+      energyLayer.querySelectorAll('.energy-chip').forEach(function (chip) {
+        chip.classList.toggle('active', activeFilters.has(chip.dataset.energyFilter));
+      });
+    }
+
+    syncCountryUi();
+  }
+
+  function toggleEnergyGroup() {
+    if (countryLayer && countryLayer.classList.contains('open')) setCountryLayer(false);
+
+    var anyEnergy = hasAnyEnergySelected();
+    var layerOpen = energyLayer && energyLayer.classList.contains('open');
+
+    if (!anyEnergy) {
+      ENERGY_CATS.forEach(function (cat) { activeFilters.add(cat); });
+      setEnergyLayer(true);
+    } else if (!layerOpen) {
+      setEnergyLayer(true);
+    } else {
+      ENERGY_CATS.forEach(function (cat) { activeFilters.delete(cat); });
+      setEnergyLayer(false);
+    }
+
+    syncPills();
+    refreshFeed();
+    setStatus(_lastMeta);
+  }
+
+  function toggleEnergySubfilter(cat) {
+    if (!cat) return;
+    if (activeFilters.has(cat)) {
+      activeFilters.delete(cat);
+    } else {
+      activeFilters.add(cat);
+    }
+
+    if (!hasAnyEnergySelected()) setEnergyLayer(false);
+    syncPills();
+    refreshFeed();
+    setStatus(_lastMeta);
+  }
+
+  // ─── STATUS LINE ────────────────────────────────────────────────────────
+  var _lastMeta = {};
+
+  function setStatus(meta) {
+    if (!meta) meta = _lastMeta;
+    _lastMeta = meta;
+    if (!statusLine) return;
+    var total     = meta.total_articles || 0;
+    var ok        = meta.feeds_fetched  || 0;
+    var totalFeeds = ok + (meta.feeds_failed || 0);
+    var upd       = relTime(meta.last_updated);
+    var scoped    = activeFilters.size > 0 || searchQuery.length > 0 || selectedCountries.size > 0;
+    var showing   = (scoped && filteredArticles.length !== total)
+      ? filteredArticles.length + ' of ' + total
+      : total;
+    statusLine.textContent =
+      showing + ' articles · ' + ok + '/' + totalFeeds + ' feeds live · updated ' + upd;
+  }
+
+  function openSearch() {
+    if (!navSearch || !searchToggle) return;
+    navSearch.classList.add('open');
+    searchToggle.setAttribute('aria-expanded', 'true');
+  }
+
+  function closeSearch() {
+    if (!navSearch || !searchToggle) return;
+    navSearch.classList.remove('open');
+    searchToggle.setAttribute('aria-expanded', 'false');
+  }
+
+  function syncToTopBtn() {
+    if (!toTopBtn) return;
+    toTopBtn.classList.toggle('visible', window.scrollY > 360);
+  }
+
+  // ─── TOAST ──────────────────────────────────────────────────────────────
+
+  function showToast(n) {
+    if (!newToast) return;
+    newToast.textContent = '↑ ' + n + ' new headline' + (n > 1 ? 's' : '') + ' — scroll up';
+    newToast.style.opacity = '1';
+    newToast.style.display = 'flex';
+    clearTimeout(toastTimer);
+    toastTimer = setTimeout(dismissToast, 8000);
+  }
+
+  function dismissToast() {
+    if (!newToast) return;
+    newToast.style.opacity = '0';
+    setTimeout(function () { newToast.style.display = 'none'; }, 300);
+  }
+
+  // ─── FETCH ──────────────────────────────────────────────────────────────
+
+  function fetchFeed(isPoll) {
+    // Cache-bust so the browser doesn't serve stale JSON
+    return fetch(FEED_URL + '?t=' + Date.now())
+      .then(function (r) {
+        if (!r.ok) throw new Error('HTTP ' + r.status);
+        return r.json();
+      })
+      .then(function (data) {
+        var articles = data.articles  || [];
+        var meta     = data.metadata  || {};
+
+        if (!isPoll) {
+          // ── Initial load ──────────────────────────────────────────
+          allArticles = articles;
+          updateCountryOptions(allArticles);
+          lastUpdated = meta.last_updated || '';
+          feed.innerHTML = '';
+          refreshFeed();
+          setStatus(meta);
+
+        } else {
+          // ── Poll: detect new articles ──────────────────────────────
+          // If last_updated hasn't changed, nothing is new
+          if (meta.last_updated && meta.last_updated === lastUpdated) {
+            setStatus(meta); // still update relative times
+            return;
+          }
+          lastUpdated = meta.last_updated || lastUpdated;
+          allArticles = articles;
+          var countrySelectionChanged = updateCountryOptions(allArticles);
+
+          if (countrySelectionChanged) {
+            refreshFeed();
+            setStatus(meta);
+            return;
+          }
+
+          var newOnes = articles.filter(function (a) {
+            return a.id && !displayedIds.has(a.id);
+          });
+
+          if (newOnes.length === 0) { setStatus(meta); return; }
+
+          // Inject matching new articles at the top of the visible feed
+          var injected = 0;
+          var frag = document.createDocumentFragment();
+
+          newOnes.forEach(function (a) {
+            displayedIds.add(a.id);
+            if (matchesArticle(a)) {
+              frag.appendChild(makeCard(a, injected * 20, true));
+              injected++;
+            }
+          });
+
+          if (injected > 0) {
+            feed.insertBefore(frag, feed.firstChild);
+            renderedCount += injected;
+            // Refresh filteredArticles count for load-more button
+            filteredArticles = allArticles.filter(function (a) { return matchesArticle(a); });
+            syncLoadBtn();
+            showToast(injected);
+          }
+
+          // Tab title + OS notification for all new articles (regardless of filter)
+          unreadCount += newOnes.length;
+          if (document.hidden) setTabTitle(unreadCount);
+          fireNotification(newOnes.length);
+
+          setStatus(meta);
+        }
+      })
+      .catch(function (err) {
+        if (!isPoll) {
+          // Only replace the feed with an error on the initial load
+          var isCORS = err.message.toLowerCase().includes('fetch') ||
+                       err.message.toLowerCase().includes('network');
+          var msg = isCORS
+            ? 'Could not load <code>data/feed.json</code>.<br>' +
+              'Run the scraper first: <code>python rss_scraper.py</code><br>' +
+              'Then serve via: <code>python -m http.server 8000</code><br>' +
+              'And open: <code>http://localhost:8000</code>'
+            : 'Error loading feed: ' + esc(err.message);
+
+          feed.innerHTML = '<div class="feed-error">' + msg + '</div>';
+          loadBtn.textContent = '—';
+          loadBtn.classList.add('exhausted');
+          if (statusLine) statusLine.textContent = 'Feed unavailable';
+        }
+        // On poll errors, fail silently — don't disrupt the visible feed
+      });
+  }
+
+  // ─── NOTIFICATIONS ──────────────────────────────────────────────────────
+
+  var bellBtn     = document.getElementById('notif-bell');
+  var unreadCount = 0;
+  var BASE_TITLE  = document.title; // "Contango — Commodity Headlines"
+
+  function updateBellState() {
+    if (!bellBtn || !('Notification' in window)) return;
+    var perm = Notification.permission;
+    bellBtn.classList.toggle('enabled', perm === 'granted');
+    bellBtn.classList.toggle('denied',  perm === 'denied');
+    bellBtn.title = perm === 'granted'  ? 'Notifications on' :
+                    perm === 'denied'   ? 'Notifications blocked — change in browser settings' :
+                                          'Enable notifications';
+    bellBtn.setAttribute('aria-label', bellBtn.title);
+  }
+
+  function fireNotification(n) {
+    if (!('Notification' in window) || Notification.permission !== 'granted') return;
+    if (!document.hidden) return; // tab is visible — toast is enough
+    var body = n === 1 ? '1 new headline' : n + ' new headlines';
+    try { new Notification('Contango', { body: body }); } catch (e) {}
+  }
+
+  function setTabTitle(n) {
+    document.title = n > 0 ? '(' + n + ') ' + BASE_TITLE : BASE_TITLE;
+  }
+
+  // Reset unread badge when tab comes back into focus
+  document.addEventListener('visibilitychange', function () {
+    if (!document.hidden) {
+      unreadCount = 0;
+      setTabTitle(0);
+    }
+  });
+
+  if (bellBtn) {
+    if (!('Notification' in window)) {
+      bellBtn.style.display = 'none'; // browser doesn't support it
+    } else {
+      updateBellState();
+      bellBtn.addEventListener('click', function () {
+        if (Notification.permission === 'denied') return;
+        if (Notification.permission === 'granted') return; // already on
+        Notification.requestPermission().then(function () { updateBellState(); });
+      });
+    }
+  }
+
+  // ─── EVENTS ─────────────────────────────────────────────────────────────
+
+  // Filter pills
+  document.querySelectorAll('.filter-pill[data-filter]').forEach(function (pill) {
+    pill.addEventListener('click', function () {
+      toggleCategory(pill.dataset.filter);
+    });
+  });
+
+  if (energyGroupToggle) {
+    energyGroupToggle.addEventListener('click', function () {
+      toggleEnergyGroup();
+    });
+  }
+
+  if (countryGroupToggle) {
+    countryGroupToggle.addEventListener('click', function () {
+      toggleCountryLayer();
+    });
+  }
+
+  if (energyLayer) {
+    energyLayer.querySelectorAll('.energy-chip').forEach(function (chip) {
+      chip.addEventListener('click', function () {
+        toggleEnergySubfilter(chip.dataset.energyFilter);
+      });
+    });
+  }
+
+  // Search input
+  if (searchInput) {
+    if (searchToggle) {
+      searchToggle.addEventListener('click', function () {
+        if (navSearch && navSearch.classList.contains('open')) {
+          closeSearch();
+          return;
+        }
+        openSearch();
+        searchInput.focus();
+      });
+    }
+
+    searchInput.addEventListener('input', function () {
+      searchQuery = (searchInput.value || '').trim().toLowerCase();
+      refreshFeed();
+      setStatus(_lastMeta);
+    });
+
+    searchInput.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') {
+        if (searchInput.value) {
+          searchInput.value = '';
+          searchQuery = '';
+          refreshFeed();
+          setStatus(_lastMeta);
+        } else {
+          closeSearch();
+          if (searchToggle) searchToggle.focus();
+        }
+      }
+    });
+  }
+
+  // Close search when clicking outside of it
+  document.addEventListener('click', function (e) {
+    if (navSearch && navSearch.classList.contains('open')) {
+      if (!navSearch.contains(e.target)) closeSearch();
+    }
+
+    var filterWrap = document.querySelector('.filter-wrap');
+    if (filterWrap && !filterWrap.contains(e.target)) {
+      if (energyLayer && energyLayer.classList.contains('open')) setEnergyLayer(false);
+      if (countryLayer && countryLayer.classList.contains('open')) setCountryLayer(false);
+    }
+  });
+
+  // Load more
+  loadBtn.addEventListener('click', function () {
+    if (!loadBtn.classList.contains('exhausted')) renderPage();
+  });
+
+  // Toast click → scroll to top
+  if (newToast) {
+    newToast.addEventListener('click', function () {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+      dismissToast();
+    });
+  }
+
+  if (toTopBtn) {
+    toTopBtn.addEventListener('click', function () {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+    window.addEventListener('scroll', syncToTopBtn, { passive: true });
+  }
+
+  // ─── INIT ────────────────────────────────────────────────────────────────
+  feed.innerHTML = '<div class="feed-loading">Fetching headlines…</div>';
+  syncToTopBtn();
+
+  fetchFeed(false).then(function () {
+    // Start polling after the initial load succeeds
+    setInterval(function () { fetchFeed(true); }, POLL_MS);
+  });
+
+})();
+</script>
+
+</body>
+</html>

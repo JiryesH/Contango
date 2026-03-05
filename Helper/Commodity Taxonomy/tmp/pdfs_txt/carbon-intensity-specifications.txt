@@ -1,0 +1,479 @@
+         Specifications Guide
+         Carbon Intensity and Low Carbon Markets
+         Latest update: December 2025
+         Definitions of the trading locations for which Platts                        Related Markets .....................................................18
+         publishes daily indexes or assessments   .................... 2              LNG  ....................................................................... 18
+         European Biomethane Guarantee of Origin and UK                               Metals .................................................................... 18
+         Biomethane Renewable Gas Guarantee of Origin                                 Fertilizers ................................................................ 18
+         Assessments
+                          ............................................................. 4
+         North America Renewable Natural Gas Assessments ........ 6                   Chemicals ................................................................ 18
+         Platts Carbon Intensity price assessment specifications .....7               Freight .................................................................... 18
+         Crude Oil ...................................................................7
+         Shipping assumptions ................................................ 15     Revision history ......................................................19
+         Refined Products ...................................................... 16
+         US Methane Intensity  ................................................ 17
+         www.spglobal.com/energy
+          Specifications Guide               Carbon Intensity and Low Carbon Markets: December 2025
+          Definitions of the trading locations for which Platts publishes daily indexes or assessments  
+          The following specifications guide contains the primary specifications for Platts Low Carbon Gas, Biomethane Guarantees of Origin, and Carbon Intensity price assessments. All the assessments listed 
+          here employ Platts Assessments Methodology, as published at https://www.spglobal.com/content/dam/spglobal/ci/en/documents/platts/en/our-methodology/methodology-specifications/platts-
+          assessments-methodology-guide.pdf 
+          This guide is designed to give Platts subscribers as much information as possible about a wide range of methodology and specification questions. 
+          This guide is current at the time of publication. Platts may issue further updates and enhancements to this guide and will announce these to subscribers through its usual publications of record.  
+          Such updates will be included in the next version of this guide. Platts editorial staff and managers are available to provide guidance when assessment issues require clarification.
+          © 2025 by S&P Global Inc. All rights reserved.         2
+          Specifications Guide               Carbon Intensity and Low Carbon Markets: December 2025
+          European Biomethane GO and RGGO Assessments
+          Assessment Name                                                                                       Eur/MWh                                            GBP/MWh                                           Min
+          European Unsubsidized Biomethane (EUB) Certified Waste Spot Eur/MWh                                   ASIZA00                                                                                              5 GWh
+          European Unsubsidized Biomethane (EUB) Certified Waste Yr01 Eur/MWh                                   ASIZY01                                                                                              5 GWh
+          European Unsubsidized Biomethane (EUB) Certified Waste Spot Eur/MWh MAvg                              ASIZA03                                                                                              5 GWh
+          European Unsubsidized Biomethane (EUB) Certified Waste Yr01 Eur/MWh MAvg                              ASIZY03                                                                                              5 GWh
+          UK Renewable Gas Guarantees of Origin (RGGO) Waste Spot                                               GORUA00                                            GORUC00                                           5 GWh
+          UK Renewable Gas Guarantees of Origin (RGGO) Waste Yr01                                               GORUA01                                            GORUC01                                           5 GWh
+          UK Renewable Gas Guarantees of Origin (RGGO) Crop Spot                                                AUKAA00                                            AUKAC00                                           5 GWh
+          UK Renewable Gas Guarantees of Origin (RGGO) Crop Yr01                                                AUKAB00                                             AUKAD00                                          5 GWh
+          UK RGGO Certified and Subsidized Waste Spot                                                           ARGGA00                                            ARGGB00                                           5 GWh
+          UK RGGO Certified and Subsidized Waste Yr01                                                           ARGAY01                                            ARGBY01                                           5 GWh
+          Denmark Biomethane Guarantees of Origin (GO) Waste Spot                                               GORDA00                                                                                              5 GWh
+          Denmark Biomethane Guarantees of Origin (GO) Waste Yr01                                               GORDA01                                                                                              5 GWh
+          Denmark Biomethane Guarantees of Origin (GO) Manure Spot                                              ADENA00                                                                                              5 GWh
+          Denmark Biomethane Guarantees of Origin (GO) Manure Yr01                                              ADENB00                                                                                              5 GWh
+          Denmark Biomethane Guarantees of Origin (GO) Unsubsidised Waste Spot                                  DBGOA00                                                                                              5 GWh
+          Denmark Biomethane Guarantees of Origin (GO) Unsubsidised Waste Yr01                                  DBGOA01                                                                                              5 GWh
+          Germany Biomethane Guarantees of Origin (GO) Waste Spot                                               GORGA00                                                                                              5 GWh
+          Germany Biomethane Guarantees of Origin (GO) Waste Yr01                                               GORGA01                                                                                              5 GWh
+          Netherlands Biomethane Guarantees of Origin (GO) Waste Spot                                           GORNA00                                                                                              5 GWh
+          Netherlands Biomethane Guarantees of Origin (GO) Waste Yr01                                           GORNA01                                                                                              5 GWh
+          Netherlands Biomethane Guarantees of Origin (GO) Manure Spot                                          ANETA00                                                                                              5 GWh
+          Netherlands Biomethane Guarantees of Origin (GO) Manure Yr01                                          ANETB00                                                                                              5 GWh
+          Netherlands Biomethane Guarantees of Origin (GO) Unsubsidised Waste Spot                              DBGOB00                                                                                              5 GWh
+          Netherlands Biomethane Guarantees of Origin (GO) Unsubsidised Waste Yr01                              DBGOB01                                                                                              5 GWh
+          © 2025 by S&P Global Inc. All rights reserved.         3
+          Specifications Guide               Carbon Intensity and Low Carbon Markets: December 2025
+          European Biomethane Guarantee of Origin and UK                                       specifications for these assessments can be found here:                               Platts reflects both Biomethane GO and RGGO bids, offers and 
+          Biomethane Renewable Gas Guarantee of Origin                                         https://www.spglobal.com/content/dam/spglobal/ci/en/                                  trades for contracts that remain valid for three months from the 
+          Assessments                                                                          documents/platts/en/our-methodology/methodology-                                      date of title transfer, with title transfer at time of trade. 
+                                                                                               specifications/energy-transition/renewables-certificates-
+          Platts publishes daily spot market assessments for European                          specifications.pdf                                                                    For example, if Company A sold 1 GWh of Biomethane GOs to 
+          Biomethane Guarantees of Origin (GOs) and UK Renewable Gas                                                                                                                 Company B on March 18, 2022, Company A would be able to 
+          Guarantees of Origin (RGGOs).                                                        Feedstock definitions                                                                 deliver GOs of vintage June 2021 and later.
+          Both European GOs and UK RGGOs are electronic tracking                               Platts publishes daily Biomethane GO and RGGO assessments                             The majority of Biomethane GOs must be retired within 12 
+          certificates that represent the environmental attributes of 1                        for several feedstocks with accompanying Carbon Intensity                             months of issuance, while UK RGGOs must be retired within 36 
+          megawatt hour of biomethane entering the natural gas grid.                           definitions as calculated under EU Renewable Energy Directive                         months of issuance.
+          Biomethane is purified biogas, which itself is an alternative to                     methodology.                                                                          Volume
+          traditional, fossil fuel-derived natural gas, generated through the 
+          processing of organic residues from different feedstocks, many                       Assessments for biomethane GOs and RGGOs from waste                                   Platts assessments reflect bids, offers and trades of a minimum 
+          of which may otherwise emit methane into the atmosphere.                             feedstock reflect a carbon intensity of between +20.00 g CO2e/                        of 5GWh of Biomethane GOs and RGGOs. Platts does not 
+          Biogas can be generated by a number of sources, including from                       MJ to +0.00 CO2e/MJ.                                                                  currently apply a maximum to the volumes reflected in its 
+          landfills, agricultural waste and livestock waste.                                                                                                                         assessments.
+                                                                                               Assessments for biomethane GOs and RGGOs from manure                                  Certification
+          GOs and RGGOs are issued by the relevant registries certifying                       feedstock reflect a carbon intensity of – 85.00 g CO2e/MJ and 
+          biomethane production within each country but can be                                 lower.                                                                                The assessments for Denmark and the Netherlands reflect 
+          traded and retired internationally. GOs and RGGOs represent a                                                                                                              certified GOs while the RGGO assessments for the UK 
+          premium for gas with a clear organic pathway over the cost of                        Assessments for biomethane GOs and RGGOs from crop                                    reflect certified and uncertified volumes. Certification is 
+          gas with an undisclosed origin pathway in the natural gas grid.                      feedstock reflect a carbon intensity of +25.00 g CO2e/MJ                              considered as a voluntary standard achieved by a producer 
+                                                                                               with no maximum. Platts understands that biomethane of                                of biomethane which the market accepts as improving 
+          Both GOs and RGGOs can be bought and sold until they are                             significantly higher Carbon Intensity do not receive GOs.                             fungibility of the associated guarantee of origin. This 
+          retired by a counterparty.                                                                                                                                                 includes, but is not exclusive to, standards such as ISCC and 
+                                                                                               Bids/offers/trades/indicative values received outside of these                        REDCert.  
+          Platts’ Biomethane GO and RGGO assessments reflect                                   definitions may be normalised to these definitions during the                         Subsidised and Unsubsidised certificates
+          feedstock certificates spot and one year forward.                                    assessment process.
+                                                                                               Vintage                                                                               Assessments for UK RGGOs are for subsidised certificates. 
+          Platts’ assessments reflect bids, offers and transactions as                                                                                                               Assessments for Denmark and the Netherlands include 
+          reported in either the Platts Market on Close assessment process,                    Platts publishes daily Biomethane GO and RGGO assessments                             subsidised waste, unsubsidised waste and unsubsidised 
+          in the brokered market, or on trading and exchange instruments.                      for both spot and forward year markets.                                               manure.
+          Assessments are timestamped to 16:30 London time and are                                                                                                                   Location
+          published according to the Platts London holiday calendar.                           The spot assessment reflects transactions for immediate delivery 
+                                                                                               where contracts have a minimum validity of three months from                          Platts publishes daily Biomethane GO assessments for 
+          Platts also assesses European Guarantees of Origin (EuGOs),                          the date of transaction. The forward year assessment reflects                         certificates issued for the current year and one year forward 
+          UK Renewable Energy Guarantees of Origin (REGOs), alongside                          transactions for delivery in the next calendar year of contracts                      originating in the Netherlands, Denmark, Germany or 
+          US and International Renewable Energy Certificates. The                              that are issued in that same calendar year.                                           other relevant competing markets and available for trade 
+          © 2025 by S&P Global Inc. All rights reserved.         4
+          Specifications Guide               Carbon Intensity and Low Carbon Markets: December 2025
+          internationally. Platts publishes daily Biomethane RGGO                              European Unsubsidised Biomethane (EUB) certified waste
+          assessments for certificates issued for the current year and                         The EUB assessment reflects the most competitive spot and year-
+          one year forward originating in the UK, and available for trade                      ahead value for certified unsubsidised waste of European origin. 
+          internationally.                                                                     EUB assessments also reflect Annex IX A feedstocks under the 
+          Units                                                                                EU’s Renewable Energy Directive as defined below:
+          Platts publishes its Biomethane GO assessments in Eur/MWh,                           https://wikis.ec.europa.eu/spaces/UDBBIS/pages/116163541/
+          UK RGGOs are published in GBP/MWh, with conversions for                              Raw+materials+intermediate+products+Revision+April+2025
+          Eur/MWh.
+          © 2025 by S&P Global Inc. All rights reserved.         5
+          Specifications Guide               Carbon Intensity and Low Carbon Markets: December 2025
+          North America Renewable Natural Gas Premiums
+          Assessment Name                                                                      $/MMBtu
+          North America Renewable Natural Gas Premium (California)                             AEWAA00
+          North America Renewable Natural Gas Premium (Excl. California)                       AEWAB00
+          North Ameirca RNG CI value per point                                                 AEWAC00
+          North America Renewable Natural Gas Assessments                                      value of the North America Renewable Natural Gas Premium                              Platts will normalize trade details such as carbon intensity 
+                                                                                               based on a one-point decrease in the carbon intensity. The                            and tenor in the assessment process where necessary. 
+          Platts publishes North America RNG price assessments                                 price varies based on the value of the prompt quarter Low                             Delivery
+          reflecting the premium for pipeline quality RNG relative to                          Carbon Fuel Standard (LCFS) credit price. The RNG premium 
+          pipeline quality natural gas. Assessments reflect volumes                            increases for a production pathway with a carbon intensity                            Platts publishes daily RNG premium assessments for the spot 
+          delivered on a spot basis in North America, with a pathway that                      less than 45g CO2e/MJ and decreases for a production                                  market, which reflect transactions for immediate delivery. 
+          has a carbon intensity of 45g CO2e/MJ under the California                           pathway with a carbon intensity greater than 45g CO2e/MJ. For                         Volume
+          Air Resources Board methodology. The carbon intensity of 45g                         example, an RNG production pathway with a carbon intensity 
+          CO2e/MJ represents that oflandfill derived RNG.                                      of 10 at a carbon intensity value per point of $0.08 would have                       Platts assessments reflect bids, offers and trades of any volume. 
+                                                                                               a higher RNG premium by (45 - 10) x $0.08 = $2.80. Similarly,                         Location
+          The North America Renewable Natural Gas Premium (California)                         an RNG production pathway with a carbon intensity of 100 at 
+          price assessment reflects the RNG premium for gas sold into                          a carbon intensity value per point of $0.08 would have a lower                        Platts publishes daily premiums for RNG produced and purchased 
+          California. The North America Renewable Natural Gas Premium                          RNG premium by (45 - 100) x $0.08 = (4.40).                                           in North America, including the US, Canada, and Mexico. 
+          (excl. California) price assessment reflects the RNG premium for                                                                                                           Units
+          gas sold to consumers outside of California.                                         Platts uses data from market participants to inform the 
+                                                                                               assessment process for the RNG assessments. Information                               Platts publishes its RNG premium assessments in $/MMBtu. 
+          The North America Renewable Natural Gas carbon intensity                             used includes trades, bids, offers, indicative values and other 
+          value per point price assessment represents the change in                            information deemed relevant to the assessment process. 
+          © 2025 by S&P Global Inc. All rights reserved.         6
+         Specifications Guide          Carbon Intensity and Low Carbon Markets: December 2025
+         Platts Carbon Intensity price assessment                                   Crude Carbon Intensity and the Refined Products Carbon                    emissions from the atmosphere and include credits from both 
+         specifications                                                             Intensity values published by S&P Global Energy Horizons                  the Natural Carbon Capture and Technological Carbon Capture 
+                                                                                    measure the amount of carbon dioxide equivalent emitted per               categories.  
+         The energy landscape is set to change dramatically over the                unit of oil. For further information on the S&P Global Energy 
+         coming years as companies may seek to curb greenhouse gas                  Horizons’ Upstream Crude Carbon Intensity calculations can be             To learn more about the Platts CRC assessment please 
+         (GHG) emissions from fossil fuels to meet net-zero ambitions by            found in the links below:                                                 visit: https://www.spglobal.com/content/dam/spglobal/ci/
+         2050.                                                                                                                                                en/documents/platts/en/our-methodology/methodology-
+                                                                                    https://www.spglobal.com/energy/en/products-solutions/                    specifications/energy-transition/carbon-markets-
+         Measuring the carbon intensity of different commodities is one             carbon-scenarios/emissions-capabilities                                   specifications.pdf
+         way the market has started to measure GHG emissions from 
+         various production types. In the case of crude oil, carbon intensity       This is then used to calculate a Carbon Intensity Premium, using          Crude Oil
+         is used to measure the volume of GHG emissions to be offset;               the daily Platts Carbon Removal Credit Assessment (Platts 
+         however, it could be considered an additional attribute, similar to        CRC, ACRCA00). This calculation is published to three decimal             S&P Global Energy Horizons’ Upstream Crude Carbon Intensity 
+         API, sulfur or TAN. In the case of refined products, carbon intensity      places. The Platts CRC assessment reflects the price of carbon            calculations measure the impact of GHG emissions in the 
+         is critical in measuring Scope 2 and Scope 3 emissions.                    credits from projects that result in the removal of existing GHG          lifecycle from production to storage. 
+         © 2025 by S&P Global Inc. All rights reserved.  7
+          Specifications Guide               Carbon Intensity and Low Carbon Markets: December 2025
+          Crude Grade Upstream carbon intensity symbols
+          Crude Grade                                                               Upstream CI Premium $/bbl                                  Currency                                                   UOM
+          Bates                                                                     c
+          WTI Midland                                                               WXTIC00                                                    USD                                                        CBL
+          Troll                                                                     TXROC00                                                    USD                                                        CBL
+          Oseberg                                                                   OXSEC00                                                    USD                                                        CBL
+          Ekofisk                                                                   EXKOC00                                                    USD                                                        CBL
+          Forties                                                                   FXORC00                                                    USD                                                        CBL
+          Brent                                                                     BXREC00                                                    USD                                                        CBL
+          Dubai                                                                     AGINA00                                                    USD                                                        CBL
+          Oman                                                                      AGINB00                                                    USD                                                        CBL
+          Al-Shaheen                                                                AGINC00                                                    USD                                                        CBL
+          Upper Zakum                                                               AGIND00                                                    USD                                                        CBL
+          Das Blend                                                                 AGINE00                                                    USD                                                        CBL
+          Arab Light                                                                AGINF00                                                    USD                                                        CBL
+          Saharan Blend                                                             AGING00                                                    USD                                                        CBL
+          Murban                                                                    AGINH00                                                    USD                                                        CBL
+          Canadon Seco                                                              AMGLB00                                                    USD                                                        CBL
+          Castilla Blend                                                            AMGLH00                                                    USD                                                        CBL
+          Cuban Heavy                                                               AMGLI00                                                    USD                                                        CBL
+          Escalante                                                                 AMGLC00                                                    USD                                                        CBL
+          Galeota Mix                                                               AMGLR00                                                    USD                                                        CBL
+          Istmo                                                                     AMGLP00                                                    USD                                                        CBL
+          Jubarte                                                                   AMGLD00                                                    USD                                                        CBL
+          Liza                                                                      AMGLL00                                                    USD                                                        CBL
+          Maya                                                                      AMGLQ00                                                    USD                                                        CBL
+          Medanito                                                                  AMGLA00                                                    USD                                                        CBL
+          Merey 16                                                                  AMGLS00                                                    USD                                                        CBL
+          Napo                                                                      AMGLK00                                                    USD                                                        CBL
+          Olmeca                                                                    AMGLO00                                                    USD                                                        CBL
+          Oriente                                                                   AMGLJ00                                                    USD                                                        CBL
+          Payara                                                                    AMGLM00                                                    USD                                                        CBL
+          Roncador Heavy                                                            AMGLE00                                                    USD                                                        CBL
+          Rubiales                                                                  AMGLG00                                                    USD                                                        CBL
+          Tupi                                                                      AMGRY00                                                    USD                                                        CBL
+          Unity Gold                                                                AMGLN00                                                    USD                                                        CBL
+          © 2025 by S&P Global Inc. All rights reserved.         8
+          Specifications Guide               Carbon Intensity and Low Carbon Markets: December 2025
+          Crude Grade Upstream carbon intensity symbols
+          Crude Grade                                                               Upstream CI Premium $/bbl                                  Currency                                                   UOM
+          Bates                                                                     c
+          Vasconia                                                                  AMGLF00                                                    USD                                                        CBL
+          Alaskan North Slope                                                       AMGRA00                                                    USD                                                        CBL
+          Bakken                                                                    AMGRC00                                                    USD                                                        CBL
+          Eagle Ford                                                                AMGRB00                                                    USD                                                        CBL
+          Mixed Sweet Blend                                                         AMGRG00                                                    USD                                                        CBL
+          West Texas Intermediate (Cushing)                                         AMGRE00                                                    USD                                                        CBL
+          West Texas Intermediate (MEH)                                             AMGRD00                                                    USD                                                        CBL
+          Wyoming Sweet                                                             AMGRF00                                                    USD                                                        CBL
+          © 2025 by S&P Global Inc. All rights reserved.         9
+          Specifications Guide               Carbon Intensity and Low Carbon Markets: December 2025
+          Crude Upstream and Midstream carbon intensity symbols
+          Crude Field                                 Upstream CI KgC02e/boe                      Upstream CI Premium $/boe                Transport Route                               Transport CI Premium $/bbl                  Currency         UOM
+          Bates:                                      U                                           c                                                                                      c
+          Alpine                                      ALPIC40                                     ALPIC00                                  Alaska to West Coast                          ALPIC10                                     USD              CBL
+          Alvheim                                     ALVHC40                                     ALVHC00                                  Alvheim to Havre                              ALVHC10                                     USD              CBL
+          Anadarko                                    ANADC40                                     ANADC00                                  Oklahoma to Gulfcoast                         ANADC10                                     USD              CBL
+          Appomattox                                  APPOC40                                     APPOC00                                  Appomattox to Changxing                       APPOC10                                     USD              CBL
+          Atlantis                                    ATLAC40                                     ATLAC00                                  Atlantis to Qingdao                           ATLAC10                                     USD              CBL
+          Auger                                       AUGEC40                                     AUGEC00                                  Auger to Qingdao                              AUGEC10                                     USD              CBL
+          Bakken                                      BAKNC40                                     BAKNC00                                  Beaumont to Rotterdam                         BAKNC10                                     USD              CBL
+          Bakken-Canada                               BAKKC40                                     BAKKC00                                  Canada to Midwest                             BAKKC10                                     USD              CBL
+          Big-Foot                                    BIGMC40                                     BIGMC00                                  Bigfoot to Daesan                             BIGCC10                                     USD              CBL
+          Buzzard                                     BZRDC40                                     BZRDC00                                  Houndpoint to Rotterdam                       BZRDC10                                     USD              CBL
+          CA-Coast                                    CAMCC40                                     CAMCC00                                  Kern to SoCal                                 CAMCC10                                     USD              CBL
+          Cantarell                                   CNTLC40                                     CNTLC00                                  Cantarell to Bilbao                           CNTLC10                                     USD              CBL
+          Captain                                     CAPTC40                                     CAPTC00                                  Captain to Hamburg                            CAPTC10                                     USD              CBL
+          Cardium Shale                               CARDC40                                     CARDC00                                  Cardium to Canada                             CARDC10                                     USD              CBL
+          Catcher                                     CATCC40                                     CATCC00                                  Catcher to Rotterdam                          CATCC10                                     USD              CBL
+          Chinook                                     CHINC40                                     CHINC00                                  Chinook to Changxing                          CHINC10                                     USD              CBL
+          Clair                                       CLAIC40                                     CLAIC00                                  Claire to Stanlow                             CLAIC10                                     USD              CBL
+          Cold-Lake                                   CDLKC40                                     CDLKC00                                  Canada - US Midwest                           CDLKC10                                     USD              CBL
+          CVE Christina Lake                          CVECC40                                     CVECC00                                  Canada to Midwest                             CVECC10                                     USD              CBL
+          Denver-Julesburg                            DENVC40                                     DENVC00                                  Denver to Gulfcoast                           DENVC10                                     USD              CBL
+          Devils-Tower                                DEVIC40                                     DEVIC00                                  Devils to Daesan                              DEVIC10                                     USD              CBL
+          Eagle Ford                                  EGFDC40                                     EGFDC00                                  Houston to Qingdao                            EGFDC10                                     USD              CBL
+          Edvard-Grieg                                EDVAC40                                     EDVAC00                                  Edvard-Grieg to Sarroch                       EDVAC10                                     USD              CBL
+          Ekofisk                                     EKFSC40                                     EKFSC00                                  Teesside to Rotterdam                         EKFSC10                                     USD              CBL
+          Europa                                      EUROC40                                     EUROC00                                  Europa to Daesan                              EUROC10                                     USD              CBL
+          Firebag                                     FIREC40                                     FIREC00                                  Canada to Midwest                             FIREC10                                     USD              CBL
+          Foster Creek                                FOSTC40                                     FOSTC00                                  Canada to Gulfcoast                           FOSTC10                                     USD              CBL
+          Ghawar                                      GHWRC40                                     GHWRC00                                  Ras Tanura to Qingdao                         GHWRC10                                     USD              CBL
+          Girassol                                    GRSLC40                                     GRSLC00                                  Girassol to Qingdao                           GRSLC10                                     USD              CBL
+          Golden-Eagle                                GOLDC40                                     GOLDC00                                  Golden-Eagle to Grangemouth                   GOLDC10                                     USD              CBL
+          Goliat                                      GOLIC40                                     GOLIC00                                  Goliat to Rotterdam                           GOLIC10                                     USD              CBL
+          Grane                                       GRANC40                                     GRANC00                                  Sture to Immingham                            GRANC10                                     USD              CBL
+          Great-White                                 GREAC40                                     GREAC00                                  Great-White to Changxing                      GREAC10                                     USD              CBL
+          Gulf-Coast-Louisiana                        GULFC40                                     GULFC00                                  Lousiana to Texas                             GULFC10                                     USD              CBL
+          © 2025 by S&P Global Inc. All rights reserved.         10
+          Specifications Guide               Carbon Intensity and Low Carbon Markets: December 2025
+          Crude Upstream and Midstream carbon intensity symbols
+          Crude Field                                 Upstream CI KgC02e/boe                      Upstream CI Premium $/boe                Transport Route                               Transport CI Premium $/bbl                  Currency         UOM
+          Bates:                                      U                                           c                                                                                      c
+          Gullfaks                                    GULLC40                                     GULLC00                                  Gullfaks to Brofjorden                        GULLC10                                     USD              CBL
+          Hebron                                      HEBRC40                                     HEBRC00                                  Hebron to Canada                              HEBRC10                                     USD              CBL
+          Heidrun                                     HEIDC40                                     HEIDC00                                  Heidrun to Rotterdam                          HEIDC10                                     USD              CBL
+          Hibernia                                    HIBEC40                                     HIBEC00                                  Hibernia to Canada                            HIBEC10                                     USD              CBL
+          Horn-Mountain                               HORNC40                                     HORNC00                                  Horn-Mountain to Qingdao                      HORNC10                                     USD              CBL
+          Ivar-Aasen                                  IVARC40                                     IVARC00                                  Ivar-Aasen to Rotterdam                       IVARC10                                     USD              CBL
+          Jack                                        JAKKC40                                     JAKKC00                                  Jack to Qingdao                               JAKKC10                                     USD              CBL
+          Jackfish                                    JACKC40                                     JACKC00                                  Canada to Midwest                             JACKC10                                     USD              CBL
+          John Sverdrup                               JSVRC40                                     JSVRC00                                  Mongstad to Rotterdam                         JSVRC10                                     USD              CBL
+          Julia                                       JULIC40                                     JULIC00                                  Julia to Daesan                               JULIC10                                     USD              CBL
+          Kirby Lake                                  KIRBC40                                     KIRBC00                                  Canada to Midwest                             KIRBC10                                     USD              CBL
+          Kirkuk                                      KIRKC40                                     KIRKC00                                  Ceyhan to Rotterdam                           KIRKC10                                     USD              CBL
+          Kraken                                      KRAKC40                                     KRAKC00                                  Kraken to Rotterdam                           KRAKC10                                     USD              CBL
+          Kuparuk-River                               KUPAC40                                     KUPAC00                                  Alaska to US West Coast                       KUPAC10                                     USD              CBL
+          Leo                                         LEOMC40                                     LEOMC00                                  Leo to Daesan Coast                           LEOCC10                                     USD              CBL
+          Long Lake                                   LONGC40                                     LONGC00                                  Canada to Midwest                             LONGC10                                     USD              CBL
+          Lucius                                      LUCSC40                                     LUCSC00                                  Lucius to Qingdao                             LUCSC10                                     USD              CBL
+          MacKay River                                MCKAC40                                     MCKAC00                                  Canada to Rockies                             MCKAC10                                     USD              CBL
+          Mad-Dog                                     MADAC40                                     MADAC00                                  Mad-Dog to Changxing                          MADAC10                                     USD              CBL
+          Mariner                                     MARIC40                                     MARIC00                                  Mariner to Pascagoula                         MARIC10                                     USD              CBL
+          Mars-Ursa                                   MRURC40                                     MRURC00                                  Mars to Qingdao                               MRURC10                                     USD              CBL
+          MEG Christina Lake                          MEGCC40                                     MEGCC00                                  Canada to Gulfcoast                           MEGCC10                                     USD              CBL
+          Montney Shale                               MONTC40                                     MONTC00                                  Montney to to                                 MONTC10                                     USD              CBL
+          Oseberg                                     OSEBC40                                     OSEBC00                                  Sture to Rotterdam                            OSEBC10                                     USD              CBL
+          Permian-Delaware                            PRDLC40                                     PRDLC00                                  Corpus Christi to Rotterdam                   PRDLC10                                     USD              CBL
+          Permian-Midland                             PRMDC40                                     PRMDC00                                  Corpus Christi to Rotterdam                   PRMDC10                                     USD              CBL
+          Permian-Other                               PERMC40                                     PERMC00                                  Corpus to Qingdao                             PERMC10                                     USD              CBL
+          Powder-River                                POWDC40                                     POWDC00                                  Wyoming to Gulfcoast                          POWDC10                                     USD              CBL
+          Primrose/Wolf Lake                          PRMWC40                                     PRMWC00                                  Canada to Midwest                             PRMWC10                                     USD              CBL
+          Prudhoe-Bay                                 PRUDC40                                     PRUDC00                                  Alaska to West Coast                          PRUDC10                                     USD              CBL
+          Salina                                      SALIC40                                     SALIC00                                  Kansas to Gulfcoast                           SALIC10                                     USD              CBL
+          San-Joaquin                                 SANMC40                                     SANMC00                                  San-Joaquin to Socal                          SANAC10                                     USD              CBL
+          Schiehallion                                SCHIC40                                     SCHIC00                                  Schiellhallion to Rotterdam                   SCHIC10                                     USD              CBL
+          Schrader-Bluff                              SCHRC40                                     SCHRC00                                  Alaska to US West Coast                       SCHRC10                                     USD              CBL
+          © 2025 by S&P Global Inc. All rights reserved.         11
+          Specifications Guide               Carbon Intensity and Low Carbon Markets: December 2025
+          Crude Upstream and Midstream carbon intensity symbols
+          Crude Field                                 Upstream CI KgC02e/boe                      Upstream CI Premium $/boe                Transport Route                               Transport CI Premium $/bbl                  Currency         UOM
+          Bates:                                      U                                           c                                                                                      c
+          SCOOP-STACK                                 SCOOC40                                     SCOOC00                                  Oklahoma to Gulfcoast                         SCOOC10                                     USD              CBL
+          Shenzi                                      SHENC40                                     SHENC00                                  Shenzi to Daesan                              SHENC10                                     USD              CBL
+          Snorre                                      SNORC40                                     SNORC00                                  Snorre to Statfjord                           SNORC10                                     USD              CBL
+          Statfjord                                   STATC40                                     STATC00                                  Statfjord to Rotterdam                        STATC10                                     USD              CBL
+          Stones                                      STONC40                                     STONC00                                  Stones to Daesan                              STONC10                                     USD              CBL
+          Sunrise                                     SUNRC40                                     SUNRC00                                  Canada to Midwest                             SUNRC10                                     USD              CBL
+          Surmont                                     SURMC40                                     SURMC00                                  Canada to Gulfcoast                           SURMC10                                     USD              CBL
+          Tahiti                                      TAHIC40                                     TAHIC00                                  Tahiti to Yeosu                               TAHIC10                                     USD              CBL
+          Tengiz                                      TNGZC40                                     TNGZC00                                  Novo to Rotterdam                             TNGZC10                                     USD              CBL
+          Thunder-Horse                               THUNC40                                     THUNC00                                  Thunder-Horse to Qingdao                      THUNC10                                     USD              CBL
+          Troll                                       TROLC40                                     TROLC00                                  Mongstad to Rotterdam                         TROLC10                                     USD              CBL
+          Tupi                                        TUPIC40                                     TUPIC00                                  Rio to Qingdao CI                             TUPIC10                                     USD              CBL
+          Uinta                                       UINTC40                                     UINTC00                                  Northeast to Gulfcoast                        UINTC10                                     USD              CBL
+          Utica                                       UTICC40                                     UTICC00                                  Northeast to Gulfcoast                        UTICC10                                     USD              CBL
+          Valhall                                     VALHC40                                     VALHC00                                  Valhall to Rotterdam                          VALHC10                                     USD              CBL
+          Viking Shale                                VIKIC40                                     VIKIC00                                  Canada to Midwest                             VIKIC10                                     USD              CBL
+          Agbami                                      AGBAC40                                     AGBAC00                                  Agbami to Paradip                             AGBAC10                                     USD              CBL
+          Azeri                                       AZERC40                                     AZERC00                                  Ceyhan to Sarroch                             AZERC10                                     USD              CBL
+          Bombay High                                 MUMBC40                                     MUMBC00                                  Bombay High to Qingdao                        MUMBC10                                     USD              CBL
+          Bonga                                       BONGC40                                     BONGC00                                  Bonga to Rotterdam                            BONGC10                                     USD              CBL
+          Bozhong                                     BOZHC40                                     BOZHC00                                  Bohai Pengbo to Singapore                     BOZHC10                                     USD              CBL
+          Burgan                                      BURGC40                                     BURGC00                                  Mina to Ulsan                                 BURGC10                                     USD              CBL
+          Cusiana                                     CUSIC40                                     CUSIC00                                  Tolu to Houston                               CUSIC10                                     USD              CBL
+          Dukhan                                      DUKHC40                                     DUKHC00                                  Mesaieed to Singapore                         DUKHC10                                     USD              CBL
+          Fateh                                       FATEC40                                     FATEC00                                  Fateh to Kiire                                FATEC10                                     USD              CBL
+          Marun                                       MARUC40                                     MARUC00                                  Kharg Island to Qingdao                       MARUC10                                     USD              CBL
+          Murban                                      MURBC40                                     MURBC00                                  Fujairah to Chiba                             MURBC10                                     USD              CBL
+          Orinoco Oil Belt                            ORINC40                                     ORINC00                                  Jose to Sikka                                 ORINC10                                     USD              CBL
+          Rumaila                                     RUMAC40                                     RUMAC00                                  Al Basrah to Sikka                            RUMAC10                                     USD              CBL
+          Sacha                                       SACHC40                                     SACHC00                                  Esmeraldas to Long Beach                      SACHC10                                     USD              CBL
+          Safaniya                                    SAFAC40                                     SAFAC00                                   Ras Tanura to Changxing                      SAFAC10                                     USD              CBL
+          Samotlor                                    SAMOC40                                     SAMOC00                                  Primorsk to Rotterdam                         SAMOC10                                     USD              CBL
+          Waha                                        WAHAC40                                     WAHAC00                                  Zawia to Augusta                              WAHAC10                                     USD              CBL
+          West Qurna                                  WESTC40                                     WESTC00                                  Al Basrah to Sikka                            WESTC10                                     USD              CBL
+          © 2025 by S&P Global Inc. All rights reserved.         12
+          Specifications Guide               Carbon Intensity and Low Carbon Markets: December 2025
+          Crude Upstream and Midstream carbon intensity symbols
+          Crude Field                                 Upstream CI KgC02e/boe                      Upstream CI Premium $/boe                Transport Route                               Transport CI Premium $/bbl                  Currency         UOM
+          Bates:                                      U                                           c                                                                                      c
+          Zubair                                      ZUBAC40                                     ZUBAC00                                  Al Basrah to Sikka                            ZUBAC10                                     USD              CBL
+          Zuluf                                       ZULUC40                                     ZULUC00                                  Ras Tanura to Changxing                       ZULUC10                                     USD              CBL
+          Alwyn North                                 ALWYC40                                     ALWYC00                                  Sullom Voe to Rotterdam                       ALWYC10                                     USD              CBL
+          Arbroath                                    ARBRC40                                     ARBRC00                                  Houndpoint to Rotterdam                       ARBRC10                                     USD              CBL
+          Auk                                         AUKCC40                                     AUKCD00                                  Teeside to Rotterdam                          AUKCC10                                     USD              CBL
+          Brae                                        BRAEC40                                     BRAEC00                                  Houndpoint to Rotterdam                       BRAEC10                                     USD              CBL
+          Brage                                       BRAGC40                                     BRAGC00                                  Sture to Brofjorden                           BRAGC10                                     USD              CBL
+          Bruce                                       BRUCC40                                     BRUCC00                                  Houndpoint to Rotterdam                       BRUCC10                                     USD              CBL
+          Clyde                                       CLYDC40                                     CLYDC00                                  Teeside to Rotterdam                          CLYDC10                                     USD              CBL
+          Cormorant                                   CORMC40                                     CORMC00                                  Sullom Voe to Rotterdam                       CORMC10                                     USD              CBL
+          Embla                                       EMBLC40                                     EMBLC00                                  Teeside to Rotterdam                          EMBLC10                                     USD              CBL
+          Everest                                     EVERC40                                     EVERC00                                  Houndpoint to Rotterdam                       EVERC10                                     USD              CBL
+          Forties                                     FORTC40                                     FORTC00                                  Houndpoint to Rotterdam                       FORTC10                                     USD              CBL
+          Fram                                        FRAMC40                                     FRAMC00                                  Mongstad to Rotterdam                         FORTD10                                     USD              CBL
+          Gannet                                      GANNC40                                     GANNC00                                  Teeside to Rotterdam                          GANNC10                                     USD              CBL
+          Joanne                                      JOANC40                                     JOANC00                                  Teeside to Rotterdam                          JOANC10                                     USD              CBL
+          Judy                                        JUDYC40                                     JUDYC00                                  Teeside to Rotterdam                          JUDYC10                                     USD              CBL
+          Magnus                                      MAGNC40                                     MAGNC00                                  Sullom Voe to Rotterdam                       MAGNC10                                     USD              CBL
+          Nelson                                      NELSC40                                     NELSC00                                  Houndpoint to Rotterdam                       NELSC10                                     USD              CBL
+          Ninian                                      NINIC40                                     NINIC00                                  Sullom Voe to Rotterdam                       NINIC10                                     USD              CBL
+          Scott                                       SCOTC40                                     SCOTC00                                  Houndpoint to Rotterdam                       SCOTC10                                     USD              CBL
+          Tiffany                                     TIFFC40                                     TIFFC00                                  Houndpoint to Rotterdam                       TIFFC10                                     USD              CBL
+          Toni                                        TONIC40                                     TONIC00                                  Houndpoint to Rotterdam                       TONIC10                                     USD              CBL
+          Ula                                         ULACC40                                     ULACC00                                  Teeside to Rotterdam                          ULACC10                                     USD              CBL
+          Falah                                       AMRGN40                                     AMRGA00                                  Falah to Kiire                                ASITA10                                     USD              CBL
+          Rashid                                      AMRGO40                                     AMRGB00                                  Mina to Kiire                                 ASITB10                                     USD              CBL
+          Upper Zakum                                 AMRGP40                                     AMRGC00                                  Zirku to Zhoushan                             ASITC10                                     USD              CBL
+          Lower Zakum                                 AMRGQ40                                     AMRGD00                                  Zirku to Sikka                                ASITD10                                     USD              CBL
+          Al-Shaheen                                  AMRGR40                                     AMRGE00                                  Al-Shaheen to Singapore                       ASITE10                                     USD              CBL
+          Oman Basin                                  AMRGS40                                     AMRGF00                                  Salalah to Tranmere                           ASITF10                                     USD              CBL
+          Hassi Messaoud                              AMRGT40                                     AMRGG00                                  Skikda to Tranmere                            ASITG10                                     USD              CBL
+          Khurais                                     AMRGU40                                     AMRGH00                                  Ras Tanura to Ain Sukhna                      ASITH10                                     USD              CBL
+          Abu Hadriya                                 AMRGV40                                     AMRGI00                                  Ras Tanura to Ain Sukhna                      ASITI10                                     USD              CBL
+          Umm Shaif                                   AMRGW40                                     AMRGJ00                                  Zirku to Sikka                                ASITJ10                                     USD              CBL
+          © 2025 by S&P Global Inc. All rights reserved.         13
+          Specifications Guide               Carbon Intensity and Low Carbon Markets: December 2025
+          Crude Upstream and Midstream carbon intensity symbols
+          Crude Field                                 Upstream CI KgC02e/boe                      Upstream CI Premium $/boe                Transport Route                               Transport CI Premium $/bbl                  Currency         UOM
+          Bates:                                      U                                           c                                                                                      c
+          Nasr                                        AMRGX40                                     AMRGK00                                  Zirku to Sikka                                ASITK10                                     USD              CBL
+          El Bunduq                                   AMRGY40                                     AMRGL00                                  Zirku to Sikka                                ASITL10                                     USD              CBL
+          Abu Al Bukhoosh                             AMRGZ40                                     AMRGM00                                  Zirku to Sikka                                ASITM10                                     USD              CBL
+          Canadon Seco                                AMGNK40                                     AMGMN00                                  Comodoro Rivadavia to Long Beach              AMGPH10                                     USD              CBL
+          El Medanito                                 AMGNJ40                                     AMGMM00                                  Bahia Blanca to Cherry Point                  AMGPG10                                     USD              CBL
+          Escalante                                   AMGNL40                                     AMGMO00                                  Comodoro Rivadavia to Long Beach              AMGPI10                                     USD              CBL
+          Jubarte                                     AMGNM40                                     AMGMP00                                  Madre de Deus to Singapore                    AMGPJ10                                     USD              CBL
+          Roncador                                    AMGNN40                                     AMGMQ00                                  Madre de Deus to Galveston                    AMGPK10                                     USD              CBL
+          Castilla (Norte Este)                       AMGNQ40                                     AMGMT00                                  Covenas Terminal to Jieyang                   AMGPN10                                     USD              CBL
+          Cupiagua                                    AMGNO40                                     AMGMR00                                  Covenas Terminal to Sikka                     AMGPL10                                     USD              CBL
+          Rubiales                                    AMGNP40                                     AMGMS00                                  Covenas Terminal to Jieyang                   AMGPM10                                     USD              CBL
+          Varadero                                    AMGNR40                                     AMGMU00                                  Mariel to Antwerp                             AMGPO10                                     USD              CBL
+          Cuyabeno                                    AMGNT40                                     AMGMW00                                  Balao to Houston                              AMGPQ10                                     USD              CBL
+          Ishpingo                                    AMGNU40                                     AMGMX00                                  Balao to Panama Canal                         AMGPR10                                     USD              CBL
+          Jivino-Napo                                 AMGNV40                                     AMGMY00                                  Balao to Panama Canal                         AMGPS10                                     USD              CBL
+          Shushufindi-Aguarico                        AMGNS40                                     AMGMV00                                  Balao toGalveston                             AMGPP10                                     USD              CBL
+          Liza 1                                      AMGNW40                                     AMGMZ00                                  FPSO Liza Destiny to Rotterdam                AMGPT10                                     USD              CBL
+          Liza 2                                      AMGPF40                                     AMGNI00                                  FPSO Liza Unity to Chiriqui Grande Terminal  AMGQC10                                      USD              CBL
+          Payara                                      AMGNX40                                     AMGNA00                                  FPSO Prosperity to Chiriqui Grande Terminal  AMGPU10                                      USD              CBL
+          Abkatun                                     AMGPA40                                     AMGND00                                  Mexico STS to Daesan                          AMGPX10                                     USD              CBL
+          Chuc                                        AMGPB40                                     AMGNE00                                  Coatzacoalcos to Cartagena                    AMGPY10                                     USD              CBL
+          Pol                                         AMGPC40                                     AMGNF00                                  Mexico STS to Yokkaichi                       AMGPZ10                                     USD              CBL
+          Tsimin                                      AMGNZ40                                     AMGNC00                                  Dos Bocas to Corpus Christi                   AMGPW10                                     USD              CBL
+          Xux                                         AMGNY40                                     AMGNB00                                  Dos Bocas to Milazzo Anchorages               AMGPV10                                     USD              CBL
+          Galeota (Trintes)                           AMGPD40                                     AMGNG00                                  Galeota Point to Callao                       AMGQA10                                     USD              CBL
+          Santa Barbara                               AMGPE40                                     AMGNH00                                  Jose Terminal to Singapore                    AMGQB10                                     USD              CBL
+          © 2025 by S&P Global Inc. All rights reserved.         14
+          Specifications Guide               Carbon Intensity and Low Carbon Markets: December 2025
+          Shipping assumptions                                                                 the route, the calculation is a $/b assessment that measures 
+                                                                                               how much it would cost to use a removals voluntary carbon 
+          The carbon intensity premiums reflect the respective cost                            credit to compensate for the associated GHG emissions 
+          to offset the emissions from upstream production of each                             from the production of the crude as well as the route in 
+          crude field, as well as the additional midstream carbon                              question. The higher the carbon intensity, the larger the 
+          intensity cost to deliver each type of crude to specific                             carbon intensity premium will be to account for the price 
+          refinery regions, as highlighted below. Depending on the                             of carbon removal. This is a calculated carbon intensity 
+          carbon intensity of each crude and the carbon intensity of                           premium based on Platts CRC. 
+          © 2025 by S&P Global Inc. All rights reserved.         15
+          Specifications Guide               Carbon Intensity and Low Carbon Markets: December 2025
+          Refined products carbon intensity symbols
+          Refined product                                    CI Premium $/bbl                                 Region                                             Currency                                          UOM
+          Bates:                                            c
+          Gasoil 10ppm FOB Singapore Cargo                  ALCEH00                                           Southeast Asia                                     USD                                               CBL
+          Gasoline Unl 92 FOB Singapore Cargo               ALCEJ00                                           Southeast Asia                                     USD                                               CBL
+          Jet Kero FOB Singapore Cargo                      ALCEL00                                           Southeast Asia                                     USD                                               CBL
+          Refined product                                   CI Premium $/gal                                  Region
+          Bates:                                            c
+          Gasoline CBOB USGC Prompt Pipeline                ALCEN00                                           US Gulf Coast                                      USD                                               CBG
+          Jet Kero 54 USGC Prompt Pipeline                  ALCEP00                                           US Gulf Coast                                      USD                                               CBG
+          ULSD USGC Prompt Pipeline                         ALCER00                                           US Gulf Coast                                      USD                                               CBG
+          Refined product                                   CI Premium $/mt                                   Region
+          Bates:                                            c
+          Gasoline Eurobob (E5) FOB NWE Barge               ALCEB00                                           Northwest Europe                                   USD                                               CBT
+          Jet FOB NWE Barge                                 ALCED00                                           Northwest Europe                                   USD                                               CBT
+          ULSD 10ppm FOB NWE Barge                          ALCEF00                                           Northwest Europe                                   USD                                               CBT
+          Refined Products
+          The carbon intensity premiums reflect the respective cost to 
+          offset the emissions from the production of key transportation 
+          fuels- gasoline, diesel, and jet, in the main geographical demand 
+          regions – US Gulf Coast, North-West Europe, and South-East Asia. 
+          © 2025 by S&P Global Inc. All rights reserved.         16
+          Specifications Guide               Carbon Intensity and Low Carbon Markets: December 2025
+          North America Gas Carbon Intensity
+          Location                                                                             Cabon Intensity Cost ($/MMBtu)
+          Chicago city-gates                                                                   ACCAA00
+          AECO-C                                                                               ACCAB00
+          Dawn Ontario                                                                         ACCAC00
+          Eastern Gas South                                                                    ACCAD00
+          Waha                                                                                 ACCAE00
+          NGPL Midcontinent                                                                    ACCAG00
+          Kern River, Opal plant                                                               ACCAH00
+          PG&E Malin                                                                           ACCAJ00
+          Algonquin City-Gates                                                                 ACCAM00
+          Henry Hub                                                                            ACCAF00
+          Houston Ship Channel                                                                 ACCAK00
+          SoCal Gas                                                                            ACCAI00
+          Transco Zone 6 Non-NY                                                                ACCAL00
+          US Methane Intensity                                                                 Frequency of publication                                                                Kern River, Opal plant
+                                                                                               Carbon intensity costs are published on a daily cadence.
+          More information on the S&P Global Energy Horizons’ US                                                                                                                       NGPL Midcontinent
+          Methane Intensity data calculated by the S&P Global Energy                           Location
+          Horizons team can be found here:                                                     Platts is publishing assessments for the following locations:                           Algonquin City-Gates
+          North America Gas Carbon Intensity Assessments                                         AECO-C                                                                               Henry Hub
+          Platts publishes daily natural gas carbon accounted costs from                         Chicago City-Gates                                                                   Houston Ship Channel
+          22 representative production basins in North America. 
+                                                                                                 Dawn                                                                                 SoCal Gas
+          Further Information on the S&P Global Energy Horizons carbon 
+          accounted costs can be found here:                                                     PG&E Malin                                                                           Transco Zone 6 Non-NY
+          https://www.spglobal.com/energy/en/products-solutions/                                 Eastern Gas, South                                                                 Units
+          carbon-scenarios/emissions-capabilities                                                                                                                                    The carbon-accounted cost of natural gas at these locations is 
+                                                                                                 Waha                                                                               published daily in $/MMBtu, using Platts CRC as an input.
+          © 2025 by S&P Global Inc. All rights reserved.         17
+          Specifications Guide               Carbon Intensity and Low Carbon Markets: December 2025
+          Related Markets                                                                      https://www.spglobal.com/content/dam/spglobal/ci/en/                                  https://www.spglobal.com/content/dam/spglobal/ci/en/
+                                                                                               documents/platts/en/our-methodology/methodology-                                      documents/platts/en/our-methodology/methodology-
+          LNG                                                                                  specifications/metals/iron-ore-specifications.pdf                                     specifications/chemicals/chemicals-americas-specifications.pdf
+          Platts publishes a number of Carbon Accounted LNG                                    https://www.spglobal.com/content/dam/spglobal/ci/en/                                  https://www.spglobal.com/content/dam/spglobal/ci/en/
+          assessments. The specifications for these assessments can be                         documents/platts/en/our-methodology/methodology-                                      documents/platts/en/our-methodology/methodology-
+          found in the Global LNG methodology guide here:                                      specifications/metals/steel-ferrous-specifications.pdf                                specifications/chemicals/chemicals-europe-specifications.pdf
+          https://www.spglobal.com/content/dam/spglobal/ci/en/                                 Fertilizers                                                                           https://www.spglobal.com/content/dam/spglobal/ci/en/
+          documents/platts/en/our-methodology/methodology-                                                                                                                           documents/platts/en/our-methodology/methodology-
+          specifications/lng/lng-specifications.pdf                                            Platts publishes a number of Low Carbon Fertilizer                                    specifications/chemicals/chemicals-asia-pacific-
+                                                                                               assessments. The specifications for these assessments can be                          specifications.pdf
+          Metals                                                                               found in the Fertecon methodology guide here:
+          Platts publishes a number of Low Carbon Metals assessments.                          https://www.spglobal.com/content/dam/spglobal/ci/en/                                  Freight
+          Please refer to the following guides:                                                documents/platts/en/our-methodology/methodology-                                      Platts publishes a number of Carbon-Inclusive freight 
+                                                                                               specifications/minerals-fertilizers/fertecon_specifications.pdf                       assessments. The specifications for these assessments can be 
+          https://www.spglobal.com/content/dam/spglobal/ci/en/                                                                                                                       found In the Global Freight methodology guide here:
+          documents/platts/en/our-methodology/methodology-                                     Chemicals
+          specifications/metals/nonferrous-specifications.pdf                                                                                                                        https://www.spglobal.com/content/dam/spglobal/ci/en/
+                                                                                               Platts publishes a number of Low Carbon chemical                                      documents/platts/en/our-methodology/methodology-
+                                                                                               assessments. Please refer to the following guides:                                    specifications/shipping/freight-specifications.pdf
+          © 2025 by S&P Global Inc. All rights reserved.         18
+          Specifications Guide               Carbon Intensity and Low Carbon Markets: December 2025
+          Revision history                                                                     August 2025: Platts discontinued Methane Performance                                  November 2024: Platts created the Carbon Intensity and 
+                                                                                               Certificate and Methane Intensity Premium assessments.                                Low Carbon Markets Specifications Guide which followed the 
+          December 2025: Calculation methodology for S&P Global Energy                                                                                                               merging of the Low Carbon Gas, Carbon Intensity, and Methane 
+          Horizons intensity data removed. EUB, UK certified waste                             April 2025: Platts added 27 additional Crude Carbon Intensities                       Performance Certificate methodology guides. Platts also added 
+          and specification updates added to European biomethane.                              calculated in gCO2e/MJ and kgCO2e/bbl by the S&P Global                               reference to other low-carbon market assessments and their 
+          Platts conducted an annual review of this guide and made                             Commodity Insights analytics team. Platts added new units in                          respective methodology guides. Platts clarified the roll calendar 
+          grammatical changes and edits to language throughout for                             gCO2e/MJ for the existing 41 Crude Carbon Intensities which                           for methane intensity premium as of November 2024. Platts 
+          greater clarity.                                                                     are calculated by the S&P Global Commodity Insights analytics                         clarified the publishing schedule for carbon intensity calculations 
+                                                                                               team. Platts removed Producer Certified Gas.                                          which feed into the Crude Carbon Intensity Premiums. 
+          © 2025 by S&P Global Inc. All rights reserved.         19

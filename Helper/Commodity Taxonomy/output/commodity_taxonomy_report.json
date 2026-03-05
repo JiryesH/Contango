@@ -1,0 +1,1304 @@
+{
+  "total_pdfs_processed": 48,
+  "total_commodities": 328,
+  "duplicates_merged": [
+    {
+      "from": "Ethyl Hexanol",
+      "to": "2-Ethyl Hexanol"
+    },
+    {
+      "from": "Glacial Acrylic Acid",
+      "to": "Acrylic Acid"
+    },
+    {
+      "from": "Acrylic fibers",
+      "to": "Acrylic Fiber"
+    },
+    {
+      "from": "AECO-C",
+      "to": "AECO"
+    },
+    {
+      "from": "Aluminium",
+      "to": "Aluminum"
+    },
+    {
+      "from": "P1020",
+      "to": "Aluminum"
+    },
+    {
+      "from": "ADC12",
+      "to": "Aluminum Alloy"
+    },
+    {
+      "from": "Japan Korea Ammonia Price",
+      "to": "Ammonia"
+    },
+    {
+      "from": "US Gulf Ammonia Price",
+      "to": "Ammonia"
+    },
+    {
+      "from": "Avoidance Credits",
+      "to": "Avoidance Carbon Credits"
+    },
+    {
+      "from": "Base Oils",
+      "to": "Base Oil"
+    },
+    {
+      "from": "Subsidized Bio-LNG",
+      "to": "Bio-LNG"
+    },
+    {
+      "from": "Biobunkers",
+      "to": "Biobunker Fuel"
+    },
+    {
+      "from": "Asphalt",
+      "to": "Bitumen"
+    },
+    {
+      "from": "Brent Strip",
+      "to": "Brent"
+    },
+    {
+      "from": "Butadiene CP",
+      "to": "Butadiene"
+    },
+    {
+      "from": "Rapeseed",
+      "to": "Canola"
+    },
+    {
+      "from": "Castilla",
+      "to": "Castilla Blend"
+    },
+    {
+      "from": "Type I / II Low Alkali",
+      "to": "Cement"
+    },
+    {
+      "from": "COATED",
+      "to": "Coated Steel"
+    },
+    {
+      "from": "Copper Cathode",
+      "to": "Copper"
+    },
+    {
+      "from": "Pre-CEC",
+      "to": "CORSIA Eligible Credit"
+    },
+    {
+      "from": "Dated Brent CIF Rotterdam",
+      "to": "Dated Brent"
+    },
+    {
+      "from": "Dated North Sea Light",
+      "to": "Dated Brent"
+    },
+    {
+      "from": "Dawn",
+      "to": "Dawn Ontario"
+    },
+    {
+      "from": "18-46-0",
+      "to": "Diammonium Phosphate"
+    },
+    {
+      "from": "10ppm diesel",
+      "to": "Diesel"
+    },
+    {
+      "from": "Dubai",
+      "to": "Dubai Crude"
+    },
+    {
+      "from": "Renewable Capture Price Indices",
+      "to": "Electricity"
+    },
+    {
+      "from": "Epoxy Resins",
+      "to": "Epoxy Resin"
+    },
+    {
+      "from": "Ethyl Tertiary Butyl Ether",
+      "to": "ETBE"
+    },
+    {
+      "from": "Anhydrous Ethanol",
+      "to": "Ethanol"
+    },
+    {
+      "from": "Ethanol T2",
+      "to": "Ethanol"
+    },
+    {
+      "from": "REN 96",
+      "to": "Ethanol"
+    },
+    {
+      "from": "Etac",
+      "to": "Ethyl Acetate"
+    },
+    {
+      "from": "Ethylene Choctaw",
+      "to": "Ethylene"
+    },
+    {
+      "from": "Ethylene Mont Belvieu",
+      "to": "Ethylene"
+    },
+    {
+      "from": "High Purity Ethylene Oxide",
+      "to": "Ethylene Oxide"
+    },
+    {
+      "from": "Eurobob",
+      "to": "Eurobob Gasoline"
+    },
+    {
+      "from": "Scrap",
+      "to": "Ferrous Scrap"
+    },
+    {
+      "from": "Shredded scrap",
+      "to": "Ferrous Scrap"
+    },
+    {
+      "from": "Forties Blend",
+      "to": "Forties"
+    },
+    {
+      "from": "A-FUEL OIL",
+      "to": "Fuel Oil"
+    },
+    {
+      "from": "Low Vol HCC",
+      "to": "Hard Coking Coal"
+    },
+    {
+      "from": "PLV HCC",
+      "to": "Hard Coking Coal"
+    },
+    {
+      "from": "Post-Consumer HDPE Bales",
+      "to": "HDPE Bales"
+    },
+    {
+      "from": "1-Hexene",
+      "to": "Hexene-1"
+    },
+    {
+      "from": "IFO 380",
+      "to": "High Sulfur Fuel Oil"
+    },
+    {
+      "from": "Houston Ship Channel",
+      "to": "Houston Ship Channel Gas"
+    },
+    {
+      "from": "Renewable PPA Derived Hydrogen",
+      "to": "Hydrogen"
+    },
+    {
+      "from": "Carbon-Accounted Iron Ore",
+      "to": "Iron Ore"
+    },
+    {
+      "from": "IODEX",
+      "to": "Iron Ore"
+    },
+    {
+      "from": "Domestic Concentrate",
+      "to": "Iron Ore Concentrate"
+    },
+    {
+      "from": "Fines",
+      "to": "Iron Ore Fines"
+    },
+    {
+      "from": "Lump",
+      "to": "Iron Ore Lump"
+    },
+    {
+      "from": "Pellet",
+      "to": "Iron Ore Pellets"
+    },
+    {
+      "from": "Toluene Diisocyanate",
+      "to": "Isocyanates"
+    },
+    {
+      "from": "Istmo",
+      "to": "Isthmus"
+    },
+    {
+      "from": "Jet",
+      "to": "Jet Fuel"
+    },
+    {
+      "from": "World Jet Indexes",
+      "to": "Jet Fuel"
+    },
+    {
+      "from": "Post-use LDPE Bales",
+      "to": "LDPE Bales"
+    },
+    {
+      "from": "LLDPE",
+      "to": "Linear Low Density Polyethylene"
+    },
+    {
+      "from": "BC LCFS",
+      "to": "Low Carbon Fuel Standard Credits"
+    },
+    {
+      "from": "Low Carbon Ammonia",
+      "to": "Low-Carbon Ammonia"
+    },
+    {
+      "from": "LPG/NGLs",
+      "to": "LPG"
+    },
+    {
+      "from": "NGLs",
+      "to": "LPG"
+    },
+    {
+      "from": "Mars",
+      "to": "Mars Crude"
+    },
+    {
+      "from": "Met Coal",
+      "to": "Metallurgical Coal"
+    },
+    {
+      "from": "Met Coke",
+      "to": "Metallurgical Coke"
+    },
+    {
+      "from": "Methanol Bunker",
+      "to": "Methanol"
+    },
+    {
+      "from": "Methanol Marine Fuel",
+      "to": "Methanol"
+    },
+    {
+      "from": "Process-ready Mixed Plastic Waste Bales",
+      "to": "Mixed Plastic Waste Bales"
+    },
+    {
+      "from": "11-52-0",
+      "to": "Monoammonium Phosphate"
+    },
+    {
+      "from": "12-52-0",
+      "to": "Monoammonium Phosphate"
+    },
+    {
+      "from": "Methyl Tertiary Butyl Ether",
+      "to": "MTBE"
+    },
+    {
+      "from": "Butac",
+      "to": "N-Butyl Acetate"
+    },
+    {
+      "from": "Light Naphtha",
+      "to": "Naphtha"
+    },
+    {
+      "from": "Oman",
+      "to": "Oman Crude"
+    },
+    {
+      "from": "Post-Consumer PET Bottle Bales",
+      "to": "PET Bottle Bales"
+    },
+    {
+      "from": "Calcined Petcoke",
+      "to": "Petroleum Coke"
+    },
+    {
+      "from": "Petcoke",
+      "to": "Petroleum Coke"
+    },
+    {
+      "from": "Food-Grade Pellets",
+      "to": "Polyethylene Terephthalate"
+    },
+    {
+      "from": "Polyethylene Terephtalate",
+      "to": "Polyethylene Terephthalate"
+    },
+    {
+      "from": "PP Inflated Film",
+      "to": "Polypropylene"
+    },
+    {
+      "from": "Suspension PVC",
+      "to": "Polyvinyl Chloride"
+    },
+    {
+      "from": "K2SO4",
+      "to": "Potash"
+    },
+    {
+      "from": "KCl",
+      "to": "Potash"
+    },
+    {
+      "from": "Chicken",
+      "to": "Poultry"
+    },
+    {
+      "from": "Propane CP",
+      "to": "Propane"
+    },
+    {
+      "from": "Chemical Grade Propylene",
+      "to": "Propylene"
+    },
+    {
+      "from": "Polymer Grade Propylene",
+      "to": "Propylene"
+    },
+    {
+      "from": "Refinery Grade Propylene",
+      "to": "Propylene"
+    },
+    {
+      "from": "Brazil 150 ICUMSA",
+      "to": "Raw Sugar"
+    },
+    {
+      "from": "Thai Hi Polarization",
+      "to": "Raw Sugar"
+    },
+    {
+      "from": "R-HDPE",
+      "to": "Recycled HDPE Pellets"
+    },
+    {
+      "from": "R-HDPE Black",
+      "to": "Recycled HDPE Pellets"
+    },
+    {
+      "from": "R-LDPE",
+      "to": "Recycled LDPE Pellets"
+    },
+    {
+      "from": "R-PET Flakes",
+      "to": "Recycled PET Flakes"
+    },
+    {
+      "from": "R-PET Food-Grade Pellets",
+      "to": "Recycled PET Food-Grade Pellets"
+    },
+    {
+      "from": "Shrimp",
+      "to": "Seafood"
+    },
+    {
+      "from": "Billet",
+      "to": "Steel Billet"
+    },
+    {
+      "from": "PLATE",
+      "to": "Steel Plate"
+    },
+    {
+      "from": "Slab",
+      "to": "Steel Slab"
+    },
+    {
+      "from": "Liquid Sulfur",
+      "to": "Sulfur"
+    },
+    {
+      "from": "Solid Sulfur",
+      "to": "Sulfur"
+    },
+    {
+      "from": "HEFA-SPK",
+      "to": "Sustainable Aviation Fuel"
+    },
+    {
+      "from": "SPK-HEFA",
+      "to": "Sustainable Aviation Fuel"
+    },
+    {
+      "from": "CAPP rail",
+      "to": "Thermal Coal"
+    },
+    {
+      "from": "THG-Annex IX B",
+      "to": "THG Annex IX B"
+    },
+    {
+      "from": "THG-Conventional",
+      "to": "THG Conventional"
+    },
+    {
+      "from": "THG-Other",
+      "to": "THG Other"
+    },
+    {
+      "from": "0-46-0",
+      "to": "Triple Superphosphate"
+    },
+    {
+      "from": "32% N UAN Solution",
+      "to": "UAN Solution"
+    },
+    {
+      "from": "Ultra Low Sulfur Diesel",
+      "to": "ULSD"
+    },
+    {
+      "from": "Urals FIP Surgut netback",
+      "to": "Urals"
+    },
+    {
+      "from": "Urals Netbacks",
+      "to": "Urals"
+    },
+    {
+      "from": "Automotive-grade Urea",
+      "to": "Urea"
+    },
+    {
+      "from": "Granular Urea",
+      "to": "Urea"
+    },
+    {
+      "from": "Prilled Urea",
+      "to": "Urea"
+    },
+    {
+      "from": "UCOME",
+      "to": "Used Cooking Oil Methyl Ester"
+    },
+    {
+      "from": "Fuel 0.5%",
+      "to": "Very Low Sulfur Fuel Oil"
+    },
+    {
+      "from": "IFO 500",
+      "to": "Very Low Sulfur Fuel Oil"
+    },
+    {
+      "from": "VLSFO",
+      "to": "Very Low Sulfur Fuel Oil"
+    },
+    {
+      "from": "WACFS",
+      "to": "Washington Clean Fuel Standard Credits"
+    },
+    {
+      "from": "Europe 45 ICUMSA",
+      "to": "White Sugar"
+    },
+    {
+      "from": "White Sugar Premium",
+      "to": "White Sugar"
+    },
+    {
+      "from": "West Texas Intermediate (MEH)",
+      "to": "WTI Midland"
+    }
+  ],
+  "processing_log": [
+    {
+      "pdf": "Platts-J-Credit-FAQ.pdf",
+      "new_commodities_introduced": [
+        "Electricity"
+      ],
+      "new_count": 1
+    },
+    {
+      "pdf": "america-crude-specifications.pdf",
+      "new_commodities_introduced": [
+        "Al-Shaheen",
+        "Alaska North Slope",
+        "Azeri Light",
+        "Bonga",
+        "Brent",
+        "Butane",
+        "Castilla Blend",
+        "Das Blend",
+        "Dated Brent",
+        "Diesel",
+        "Djeno",
+        "Dubai Crude",
+        "Escalante",
+        "ESPO",
+        "Fuel Oil",
+        "Gasoil",
+        "Gasoline",
+        "Heavy Louisiana Sweet",
+        "High Sulfur Fuel Oil",
+        "Houston Ship Channel Gas",
+        "Isthmus",
+        "Jet Fuel",
+        "Kerosene",
+        "Kimanis",
+        "Light Louisiana Sweet",
+        "Liza",
+        "LPG",
+        "Mars Crude",
+        "Maya",
+        "Medanito",
+        "Minas",
+        "Murban",
+        "Naphtha",
+        "Napo",
+        "Nickel",
+        "Olmeca",
+        "Oman Crude",
+        "Oriente",
+        "Payara",
+        "Propane",
+        "Southern Green Canyon",
+        "Sulfur",
+        "Troll",
+        "Tupi",
+        "ULSD",
+        "Unity Gold",
+        "Upper Zakum",
+        "Urals",
+        "Vacuum Gas Oil",
+        "Vasconia",
+        "West Texas Intermediate",
+        "Western Canadian Select",
+        "WTI Midland"
+      ],
+      "new_count": 53
+    },
+    {
+      "pdf": "apac-me-crude-specifications.pdf",
+      "new_commodities_introduced": [
+        "Cinta",
+        "Dalia",
+        "Forties",
+        "Iron Ore Lump",
+        "Japan Korea Marker",
+        "Nile Blend",
+        "Widuri"
+      ],
+      "new_count": 7
+    },
+    {
+      "pdf": "biofuels-specifications.pdf",
+      "new_commodities_introduced": [
+        "Acetic Acid",
+        "Animal Feed",
+        "Beef",
+        "Biobunker Fuel",
+        "Biodiesel",
+        "Biomass-Based Diesel",
+        "Blendstocks",
+        "California Carbon Allowances",
+        "Canada Clean Fuel Regulation Credits",
+        "Canola",
+        "Corn",
+        "Crude Palm Oil",
+        "Distillers Corn Oil",
+        "Ethanol",
+        "HBE Advanced",
+        "HBE Annex IX B",
+        "HBE Conventional",
+        "HBE Other",
+        "Hydrogen",
+        "Hydrotreated Vegetable Oil",
+        "Low Carbon Fuel Standard Credits",
+        "Methanol",
+        "Natural Gas",
+        "Oregon Clean Fuel Program Credits",
+        "Palm Fatty Acid Distillate",
+        "Palm Kernel Oil",
+        "Palm Methyl Ester",
+        "Palm Oil Mill Effluent",
+        "Rapeseed Methyl Ester",
+        "Raw Sugar",
+        "Renewable Diesel",
+        "Renewable Identification Number",
+        "Soy Methyl Ester",
+        "Soybean Meal",
+        "Soybean Oil",
+        "Sunflower Oil",
+        "Sustainable Aviation Fuel",
+        "THG Annex IX B",
+        "THG Conventional",
+        "THG Other",
+        "Used Cooking Oil",
+        "Used Cooking Oil Methyl Ester",
+        "Vegetable Oils",
+        "Washington Clean Fuel Standard Credits"
+      ],
+      "new_count": 44
+    },
+    {
+      "pdf": "biofuels-timing-increment.pdf",
+      "new_commodities_introduced": [],
+      "new_count": 0
+    },
+    {
+      "pdf": "bunker-fuels-specifications.pdf",
+      "new_commodities_introduced": [
+        "Aluminum",
+        "EU Allowances",
+        "Marine Diesel Oil",
+        "Marine Gasoil",
+        "Phenol",
+        "Silicon",
+        "Very Low Sulfur Fuel Oil",
+        "Zinc"
+      ],
+      "new_count": 8
+    },
+    {
+      "pdf": "carbon-intensity-specifications.pdf",
+      "new_commodities_introduced": [
+        "AECO",
+        "Agbami",
+        "Algonquin City-Gates",
+        "Arab Light",
+        "Biomethane",
+        "Canadon Seco",
+        "Cold-Rolled Coil",
+        "Cuban Heavy",
+        "Dawn Ontario",
+        "Eastern Gas South",
+        "Ekofisk",
+        "Eurobob Gasoline",
+        "Galeota Mix",
+        "Girassol",
+        "Guarantees of Origin",
+        "Gullfaks",
+        "Henry Hub",
+        "Merey 16",
+        "Monoethylene Glycol",
+        "NGPL Midcontinent",
+        "Oseberg",
+        "PG&E Malin",
+        "Renewable Gas Guarantees of Origin",
+        "Renewable Natural Gas",
+        "Roncador Heavy",
+        "Rubiales",
+        "Saharan Blend",
+        "SoCal Gas",
+        "Statfjord",
+        "Transco Zone 6 Non-NY",
+        "Waha"
+      ],
+      "new_count": 31
+    },
+    {
+      "pdf": "carbon-markets-specifications.pdf",
+      "new_commodities_introduced": [
+        "Australian Carbon Credit Unit",
+        "Avoidance Carbon Credits",
+        "CORSIA Eligible Credit",
+        "International Carbon Credit",
+        "Korean Allowance Unit",
+        "Korean Offset Credit",
+        "New Zealand Unit",
+        "Normal Butanol",
+        "Removals Carbon Credits",
+        "RGGI Allowances",
+        "UK Allowances",
+        "Verified Carbon Standard Credits",
+        "Vinyl Chloride Monomer"
+      ],
+      "new_count": 13
+    },
+    {
+      "pdf": "cement-specifications.pdf",
+      "new_commodities_introduced": [
+        "Cement",
+        "Clinker",
+        "Ferroalloys",
+        "Ferrous Scrap",
+        "Iron Ore",
+        "Limestone",
+        "Phosphate Rock",
+        "Potash"
+      ],
+      "new_count": 8
+    },
+    {
+      "pdf": "chemicals-americas-specifications.pdf",
+      "new_commodities_introduced": [
+        "2-Ethyl Hexanol",
+        "Acetone",
+        "Acrylic Acid",
+        "Acrylic Fiber",
+        "Acrylonitrile",
+        "Acrylonitrile Butadiene Styrene",
+        "Adipic Acid",
+        "Ammonia",
+        "Benzene",
+        "Bisphenol-A",
+        "Butadiene",
+        "Butene-1",
+        "Butyl Acrylate",
+        "Caprolactam",
+        "Carbon Black",
+        "Caustic Soda",
+        "Chlorine",
+        "Cumene",
+        "Cyclohexane",
+        "Diethanolamine",
+        "Diethylene Glycol",
+        "Diisononyl Phthalate",
+        "Dioctyl Phthalate",
+        "Dioctyl Terephthalate",
+        "Epoxy Resin",
+        "Ethyl Acetate",
+        "Ethylbenzene",
+        "Ethylene",
+        "Ethylene Dichloride",
+        "Ethylene Oxide",
+        "Ethylene Vinyl Acetate",
+        "HDPE Bales",
+        "Hexane",
+        "Hexene-1",
+        "High Density Polyethylene",
+        "Hydrochloric Acid",
+        "Iron Ore Pellets",
+        "Iso-butanol",
+        "Isocyanates",
+        "Isopropyl Alcohol",
+        "LDPE Bales",
+        "Linear Low Density Polyethylene",
+        "Low Density Polyethylene",
+        "Methyl Ethyl Ketone",
+        "Methyl Methacrylate",
+        "Mixed Plastic Waste Bales",
+        "Mixed Xylenes",
+        "Monoethanolamine",
+        "MTBE",
+        "N-Butyl Acetate",
+        "Natural Rubber",
+        "Nylon",
+        "Octene-1",
+        "Orthoxylene",
+        "Paraxylene",
+        "PET Bottle Bales",
+        "Phthalic Anhydride",
+        "Polybutadiene Rubber",
+        "Polybutylene Terephthalate",
+        "Polycarbonate",
+        "Polyethylene",
+        "Polyethylene Terephthalate",
+        "Polymethyl Methacrylate",
+        "Polyols",
+        "Polyoxymethylene",
+        "Polypropylene",
+        "Polystyrene",
+        "Polyvinyl Chloride",
+        "Propylene",
+        "Propylene Oxide",
+        "Purified Terephthalic Acid",
+        "RBOB Gasoline",
+        "Recycled HDPE Pellets",
+        "Recycled LDPE Pellets",
+        "Recycled PET Flakes",
+        "Recycled PET Food-Grade Pellets",
+        "Soda Ash",
+        "Styrene Butadiene Rubber",
+        "Styrene Monomer",
+        "Toluene",
+        "Triethanolamine",
+        "Triethylene Glycol",
+        "Vinyl Acetate Monomer"
+      ],
+      "new_count": 83
+    },
+    {
+      "pdf": "chemicals-asia-pacific-specifications.pdf",
+      "new_commodities_introduced": [
+        "Lead",
+        "Raffinate-1"
+      ],
+      "new_count": 2
+    },
+    {
+      "pdf": "chemicals-europe-specifications.pdf",
+      "new_commodities_introduced": [
+        "Copper",
+        "ETBE",
+        "Recycled ABS",
+        "Recycled Polypropylene",
+        "Recycled Polystyrene"
+      ],
+      "new_count": 5
+    },
+    {
+      "pdf": "chemicals-timing.pdf",
+      "new_commodities_introduced": [],
+      "new_count": 0
+    },
+    {
+      "pdf": "coal-specifications.pdf",
+      "new_commodities_introduced": [
+        "Hard Coking Coal",
+        "Metallurgical Coal",
+        "Metallurgical Coke",
+        "Petroleum Coke",
+        "Pulverized Coal Injection Coal",
+        "Thermal Coal"
+      ],
+      "new_count": 6
+    },
+    {
+      "pdf": "crude-oil-market-parity-prices-specifications.pdf",
+      "new_commodities_introduced": [
+        "Bonny Light",
+        "Cabinda",
+        "Forcados",
+        "Hungo",
+        "Qua Iboe"
+      ],
+      "new_count": 5
+    },
+    {
+      "pdf": "dated-brent-month-ahead-calendar.pdf",
+      "new_commodities_introduced": [],
+      "new_count": 0
+    },
+    {
+      "pdf": "emea-crude-specifications.pdf",
+      "new_commodities_introduced": [
+        "Brent/Ninian Blend",
+        "CPC Blend"
+      ],
+      "new_count": 2
+    },
+    {
+      "pdf": "europe-natural-gas-specifications.pdf",
+      "new_commodities_introduced": [
+        "Dutch TTF",
+        "Liquefied Natural Gas",
+        "National Balancing Point",
+        "Zeebrugge Trading Point"
+      ],
+      "new_count": 4
+    },
+    {
+      "pdf": "european-electricity-specifications.pdf",
+      "new_commodities_introduced": [],
+      "new_count": 0
+    },
+    {
+      "pdf": "fertecon-specifications.pdf",
+      "new_commodities_introduced": [
+        "Ammonium Nitrate",
+        "Ammonium Sulfate",
+        "Ammonium Thiosulfate",
+        "Calcium Ammonium Nitrate",
+        "Diammonium Phosphate",
+        "Low-Carbon Ammonia",
+        "Monoammonium Phosphate",
+        "Sulfuric Acid",
+        "Triple Superphosphate",
+        "UAN Solution",
+        "Urea"
+      ],
+      "new_count": 11
+    },
+    {
+      "pdf": "freight-specifications.pdf",
+      "new_commodities_introduced": [
+        "Alumina",
+        "Coated Steel",
+        "Manganese",
+        "Stainless Steel",
+        "Wheat"
+      ],
+      "new_count": 5
+    },
+    {
+      "pdf": "global-biofuels.pdf",
+      "new_commodities_introduced": [],
+      "new_count": 0
+    },
+    {
+      "pdf": "grains-oilseeds-specifications.pdf",
+      "new_commodities_introduced": [
+        "Rice",
+        "Soybeans",
+        "Steel Plate"
+      ],
+      "new_count": 3
+    },
+    {
+      "pdf": "hydrogen-ammonia-methodology.pdf",
+      "new_commodities_introduced": [],
+      "new_count": 0
+    },
+    {
+      "pdf": "iron-ore-specifications.pdf",
+      "new_commodities_introduced": [
+        "Direct Reduced Iron",
+        "Iron Ore Concentrate",
+        "Iron Ore Fines",
+        "Pellet Feed"
+      ],
+      "new_count": 4
+    },
+    {
+      "pdf": "japan-domestic-oil-products-specifications.pdf",
+      "new_commodities_introduced": [],
+      "new_count": 0
+    },
+    {
+      "pdf": "lng-specifications.pdf",
+      "new_commodities_introduced": [
+        "Bio-LNG"
+      ],
+      "new_count": 1
+    },
+    {
+      "pdf": "lng-timing-specifications.pdf",
+      "new_commodities_introduced": [],
+      "new_count": 0
+    },
+    {
+      "pdf": "metals-timing-increment-guidelines.pdf",
+      "new_commodities_introduced": [],
+      "new_count": 0
+    },
+    {
+      "pdf": "metcoal-specifications.pdf",
+      "new_commodities_introduced": [
+        "Semi-Soft Coking Coal"
+      ],
+      "new_count": 1
+    },
+    {
+      "pdf": "mexico-natural-gas-methodology.pdf",
+      "new_commodities_introduced": [],
+      "new_count": 0
+    },
+    {
+      "pdf": "nonferrous-specifications.pdf",
+      "new_commodities_introduced": [
+        "Aluminum Alloy",
+        "Cathode Active Material",
+        "Cobalt",
+        "Copper Concentrate",
+        "Copper Scrap",
+        "Graphite",
+        "Lead Scrap",
+        "Lithium",
+        "Magnesium",
+        "Metallics",
+        "Nickel Pig Iron",
+        "Platinum",
+        "Rhodium",
+        "Steel Billet",
+        "Tin",
+        "Titanium",
+        "Zinc Secondary Alloys"
+      ],
+      "new_count": 17
+    },
+    {
+      "pdf": "north-sea-sulfur-de-escalator.pdf",
+      "new_commodities_introduced": [],
+      "new_count": 0
+    },
+    {
+      "pdf": "oil-timing-increment-guidelines.pdf",
+      "new_commodities_introduced": [
+        "Bitumen",
+        "Heating Oil"
+      ],
+      "new_count": 2
+    },
+    {
+      "pdf": "platts-forward-curve-oil-specifications.pdf",
+      "new_commodities_introduced": [],
+      "new_count": 0
+    },
+    {
+      "pdf": "proteins-specifications.pdf",
+      "new_commodities_introduced": [
+        "Pork",
+        "Poultry",
+        "Seafood"
+      ],
+      "new_count": 3
+    },
+    {
+      "pdf": "refined-products-americas-specifications.pdf",
+      "new_commodities_introduced": [
+        "Base Oil",
+        "Straight Run Fuel Oil"
+      ],
+      "new_count": 2
+    },
+    {
+      "pdf": "refined-products-asia-pacific-middle-east-specifications.pdf",
+      "new_commodities_introduced": [],
+      "new_count": 0
+    },
+    {
+      "pdf": "refined-products-europe-africa-specifications.pdf",
+      "new_commodities_introduced": [],
+      "new_count": 0
+    },
+    {
+      "pdf": "renewables-certificates-specifications.pdf",
+      "new_commodities_introduced": [
+        "Renewable Energy Certificate"
+      ],
+      "new_count": 1
+    },
+    {
+      "pdf": "russia-domestic-oil-products-specifications.pdf",
+      "new_commodities_introduced": [],
+      "new_count": 0
+    },
+    {
+      "pdf": "steel-ferrous-specifications.pdf",
+      "new_commodities_introduced": [
+        "Hot-Rolled Coil",
+        "Rebar",
+        "Steel Slab",
+        "Wire Rod"
+      ],
+      "new_count": 4
+    },
+    {
+      "pdf": "sugar-methodology.pdf",
+      "new_commodities_introduced": [
+        "White Sugar"
+      ],
+      "new_count": 1
+    },
+    {
+      "pdf": "sugar-specifications.pdf",
+      "new_commodities_introduced": [],
+      "new_count": 0
+    },
+    {
+      "pdf": "uranium-specifications.pdf",
+      "new_commodities_introduced": [
+        "Uranium"
+      ],
+      "new_count": 1
+    },
+    {
+      "pdf": "us-canada-natural-gas-methodology.pdf",
+      "new_commodities_introduced": [],
+      "new_count": 0
+    },
+    {
+      "pdf": "us-electricity-methodology.pdf",
+      "new_commodities_introduced": [],
+      "new_count": 0
+    },
+    {
+      "pdf": "world-jet-indexes-specifications.pdf",
+      "new_commodities_introduced": [],
+      "new_count": 0
+    }
+  ],
+  "needs_review": [
+    {
+      "term": "Ammonia",
+      "reason": "Can be fuel/energy carrier or fertilizer input. Kept in Energy > Hydrogen and Ammonia; also appears in fertilizer contexts.",
+      "chosen_category": "Energy > Hydrogen and Ammonia",
+      "source_pdfs": [
+        "chemicals-americas-specifications.pdf",
+        "fertecon-specifications.pdf",
+        "freight-specifications.pdf",
+        "hydrogen-ammonia-methodology.pdf"
+      ]
+    },
+    {
+      "term": "Naphtha",
+      "reason": "Can be refined product and petrochemical feedstock. Kept in Energy > Refined Products.",
+      "chosen_category": "Energy > Refined Products",
+      "source_pdfs": [
+        "america-crude-specifications.pdf",
+        "apac-me-crude-specifications.pdf",
+        "biofuels-specifications.pdf",
+        "chemicals-americas-specifications.pdf",
+        "chemicals-asia-pacific-specifications.pdf",
+        "chemicals-europe-specifications.pdf",
+        "freight-specifications.pdf",
+        "global-biofuels.pdf",
+        "lng-specifications.pdf",
+        "oil-timing-increment-guidelines.pdf",
+        "platts-forward-curve-oil-specifications.pdf",
+        "refined-products-americas-specifications.pdf",
+        "refined-products-asia-pacific-middle-east-specifications.pdf",
+        "refined-products-europe-africa-specifications.pdf"
+      ]
+    },
+    {
+      "term": "Methanol",
+      "reason": "Appears as chemical and marine fuel. Kept in Chemicals > Methanol and Ethers with MMF variant.",
+      "chosen_category": "Chemicals > Methanol and Ethers",
+      "source_pdfs": [
+        "biofuels-specifications.pdf",
+        "bunker-fuels-specifications.pdf",
+        "chemicals-americas-specifications.pdf",
+        "chemicals-asia-pacific-specifications.pdf",
+        "chemicals-europe-specifications.pdf",
+        "chemicals-timing.pdf",
+        "global-biofuels.pdf",
+        "refined-products-asia-pacific-middle-east-specifications.pdf"
+      ]
+    },
+    {
+      "term": "Sulfur",
+      "reason": "Appears as fertilizer commodity and crude/refined quality parameter. Kept in Agriculture > Fertilizers.",
+      "chosen_category": "Agriculture > Fertilizers",
+      "source_pdfs": [
+        "america-crude-specifications.pdf",
+        "apac-me-crude-specifications.pdf",
+        "biofuels-specifications.pdf",
+        "bunker-fuels-specifications.pdf",
+        "carbon-intensity-specifications.pdf",
+        "cement-specifications.pdf",
+        "chemicals-asia-pacific-specifications.pdf",
+        "chemicals-europe-specifications.pdf",
+        "coal-specifications.pdf",
+        "emea-crude-specifications.pdf",
+        "europe-natural-gas-specifications.pdf",
+        "european-electricity-specifications.pdf",
+        "fertecon-specifications.pdf",
+        "freight-specifications.pdf",
+        "global-biofuels.pdf",
+        "iron-ore-specifications.pdf",
+        "japan-domestic-oil-products-specifications.pdf",
+        "lng-specifications.pdf",
+        "metcoal-specifications.pdf",
+        "nonferrous-specifications.pdf",
+        "north-sea-sulfur-de-escalator.pdf",
+        "oil-timing-increment-guidelines.pdf",
+        "platts-forward-curve-oil-specifications.pdf",
+        "refined-products-americas-specifications.pdf",
+        "refined-products-asia-pacific-middle-east-specifications.pdf",
+        "refined-products-europe-africa-specifications.pdf",
+        "russia-domestic-oil-products-specifications.pdf",
+        "steel-ferrous-specifications.pdf"
+      ]
+    },
+    {
+      "term": "Coke",
+      "reason": "Used for both petroleum coke and metallurgical coke. Split into two commodities under Energy > Coal and Coke.",
+      "chosen_category": "Energy > Coal and Coke",
+      "source_pdfs": [
+        "bunker-fuels-specifications.pdf",
+        "coal-specifications.pdf",
+        "metcoal-specifications.pdf",
+        "nonferrous-specifications.pdf",
+        "steel-ferrous-specifications.pdf",
+        "us-canada-natural-gas-methodology.pdf"
+      ]
+    },
+    {
+      "term": "Fuel Oil",
+      "reason": "Generic label can overlap HSFO/VLSFO marine bunker products. Kept as parent commodity with separate HSFO/VLSFO entries.",
+      "chosen_category": "Energy > Refined Products",
+      "source_pdfs": [
+        "america-crude-specifications.pdf",
+        "bunker-fuels-specifications.pdf",
+        "chemicals-americas-specifications.pdf",
+        "chemicals-asia-pacific-specifications.pdf",
+        "chemicals-europe-specifications.pdf",
+        "europe-natural-gas-specifications.pdf",
+        "european-electricity-specifications.pdf",
+        "freight-specifications.pdf",
+        "japan-domestic-oil-products-specifications.pdf",
+        "lng-specifications.pdf",
+        "north-sea-sulfur-de-escalator.pdf",
+        "oil-timing-increment-guidelines.pdf",
+        "platts-forward-curve-oil-specifications.pdf",
+        "refined-products-americas-specifications.pdf",
+        "refined-products-asia-pacific-middle-east-specifications.pdf",
+        "refined-products-europe-africa-specifications.pdf",
+        "russia-domestic-oil-products-specifications.pdf"
+      ]
+    },
+    {
+      "term": "Freight",
+      "reason": "Freight rates are not physical commodities; excluded from categories and flagged for review if needed for headline routing.",
+      "chosen_category": "Excluded (non-commodity market service)",
+      "source_pdfs": [
+        "america-crude-specifications.pdf",
+        "apac-me-crude-specifications.pdf",
+        "biofuels-specifications.pdf",
+        "carbon-intensity-specifications.pdf",
+        "cement-specifications.pdf",
+        "chemicals-americas-specifications.pdf",
+        "chemicals-asia-pacific-specifications.pdf",
+        "chemicals-europe-specifications.pdf",
+        "coal-specifications.pdf",
+        "crude-oil-market-parity-prices-specifications.pdf",
+        "emea-crude-specifications.pdf",
+        "fertecon-specifications.pdf",
+        "freight-specifications.pdf",
+        "global-biofuels.pdf",
+        "grains-oilseeds-specifications.pdf",
+        "hydrogen-ammonia-methodology.pdf",
+        "iron-ore-specifications.pdf",
+        "lng-specifications.pdf",
+        "lng-timing-specifications.pdf",
+        "metcoal-specifications.pdf",
+        "nonferrous-specifications.pdf",
+        "refined-products-americas-specifications.pdf",
+        "refined-products-asia-pacific-middle-east-specifications.pdf",
+        "refined-products-europe-africa-specifications.pdf",
+        "russia-domestic-oil-products-specifications.pdf",
+        "steel-ferrous-specifications.pdf",
+        "sugar-methodology.pdf",
+        "sugar-specifications.pdf"
+      ]
+    },
+    {
+      "term": "Carbon Intensity",
+      "reason": "Carbon intensity is a metric rather than a tradable commodity. Related instruments are included under Environmental Markets.",
+      "chosen_category": "Excluded metric; related credits in Environmental Markets",
+      "source_pdfs": [
+        "biofuels-specifications.pdf",
+        "carbon-intensity-specifications.pdf",
+        "chemicals-asia-pacific-specifications.pdf",
+        "chemicals-europe-specifications.pdf",
+        "fertecon-specifications.pdf",
+        "global-biofuels.pdf",
+        "hydrogen-ammonia-methodology.pdf",
+        "iron-ore-specifications.pdf",
+        "lng-specifications.pdf"
+      ]
+    },
+    {
+      "term": "Electricity",
+      "reason": "Electricity appears as power index/assessment products rather than physical inventories. Kept in Energy > Power for taxonomy utility.",
+      "chosen_category": "Energy > Power",
+      "source_pdfs": [
+        "Platts-J-Credit-FAQ.pdf",
+        "biofuels-specifications.pdf",
+        "carbon-markets-specifications.pdf",
+        "coal-specifications.pdf",
+        "crude-oil-market-parity-prices-specifications.pdf",
+        "europe-natural-gas-specifications.pdf",
+        "european-electricity-specifications.pdf",
+        "global-biofuels.pdf",
+        "hydrogen-ammonia-methodology.pdf",
+        "renewables-certificates-specifications.pdf",
+        "us-canada-natural-gas-methodology.pdf",
+        "us-electricity-methodology.pdf"
+      ]
+    }
+  ]
+}
