@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-03-05T08:10:55.885556+00:00",
-    "total_articles": 144,
+    "last_updated": "2026-03-05T08:40:39.817149+00:00",
+    "total_articles": 152,
     "feeds_fetched": 13,
     "feeds_failed": 0,
     "feed_details": {
@@ -57,33 +57,39 @@
         "status": "ok",
         "count": 5
       }
-    },
-    "sentiment": {
-      "enabled": true,
-      "model": "ProsusAI/finbert",
-      "input_mode": "title",
-      "candidate_articles": 1,
-      "scored": 1,
-      "reused": 143,
-      "blank_text": 0,
-      "errors": 0,
-      "scored_at": "2026-03-05T08:10:55.676210+00:00",
-      "duration_ms": 195
-    },
-    "ner": {
-      "enabled": true,
-      "model": "en_core_web_lg",
-      "input_mode": "title",
-      "candidate_articles": 1,
-      "extracted": 1,
-      "reused": 143,
-      "blank_text": 0,
-      "errors": 0,
-      "extracted_at": "2026-03-05T08:10:55.872379+00:00",
-      "duration_ms": 12
     }
   },
   "articles": [
+    {
+      "id": "178de683b894211c",
+      "title": "Middle East LAB shipping woes fuel concern among buyers",
+      "description": "SINGAPORE (ICIS)--The conflict between the US, Israel and Iran and its apparent spread across the Middle East has fueled concerns among linear alkyl benzene (LAB) players in south and east Asia. The...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/05/11185792/middle-east-lab-shipping-woes-fuel-concern-among-buyers",
+      "published": "2026-03-05T08:23:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
+    {
+      "id": "b6c458fea5fe6722",
+      "title": "Rising container freight rates add onto costs for PTA importers",
+      "description": "SINGAPORE (ICIS)--Surging container freight rates as a result of the on-going conflict in the Middle East has raised concerns for lifting of purified terephthalic acid (PTA) cargoes in Asia...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/05/11185791/rising-container-freight-rates-add-onto-costs-for-pta-importers",
+      "published": "2026-03-05T08:20:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals, Shipping"
+    },
+    {
+      "id": "a0a35e8f4b4c3073",
+      "title": "Plant status: S Korea’s Lotte Chem eyes MMA unit maintenance in late March",
+      "description": "SINGAPORE (ICIS)--Here is a plant status report: Name: Lotte Chemical Location: Yeosu, South Korea Product: Methyl methacrylate (MMA) Capacity (tonnes/year): 50,000 Event start: Late March 2026 Event...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/05/11185790/plant-status-s-korea-s-lotte-chem-eyes-mma-unit-maintenance-in-late-march",
+      "published": "2026-03-05T08:10:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
     {
       "id": "e1726382f53e7b4c",
       "title": "Sinopec raises east China phenol offers by CNY400/tonne",
@@ -793,7 +799,7 @@
       "published": "2026-03-05T05:06:26+00:00",
       "source": "S&P Global",
       "feed": "S&P Oil - Crude",
-      "category": "Oil - Crude, Shipping",
+      "category": "Oil - Crude",
       "sentiment": {
         "label": "negative",
         "confidence": 0.7874425053596497,
@@ -1176,6 +1182,16 @@
       }
     },
     {
+      "id": "c6c09748e7b5ae45",
+      "title": "South Korea sees no LNG shortages despite Middle East supply disruptions",
+      "description": "South Korea said it sees no LNG shortages despite a production halt in Qatar and disruptions to transit through the Strait of Hormuz, as the country has sufficient stockpiles to buffer any short-term interruptions while preparing to secure alternative supplies. &quot;The country has sufficient LNG reserves for a considerable period, even if imports from Qatar are completely halted,&quot; an official at the",
+      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/lng/030526-south-korea-sees-no-lng-shortages-despite-middle-east-supply-disruptions",
+      "published": "2026-03-05T03:19:40+00:00",
+      "source": "S&P Global",
+      "feed": "S&P LNG",
+      "category": "LNG"
+    },
+    {
       "id": "ef233c9ee0faa783",
       "title": "ICIS Analyst View: South Asia's Exposed LNG Vulnerabilities and Navigating the Supply Shortfall",
       "description": "Following the Qatar shutdowns, which have effectively removed roughly 20% of global LNG supplies (approximately 6 million tonnes of LNG per month), South Asia appears to be one of the most vulnerable...",
@@ -1306,7 +1322,7 @@
       "published": "2026-03-04T23:24:48+00:00",
       "source": "S&P Global",
       "feed": "S&P Oil - Crude",
-      "category": "Oil - Crude, Shipping",
+      "category": "Oil - Crude",
       "sentiment": {
         "label": "neutral",
         "confidence": 0.8606355786323547,
@@ -1390,7 +1406,7 @@
       "published": "2026-03-04T22:44:58+00:00",
       "source": "S&P Global",
       "feed": "S&P Oil - Refined Products",
-      "category": "Oil - Refined Products, Agriculture",
+      "category": "Oil - Refined Products, Agriculture, Energy Transition",
       "sentiment": {
         "label": "negative",
         "confidence": 0.5980868935585022,
@@ -3489,7 +3505,7 @@
       "published": "2026-03-04T13:31:56+00:00",
       "source": "S&P Global",
       "feed": "S&P Oil - Crude",
-      "category": "Oil - Crude, Oil - Refined Products, Shipping",
+      "category": "Oil - Crude, Oil - Refined Products",
       "sentiment": {
         "label": "negative",
         "confidence": 0.7301303744316101,
@@ -3746,7 +3762,7 @@
       "published": "2026-03-04T12:21:43+00:00",
       "source": "S&P Global",
       "feed": "S&P Oil - Crude",
-      "category": "Oil - Crude, Shipping",
+      "category": "Oil - Crude",
       "sentiment": {
         "label": "positive",
         "confidence": 0.9101445078849792,
@@ -4089,7 +4105,7 @@
       "published": "2026-03-04T06:13:28+00:00",
       "source": "S&P Global",
       "feed": "S&P Oil - Refined Products",
-      "category": "Oil - Refined Products, Chemicals",
+      "category": "Oil - Refined Products",
       "sentiment": {
         "label": "positive",
         "confidence": 0.8225711584091187,
@@ -4261,7 +4277,7 @@
       "published": "2026-03-03T19:39:50+00:00",
       "source": "S&P Global",
       "feed": "S&P Oil - Crude",
-      "category": "Oil - Crude",
+      "category": "Oil - Crude, Shipping",
       "sentiment": {
         "label": "negative",
         "confidence": 0.7327628135681152,
@@ -4295,6 +4311,16 @@
       }
     },
     {
+      "id": "87bcb04610acb9f9",
+      "title": "Oil tankers eye floating storage as shipments from Persian Gulf at near standstill",
+      "description": "Oil tanker companies are exploring opportunities to store refined products in the Persian Gulf to ensure cash flow at a time when they are facing challenges loading and moving out of the region, several market participants said March 3. &quot;It&apos;s a commercial decision, as there is nothing [else] to do right now,&quot; a senior executive of a global oil tankers&apos; company that regularly loads cargoes of",
+      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/chemicals/030326-oil-tankers-eye-floating-storage-as-shipments-from-persian-gulf-at-near-standstill",
+      "published": "2026-03-03T19:20:10+00:00",
+      "source": "S&P Global",
+      "feed": "S&P Shipping",
+      "category": "Shipping"
+    },
+    {
       "id": "138e2d8b8d4ef71d",
       "title": "FACTBOX: Some global polymer trading restarts after initial war shock",
       "description": "Polymer market activity restarted March 3 among some Middle East and Indonesian producers and customers in India, Turkey and Africa, after trading effectively paused March 2, with most offers being withdrawn or suspended. Further production disruption began to surface in the market, following upstream Saudi Aramco&apos;s Ras Tanura oil refinery partial outage confirmed March 2. Indonesia&apos;s Chandra Asri",
@@ -4302,7 +4328,7 @@
       "published": "2026-03-03T16:33:27+00:00",
       "source": "S&P Global",
       "feed": "S&P Chemicals",
-      "category": "Chemicals",
+      "category": "Chemicals, Shipping",
       "sentiment": {
         "label": "neutral",
         "confidence": 0.5731379985809326,
@@ -4367,6 +4393,16 @@
         "text_hash": "4dfb64b03218bca16120a5ae6bf20906d1bec3621ca48ca412235ed49e755cd3",
         "extracted_at": "2026-03-04T21:02:23.135318+00:00"
       }
+    },
+    {
+      "id": "50894a722a9ab9be",
+      "title": "Container freight from West Coast India to Middle East hits record high amid war",
+      "description": "Container shipping rates from the west coast of India to the Middle East hit record highs, with twenty-foot equivalent unit rates up 750% and forty-foot equivalent unit rates up 909% as of March 2, driven by the war in the Middle East. Platts, part of S&amp;P Global Energy, assessed PCR 33 -- West Coast India to the Middle East -- at $2,775/FEU on March 2, up 909.1% day over day, and TCR 33 -- West",
+      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/shipping/030326-container-freight-from-west-coast-india-to-middle-east-hits-record-high-amid-war",
+      "published": "2026-03-03T12:20:53+00:00",
+      "source": "S&P Global",
+      "feed": "S&P Shipping",
+      "category": "Shipping"
     },
     {
       "id": "5755115cdd367203",
@@ -4516,8 +4552,8 @@
       "link": "https://www.spglobal.com/energy/en/news-research/latest-news/agriculture/030326-escalating-gulf-conflict-likely-to-weigh-on-beef-exports-from-india-australia",
       "published": "2026-03-03T07:17:04+00:00",
       "source": "S&P Global",
-      "feed": "S&P Agriculture",
-      "category": "Agriculture",
+      "feed": "S&P Shipping",
+      "category": "Shipping, Agriculture",
       "sentiment": {
         "label": "negative",
         "confidence": 0.9475045204162598,
@@ -4552,6 +4588,16 @@
         "text_hash": "b9421e8a2fb67b3f95cd7f29c584c36c37bdd949148d6cd91376679a298a4314",
         "extracted_at": "2026-03-04T21:02:23.135318+00:00"
       }
+    },
+    {
+      "id": "8bc517cfcd6090df",
+      "title": "Asia aromatics reach multimonth high after crude rally amid Middle East tensions",
+      "description": "Asian aromatics have reacted to crude oil hike amid the geopolitical tensions in the Middle East, with several aromatics products reaching a multi-month high on March 3. At 4:30 PM Singapore time (0830 GMT), the ICE May Brent futures contract was up $8.36/b (11.69%) from the previous close at $79.88/b March 3. Crude oil futures prices found inflationary pressure as shipping from the Strait of",
+      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/chemicals/030326-asia-aromatics-reach-multimonth-high-after-crude-rally-amid-middle-east-tensions",
+      "published": "2026-03-03T05:55:51+00:00",
+      "source": "S&P Global",
+      "feed": "S&P Chemicals",
+      "category": "Chemicals"
     },
     {
       "id": "f0f3188ac10f0fdf",
@@ -4628,6 +4674,16 @@
         "text_hash": "40eccabfb94e5cd5a1b66a6f25319b0e34f81554fe6ca1038a72440d8fbc1fd8",
         "extracted_at": "2026-03-04T21:02:23.135318+00:00"
       }
+    },
+    {
+      "id": "35eb0f93d79320d8",
+      "title": "War in the Middle East cools polymer trade in the Americas, fuels expectations of rising prices",
+      "description": "The war with Iran paralyzed polymer transactions from Asia and Middle East to the Americas on March 2, with offers of polyethylene, polypropylene, and polyvinyl chloride heard to be suspended, while transactions between the US and Latin America have also cooled amid a &quot;wait and see&quot; sentiment. In other chemical markets such as styrene, methanol, and tertiary butyl methyl ether, market participants",
+      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/chemicals/030326-war-in-the-middle-east-cools-polymer-trade-in-the-americas-fuels-expectations-of-rising-prices",
+      "published": "2026-03-03T00:24:46+00:00",
+      "source": "S&P Global",
+      "feed": "S&P Chemicals",
+      "category": "Chemicals"
     },
     {
       "id": "54d18740be8cfb08",
@@ -4756,7 +4812,7 @@
       "published": "2026-03-02T16:29:47+00:00",
       "source": "S&P Global",
       "feed": "S&P Agriculture",
-      "category": "Agriculture, Energy Transition",
+      "category": "Agriculture",
       "sentiment": {
         "label": "negative",
         "confidence": 0.6104215979576111,
