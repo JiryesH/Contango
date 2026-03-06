@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-03-06T07:08:48.802101+00:00",
-    "total_articles": 260,
+    "last_updated": "2026-03-06T07:53:18.916567+00:00",
+    "total_articles": 267,
     "feeds_fetched": 13,
     "feeds_failed": 0,
     "feed_details": {
@@ -60,6 +60,76 @@
     }
   },
   "articles": [
+    {
+      "id": "7037e11347205739",
+      "title": "India PP output may tighten as government prioritizes LPG production",
+      "description": "MUMBAI (ICIS)--Ongoing tensions in the Middle East have triggered fresh supply uncertainty across the crude oil and downstream value chains, raising concerns over potential tightening in India’s...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186270/india-pp-output-may-tighten-as-government-prioritizes-lpg-production",
+      "published": "2026-03-06T07:36:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Oil - Crude, Oil - Refined Products"
+    },
+    {
+      "id": "21abb2ceb2f964cc",
+      "title": "Asian recyclers see indirect impact from Middle East conflict",
+      "description": "SINGAPORE (ICIS)--Asian producers of recycled polyethylene terephthalate (rPET) and recycled polyethylene (rPE) have started to see spikes in shipping and waste collection costs from this week amid...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186269/asian-recyclers-see-indirect-impact-from-middle-east-conflict",
+      "published": "2026-03-06T07:23:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
+    {
+      "id": "3c66254cc1d5a3a5",
+      "title": "Plant status: China's Sinopec Great Wall resumes normal acetic acid operation",
+      "description": "SINGAPORE (ICIS)--Here is a plant status report: Name: Sinopec Great Wall Energy and Chemical Location: Ningdong, Ningxia, China Product: Acetic acid Capacity (tonnes/year): 410,000 Event start: 18...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186268/plant-status-china-s-sinopec-great-wall-resumes-normal-acetic-acid-operation",
+      "published": "2026-03-06T07:22:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
+    {
+      "id": "4ffcd21fd5e6f803",
+      "title": "Asia PET hits two-year high on feedstock surge, tighter supply worries",
+      "description": "SINGAPORE (ICIS)--Asia polyethylene terephthalate (PET) prices have hit a two-year high, owing to surging feedstock prices and worries about potential supply tightness. Spot offers in the week of 2-6...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186267/asia-pet-hits-two-year-high-on-feedstock-surge-tighter-supply-worries",
+      "published": "2026-03-06T07:18:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
+    {
+      "id": "24f0072e7614301f",
+      "title": "Plant status: Singapore's Aster issues FM on benzene",
+      "description": "SINGAPORE (ICIS)--Here is a plant status report: Name: Aster Chemicals and Energy Location: Pulau Bukom, Singapore Products: Benzene Capacity (tonnes/year): 290,000 Event start: 6 March 2026 Event...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186266/plant-status-singapore-s-aster-issues-fm-on-benzene",
+      "published": "2026-03-06T07:16:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
+    {
+      "id": "22e613f078554c72",
+      "title": "Plant status: China’s CSPC shuts HDPE unit and LLDPE line 1&2",
+      "description": "SINGAPORE (ICIS)--Here is a plant status report: Name: CNOOC and Shell Petrochemicals (CSPC) Location: Guangdong, China Product: High density polyethylene (HDPE), Linear low density polyethylene ...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186265/plant-status-china-s-cspc-shuts-hdpe-unit-and-lldpe-line-1-amp-2",
+      "published": "2026-03-06T07:14:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
+    {
+      "id": "1a1a486f03a50921",
+      "title": "Plant status: S Korea's LG Chem cuts Daesan phenol/acetone run rate to 60% on feedstock shortage",
+      "description": "SINGAPORE (ICIS)--Here is a plant status report: Name: LG Chem Location: Daesan, South Korea Product: Phenol; acetone Capacity (tonnes/year): 300,000 of phenol; 180,000 of acetone Event start: 6...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186263/plant-status-s-korea-s-lg-chem-cuts-daesan-phenol-acetone-run-rate-to-60-on-feedstock-shortage",
+      "published": "2026-03-06T07:12:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
     {
       "id": "2af831e40bcdd87b",
       "title": "Singapore's Aster declares force majeure on SM - sources",
