@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-03-06T18:24:05.827646+00:00",
-    "total_articles": 368,
+    "last_updated": "2026-03-06T19:10:35.149351+00:00",
+    "total_articles": 370,
     "feeds_fetched": 13,
     "feeds_failed": 0,
     "feed_details": {
@@ -60,6 +60,26 @@
     }
   },
   "articles": [
+    {
+      "id": "b35304eae2e3207e",
+      "title": "Gains in Asia base oils come into view, with India's short-lived cushion set to fade",
+      "description": "SINGAPORE (ICIS)--A week into the US–Iran conflict, the Asian base oil markets remain in flux, with market participants struggling to identify a new equilibrium amid daily shifts in sentiment and...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186453/gains-in-asia-base-oils-come-into-view-with-india-s-short-lived-cushion-set-to-fade",
+      "published": "2026-03-06T18:25:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Oil - Refined Products"
+    },
+    {
+      "id": "e508058c21bfd5b1",
+      "title": "Methanex sees 18-20 million tonnes/year of Middle East methanol exports shut in – CEO",
+      "description": "NEW YORK (ICIS)--Global methanol producer Methanex sees 18-20 million tonnes/year of Middle East supply constrained by the effective shut-in of the Strait of Hormuz, which will significantly impact...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186452/methanex-sees-18-20-million-tonnes-year-of-middle-east-methanol-exports-shut-in-ceo",
+      "published": "2026-03-06T18:18:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
     {
       "id": "a784ca0d38e55653",
       "title": "ICIS POWER INSIGHT WEEK 10 NEWS IN BRIEF",
