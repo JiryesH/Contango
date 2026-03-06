@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-03-05T23:41:26.197772+00:00",
-    "total_articles": 241,
+    "last_updated": "2026-03-06T01:00:19.776366+00:00",
+    "total_articles": 242,
     "feeds_fetched": 13,
     "feeds_failed": 0,
     "feed_details": {
@@ -317,8 +317,8 @@
       "link": "https://www.spglobal.com/energy/en/news-research/latest-news/agriculture/030526-dutch-ere-biotickets-trigger-strong-biomethane-gains",
       "published": "2026-03-05T16:38:44+00:00",
       "source": "S&P Global",
-      "feed": "S&P Agriculture",
-      "category": "Agriculture, Energy Transition"
+      "feed": "S&P Natural Gas",
+      "category": "Natural Gas, Agriculture"
     },
     {
       "id": "6982d15a27f92a20",
@@ -559,6 +559,16 @@
       "source": "ICIS",
       "feed": "ICIS",
       "category": "Chemicals"
+    },
+    {
+      "id": "25bc9f12d3a10da5",
+      "title": "Southeast Asia, China seen as alternate ammonia hubs amid Middle East conflict",
+      "description": "Southeast Asia and China&apos;s ammonia markets were increasingly viewed as alternative supply bases in the week ended March 5, as escalating tensions in the Middle East heightened concerns over disruptions to regional exports, six market sources in Asia said. Uncertainty surrounding Middle Eastern ammonia cargoes transiting the Strait of Hormuz prompted buyers to redirect sourcing toward Southeast",
+      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/agriculture/030526-southeast-asia-china-seen-as-alternate-ammonia-hubs-amid-middle-east-conflict",
+      "published": "2026-03-05T13:17:22+00:00",
+      "source": "S&P Global",
+      "feed": "S&P Fertilizers",
+      "category": "Fertilizers, Chemicals"
     },
     {
       "id": "42fbbfabd42fbf9e",
@@ -4838,7 +4848,7 @@
       "published": "2026-03-04T11:09:28+00:00",
       "source": "S&P Global",
       "feed": "S&P Fertilizers",
-      "category": "Fertilizers, Chemicals, Energy Transition"
+      "category": "Fertilizers"
     },
     {
       "id": "28253abca29c5680",
@@ -5245,7 +5255,7 @@
       "published": "2026-03-03T13:59:13+00:00",
       "source": "S&P Global",
       "feed": "S&P Natural Gas",
-      "category": "Natural Gas, Coal",
+      "category": "Natural Gas, Coal, Energy Transition",
       "sentiment": {
         "label": "positive",
         "confidence": 0.9157130122184753,
@@ -5650,8 +5660,8 @@
       "link": "https://www.spglobal.com/energy/en/news-research/latest-news/lng/030226-nwe-lng-swings-to-premium-over-ttf-as-markets-rally-on-middle-east-conflict",
       "published": "2026-03-02T19:22:48+00:00",
       "source": "S&P Global",
-      "feed": "S&P Natural Gas",
-      "category": "Natural Gas, LNG",
+      "feed": "S&P LNG",
+      "category": "LNG",
       "sentiment": {
         "label": "positive",
         "confidence": 0.6419748067855835,
