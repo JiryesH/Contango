@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-03-06T08:45:36.289452+00:00",
-    "total_articles": 275,
+    "last_updated": "2026-03-06T09:46:51.193495+00:00",
+    "total_articles": 282,
     "feeds_fetched": 13,
     "feeds_failed": 0,
     "feed_details": {
@@ -60,6 +60,66 @@
     }
   },
   "articles": [
+    {
+      "id": "b36929ecd013bdea",
+      "title": "ICIS TTF Early Day assessments: 6 March 2026",
+      "description": "- The ICIS TTF Early Day spread over ICIS East Asia Index (EAX) edged down to -6.622, reflecting that disruptions to Qatari supply are having a greater impact on East Asian markets than on Europe -...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186294/icis-ttf-early-day-assessments-6-march-2026",
+      "published": "2026-03-06T09:38:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Natural Gas"
+    },
+    {
+      "id": "f571a06ab1065b84",
+      "title": "Plant status: China’s Tianjin Bohai shuts PP unit",
+      "description": "SINGAPORE (ICIS)--Here is a plant status report: Name: Tianjin Bohai Chemical Group Location: Tianjin, China Product: Polypropylene (PP) Capacity (tonnes/year): 300,000 Event start: 6 March Event...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186293/plant-status-china-s-tianjin-bohai-shuts-pp-unit",
+      "published": "2026-03-06T09:37:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
+    {
+      "id": "84f45d6cce46c07f",
+      "title": "Maersk halts shipping services through Middle East from Asia and Europe due to conflict",
+      "description": "SINGAPORE (ICIS)--Maersk has suspended two services connecting the Middle East to Asia and Europe, due to the US-Israel war with Iran, the Danish shipping major said on Friday. “This decision has...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186292/maersk-halts-shipping-services-through-middle-east-from-asia-and-europe-due-to-conflict",
+      "published": "2026-03-06T09:35:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "General"
+    },
+    {
+      "id": "d334a20a0d747364",
+      "title": "South Korea's LG Chem declares FM on DOTP supplies",
+      "description": "SINGAPORE (ICIS)--South Korea's LG Chem has declared force majeure (FM) on plasticizers supplies due to feedstock shortage caused by the conflict between US-Israel and Iran, the company said in a...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186285/south-korea-s-lg-chem-declares-fm-on-dotp-supplies",
+      "published": "2026-03-06T09:12:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
+    {
+      "id": "aea3717f774896ae",
+      "title": "INSIGHT: How US-Iran tension may reroute Asia polyolefin trade and where US exports fit",
+      "description": "SINGAPORE (ICIS)--The tensions between the US and Iran have disrupted the Middle Eastern energy and petrochemical supply chains. For Asian polyolefin markets, the risk is more about physical supply...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186286/insight-how-us-iran-tension-may-reroute-asia-polyolefin-trade-and-where-us-exports-fit",
+      "published": "2026-03-06T09:12:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "General"
+    },
+    {
+      "id": "68e20c755e9651c7",
+      "title": "INSIGHT: Asia petrochemical output shrinks on feedstock supply woes",
+      "description": "SINGAPORE (ICIS)--With the prolonged closure of the Strait of Hormuz stopping the flow of a majority of Middle East crude oil and naphtha to Asia, petrochemical producers in northeast and southeast...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186281/insight-asia-petrochemical-output-shrinks-on-feedstock-supply-woes",
+      "published": "2026-03-06T08:42:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Oil - Crude, Oil - Refined Products"
+    },
     {
       "id": "ae9c71e6e95cef40",
       "title": "Asia MDI faces upward pressure amid spate of price hikes, feedstock concerns",
@@ -2734,6 +2794,16 @@
       }
     },
     {
+      "id": "b3d46c31d83f6692",
+      "title": "Brazilian small hydro plants expect a surge of new investments",
+      "description": "The Brazilian small hydroelectric sector is preparing for higher investments over the next few years, after several years of stagnation, as the government has resumed energy auctions focused on hydropower amid excess supply from intermittent wind and solar generation. The sector is increasingly optimistic after the government conducted an energy auction in August 2025, aimed specifically at buying",
+      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/energy-transition/030426-brazilian-small-hydro-plants-expect-a-surge-of-new-investments",
+      "published": "2026-03-04T20:33:08+00:00",
+      "source": "S&P Global",
+      "feed": "S&P Energy Transition",
+      "category": "Energy Transition"
+    },
+    {
       "id": "2b41bc23e9e91cd3",
       "title": "Container carriers implement emergency ops for cargo to, from several Middle East ports",
       "description": "HOUSTON (ICIS)--Container ship companies have implemented emergency operations for cargoes originating from or destined for the Middle East while the conflict between the US and Iran continues,...",
@@ -4545,7 +4615,7 @@
       "published": "2026-03-04T14:17:57+00:00",
       "source": "S&P Global",
       "feed": "S&P Agriculture",
-      "category": "Agriculture, Energy Transition",
+      "category": "Agriculture",
       "sentiment": {
         "label": "negative",
         "confidence": 0.9710545539855957,
