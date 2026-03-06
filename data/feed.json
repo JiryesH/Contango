@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-03-06T03:36:35.998005+00:00",
-    "total_articles": 247,
+    "last_updated": "2026-03-06T05:02:58.416498+00:00",
+    "total_articles": 251,
     "feeds_fetched": 13,
     "feeds_failed": 0,
     "feed_details": {
@@ -60,6 +60,46 @@
     }
   },
   "articles": [
+    {
+      "id": "20f57876ca305fca",
+      "title": "NOON SNAPSHOT - Asia Markets Summary",
+      "description": "CRUDE: Lower on hopes of further US intervention to calm energy markets roiled by the escalating Mideast conflict. BENZENE (FOB KOREA): Flat on thin talks. TOLUENE (FOB KOREA): Rangebound on limited...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186242/noon-snapshot-asia-markets-summary",
+      "published": "2026-03-06T03:58:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals, Oil - Crude"
+    },
+    {
+      "id": "fd87f9ee69b5e228",
+      "title": "China’s Sinopec increases benzene list prices by CNY300/tonne",
+      "description": "SINGAPORE (ICIS)--China’s Sinopec has increased its domestic benzene list prices by yuan (CNY) 300/tonne, a company source said on 6 March. Its benzene prices were adjusted to CNY7,500/tonne...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186240/china-s-sinopec-increases-benzene-list-prices-by-cny300-tonne",
+      "published": "2026-03-06T03:54:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
+    {
+      "id": "8ad766f53067c602",
+      "title": "China domestic OX prices up, second time in a week",
+      "description": "SINGAPORE (ICIS)--China orthoxylene (OX) prices in the domestic market rose further by yuan (CNY) 200/tonne amid rising feedstock costs. Local China OX prices stand at CNY7,000/tonne ex-warehouse...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186238/china-domestic-ox-prices-up-second-time-in-a-week",
+      "published": "2026-03-06T03:42:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
+    {
+      "id": "f8cc06c266a30063",
+      "title": "China major producers’ polyolefin inventories fall amid rising buying activities",
+      "description": "SINGAPORE (ICIS)--The combined polyethylene (PE) and polypropylene (PP) inventories of Chinese state-owned petrochemical giants Sinopec and PetroChina fell amid increasing buying activities, market...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186236/china-major-producers-polyolefin-inventories-fall-amid-rising-buying-activities",
+      "published": "2026-03-06T03:31:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
     {
       "id": "a409e90545a98dbb",
       "title": "Plant status: China's CSPC shuts No 2 MEG unit",
