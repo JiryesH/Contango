@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-03-06T10:41:36.033102+00:00",
-    "total_articles": 289,
+    "last_updated": "2026-03-06T11:16:16.999184+00:00",
+    "total_articles": 292,
     "feeds_fetched": 13,
     "feeds_failed": 0,
     "feed_details": {
@@ -60,6 +60,36 @@
     }
   },
   "articles": [
+    {
+      "id": "95e76b7aca4c8504",
+      "title": "INSIGHT: Europe polyethylene market under strain as Hormuz crisis pushes up costs, constrains import supply",
+      "description": "GALLARATE, Italy (ICIS)--The escalating conflict between the US and Iran has severely impacted logistics in the Middle East. The Strait of Hormuz, a crucial route for oil, chemicals, and LNG, has...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186323/insight-europe-polyethylene-market-under-strain-as-hormuz-crisis-pushes-up-costs-constrains-import-supply",
+      "published": "2026-03-06T11:03:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals, LNG"
+    },
+    {
+      "id": "a4e810556906ec8c",
+      "title": "Europe oxo-alcohols prices surge amid Middle East-driven spike in feedstock and energy costs",
+      "description": "LONDON (ICIS)--European oxo-alcohols spot prices increased this week following spikes in feedstock and energy costs amid escalating tensions in the Middle East. IBA spot values hiked to...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186321/europe-oxo-alcohols-prices-surge-amid-middle-east-driven-spike-in-feedstock-and-energy-costs",
+      "published": "2026-03-06T10:58:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
+    {
+      "id": "09318d6783e6566e",
+      "title": "Europe plasticizers spot prices firm as Middle East conflict lifts feedstock and energy costs",
+      "description": "LONDON (ICIS)--European plasticizer spot prices firmed this week following a surge in feedstock and energy costs linked to the latest disruptions in the Middle East. The dioctyl terephthalate (DOTP)...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186319/europe-plasticizers-spot-prices-firm-as-middle-east-conflict-lifts-feedstock-and-energy-costs",
+      "published": "2026-03-06T10:53:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
     {
       "id": "8559948b71d212a1",
       "title": "INSIGHT: Middle East conflict further tightens Europe MMA market",
