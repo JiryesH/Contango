@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-03-06T09:46:51.193495+00:00",
-    "total_articles": 282,
+    "last_updated": "2026-03-06T10:41:36.033102+00:00",
+    "total_articles": 289,
     "feeds_fetched": 13,
     "feeds_failed": 0,
     "feed_details": {
@@ -60,6 +60,66 @@
     }
   },
   "articles": [
+    {
+      "id": "8559948b71d212a1",
+      "title": "INSIGHT: Middle East conflict further tightens Europe MMA market",
+      "description": "LONDON (ICIS)--The conflict in the Middle East is exacerbating the tightness that has developed in the Europe methyl methacrylate (MMA) market in Q1 2026. The immediate impact of the conflict has...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186311/insight-middle-east-conflict-further-tightens-europe-mma-market",
+      "published": "2026-03-06T10:31:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
+    {
+      "id": "755dbc180a3d8abc",
+      "title": "Global urea prices spike as Middle East conflict slams key supply routes",
+      "description": "LONDON (ICIS)--Urea prices have jumped by up to 35%, hitting a three-year high, as buyers scramble for replacement volumes following major supply disruptions triggered by the Middle East conflict....",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186310/global-urea-prices-spike-as-middle-east-conflict-slams-key-supply-routes",
+      "published": "2026-03-06T10:23:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Fertilizers"
+    },
+    {
+      "id": "3d1790b2425587fd",
+      "title": "Plant status: S Korea’s Hanwha Solutions declares FM on EDC and related production",
+      "description": "SINGAPORE (ICIS)--Here is a plant status report: Name: Hanwha Solutions Location: Yeosu, South Korea Products: Ethylene dichloride, caustic soda Capacity (tonnes/year): 280,000 (EDC Lines No 9 and...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186308/plant-status-s-korea-s-hanwha-solutions-declares-fm-on-edc-and-related-production",
+      "published": "2026-03-06T10:19:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
+    {
+      "id": "983f811f09101b09",
+      "title": "EVENING SNAPSHOT - Asia Markets Summary",
+      "description": "CRUDE: Higher on growing Arab Gulf supply disruption concerns as the US-Iran conflict effectively closes the Strait of Hormuz. NAPHTHA (CFR JAPAN): Up on severe spot supply crunch. BENZENE (FOB...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186305/evening-snapshot-asia-markets-summary",
+      "published": "2026-03-06T10:13:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals, Oil - Refined Products"
+    },
+    {
+      "id": "ef4404f7b84aee2a",
+      "title": "Middle East tensions lift China PE market on cost surges, import disruption",
+      "description": "SINGAPORE (ICIS)--China’s polyethylene (PE) prices have surged in recent days as the escalating conflict between the US, Israel and Iran has pushed crude futures sharply higher and disrupted import...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186304/middle-east-tensions-lift-china-pe-market-on-cost-surges-import-disruption",
+      "published": "2026-03-06T10:08:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals, Oil - Crude"
+    },
+    {
+      "id": "076ca43def503397",
+      "title": "Plant status: China's Haiquan Chemical to shut VAM plant in late March",
+      "description": "SINGAPORE (ICIS)--Here is a plant status report: Name: Haiquan Chemical Location: Zhangzhou, Fujian, China Product: Vinyl acetate monomer (VAM) Capacity (tonnes/year): 200,000 Event start: 20 March...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186295/plant-status-china-s-haiquan-chemical-to-shut-vam-plant-in-late-march",
+      "published": "2026-03-06T09:43:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
     {
       "id": "b36929ecd013bdea",
       "title": "ICIS TTF Early Day assessments: 6 March 2026",
@@ -591,6 +651,16 @@
       "category": "General"
     },
     {
+      "id": "3d560e6728ef2d38",
+      "title": "FACTBOX: Fresh attacks hit shipping, energy operations in the Middle East",
+      "description": "Oil producers and exporters in the Middle East continue to face severe restrictions on shipping through the Strait of Hormuz and ongoing attacks on energy infrastructure. &quot;The scale and duration of a price spike will depend on how much oil is kept off the market â&#x20ac;&#x201d; and for how long â&#x20ac;&#x201d; due to danger in the strait, higher shipping insurance rates or damaged Gulf infrastructure,&quot; analysts at S&amp;P Global",
+      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/crude-oil/030526-factbox-fresh-attacks-hit-shipping-energy-operations-in-the-middle-east",
+      "published": "2026-03-05T17:33:47+00:00",
+      "source": "S&P Global",
+      "feed": "S&P Oil - Crude",
+      "category": "Oil - Crude, Oil - Refined Products, Shipping"
+    },
+    {
       "id": "a10b6006831f48b9",
       "title": "EVENING SNAPSHOT - Europe Markets Summary",
       "description": "CRUDE: Higher as conflict threatens to spread further across the Middle East NAPHTHA: Increases as crude rallies further in a cautious market BENZENE: Firms with crude; No fresh trade reported amid...",
@@ -917,8 +987,8 @@
       "link": "https://www.spglobal.com/energy/en/news-research/latest-news/chemicals/030526-european-and-turkish-pvc-prices-spike-on-supply-chain-disruptions-higher-production-costs",
       "published": "2026-03-05T14:23:27+00:00",
       "source": "S&P Global",
-      "feed": "S&P Oil - Refined Products",
-      "category": "Oil - Refined Products, Chemicals, Shipping"
+      "feed": "S&P Chemicals",
+      "category": "Chemicals, Shipping"
     },
     {
       "id": "4a01c68761c4522f",
@@ -1675,8 +1745,8 @@
       "link": "https://www.spglobal.com/energy/en/news-research/latest-news/agriculture/030526-australian-wheat-demand-stands-to-rise-in-southeast-asia-amid-middle-east-conflict",
       "published": "2026-03-05T07:28:20+00:00",
       "source": "S&P Global",
-      "feed": "S&P Shipping",
-      "category": "Shipping, Agriculture"
+      "feed": "S&P Agriculture",
+      "category": "Agriculture"
     },
     {
       "id": "d2b13594829a7bb7",
