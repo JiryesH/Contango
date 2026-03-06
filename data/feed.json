@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-03-06T01:00:19.776366+00:00",
-    "total_articles": 242,
+    "last_updated": "2026-03-06T03:36:35.998005+00:00",
+    "total_articles": 247,
     "feeds_fetched": 13,
     "feeds_failed": 0,
     "feed_details": {
@@ -60,6 +60,56 @@
     }
   },
   "articles": [
+    {
+      "id": "a409e90545a98dbb",
+      "title": "Plant status: China's CSPC shuts No 2 MEG unit",
+      "description": "SINGAPORE (ICIS)--Here is a plant status report: Name: CNOOC and Shell Petrochemicals Company (CSPC) Location: Guangdong, China Product: Monoethylene glycol (MEG) Capacity (tonnes/year): 480,000 (No...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186229/plant-status-china-s-cspc-shuts-no-2-meg-unit",
+      "published": "2026-03-06T02:41:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
+    {
+      "id": "e83ccbe758a79098",
+      "title": "East China MEG inventories rise further due to limited recovery in offtakes",
+      "description": "SINGAPORE (ICIS)--Monoethylene glycol (MEG) inventories in east China increased further to 977,000 tonnes on 6 March, up by around 3.7% from 27 February, ICIS data showed, largely due to limited...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186228/east-china-meg-inventories-rise-further-due-to-limited-recovery-in-offtakes",
+      "published": "2026-03-06T02:35:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
+    {
+      "id": "6b51abbaa46e4229",
+      "title": "Oil prices retreat on hopes of US intervention to stabilize market",
+      "description": "SINGAPORE (ICIS)--Oil prices fell in early Asian trade on Friday on hopes that the US will intervene to stabilize energy markets following strong gains fueled by escalating conflict in the Middle...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186222/oil-prices-retreat-on-hopes-of-us-intervention-to-stabilize-market",
+      "published": "2026-03-06T02:05:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Oil - Crude"
+    },
+    {
+      "id": "7613ace8ff7d6b9f",
+      "title": "Export prices for S Korea isomer MX surge for fourth consecutive session on oil hikes",
+      "description": "SINGAPORE (ICIS)--Spot prices for isomer grade mixed xylenes (MX) from South Korea continued to climb for a fourth consecutive day as of 5 March, buoyed by mounting fears over increasing oil supply...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186221/export-prices-for-s-korea-isomer-mx-surge-for-fourth-consecutive-session-on-oil-hikes",
+      "published": "2026-03-06T01:59:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
+    {
+      "id": "17c98260754dadff",
+      "title": "Major Indian PVC producer hikes list prices amid Middle East tensions",
+      "description": "MUMBAI (ICIS)--A major Indian polyvinyl chloride (PVC) producer has increased its PVC list price by rupees (Rs) 5,000/tonne, effective 4 March 2026. The revised list price is equivalent to around...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186219/major-indian-pvc-producer-hikes-list-prices-amid-middle-east-tensions",
+      "published": "2026-03-06T01:50:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
     {
       "id": "d8347bf88e896700",
       "title": "EVENING SNAPSHOT - Americas Markets Summary",
@@ -318,7 +368,7 @@
       "published": "2026-03-05T16:38:44+00:00",
       "source": "S&P Global",
       "feed": "S&P Natural Gas",
-      "category": "Natural Gas, Agriculture"
+      "category": "Natural Gas, Agriculture, Energy Transition"
     },
     {
       "id": "6982d15a27f92a20",
@@ -568,7 +618,7 @@
       "published": "2026-03-05T13:17:22+00:00",
       "source": "S&P Global",
       "feed": "S&P Fertilizers",
-      "category": "Fertilizers, Chemicals"
+      "category": "Fertilizers, Chemicals, Energy Transition"
     },
     {
       "id": "42fbbfabd42fbf9e",
@@ -5255,7 +5305,7 @@
       "published": "2026-03-03T13:59:13+00:00",
       "source": "S&P Global",
       "feed": "S&P Natural Gas",
-      "category": "Natural Gas, Coal, Energy Transition",
+      "category": "Natural Gas, Coal",
       "sentiment": {
         "label": "positive",
         "confidence": 0.9157130122184753,
