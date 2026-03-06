@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-03-06T11:16:16.999184+00:00",
-    "total_articles": 292,
+    "last_updated": "2026-03-06T11:52:40.586980+00:00",
+    "total_articles": 296,
     "feeds_fetched": 13,
     "feeds_failed": 0,
     "feed_details": {
@@ -60,6 +60,36 @@
     }
   },
   "articles": [
+    {
+      "id": "57d25c57de920eae",
+      "title": "Asia weekly VAM assessment",
+      "description": "Non-ethylene based vinyl acetate monomer (VAM) prices are assessed at $850-870/tonne FOB...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186350/asia-weekly-vam-assessment",
+      "published": "2026-03-06T11:44:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
+    {
+      "id": "c7043d1222be724c",
+      "title": "Europe considers discretionary biofuel blending as fossil fuel prices spike",
+      "description": "LONDON (ICIS)--The rise in gasoil and gasoline prices brought on by the war in the Middle East is boosting the economic case for temporarily increasing biofuels blending in Europe, as the pricing...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186344/europe-considers-discretionary-biofuel-blending-as-fossil-fuel-prices-spike",
+      "published": "2026-03-06T11:33:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Energy Transition, Oil - Refined Products"
+    },
+    {
+      "id": "9eed859be19e3483",
+      "title": "PODCAST: Europe ABS ADDs to shape shifts in Asia import market share",
+      "description": "LONDON (ICIS)--Europe acrylonitrile butadiene styrene (ABS) editor Stephanie Wix, Asia ABS senior editor Angeline Soh, and senior data analyst Yolanda Chen discuss the impact of the recently...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186337/podcast-europe-abs-adds-to-shape-shifts-in-asia-import-market-share",
+      "published": "2026-03-06T11:20:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
     {
       "id": "95e76b7aca4c8504",
       "title": "INSIGHT: Europe polyethylene market under strain as Hormuz crisis pushes up costs, constrains import supply",
@@ -199,6 +229,16 @@
       "source": "ICIS",
       "feed": "ICIS",
       "category": "General"
+    },
+    {
+      "id": "c3ba752b460c4aa9",
+      "title": "Tanker charterers cancel voyages, defer deals; owners seek routes outside Gulf",
+      "description": "Trading companies and oil importers have deferred chartering for several tankers in the Persian Gulf and released those previously hired, prompting owners to seek employment elsewhere to maintain cash flow, several Asia-based shipping brokers, owners and charterers told Platts, part of S&amp;P Global Energy, March 5. At least half a dozen Long Range (LR) tankers were released in the last 24 hours",
+      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/shipping/030626-tanker-charterers-cancel-voyages-defer-deals-owners-seek-routes-outside-gulf",
+      "published": "2026-03-06T08:42:32+00:00",
+      "source": "S&P Global",
+      "feed": "S&P Oil - Refined Products",
+      "category": "Oil - Refined Products, Shipping"
     },
     {
       "id": "68e20c755e9651c7",
@@ -767,8 +807,8 @@
       "link": "https://www.spglobal.com/energy/en/news-research/latest-news/crude-oil/030526-iran-says-targeting-western-linked-ships-at-hormuz-denies-full-closure",
       "published": "2026-03-05T17:02:12+00:00",
       "source": "S&P Global",
-      "feed": "S&P Oil - Refined Products",
-      "category": "Oil - Refined Products, Shipping"
+      "feed": "S&P Shipping",
+      "category": "Shipping"
     },
     {
       "id": "e5761e26c655c236",
@@ -807,8 +847,8 @@
       "link": "https://www.spglobal.com/energy/en/news-research/latest-news/agriculture/030526-dutch-ere-biotickets-trigger-strong-biomethane-gains",
       "published": "2026-03-05T16:38:44+00:00",
       "source": "S&P Global",
-      "feed": "S&P Natural Gas",
-      "category": "Natural Gas, Agriculture, Energy Transition"
+      "feed": "S&P Agriculture",
+      "category": "Agriculture, Energy Transition"
     },
     {
       "id": "6982d15a27f92a20",
@@ -6160,8 +6200,8 @@
       "link": "https://www.spglobal.com/energy/en/news-research/latest-news/lng/030226-nwe-lng-swings-to-premium-over-ttf-as-markets-rally-on-middle-east-conflict",
       "published": "2026-03-02T19:22:48+00:00",
       "source": "S&P Global",
-      "feed": "S&P LNG",
-      "category": "LNG",
+      "feed": "S&P Natural Gas",
+      "category": "Natural Gas, LNG",
       "sentiment": {
         "label": "positive",
         "confidence": 0.6419748067855835,
