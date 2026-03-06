@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-03-06T21:03:08.982229+00:00",
-    "total_articles": 379,
+    "last_updated": "2026-03-06T21:44:54.035832+00:00",
+    "total_articles": 381,
     "feeds_fetched": 13,
     "feeds_failed": 0,
     "feed_details": {
@@ -60,6 +60,26 @@
     }
   },
   "articles": [
+    {
+      "id": "d3817f15a4595b67",
+      "title": "Americas feedstocks and polymers weekly summary",
+      "description": "HOUSTON (ICIS)--Here is a summary of major markets in Americas for the week ended 6 March. UPSTREAM Crude Crude futures spiked through $90/barrel, finished up for sixth consecutive session...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186463/americas-feedstocks-and-polymers-weekly-summary",
+      "published": "2026-03-06T21:18:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals, Oil - Crude"
+    },
+    {
+      "id": "1b59fc9dfac5808e",
+      "title": "US government announces $20 billion plan for maritime reinsurance in Middle East",
+      "description": "HOUSTON (ICIS)--The US will provide maritime reinsurance, including war risk, for tankers transiting the Strait of Hormuz, the International Development Finance Corporation (DFC) said on Friday. The...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186462/us-government-announces-20-billion-plan-for-maritime-reinsurance-in-middle-east",
+      "published": "2026-03-06T21:00:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "General"
+    },
     {
       "id": "177220e3dfc1a8eb",
       "title": "CRUDE SUMMARY: Crude’s weekly price rise highest since 2022, further gains likely next week",
