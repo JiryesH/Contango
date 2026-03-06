@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-03-06T21:44:54.035832+00:00",
-    "total_articles": 381,
+    "last_updated": "2026-03-06T22:01:59.632445+00:00",
+    "total_articles": 386,
     "feeds_fetched": 13,
     "feeds_failed": 0,
     "feed_details": {
@@ -60,6 +60,56 @@
     }
   },
   "articles": [
+    {
+      "id": "7e00a6729b10d9ed",
+      "title": "Multiple US acetone price increases emerge separately amid US-Iran conflict",
+      "description": "HOUSTON (ICIS)--Multiple US acetone price increases have emerged separately this week, according to market sources and customer letters seen by ICIS. The following price increases are being sought...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186468/multiple-us-acetone-price-increases-emerge-separately-amid-us-iran-conflict",
+      "published": "2026-03-06T21:55:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
+    {
+      "id": "473e999444641d27",
+      "title": "Update to ICIS Topics: US-Iran conflict - impact on chemicals and energy",
+      "description": "Visit the ICIS US-Iran conflict: impact on chemical and energy markets topic page for latest updates and analysis. Five key takeaways for global chemicals and plastics Additional charts on top...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186467/update-to-icis-topics-us-iran-conflict-impact-on-chemicals-and-energy",
+      "published": "2026-03-06T21:53:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
+    {
+      "id": "16cd35e0d383a7c5",
+      "title": "Brazil’s Petrobras naphtha sales plunge but booming upstream offsets weak refinery mix",
+      "description": "SAO PAULO (ICIS)--Petrobras reported a sharp decline in naphtha sales in Q4 and in 2025 overall, year on year, but the Brazilian state-owned oil company fell short to expand on the causes for such a...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186466/brazil-s-petrobras-naphtha-sales-plunge-but-booming-upstream-offsets-weak-refinery-mix",
+      "published": "2026-03-06T21:50:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Oil - Refined Products"
+    },
+    {
+      "id": "1bc20ceb0701820f",
+      "title": "NYMEX: US gas futures rise on increased demand signals, and tightened gas storage",
+      "description": "Front-month US natural gas futures rose on 6 March on colder weather, recovering US LNG feedgas demand and large gas storage withdrawal The April 2026 Henry Hub contract on NYMEX settled at...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186465/nymex-us-gas-futures-rise-on-increased-demand-signals-and-tightened-gas-storage",
+      "published": "2026-03-06T21:43:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Natural Gas, LNG"
+    },
+    {
+      "id": "c38f884ead0bfe26",
+      "title": "INSIGHT: Three key pressures shaping the US PET resin market amid the Iran escalation",
+      "description": "HOUSTON (ICIS)--Three key factors are defining the outlook for the US polyethylene terephthalate (PET) resin market as feedstocks strengthen, trade policy uncertainty grows, and global fundamentals...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186464/insight-three-key-pressures-shaping-the-us-pet-resin-market-amid-the-iran-escalation",
+      "published": "2026-03-06T21:42:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
     {
       "id": "d3817f15a4595b67",
       "title": "Americas feedstocks and polymers weekly summary",
