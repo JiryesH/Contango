@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-03-06T15:50:01.657185+00:00",
-    "total_articles": 337,
+    "last_updated": "2026-03-06T16:50:30.341521+00:00",
+    "total_articles": 347,
     "feeds_fetched": 13,
     "feeds_failed": 0,
     "feed_details": {
@@ -60,6 +60,106 @@
     }
   },
   "articles": [
+    {
+      "id": "cd2fd76930ab4962",
+      "title": "Europe markets continue to sink, global chems supply tightens",
+      "description": "LONDON (ICIS)--European equities continued to slide on Friday as the first week of the escalating conflict in the Middle East comes to a close, with chemicals stocks also down as outages across the...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186429/europe-markets-continue-to-sink-global-chems-supply-tightens",
+      "published": "2026-03-06T16:26:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "General"
+    },
+    {
+      "id": "9fbd02ce2dea8eea",
+      "title": "Europe pivots to north Africa for ammonia as Iran conflict chokes Middle East supply",
+      "description": "LONDON (ICIS)--European ammonia buyers are turning to north Africa for tonnes, as natural gas prices have risen and no product is coming out of the Middle East due to the Iran conflict. This week,...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186428/europe-pivots-to-north-africa-for-ammonia-as-iran-conflict-chokes-middle-east-supply",
+      "published": "2026-03-06T16:22:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Natural Gas, Energy Transition"
+    },
+    {
+      "id": "24ab27553fdf980d",
+      "title": "French April ’26 and winter power contracts price in largest risk premium amid US-Iran conflict",
+      "description": "French April ’26 and winter contracts post largest gains among curve products since outbreak of US-Iran conflict May, June power contracts less bullish as gas price linkage is less strong French...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186427/french-april-26-and-winter-power-contracts-price-in-largest-risk-premium-amid-us-iran-conflict",
+      "published": "2026-03-06T16:19:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Electric Power"
+    },
+    {
+      "id": "5d6cbbc7e0d713af",
+      "title": "US retail sales fall 0.2% in January",
+      "description": "HOUSTON (ICIS)--US retail and food services sales fell 0.2% month on month to $733.5 billion in January, after coming in flat in December, the US Census Bureau said in a delayed report on Friday. The...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186426/us-retail-sales-fall-0-2-in-january",
+      "published": "2026-03-06T16:16:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "General"
+    },
+    {
+      "id": "54945323b14abdb0",
+      "title": "Latest issue of ICIS Chemical Business now live - Iran war impacts",
+      "description": "NEW YORK (ICIS)--The latest issue of ICIS Chemical Business is now live. Under \"Latest Issue\" click \"Download\" to access the PDF magazine. Iran war shuts in chemicals and plastics exports through the...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186425/latest-issue-of-icis-chemical-business-now-live-iran-war-impacts",
+      "published": "2026-03-06T16:09:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
+    {
+      "id": "65ad385a52337338",
+      "title": "VIDEO: Europe rPET waits for impact of Middle East Conflict",
+      "description": "LONDON (ICIS)--Senior Editor for Recycling, Matt Tudball, discusses the latest developments in the European recycled polyethylene terephthalate (rPET) market, including: March prices stable at start...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186424/video-europe-rpet-waits-for-impact-of-middle-east-conflict",
+      "published": "2026-03-06T16:05:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
+    {
+      "id": "4b12d1cd281984a1",
+      "title": "Romanian government mulls price cap for industrial consumers as new household tariffs adopted",
+      "description": "Industrial and household price caps could bring activity on the forward market to a standstill Household tariffs to be calculated based on formula Domestic producers forced to sell at lower prices...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186422/romanian-government-mulls-price-cap-for-industrial-consumers-as-new-household-tariffs-adopted",
+      "published": "2026-03-06T16:04:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "General"
+    },
+    {
+      "id": "a4629955299e13db",
+      "title": "WEEKLY GAS OUTLOOK: Global gas markets hinge on duration of Qatari LNG shutdown",
+      "description": "LONDON (ICIS)--The ongoing US-Iran conflict, resulting effective closure of the Strait of Hormuz, and associated Qatari LNG shutdown will remain the key drivers on European gas markets in week 11....",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186421/weekly-gas-outlook-global-gas-markets-hinge-on-duration-of-qatari-lng-shutdown",
+      "published": "2026-03-06T15:57:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "LNG"
+    },
+    {
+      "id": "083843192e8a5041",
+      "title": "European phenol markets fear return of energy surcharge",
+      "description": "LONDON (ICIS)--European phenol markets are bracing themselves for a potential contract energy surcharge next month as European gas prices jump on the back of the fallout from the US/Israel war with...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186420/european-phenol-markets-fear-return-of-energy-surcharge",
+      "published": "2026-03-06T15:53:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Natural Gas, Chemicals"
+    },
+    {
+      "id": "0ffa498a3417bd9f",
+      "title": "GAS ALERT: Dutch NAM says operation of strategic-focused gas production sites not its duty",
+      "description": "LONDON (ICIS)--Dutch energy company NAM said on 5 March that if the Dutch government decides to keep gas production facilities in the Groningen area open as part of a strategic function, the company...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186419/gas-alert-dutch-nam-says-operation-of-strategic-focused-gas-production-sites-not-its-duty",
+      "published": "2026-03-06T15:47:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "General"
+    },
     {
       "id": "e192cb2f7e4f3b25",
       "title": "Europe styrene March Blended Formula Index firms on spot gains",
