@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-03-06T14:02:25.406941+00:00",
-    "total_articles": 317,
+    "last_updated": "2026-03-06T14:58:28.979891+00:00",
+    "total_articles": 331,
     "feeds_fetched": 13,
     "feeds_failed": 0,
     "feed_details": {
@@ -60,6 +60,136 @@
     }
   },
   "articles": [
+    {
+      "id": "d4172126d109b7e7",
+      "title": "US economy unexpectedly loses jobs, unemployment rate rises to 4.4%",
+      "description": "HOUSTON (ICIS)--US nonfarm payroll employment fell by 92,000 month on month in February, following a 126,000 increase in January (revised from an initially reported 130,000), the Bureau of Labor...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186404/us-economy-unexpectedly-loses-jobs-unemployment-rate-rises-to-4-4",
+      "published": "2026-03-06T14:46:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "General"
+    },
+    {
+      "id": "5d5b59e28f118f6d",
+      "title": "Azoty set to lift suspension on new nitrogen ferts orders introduced on 3 March",
+      "description": "LONDON (ICIS)--Poland’s Grupa Azoty late on Thursday announced it was set to lift the suspension on new orders for nitrogen fertilizers that it introduced two days earlier in response to rising gas...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186402/azoty-set-to-lift-suspension-on-new-nitrogen-ferts-orders-introduced-on-3-march",
+      "published": "2026-03-06T14:36:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Fertilizers"
+    },
+    {
+      "id": "44d1f918e19dda8f",
+      "title": "Plant status: S Korea’s HSB resumes normal run rates at Group II base oils unit",
+      "description": "SINGAPORE (ICIS)--Here is a plant status report: Name: Hyundai Oilbank Shell Base Oil (HSB) Location: Daesan, South Korea Product: Group II base oils Capacity (tonnes/year): 1.25 million Event start:...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186400/plant-status-s-korea-s-hsb-resumes-normal-run-rates-at-group-ii-base-oils-unit",
+      "published": "2026-03-06T14:35:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Oil - Refined Products"
+    },
+    {
+      "id": "02ec2420ba0c4c3f",
+      "title": "Plant status: Taiwan's FPCC cuts No 2&3 cracker runs amid feedstock concerns",
+      "description": "SINGAPORE (ICIS)--Here is a plant status report: Name: Formosa Petrochemical Corp (FPCC) Location: Mai Liao, Taiwan Product: Ethylene, propylene Capacity (tonnes/year): 2,235,000 (ethylene),...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186399/plant-status-taiwan-s-fpcc-cuts-no-2-amp-3-cracker-runs-amid-feedstock-concerns",
+      "published": "2026-03-06T14:25:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
+    {
+      "id": "fd96ab596e9a6e36",
+      "title": "Taiwan’s FPCC raises Group II 150N base oils prices for March",
+      "description": "SINGAPORE (ICIS)--Taiwan’s Formosa Petrochemical Corp (FPCC) has increased its local list prices for March Group II 150N base oils, a market source said. An initial price adjustment of New Taiwan...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186398/taiwan-s-fpcc-raises-group-ii-150n-base-oils-prices-for-march",
+      "published": "2026-03-06T14:22:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Oil - Refined Products"
+    },
+    {
+      "id": "a265da1e8586fe45",
+      "title": "Taiwan’s FPCC raises Group II 70N base oils prices for March",
+      "description": "SINGAPORE (ICIS)--Taiwan’s Formosa Petrochemical Corp (FPCC) has increased its local list prices for March Group II 70N base oils, a market source said. An initial price adjustment of New Taiwan...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186396/taiwan-s-fpcc-raises-group-ii-70n-base-oils-prices-for-march",
+      "published": "2026-03-06T14:20:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Oil - Refined Products"
+    },
+    {
+      "id": "61111e3b88220d2b",
+      "title": "Europe naphtha market braces for tightening supply as Middle East disruption reshapes global flows",
+      "description": "LONDON (ICIS)--European naphtha markets are facing mounting supply pressure as disruptions linked to the US-Israel war with Iran curb Middle East refinery runs and tighten global product balances,...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186397/europe-naphtha-market-braces-for-tightening-supply-as-middle-east-disruption-reshapes-global-flows",
+      "published": "2026-03-06T14:20:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Oil - Refined Products"
+    },
+    {
+      "id": "d1718ebfa5077559",
+      "title": "Taiwan’s FPCC raises Group II 500N base oils prices for March",
+      "description": "SINGAPORE (ICIS)--Taiwan’s Formosa Petrochemical Corp (FPCC) has increased its local list prices for March Group II 500N base oils, a market source said. There was no initial price adjustment...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186395/taiwan-s-fpcc-raises-group-ii-500n-base-oils-prices-for-march",
+      "published": "2026-03-06T14:08:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Oil - Refined Products"
+    },
+    {
+      "id": "487a17671cef2eb1",
+      "title": "Europe CX March contract decreases with feedstock",
+      "description": "LONDON (ICIS)--The European cyclohexane (CX) March contract price has settled at €973/tonne, down by €27/tonne from February, following a decrease in upstream benzene costs. The CX contract is...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186394/europe-cx-march-contract-decreases-with-feedstock",
+      "published": "2026-03-06T14:07:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
+    {
+      "id": "6bb76c0c1f9c4af8",
+      "title": "Plant status: S Korea's HTC cuts cracker runs amid squeezed feedstock concerns",
+      "description": "SINGAPORE (ICIS)--Here is a plant status report: Name: Hanwha Totalenergies Petrochemical (HTC) Location: Daesan, South Korea Products: Ethylene, propylene Capacity (tonnes/year): 1,550,000 ethylene,...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186393/plant-status-s-korea-s-htc-cuts-cracker-runs-amid-squeezed-feedstock-concerns",
+      "published": "2026-03-06T14:04:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
+    {
+      "id": "227393057541980d",
+      "title": "Europe MDI market tested as producers pursue conflict-triggered price increases",
+      "description": "LONDON (ICIS)--Two European producers of methylene diphenyl diisocyanate (MDI) on 5 March separately announced a low three-digit price increase for Europe, covering all MDI products. This initiative...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186392/europe-mdi-market-tested-as-producers-pursue-conflict-triggered-price-increases",
+      "published": "2026-03-06T14:04:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "General"
+    },
+    {
+      "id": "4b4b2195fb0a3019",
+      "title": "Risk of prolonged conflict could leave Germany switching to coal, power imports amid unprofitable CCGTs",
+      "description": "Gas could play less of a role in the German power mix if gas prices remain high With French exports already at capacity, a prolonged closure of the Strait of Hormuz could force Germany to consider...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186391/risk-of-prolonged-conflict-could-leave-germany-switching-to-coal-power-imports-amid-unprofitable-ccgts",
+      "published": "2026-03-06T13:58:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Natural Gas, Electric Power"
+    },
+    {
+      "id": "f202ec4399b1245e",
+      "title": "INEOS Inovyn declares force majeure on PVC on Middle East crisis, applies energy surcharge",
+      "description": "LONDON (ICIS)--European polyvinyl chloride (PVC) producer INEOS Inovyn has declared force majeure on PVC because of the crisis in the Middle East, according to a company source. The force majeure was...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186390/ineos-inovyn-declares-force-majeure-on-pvc-on-middle-east-crisis-applies-energy-surcharge",
+      "published": "2026-03-06T13:57:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
     {
       "id": "e27ea830a4c28c6a",
       "title": "Europe olefins: tight supply, higher costs, more demand uncertainties due to Middle East conflict",
@@ -289,6 +419,16 @@
       "source": "ICIS",
       "feed": "ICIS",
       "category": "Chemicals"
+    },
+    {
+      "id": "2c0bc09122353098",
+      "title": "European ammonia import price reaches three-year high as production costs soar",
+      "description": "The price of ammonia imported to Northwest Europe reached a three-year high March 5 as the war in the Middle East curtailed global natural gas supply. Platts, part of S&amp;P Global Energy, assessed ammonia CFR NW Europe duty paid/duty free at $750/metric ton March 5, up $60/mt day over day and the highest since Feb. 23, 2022. The market saw a 15,000 metric tons ammonia spot cargo sold to NW Europe",
+      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/agriculture/030626-european-ammonia-import-price-reaches-three-year-high-as-production-costs-soar",
+      "published": "2026-03-06T11:17:35+00:00",
+      "source": "S&P Global",
+      "feed": "S&P Chemicals",
+      "category": "Chemicals, Energy Transition"
     },
     {
       "id": "112bdbf3edd24ccc",
@@ -3344,7 +3484,7 @@
       "published": "2026-03-04T19:24:53+00:00",
       "source": "S&P Global",
       "feed": "S&P Fertilizers",
-      "category": "Fertilizers, Chemicals"
+      "category": "Fertilizers"
     },
     {
       "id": "1dab0dc62163c249",
