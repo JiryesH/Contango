@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-03-06T13:07:08.688061+00:00",
-    "total_articles": 309,
+    "last_updated": "2026-03-06T14:02:25.406941+00:00",
+    "total_articles": 317,
     "feeds_fetched": 13,
     "feeds_failed": 0,
     "feed_details": {
@@ -60,6 +60,66 @@
     }
   },
   "articles": [
+    {
+      "id": "e27ea830a4c28c6a",
+      "title": "Europe olefins: tight supply, higher costs, more demand uncertainties due to Middle East conflict",
+      "description": "LONDON (ICIS)--European olefins supply is tight, and the spring planned turnaround season is about to get underway. Energy and logistics costs have ramped up significantly in the wake of the Middle...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186388/europe-olefins-tight-supply-higher-costs-more-demand-uncertainties-due-to-middle-east-conflict",
+      "published": "2026-03-06T13:50:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "General"
+    },
+    {
+      "id": "a1fc2226df4d3118",
+      "title": "INFOGRAPHIC: EU&apos;s flagship carbon market buckling under political strain",
+      "description": "The European Commission is set to review key rules under the bloc&apos;s EU Emissions Trading System in the third quarter of 2026. Amid growing concerns about EU industrial competitiveness, many governments are pushing for reforms to improve price predictability. This shift has seen EU carbon prices drop by around Eur20/mtCO2e from January as bullish expectations begin to deflate.",
+      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/energy-transition/030626-infographic-eus-flagship-carbon-market-buckling-under-political-strain",
+      "published": "2026-03-06T13:27:31+00:00",
+      "source": "S&P Global",
+      "feed": "S&P Energy Transition",
+      "category": "Energy Transition"
+    },
+    {
+      "id": "f00b411f25abf932",
+      "title": "Plant status: Thailand's Rayong Olefins shuts cracker, FM issued",
+      "description": "SINGAPORE (ICIS)--Here is a plant status report: Name: Rayong Olefins Location: Map Ta Phut, Thailand Products: Ethylene, propylene Capacity (tonnes/year): 900,000 ethylene, 450,000 propylene Event...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186386/plant-status-thailand-s-rayong-olefins-shuts-cracker-fm-issued",
+      "published": "2026-03-06T13:26:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals, Fertilizers"
+    },
+    {
+      "id": "96996fc7e0bd0cc2",
+      "title": "Plant status: China's ZPC shuts No 3 PX plant",
+      "description": "SINGAPORE (ICIS)--Here is a plant status report: Name: Zhejiang Petroleum & Chemical (ZPC) Location: Zhoushan, China Product: Paraxylene (PX) Capacity (tonnes/year): 2.4 million Event start:...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186385/plant-status-china-s-zpc-shuts-no-3-px-plant",
+      "published": "2026-03-06T13:25:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals, Oil - Crude"
+    },
+    {
+      "id": "e09d28bf39cfd2e2",
+      "title": "Europe Q4 GDP recorded at 0.2%, down from initial estimates",
+      "description": "LONDON (ICIS)--European fourth quarter GDP nudged down from previous estimates, according to the latest data released by Eurostat on Friday. GDP for both the EU and eurozone closed the year at 0.2%...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186382/europe-q4-gdp-recorded-at-0-2-down-from-initial-estimates",
+      "published": "2026-03-06T13:19:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "General"
+    },
+    {
+      "id": "508c0228c336d855",
+      "title": "Plant status: S Korea's S-Oil commences No 2 RFCC planned turnaround on 6 Mar",
+      "description": "SINGAPORE (ICIS)--Here is a plant status report: Name: S-Oil Corp Location: Onsan, South Korea Product: Propylene Capacity (tonnes/year): 705,000 Event start: 6 March 2026 Event finish: H2 April 2026...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186381/plant-status-s-korea-s-s-oil-commences-no-2-rfcc-planned-turnaround-on-6-mar",
+      "published": "2026-03-06T13:09:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals"
+    },
     {
       "id": "b7d4ddf3cf591c00",
       "title": "Plant status: China’s ZPC to shut VAM unit in April",
@@ -141,6 +201,16 @@
       "category": "Chemicals, Oil - Crude"
     },
     {
+      "id": "08315467298440be",
+      "title": "Middle East crude benchmark Platts cash Dubai crosses $100/b mark",
+      "description": "Middle East crude benchmark Platts cash Dubai surpassed the $100/b mark for the first time in more than three years March 6, data from Platts, part of S&amp;P Global Energy, showed, amid the ongoing fallout from the Middle East war. The marker was assessed at $100.45/b at the March 6 Asian close, up $5.50/b on the day and at a high not seen since Aug. 30, 2022, when it was assessed at $102.80/b as",
+      "link": "https://www.spglobal.com/energy/en/news-research/latest-news/crude-oil/030626-middle-east-crude-benchmark-platts-cash-dubai-crosses-100b-mark",
+      "published": "2026-03-06T12:32:00+00:00",
+      "source": "S&P Global",
+      "feed": "S&P Oil - Crude",
+      "category": "Oil - Crude"
+    },
+    {
       "id": "7eb4b893ee7443c1",
       "title": "Thailand's Rayong Olefins declares FM on supplies",
       "description": "SINGAPORE (ICIS)--Thailand's Rayong Olefins has declared force majeure (FM) on petrochemical supplies citing challenges with feedstock and logistics due to the ongoing conflict between US-Israel and...",
@@ -219,6 +289,16 @@
       "source": "ICIS",
       "feed": "ICIS",
       "category": "Chemicals"
+    },
+    {
+      "id": "112bdbf3edd24ccc",
+      "title": "Asia feedstocks and petrochemicals weekly summary",
+      "description": "SINGAPORE (ICIS)--Here is a summary of the major feedstocks and petrochemicals in Asia for the week ended 6 March: Crude: Crude higher on growing supply disruption amid US, Israel conflict with Iran...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/06/11186326/asia-feedstocks-and-petrochemicals-weekly-summary",
+      "published": "2026-03-06T11:06:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals, Oil - Crude"
     },
     {
       "id": "95e76b7aca4c8504",
@@ -3264,7 +3344,7 @@
       "published": "2026-03-04T19:24:53+00:00",
       "source": "S&P Global",
       "feed": "S&P Fertilizers",
-      "category": "Fertilizers, Chemicals, Energy Transition"
+      "category": "Fertilizers, Chemicals"
     },
     {
       "id": "1dab0dc62163c249",
