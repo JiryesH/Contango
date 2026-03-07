@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-03-07T14:59:48.027231+00:00",
-    "total_articles": 393,
+    "last_updated": "2026-03-07T15:33:58.018568+00:00",
+    "total_articles": 394,
     "feeds_fetched": 13,
     "feeds_failed": 0,
     "feed_details": {
@@ -60,6 +60,16 @@
     }
   },
   "articles": [
+    {
+      "id": "120712a018445bde",
+      "title": "Plant status: India's OPaL lowers cracker op rate on LNG supply disruption",
+      "description": "SINGAPORE (ICIS)--Here is a plant status report: Name: OPal Location: Dahej, India Product: Ethylene, propylene Capacity (tonnes/year): 1,100,000 (ethylene), 400,000 (propylene) Event start: Week of...",
+      "link": "https://www.icis.com/explore/resources/news/2026/03/07/11186669/plant-status-india-s-opal-lowers-cracker-op-rate-on-lng-supply-disruption",
+      "published": "2026-03-07T15:25:00+00:00",
+      "source": "ICIS",
+      "feed": "ICIS",
+      "category": "Chemicals, LNG"
+    },
     {
       "id": "58471d4d6ce656ce",
       "title": "Plant status: S Korea’s LG Chem shuts Yeosu NB latex units for maintenance",
