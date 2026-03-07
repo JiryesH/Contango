@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-03-07T10:58:23.054054+00:00",
+    "last_updated": "2026-03-07T11:29:59.720575+00:00",
     "total_articles": 393,
     "feeds_fetched": 13,
     "feeds_failed": 0,
@@ -418,7 +418,7 @@
       "published": "2026-03-06T17:02:13+00:00",
       "source": "S&P Global",
       "feed": "S&P Oil - Crude",
-      "category": "Oil - Crude, Oil - Refined Products, Fertilizers, Chemicals, Shipping, Agriculture, LNG"
+      "category": "Oil - Crude, Oil - Refined Products, Fertilizers, Shipping, LNG"
     },
     {
       "id": "778db0fcc1ad63da",
@@ -1068,7 +1068,7 @@
       "published": "2026-03-06T10:53:21+00:00",
       "source": "S&P Global",
       "feed": "S&P Fertilizers",
-      "category": "Fertilizers, Chemicals, Shipping, Agriculture, Energy Transition"
+      "category": "Fertilizers, Shipping, Energy Transition"
     },
     {
       "id": "09318d6783e6566e",
@@ -1548,7 +1548,7 @@
       "published": "2026-03-06T00:29:23+00:00",
       "source": "S&P Global",
       "feed": "S&P Oil - Refined Products",
-      "category": "Oil - Refined Products, Chemicals"
+      "category": "Oil - Refined Products"
     },
     {
       "id": "d8347bf88e896700",
@@ -2068,7 +2068,7 @@
       "published": "2026-03-05T13:17:22+00:00",
       "source": "S&P Global",
       "feed": "S&P Fertilizers",
-      "category": "Fertilizers, Energy Transition"
+      "category": "Fertilizers, Chemicals, Energy Transition"
     },
     {
       "id": "42fbbfabd42fbf9e",
@@ -3755,8 +3755,8 @@
       "link": "https://www.spglobal.com/energy/en/news-research/latest-news/agriculture/030426-saf-prices-rise-as-jet-fuel-markets-tighten-amid-middle-east-war",
       "published": "2026-03-04T22:44:58+00:00",
       "source": "S&P Global",
-      "feed": "S&P Energy Transition",
-      "category": "Energy Transition",
+      "feed": "S&P Agriculture",
+      "category": "Agriculture",
       "sentiment": {
         "label": "negative",
         "confidence": 0.5980868935585022,
@@ -3958,7 +3958,7 @@
       "published": "2026-03-04T20:30:24+00:00",
       "source": "S&P Global",
       "feed": "S&P Fertilizers",
-      "category": "Fertilizers"
+      "category": "Fertilizers, Chemicals"
     },
     {
       "id": "3d5bfefc96247837",
